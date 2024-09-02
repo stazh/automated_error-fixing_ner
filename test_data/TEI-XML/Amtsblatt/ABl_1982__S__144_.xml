@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 138. Sitzung. Montag, 16. November
+              1981, 8.15 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-02-05">05.02.1982</date><ident>StAZH ABl 1982 (S. 144)</ident><idno>144</idno><idno type="issue">5</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132585"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_145" uly="0" ulx="0" lry="2403" lrx="1596">
+			<graphic url="Abl_1982_1__S__0145.tif" width="1596px" height="2403px"/>
+			<zone xml:id="facs_145_r34" ulx="325" uly="1463" lrx="1504" lry="1492" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r41" ulx="327" uly="1800" lrx="777" lry="1828" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r38" ulx="329" uly="1650" lrx="960" lry="1679" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r39" ulx="329" uly="1700" lrx="1504" lry="1731" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r32" ulx="327" uly="1358" lrx="552" lry="1386" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r35" ulx="325" uly="1508" lrx="1300" lry="1536" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r11" ulx="393" uly="441" lrx="793" lry="469" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r25" ulx="1189" uly="1090" lrx="1345" lry="1119" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r23" ulx="481" uly="1087" lrx="843" lry="1118" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r29" ulx="327" uly="1315" lrx="364" lry="1340" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r0" ulx="325" uly="133" lrx="379" lry="154" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r42" ulx="331" uly="1854" lrx="1263" lry="1882" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r16" ulx="389" uly="589" lrx="550" lry="614" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r24" ulx="852" uly="1090" lrx="1181" lry="1120" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r49" ulx="1291" uly="2009" lrx="1502" lry="2036" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r6" ulx="391" uly="300" lrx="1500" lry="329" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r9" ulx="387" uly="396" lrx="1204" lry="426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r27" ulx="322" uly="1212" lrx="1166" lry="1244" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r36" ulx="327" uly="1558" lrx="1500" lry="1589" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r10" ulx="1231" uly="400" lrx="1505" lry="427" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r50" ulx="327" uly="2052" lrx="1123" lry="2083" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r7" ulx="395" uly="345" lrx="764" lry="373" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r44" ulx="329" uly="1896" lrx="404" lry="1922" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r54" ulx="604" uly="2096" lrx="942" lry="2125" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r3" ulx="391" uly="256" lrx="667" lry="282" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r17" ulx="327" uly="679" lrx="520" lry="707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r4" ulx="693" uly="256" lrx="973" lry="284" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r14" ulx="391" uly="539" lrx="658" lry="567" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r40" ulx="327" uly="1750" lrx="450" lry="1775" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r1" ulx="327" uly="212" lrx="379" lry="237" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r2" ulx="385" uly="210" lrx="1502" lry="240" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r12" ulx="321" uly="493" lrx="379" lry="520" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r52" ulx="325" uly="2100" lrx="493" lry="2127" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r31" ulx="712" uly="1310" lrx="1498" lry="1339" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r5" ulx="982" uly="256" lrx="1502" lry="285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r21" ulx="1037" uly="812" lrx="1368" lry="837" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r22" ulx="541" uly="994" lrx="1291" lry="1025" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r15" ulx="668" uly="539" lrx="1504" lry="567" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r51" ulx="1156" uly="2054" lrx="1500" lry="2084" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r19" ulx="1039" uly="723" lrx="1504" lry="749" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r43" ulx="1270" uly="1856" lrx="1506" lry="1881" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r53" ulx="500" uly="2098" lrx="597" lry="2126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r13" ulx="387" uly="493" lrx="1489" lry="524" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r26" ulx="328" uly="1160" lrx="587" lry="1188" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r48" ulx="1206" uly="2011" lrx="1283" lry="2037" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r47" ulx="324" uly="2007" lrx="1200" lry="2037" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r37" ulx="324" uly="1604" lrx="1500" lry="1632" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r20" ulx="1039" uly="771" lrx="1272" lry="793" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r18" ulx="531" uly="675" lrx="802" lry="704" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r28" ulx="325" uly="1267" lrx="1504" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r46" ulx="326" uly="1942" lrx="418" lry="1965" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r30" ulx="385" uly="1312" lrx="706" lry="1339" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r33" ulx="325" uly="1408" lrx="859" lry="1437" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r45" ulx="412" uly="1896" lrx="1500" lry="1927" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_145_r8" ulx="325" uly="398" lrx="381" lry="425" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="144" facs="#facs_145"/>
+			<p>
+				<lb facs="#facs_145_r26"/>1. Mitteilungen<lb facs="#facs_145_r27"/>Hinschied von alt
+            Kantonsratspräsident Josef Nigg<lb facs="#facs_145_r28"/>Ratspräsident E. Rüfenacht
+            würdigt das Wirken des Verstorbenen, der<lb facs="#facs_145_r29"/>am <date when="1981-11-13">13. November 1981</date> im Alter von 71 Jahren an einem
+              Herzversagen<lb facs="#facs_145_r32"/>gestorben ist.<lb facs="#facs_145_r33"/>Antworten auf Kleine Anfragen<lb facs="#facs_145_r34"/>Dr. Hansjörg Frei (SVP,
+            Mönchaltorf) betreffend die Lernzielformulie<lb break="no" facs="#facs_145_r35"/>rung an
+            der Rechts- und staatswissenschaftlichen Fakultät;<lb facs="#facs_145_r36"/>Dr. Ulrich
+            Hedinger (SP, Zürich) und Agnes Guler (SP, Zürich)<lb facs="#facs_145_r37"/>betreffend
+            die finanzielle Unterstützung der Dienste der Kranken- und<lb facs="#facs_145_r38"/>Hauspflege durch die Krankenkassen;<lb facs="#facs_145_r39"/>Walter Ryser (SP,
+            Winterthur) betreffend Staatsbeiträge an Strassen<lb break="no" facs="#facs_145_r40"/>bauten.<lb facs="#facs_145_r41"/>Rücktritt aus dem Bankrat<lb facs="#facs_145_r42"/>Ernst Gugerli (SVP, Aesch) erklärt altershalber auf den <date when="1981-12-31">31.
+                Dezember<lb facs="#facs_145_r44"/>1981</date> den Rücktritt als Mitglied des
+            Bankrates der Zürcher Kantonal<lb break="no" facs="#facs_145_r46"/>bank.</p>
+			<p>
+				<lb facs="#facs_145_r47"/>2. Geschäftsbericht des Regierungsrates für das Jahr <date when="1980">1980</date> (Bericht und<lb facs="#facs_145_r50"/>Antrag der
+            Geschäftsprüfungskommission vom <date when="1981-09-18">18. September 1981,</date><lb facs="#facs_145_r52"/>Amtsblatt <date when="1981">1981,</date> Textteil, Seite
+            1492)</p>
+		</body></text></TEI>

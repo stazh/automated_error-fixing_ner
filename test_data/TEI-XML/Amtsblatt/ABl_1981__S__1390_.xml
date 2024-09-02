@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-04-08">08.04.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>2458 Antrag der Finanzkommission* zu den Nachtragskrediten für das Jahr 1981, II. Serie (vom 20. August
+            1981)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-09-04">04.09.1981</date><ident>StAZH ABl 1981 (S. 1390)</ident><idno>1390</idno><idno type="issue">39</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132417"/><note>Vorlagen-Nr. 2458</note></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_402" uly="0" ulx="0" lry="2369" lrx="1583">
+			<graphic url="Abl_1981_2__S__0402.tif" width="1583px" height="2369px"/>
+			<zone xml:id="facs_402_r19" ulx="748" uly="1075" lrx="1309" lry="1101" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r6" ulx="269" uly="433" lrx="344" lry="464" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r8" ulx="266" uly="556" lrx="717" lry="586" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r27" ulx="268" uly="2098" lrx="1372" lry="2127" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r3" ulx="266" uly="356" lrx="1051" lry="391" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r1" ulx="268" uly="237" lrx="357" lry="263" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r26" ulx="264" uly="2062" lrx="1445" lry="2089" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r11" ulx="1295" uly="685" lrx="1444" lry="713" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r10" ulx="1184" uly="685" lrx="1286" lry="713" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r12" ulx="266" uly="729" lrx="944" lry="758" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r24" ulx="327" uly="1993" lrx="1445" lry="2020" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r5" ulx="1178" uly="358" lrx="1348" lry="390" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r21" ulx="748" uly="1171" lrx="906" lry="1198" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r23" ulx="1155" uly="1177" lrx="1439" lry="1199" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r20" ulx="750" uly="1129" lrx="994" lry="1154" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r25" ulx="266" uly="2027" lrx="1447" lry="2053" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r15" ulx="266" uly="772" lrx="976" lry="802" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r7" ulx="360" uly="435" lrx="649" lry="466" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r4" ulx="1061" uly="356" lrx="1170" lry="391" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r14" ulx="1201" uly="729" lrx="1443" lry="757" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r0" ulx="268" uly="147" lrx="338" lry="170" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r2" ulx="271" uly="306" lrx="911" lry="338" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r17" ulx="266" uly="983" lrx="389" lry="1012" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r13" ulx="967" uly="729" lrx="1192" lry="757" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r22" ulx="1154" uly="1129" lrx="1383" lry="1155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r18" ulx="396" uly="985" lrx="669" lry="1014" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r9" ulx="354" uly="683" lrx="1174" lry="712" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_402_r16" ulx="342" uly="850" lrx="967" lry="882" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1390" facs="#facs_402"/>
+			<p>
+				<lb facs="#facs_402_r8"/>Der Kantonsrat beschliesst:</p>
+			<p>
+				<lb facs="#facs_402_r9"/>I. Den Nachtragskreditbegehren für das Jahr <date when="1981">1981,</date> II. Serie,<lb facs="#facs_402_r12"/>gemäss Antrag des Regierungsrates vom
+            <date when="1981-07-29">29. Juli 1981,</date> im Gesamtbe<lb break="no" facs="#facs_402_r15"/>trage von Fr. 2 457 600 .- wird entsprochen.</p>
+			<p>
+				<lb facs="#facs_402_r16"/>II. Mitteilung an den Regierungsrat.</p>
+			<p>
+				<lb facs="#facs_402_r17"/>Zürich, <date when="1981-08-20">20. August 1981</date></p>
+			<p>
+				<lb facs="#facs_402_r19"/>Im Namen der Finanzkommission</p>
+			<p>
+				<lb facs="#facs_402_r20"/>Der Präsident:<lb facs="#facs_402_r21"/>F. Signer</p>
+			<p>
+				<lb facs="#facs_402_r22"/>Der Sekretär:<lb facs="#facs_402_r23"/>i. V. P. Mosimann</p>
+			<note>
+				<lb facs="#facs_402_r24"/>* Die Finanzkommission besteht aus folgenden Mitgliedern: F.
+            Signer,<lb facs="#facs_402_r25"/>Zürich (Präsident); E. Bosshard, Stäfa; H. Frei,
+          Regensdorf; Dr. Hj. Frei,<lb facs="#facs_402_r26"/>Mönchaltorf; H. Hauser, Zürich; Dr. E.
+          Honegger, Rüschlikon; E. Kriesi,<lb facs="#facs_402_r27"/>Erlenbach; A. Kupper, Elgg; Th.
+          Locher, Schlieren; Dr. W. Sieg, Zürich.</note>
+		</body></text></TEI>

@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-04-08">08.04.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>2452 Bericht und Antrag des Obergerichtes
+          an den Kantonsrat zur Motion Nr. 1868 betreffend Einführung von Terminprotokollen in Zivilprozessen (vom
+            1. Juli 1981)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-09-04">04.09.1981</date><ident>StAZH ABl 1981 (S. 1385-1389)</ident><idno>1385–1389</idno><idno type="issue">39</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132416"/><note>Vorlagen-Nr. 2452</note></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_397" uly="0" ulx="0" lry="2370" lrx="1578">
+			<graphic url="Abl_1981_2__S__0397.tif" width="1578px" height="2370px"/>
+			<zone xml:id="facs_397_r4" ulx="124" uly="391" lrx="866" lry="430" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r2" ulx="124" uly="287" lrx="1288" lry="322" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r37" ulx="120" uly="2069" lrx="1296" lry="2098" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r11" ulx="125" uly="762" lrx="1294" lry="792" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r36" ulx="124" uly="2023" lrx="1295" lry="2054" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r10" ulx="125" uly="719" lrx="1293" lry="748" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r7" ulx="181" uly="677" lrx="885" lry="703" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r28" ulx="183" uly="1552" lrx="1301" lry="1583" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r33" ulx="122" uly="1861" lrx="145" lry="1884" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r27" ulx="179" uly="1477" lrx="760" lry="1502" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r13" ulx="125" uly="852" lrx="1297" lry="883" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r30" ulx="122" uly="1642" lrx="1293" lry="1671" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r26" ulx="183" uly="1427" lrx="1298" lry="1458" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r32" ulx="125" uly="1734" lrx="562" lry="1762" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r15" ulx="183" uly="975" lrx="1294" lry="1006" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r24" ulx="177" uly="1332" lrx="402" lry="1362" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r21" ulx="906" uly="1208" lrx="1129" lry="1236" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r14" ulx="120" uly="900" lrx="667" lry="928" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r31" ulx="122" uly="1688" lrx="1294" lry="1717" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r16" ulx="181" uly="1019" lrx="1296" lry="1051" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r18" ulx="183" uly="1113" lrx="445" lry="1140" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r23" ulx="181" uly="1259" lrx="314" lry="1282" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r20" ulx="179" uly="1208" lrx="881" lry="1238" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r12" ulx="122" uly="806" lrx="1292" lry="837" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r29" ulx="125" uly="1598" lrx="1292" lry="1629" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r6" ulx="216" uly="473" lrx="427" lry="502" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r38" ulx="122" uly="2111" lrx="1298" lry="2143" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r3" ulx="125" uly="339" lrx="1065" lry="375" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r17" ulx="178" uly="1065" lrx="1292" lry="1095" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r34" ulx="181" uly="1934" lrx="1297" lry="1966" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r8" ulx="906" uly="675" lrx="1142" lry="703" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r25" ulx="183" uly="1386" lrx="1293" lry="1415" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r22" ulx="1136" uly="1208" lrx="1297" lry="1235" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r5" ulx="122" uly="477" lrx="201" lry="505" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r1" ulx="122" uly="225" lrx="214" lry="251" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r35" ulx="125" uly="1980" lrx="1303" lry="2010" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r0" ulx="1222" uly="137" lrx="1293" lry="159" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r19" ulx="181" uly="1163" lrx="1297" lry="1193" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_397_r9" ulx="1148" uly="675" lrx="1295" lry="703" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_398" uly="0" ulx="0" lry="2370" lrx="1581">
+			<graphic url="Abl_1981_2__S__0398.tif" width="1581px" height="2370px"/>
+			<zone xml:id="facs_398_r33" ulx="269" uly="1575" lrx="1449" lry="1603" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r32" ulx="269" uly="1532" lrx="1449" lry="1561" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r18" ulx="273" uly="996" lrx="1451" lry="1028" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r21" ulx="273" uly="1129" lrx="1449" lry="1160" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r2" ulx="276" uly="266" lrx="1451" lry="298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r31" ulx="268" uly="1486" lrx="1449" lry="1515" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r8" ulx="275" uly="544" lrx="1447" lry="573" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r12" ulx="274" uly="719" lrx="1447" lry="751" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r36" ulx="268" uly="1707" lrx="1449" lry="1737" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r1" ulx="273" uly="225" lrx="1449" lry="255" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r26" ulx="627" uly="1309" lrx="903" lry="1338" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r42" ulx="271" uly="1971" lrx="1449" lry="2003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r34" ulx="269" uly="1619" lrx="1447" lry="1650" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r40" ulx="271" uly="1884" lrx="1451" lry="1914" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r24" ulx="269" uly="1263" lrx="1449" lry="1293" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r11" ulx="274" uly="677" lrx="1451" lry="708" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r7" ulx="274" uly="498" lrx="1453" lry="530" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r0" ulx="273" uly="141" lrx="346" lry="163" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r13" ulx="271" uly="767" lrx="1067" lry="794" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r9" ulx="273" uly="587" lrx="1447" lry="617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r27" ulx="909" uly="1311" lrx="1449" lry="1338" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r29" ulx="270" uly="1398" lrx="1453" lry="1427" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r22" ulx="272" uly="1173" lrx="1452" lry="1205" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r14" ulx="331" uly="821" lrx="1453" lry="850" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r39" ulx="269" uly="1838" lrx="1449" lry="1871" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r3" ulx="277" uly="314" lrx="1453" lry="343" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r17" ulx="270" uly="952" lrx="1449" lry="984" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r20" ulx="269" uly="1083" lrx="1451" lry="1117" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r43" ulx="271" uly="2017" lrx="1124" lry="2046" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r5" ulx="275" uly="402" lrx="458" lry="428" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r4" ulx="277" uly="356" lrx="1447" lry="387" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r16" ulx="271" uly="910" lrx="1449" lry="938" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r23" ulx="271" uly="1219" lrx="1449" lry="1249" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r10" ulx="273" uly="633" lrx="1447" lry="662" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r35" ulx="270" uly="1663" lrx="1453" lry="1693" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r38" ulx="271" uly="1796" lrx="1448" lry="1827" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r37" ulx="269" uly="1750" lrx="1449" lry="1781" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r6" ulx="327" uly="456" lrx="1449" lry="485" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r25" ulx="272" uly="1306" lrx="604" lry="1337" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r19" ulx="271" uly="1040" lrx="1451" lry="1072" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r15" ulx="271" uly="867" lrx="1453" lry="896" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r28" ulx="271" uly="1354" lrx="1449" lry="1382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r30" ulx="271" uly="1440" lrx="1451" lry="1469" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_398_r41" ulx="271" uly="1928" lrx="1449" lry="1958" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_399" uly="0" ulx="0" lry="2369" lrx="1578">
+			<graphic url="Abl_1981_2__S__0399.tif" width="1578px" height="2369px"/>
+			<zone xml:id="facs_399_r30" ulx="137" uly="1545" lrx="585" lry="1575" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r33" ulx="132" uly="1685" lrx="1304" lry="1716" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r26" ulx="137" uly="1366" lrx="1305" lry="1395" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r13" ulx="133" uly="787" lrx="1302" lry="818" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r40" ulx="137" uly="1996" lrx="1307" lry="2026" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r29" ulx="137" uly="1500" lrx="1304" lry="1529" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r6" ulx="135" uly="443" lrx="1301" lry="471" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r34" ulx="135" uly="1727" lrx="1307" lry="1757" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r18" ulx="139" uly="1010" lrx="1304" lry="1041" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r25" ulx="137" uly="1320" lrx="1307" lry="1350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r31" ulx="191" uly="1598" lrx="1302" lry="1627" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r11" ulx="137" uly="666" lrx="967" lry="693" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r15" ulx="132" uly="879" lrx="1304" lry="908" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r35" ulx="131" uly="1775" lrx="1295" lry="1804" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r9" ulx="135" uly="575" lrx="1304" lry="605" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r20" ulx="130" uly="1098" lrx="1307" lry="1128" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r32" ulx="133" uly="1639" lrx="1307" lry="1670" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r0" ulx="1229" uly="139" lrx="1300" lry="160" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r36" ulx="135" uly="1816" lrx="1307" lry="1850" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r10" ulx="139" uly="620" lrx="1307" lry="648" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r19" ulx="133" uly="1054" lrx="1302" lry="1086" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r28" ulx="137" uly="1454" lrx="1302" lry="1484" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r7" ulx="133" uly="487" lrx="1307" lry="516" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r39" ulx="137" uly="1950" lrx="1307" lry="1982" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r14" ulx="135" uly="833" lrx="1302" lry="862" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r2" ulx="135" uly="264" lrx="1302" lry="293" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r12" ulx="193" uly="743" lrx="1304" lry="772" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r24" ulx="135" uly="1277" lrx="1304" lry="1307" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r3" ulx="137" uly="310" lrx="1305" lry="340" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r1" ulx="193" uly="222" lrx="1290" lry="250" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r23" ulx="135" uly="1233" lrx="1300" lry="1262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r41" ulx="133" uly="2039" lrx="1309" lry="2070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r27" ulx="137" uly="1408" lrx="1305" lry="1439" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r16" ulx="135" uly="920" lrx="1307" lry="950" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r5" ulx="133" uly="397" lrx="1300" lry="429" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r17" ulx="135" uly="964" lrx="1304" lry="996" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r21" ulx="137" uly="1143" lrx="1304" lry="1174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r8" ulx="135" uly="533" lrx="1302" lry="561" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r38" ulx="137" uly="1908" lrx="1304" lry="1939" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r4" ulx="137" uly="354" lrx="1307" lry="384" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r42" ulx="133" uly="2083" lrx="1308" lry="2115" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r22" ulx="136" uly="1189" lrx="1302" lry="1218" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_399_r37" ulx="135" uly="1862" lrx="1304" lry="1891" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_400" uly="0" ulx="0" lry="2371" lrx="1583">
+			<graphic url="Abl_1981_2__S__0400.tif" width="1583px" height="2371px"/>
+			<zone xml:id="facs_400_r9" ulx="279" uly="585" lrx="951" lry="616" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r17" ulx="395" uly="975" lrx="1452" lry="1004" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r6" ulx="276" uly="443" lrx="1453" lry="474" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r8" ulx="337" uly="537" lrx="1458" lry="570" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r12" ulx="335" uly="729" lrx="727" lry="758" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r7" ulx="279" uly="487" lrx="1370" lry="516" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r16" ulx="337" uly="933" lrx="1451" lry="961" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r35" ulx="391" uly="1820" lrx="980" lry="1850" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r36" ulx="337" uly="1870" lrx="1455" lry="1901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r25" ulx="337" uly="1356" lrx="1452" lry="1386" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r18" ulx="393" uly="1020" lrx="1453" lry="1051" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r0" ulx="277" uly="141" lrx="350" lry="162" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r1" ulx="281" uly="222" lrx="1457" lry="252" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r13" ulx="281" uly="779" lrx="1457" lry="809" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r21" ulx="394" uly="1164" lrx="1420" lry="1192" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r32" ulx="337" uly="1683" lrx="1455" lry="1714" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r31" ulx="396" uly="1635" lrx="957" lry="1661" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r28" ulx="390" uly="1495" lrx="669" lry="1520" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r38" ulx="339" uly="1964" lrx="458" lry="1989" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r20" ulx="335" uly="1118" lrx="1455" lry="1148" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r11" ulx="339" uly="679" lrx="1456" lry="711" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r40" ulx="337" uly="2062" lrx="734" lry="2091" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r22" ulx="335" uly="1214" lrx="1453" lry="1245" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r37" ulx="337" uly="1916" lrx="1451" lry="1947" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r19" ulx="394" uly="1068" lrx="749" lry="1095" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r29" ulx="337" uly="1545" lrx="1453" lry="1572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r24" ulx="394" uly="1304" lrx="1434" lry="1333" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r10" ulx="279" uly="639" lrx="1456" lry="667" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r5" ulx="275" uly="400" lrx="1459" lry="429" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r34" ulx="392" uly="1775" lrx="1453" lry="1804" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r33" ulx="394" uly="1731" lrx="1453" lry="1759" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r4" ulx="279" uly="354" lrx="1455" lry="384" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r3" ulx="275" uly="310" lrx="1455" lry="341" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r30" ulx="396" uly="1589" lrx="1455" lry="1617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r39" ulx="334" uly="2014" lrx="1451" lry="2045" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r15" ulx="277" uly="877" lrx="916" lry="907" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r27" ulx="394" uly="1445" lrx="1456" lry="1475" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r26" ulx="394" uly="1402" lrx="1451" lry="1431" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r23" ulx="396" uly="1258" lrx="1455" lry="1289" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r14" ulx="335" uly="827" lrx="986" lry="854" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_400_r2" ulx="277" uly="262" lrx="1455" lry="294" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_401" uly="0" ulx="0" lry="2370" lrx="1578">
+			<graphic url="Abl_1981_2__S__0401.tif" width="1578px" height="2370px"/>
+			<zone xml:id="facs_401_r19" ulx="125" uly="1008" lrx="1302" lry="1040" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r30" ulx="125" uly="1705" lrx="327" lry="1732" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r23" ulx="131" uly="1188" lrx="1296" lry="1217" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r27" ulx="131" uly="1448" lrx="170" lry="1475" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r22" ulx="127" uly="1142" lrx="1299" lry="1174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r0" ulx="1220" uly="154" lrx="1292" lry="176" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r34" ulx="556" uly="1890" lrx="712" lry="1918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r21" ulx="127" uly="1096" lrx="1298" lry="1126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r4" ulx="187" uly="373" lrx="790" lry="400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r28" ulx="184" uly="1523" lrx="1297" lry="1554" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r33" ulx="558" uly="1846" lrx="804" lry="1871" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r15" ulx="827" uly="796" lrx="995" lry="824" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r13" ulx="127" uly="798" lrx="550" lry="826" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r16" ulx="181" uly="875" lrx="1296" lry="906" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r29" ulx="125" uly="1573" lrx="571" lry="1601" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r12" ulx="185" uly="744" lrx="900" lry="774" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r17" ulx="129" uly="921" lrx="1297" lry="951" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r2" ulx="189" uly="281" lrx="1294" lry="313" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r31" ulx="333" uly="1702" lrx="529" lry="1730" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r24" ulx="129" uly="1231" lrx="1303" lry="1262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r1" ulx="129" uly="237" lrx="1295" lry="268" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r7" ulx="187" uly="512" lrx="1296" lry="543" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r9" ulx="185" uly="602" lrx="717" lry="631" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r6" ulx="185" uly="468" lrx="1299" lry="499" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r10" ulx="127" uly="654" lrx="1297" lry="685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r25" ulx="129" uly="1275" lrx="1296" lry="1308" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r36" ulx="854" uly="1890" lrx="1021" lry="1915" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r5" ulx="127" uly="421" lrx="1296" lry="452" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r11" ulx="189" uly="700" lrx="1298" lry="729" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r3" ulx="187" uly="327" lrx="1296" lry="356" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r26" ulx="131" uly="1325" lrx="779" lry="1354" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r32" ulx="562" uly="1790" lrx="1046" lry="1818" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r18" ulx="127" uly="963" lrx="1298" lry="996" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r35" ulx="850" uly="1842" lrx="1298" lry="1870" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r14" ulx="571" uly="796" lrx="819" lry="825" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r20" ulx="129" uly="1052" lrx="1300" lry="1085" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_401_r8" ulx="185" uly="556" lrx="1296" lry="585" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1385" facs="#facs_397"/>
+			<p>
+				<lb facs="#facs_397_r7"/>Der Kantonsrat hat dem Regierungsrat am <date when="1979-03-19">19. März 1979</date> folgende<lb facs="#facs_397_r10"/>von den Kantonsräten Max Gerber,
+          Zürich, Heini Bloch, Schlieren, Dr.<lb facs="#facs_397_r11"/>Peter N. Duft, Zürich, Dr.
+          H.G. Lüchinger, Wettswil, Lukretia Spre<lb break="no" facs="#facs_397_r12"/>cher, Zürich,
+          Adrian Stieger, Horgen, und Walter Zurbuchen, Richters<lb break="no" facs="#facs_397_r13"/>wil, namens der erweiterten Justizverwaltungskommission eingereichte<lb facs="#facs_397_r14"/>Motion zur Prüfung überwiesen:</p>
+			<p>
+				<lb facs="#facs_397_r15"/>«Eine wesentlich bessere Übersicht über den Stand der Prozesse
+            in<lb facs="#facs_397_r16"/>Zivilsachen lässt sich mit einem Terminprotokoll erreichen,
+          in wel<lb break="no" facs="#facs_397_r17"/>chem in chronologischer Reihenfolge
+          stichwortartig das Verfahren<lb facs="#facs_397_r18"/>festzuhalten ist.</p>
+			<p>
+				<lb facs="#facs_397_r19"/>Der Regierungsrat wird ersucht, eine Vorlage über folgende
+            Ergän<lb break="no" facs="#facs_397_r20"/>zung des Gerichtsverfassungsgesetzes vom <date when="1976-06-13">13. Juni 1976</date> zu unter<lb break="no" facs="#facs_397_r23"/>breiten:</p>
+			<p>
+				<lb facs="#facs_397_r24"/>§ 154 a (neu)</p>
+			<p>
+				<lb facs="#facs_397_r25"/>Für jedes Zivilprozessverfahren ist ein Terminprotokoll zu
+            führen<lb facs="#facs_397_r26"/>und mit den Akten aufzubewahren. In diesem Protokoll
+          sind die<lb facs="#facs_397_r27"/>Daten aller Vorfälle festzuhalten.»</p>
+			<p>
+				<lb facs="#facs_397_r28"/>Obschon der Gegenstand der Motion als Gesetzesergänzung
+            formell<lb facs="#facs_397_r29"/>in die Zuständigkeit der Verwaltung fällt, ist die
+          materielle Stellung<lb break="no" facs="#facs_397_r30"/>nahme Sache des Obergerichtes.
+          Dieses hat es daher im Einvernehmen<lb facs="#facs_397_r31"/>mit der Justizdirektion
+          übernommen, dem Kantonsrat Bericht zu erstat<lb break="no" facs="#facs_397_r32"/>ten und
+          Antrag zu stellen.</p>
+			<p>
+				<lb facs="#facs_397_r33"/>B</p>
+			<p>
+				<lb facs="#facs_397_r34"/>1. Nach geltender Ordnung (§§ 141 ff. GVG) ist für jeden
+            Zivil<lb break="no" facs="#facs_397_r35"/>und Strafprozess ein Protokoll zu führen und
+          mit den Akten aufzube<lb break="no" facs="#facs_397_r36"/>wahren. Diese Bestimmungen
+          gelten nur für das gerichtliche Verfahren,<lb facs="#facs_397_r37"/>nicht aber für die von
+          Bezirks- oder Staatsanwälten geführten Strafun<lb break="no" facs="#facs_397_r38"/>tersuchungen bis zur Anklageerhebung, für welche überhaupt kein</p>
+			<pb n="1386" facs="#facs_398"/>
+			<p>
+				<lb facs="#facs_398_r1"/>protokollmässiges Festhalten des Verfahrensganges erfolgt. Im
+            summa<lb break="no" facs="#facs_398_r2"/>rischen Zivilverfahren wird lediglich ein
+          Handprotokoll geführt, das nur<lb facs="#facs_398_r3"/>dann auszufertigen ist, wenn ein
+          Rechtsmittel ergriffen, der Prozess ins<lb facs="#facs_398_r4"/>ordentliche Verfahren
+          verwiesen oder ein Beweisverfahren durchge<lb break="no" facs="#facs_398_r5"/>führt
+          wird.</p>
+			<p>
+				<lb facs="#facs_398_r6"/>Das gesondert anzulegende Protokollheft enthält die
+            chronologische<lb facs="#facs_398_r7"/>Wiedergabe des gesamten Prozessgeschehens; es
+          gibt Aufschluss über<lb facs="#facs_398_r8"/>Ort und Zeit der Prozesshandlungen sowie die
+          mitwirkenden Personen.<lb facs="#facs_398_r9"/>Die Motion zielt darauf ab, den Gerichten
+          vorzuschreiben, in sämtlichen<lb facs="#facs_398_r10"/>Zivilprozessen zusätzlich zu diesem
+          als öffentliche Urkunde geltenden<lb facs="#facs_398_r11"/>Protokoll eine tagebuchartige
+          Aufstellung zu führen, in der nochmals in<lb facs="#facs_398_r12"/>chronologischer
+          Reihenfolge alle wesentlichen Vorfälle des Verfahrens<lb facs="#facs_398_r13"/>mit Datum
+          und Stichworten zu vermerken sind.</p>
+			<p>
+				<lb facs="#facs_398_r14"/>Gegen diese Neuerung kann eingewendet werden, sie führe zu
+            einer<lb facs="#facs_398_r15"/>unnötigen Doppelspurigkeit, weil alle Vorfälle, deren
+          Aufzeichnung sie<lb facs="#facs_398_r16"/>verlangt, in ausführlicherer Form bereits im
+          Gerichtsprotokoll enthalten<lb facs="#facs_398_r17"/>sind. Ein separates Terminprotokoll
+          kann sich indessen in gewissen<lb facs="#facs_398_r18"/>Fällen vorteilhaft auswirken. So
+          ist es vor allem geeignet, die Aufgabe<lb facs="#facs_398_r19"/>der mit der Prüfung der
+          hängigen Verfahren betrauten Organe wesent<lb break="no" facs="#facs_398_r20"/>lich zu
+          erleichtern. Nach gesetzlicher Vorschrift ist der Gerichtspräsi<lb break="no" facs="#facs_398_r21"/>dent verpflichtet, für beförderliche Erledigung der Geschäfte zu
+            sorgen<lb facs="#facs_398_r22"/>(GVG § 121), was voraussetzt, dass er den Geschäftsgang
+          seines Gerich<lb break="no" facs="#facs_398_r23"/>tes überwacht. Dazu gehört die schon
+          früher generell vorgeschriebene<lb facs="#facs_398_r24"/>Pendenzenkontrolle, für die im
+          Kreisschreiben des Obergerichtes an die<lb facs="#facs_398_r25"/>Bezirksgerichte vom <date when="1979-01-31">31. Januar 1979</date> nähere Ausführungsbestimmun<lb break="no" facs="#facs_398_r28"/>gen erlassen wurden. Danach haben die Gerichtspräsidenten bzw.
+            Vor<lb break="no" facs="#facs_398_r29"/>sitzenden einer Gerichtsabteilung oder eines
+          angegliederten Gerichts<lb facs="#facs_398_r30"/>alle zwei bis drei Monate zusammen mit
+          dem Prozessbearbeiter die<lb facs="#facs_398_r31"/>Förderung der noch hängigen Verfahren,
+          die je nach ihrer Art eine<lb facs="#facs_398_r32"/>bestimmte Dauer überschritten haben,
+          zu prüfen und nötigenfalls Mass<lb break="no" facs="#facs_398_r33"/>nahmen zur Vermeidung
+          grösserer zeitlicher Lücken in der Bearbeitung<lb facs="#facs_398_r34"/>zu treffen. Beim
+          Obergericht obliegt eine entsprechende Pflicht den<lb facs="#facs_398_r35"/>Kammer- bzw.
+          Gerichtspräsidenten. Diese Prüfung geht einfacher vor<lb facs="#facs_398_r36"/>sich, wenn
+          sie aufgrund einer gut überblickbaren Aufstellung statt<lb facs="#facs_398_r37"/>anhand
+          des oft sehr umfangreichen Gerichtsprotokolls erfolgen kann.<lb facs="#facs_398_r38"/>Die
+          Zeitersparnis fällt vor allem bei grösseren Gerichten ins Gewicht,<lb facs="#facs_398_r39"/>bei denen regelmässig eine Vielzahl von hängigen Prozessen zu überprü<lb break="no" facs="#facs_398_r40"/>fen ist. Abgesehen davon bietet das Terminprotokoll auch dem mit
+            der<lb facs="#facs_398_r41"/>Bearbeitung des Prozesses Befassten Vorteile, indem er sich
+          eine bes<lb break="no" facs="#facs_398_r42"/>sere Übersicht über den Stand seiner
+          Verfahren verschaffen und längere<lb facs="#facs_398_r43"/>Lücken in deren Behandlung
+          rasch erkennen kann.</p>
+			<pb n="1387" facs="#facs_399"/>
+			<p>
+				<lb facs="#facs_399_r1"/>Das Bezirksgericht Zürich hat bereits vor ungefähr zwei Jahren
+            im<lb facs="#facs_399_r2"/>Hinblick auf die Erfordernisse einer wirksamen
+          Pendenzenkontrolle die<lb facs="#facs_399_r3"/>dem vorgesehenen Terminprotokoll
+          entsprechenden Journal-Blätter<lb facs="#facs_399_r4"/>eingeführt. Es beurteilt in seiner
+          Vernehmlassung die Erfahrungen, die<lb facs="#facs_399_r5"/>mit dieser Massnahme seither
+          gemacht wurden, positiv und erachtet das<lb facs="#facs_399_r6"/>Journal-Blatt als
+          wertvolles Instrument bei der Prüfung der Pendenzen.<lb facs="#facs_399_r7"/>Dabei darf
+          freilich nicht übersehen werden, dass beim Bezirksgericht<lb facs="#facs_399_r8"/>Zürich
+          angesichts der sehr grossen Zahl von hängigen Prozessen, die zu<lb facs="#facs_399_r9"/>überwachen sind, besondere Verhältnisse vorliegen; doch lässt sich<lb facs="#facs_399_r10"/>daraus kaum der Schluss ziehen, dass die Massnahme bei mittleren
+            oder<lb facs="#facs_399_r11"/>kleineren Gerichten nicht von Nutzen sein könne.</p>
+			<p>
+				<lb facs="#facs_399_r12"/>2. Das Obergericht misst der erwähnten Regelung der Pendenzen<lb break="no" facs="#facs_399_r13"/>kontrolle für die Beschleunigung der Rechtspflege mehr
+          Wirksamkeit zu<lb facs="#facs_399_r14"/>als der Einführung von Terminprotokollen. Es ist
+          nicht zu übersehen,<lb facs="#facs_399_r15"/>dass dieser Einrichtung nicht die gleiche
+          Bedeutung im Sinne einer<lb facs="#facs_399_r16"/>besseren Übersicht zukommt wie etwa im
+          militärgerichtlichen Untersu<lb break="no" facs="#facs_399_r17"/>chungsverfahren, in
+          welchem kein den Vorschriften des zürcherischen<lb facs="#facs_399_r18"/>Zivilprozesses
+          entsprechendes Protokoll geführt wird. Die Einführung<lb facs="#facs_399_r19"/>des
+          Terminprotokolls ist im übrigen arbeitsmässig mit einer nicht uner<lb break="no" facs="#facs_399_r20"/>heblichen Mehrbelastung verbunden, namentlich wenn man sich die<lb facs="#facs_399_r21"/>Tatsache vergegenwärtigt, dass allein die elf Bezirksgerichte
+            samt<lb facs="#facs_399_r22"/>Arbeits -, Mietgerichten und Einzelrichtern (ohne
+          summarisches Verfah<lb break="no" facs="#facs_399_r23"/>ren) jährlich rund 10000
+          Neueingänge an Zivilprozessen zu verzeichnen<lb facs="#facs_399_r24"/>haben. Angesichts
+          der unterschiedlichen Struktur der einzelnen<lb facs="#facs_399_r25"/>Gerichte
+          (vollamtliche und nebenamtliche Richter) und der abwechseln<lb break="no" facs="#facs_399_r26"/>den Mitwirkung von Gericht, Prozessreferent und Kanzlei am
+            Verfah<lb break="no" facs="#facs_399_r27"/>ren sind sodann technische Schwierigkeiten
+          hinsichtlich einer jederzeit<lb facs="#facs_399_r28"/>lückenlosen Führung des zusätzlichen
+          Terminprotokolls nicht zu vermei<lb break="no" facs="#facs_399_r29"/>den. Die Landgerichte
+          haben sich denn auch einhellig gegen dessen<lb facs="#facs_399_r30"/>Einführung
+          ausgesprochen.</p>
+			<p>
+				<lb facs="#facs_399_r31"/>Das Obergericht verschliesst sich indessen den erwähnten
+            Vorteilen,<lb facs="#facs_399_r32"/>die sich mit der Einführung des Terminprotokolls
+          ergeben, nicht. Es hält<lb facs="#facs_399_r33"/>jedoch dafür, dass das Terminprotokoll
+          zwingend nur für diejenigen<lb facs="#facs_399_r34"/>Verfahren vorzuschreiben sei, in
+          denen sich ein im vernünftigen Ver<lb break="no" facs="#facs_399_r35"/>hältnis zum Aufwand
+          stehender Nutzen erwarten lässt. Unter diesem<lb facs="#facs_399_r36"/>Gesichtspunkt sind
+          in erster Linie die erstinstanzlichen Geschäfte des<lb facs="#facs_399_r37"/>summarischen
+          Verfahrens von der Protokollpflicht auszunehmen. Von<lb facs="#facs_399_r38"/>diesen
+          jährlich im ganzen Kanton über 25 000 eingehenden Geschäften<lb facs="#facs_399_r39"/>wird
+          nur ein verschwindend kleiner Teil nicht innerhalb weniger<lb facs="#facs_399_r40"/>Wochen
+          erledigt. In komplizierteren Fällen mit Beweisverfahren oder<lb facs="#facs_399_r41"/>notwendig werdenden Ermittlungen (beispielsweise Erbschaftssachen)<lb facs="#facs_399_r42"/>ist bei dem in der Regel geringen Umfang der Akten ein Überblick
+          über</p>
+			<pb n="1388" facs="#facs_400"/>
+			<p>
+				<lb facs="#facs_400_r1"/>den Stand des Verfahrens auch ohne Terminprotokoll ohne
+            weiteres<lb facs="#facs_400_r2"/>möglich. Was die Verfahren der übrigen Einzelrichter
+          und der Kollegial<lb break="no" facs="#facs_400_r3"/>gerichte betrifft, rechtfertigt es
+          sich, zur Vermeidung unverhältnismässig<lb facs="#facs_400_r4"/>grosser administrativer
+          Umtriebe die Pflicht zur Führung eines Termin<lb break="no" facs="#facs_400_r5"/>protokolls im wesentlichen auf die Fälle zu beschränken, die nicht innert<lb facs="#facs_400_r6"/>bestimmter Zeit nach der Haupt- bzw. Berufungsverhandlung oder
+            nach<lb facs="#facs_400_r7"/>Schluss des Hauptverfahrens bzw. Schriftenwechsels erledigt
+          sind.</p>
+			<p>
+				<lb facs="#facs_400_r8"/>Mit Beschluss vom heutigen Tag hat das Obergericht dementspre<lb break="no" facs="#facs_400_r9"/>chend folgende Anordnungen getroffen:</p>
+			<p>
+				<lb facs="#facs_400_r10"/>«1. In Zivilprozessen (ausgenommen das erstinstanzliche
+            summarische<lb facs="#facs_400_r11"/>Verfahren) ist nach Massgabe der folgenden
+          Vorschriften ein Ter<lb break="no" facs="#facs_400_r12"/>minprotokoll zu führen.</p>
+			<p>
+				<lb facs="#facs_400_r13"/>2. Im Terminprotokoll sind die wesentlichen Prozesshandlungen
+            mit<lb facs="#facs_400_r14"/>Datum und Stichworten zu vermerken.</p>
+			<p>
+				<lb facs="#facs_400_r15"/>3. Ein Terminprotokoll ist zu führen:</p>
+			<p>
+				<lb facs="#facs_400_r16"/>a) von den Bezirksgerichten, Mietgerichten, Arbeitsgerichten
+            und<lb facs="#facs_400_r17"/>Einzelrichtern in allen Verfahren, die nicht innert drei
+            Monaten<lb facs="#facs_400_r18"/>nach der Hauptverhandlung oder nach Schluss des
+            Hauptverfah<lb break="no" facs="#facs_400_r19"/>rens erledigt werden;</p>
+			<p>
+				<lb facs="#facs_400_r20"/>b) vom Handelsgericht in allen Verfahren, die nicht innert
+            drei<lb facs="#facs_400_r21"/>Monaten nach der ersten Referentenaudienz erledigt
+          werden;</p>
+			<p>
+				<lb facs="#facs_400_r22"/>c) vom Versicherungsgericht in allen Verfahren, die nicht
+            innert<lb facs="#facs_400_r23"/>drei Monaten nach der Hauptverhandlung oder nach
+            Schluss<lb facs="#facs_400_r24"/>eines allfälligen schriftlichen Hauptverfahrens
+          erledigt werden;</p>
+			<p>
+				<lb facs="#facs_400_r25"/>d) von der I. und II. Zivilkammer des Obergerichts in allen
+            Beru<lb break="no" facs="#facs_400_r26"/>fungsverfahren, die nicht innert drei Monaten
+          nach der Beru<lb break="no" facs="#facs_400_r27"/>fungsverhandlung oder nach Abschluss des
+            Schriftenwechsels<lb facs="#facs_400_r28"/>erledigt werden;</p>
+			<p>
+				<lb facs="#facs_400_r29"/>e) von der I. Zivilkammer des Obergerichts in allen
+            erstinstanzli<lb break="no" facs="#facs_400_r30"/>chen Prozessen, die nicht innert drei
+          Monaten nach Schluss des<lb facs="#facs_400_r31"/>Hauptverfahrens erledigt werden;</p>
+			<p>
+				<lb facs="#facs_400_r32"/>f) von der III. Zivilkammer des Obergerichts bei
+            Nichtigkeitsbe<lb break="no" facs="#facs_400_r33"/>schwerden und von der I. und II.
+          Zivilkammer bei Rekursen, die<lb facs="#facs_400_r34"/>nicht innert drei Monaten nach
+          Abschluss des Schriftenwechsels<lb facs="#facs_400_r35"/>(Vernehmlassung) erledigt
+          werden.</p>
+			<p>
+				<lb facs="#facs_400_r36"/>In allen Fällen ist jedoch spätestens nach einjähriger Dauer
+            des<lb facs="#facs_400_r37"/>Verfahrens in der betreffenden Instanz ein Terminprotokoll
+            zu<lb facs="#facs_400_r38"/>führen.</p>
+			<p>
+				<lb facs="#facs_400_r39"/>Bei Rückweisungen ist vom Wiedereingang der Akten an ein Ter<lb break="no" facs="#facs_400_r40"/>minprotokoll zu führen.</p>
+			<pb n="1389" facs="#facs_401"/>
+			<p>
+				<lb facs="#facs_401_r1"/>4. Die Präsidenten der Bezirksgerichte, des Handelsgerichts, des
+            Versi<lb break="no" facs="#facs_401_r2"/>cherungsgerichts und der Zivilkammern des
+          Obergerichts bestim<lb break="no" facs="#facs_401_r3"/>men, wer das Terminprotokoll zu
+          führen hat und wo es während der<lb facs="#facs_401_r4"/>Verfahrensdauer aufzubewahren
+          ist.</p>
+			<p>
+				<lb facs="#facs_401_r5"/>5. Nach Beendigung der Prozesse ist das Terminprotokoll in der
+            Rei<lb break="no" facs="#facs_401_r6"/>henfolge der Prozessnummern in der zuständigen
+            Gerichtskanzlei<lb facs="#facs_401_r7"/>aufzubewahren. Das Terminprotokoll gehört vor
+          und nach<lb facs="#facs_401_r8"/>Abschluss des Prozesses nicht zu den Gerichtsakten und
+          ist nicht ins<lb facs="#facs_401_r9"/>Aktenverzeichnis aufzunehmen.</p>
+			<p>
+				<lb facs="#facs_401_r10"/>6. Für die Führung des Terminprotokolls wird den Gerichten ein
+            von<lb facs="#facs_401_r11"/>der Vewaltungskommission des Obergerichts auszuarbeitendes
+            ein<lb break="no" facs="#facs_401_r12"/>heitliches Formular zur Verfügung gestellt.</p>
+			<p>
+				<lb facs="#facs_401_r13"/>7. Der Beschluss tritt am <date when="1982-01-01">1. Januar
+            1982</date> in Kraft.»</p>
+			<p>
+				<lb facs="#facs_401_r16"/>3. Eine gesetzliche Verankerung der Pflicht zur Führung des
+            Ter<lb break="no" facs="#facs_401_r17"/>minprotokolls erachten wir unter den gegebenen
+          Umständen als unnö<lb break="no" facs="#facs_401_r18"/>tig. Der Sache nach handelt es sich
+          um eine rein administrative Anord<lb break="no" facs="#facs_401_r19"/>nung, die
+          vornehmlich dazu dienen soll, die Überwachung gewisser<lb facs="#facs_401_r20"/>hängiger
+          Verfahren, die der Gefahr der Verzögerung unterliegen, zu<lb facs="#facs_401_r21"/>erleichtern. Hiezu bedarf es keiner Regelung auf Gesetzesstufe. Allen<lb break="no" facs="#facs_401_r22"/>falls könnte bei Gelegenheit einer späteren Revision die
+            Aufnahme<lb facs="#facs_401_r23"/>einer Delegationsnorm in das Gerichtsverfassungsgesetz
+          ins Auge<lb facs="#facs_401_r24"/>gefasst werden, durch die das Obergericht und der
+            Regierungsrat<lb facs="#facs_401_r25"/>ermächtigt würden, je für ihren Bereich
+          Bestimmungen über die Füh<lb break="no" facs="#facs_401_r26"/>rung des Terminprotokolls zu
+          erlassen.</p>
+			<p>
+				<lb facs="#facs_401_r27"/>C.</p>
+			<p>
+				<lb facs="#facs_401_r28"/>Gestützt auf diese Überlegungen beantragen wir Ihnen, die
+            Motion<lb facs="#facs_401_r29"/>als erledigt abzuschreiben.</p>
+			<p>
+				<lb facs="#facs_401_r30"/>Zürich, den <date when="1981-07-01">1. Juli 1981</date></p>
+			<p>
+				<lb facs="#facs_401_r32"/>Im Namen des Obergerichtes</p>
+			<p>
+				<lb facs="#facs_401_r33"/>Der Präsident:<lb facs="#facs_401_r34"/>Bollinger</p>
+			<p>
+				<lb facs="#facs_401_r35"/>Der Obergerichtsschreiber:<lb facs="#facs_401_r36"/>Bühlmann</p>
+		</body></text></TEI>

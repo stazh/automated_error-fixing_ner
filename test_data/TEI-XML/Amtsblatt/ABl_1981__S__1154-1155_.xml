@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-04-08">08.04.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] vom 29. April 1981</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-07-10">10.07.1981</date><ident>StAZH ABl 1981 (S. 1154-1155)</ident><idno>1154–1155</idno><idno type="issue">32</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132364"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_166" uly="0" ulx="0" lry="2372" lrx="1584">
+			<graphic url="Abl_1981_2__S__0166.tif" width="1584px" height="2372px"/>
+			<zone xml:id="facs_166_r25" ulx="295" uly="1373" lrx="1469" lry="1405" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r16" ulx="293" uly="942" lrx="608" lry="968" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r29" ulx="295" uly="1569" lrx="1473" lry="1600" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r0" ulx="286" uly="152" lrx="360" lry="174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r23" ulx="297" uly="1275" lrx="1469" lry="1306" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r12" ulx="293" uly="748" lrx="1465" lry="780" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r30" ulx="298" uly="1619" lrx="433" lry="1644" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r20" ulx="295" uly="1133" lrx="1473" lry="1165" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r4" ulx="295" uly="362" lrx="1469" lry="394" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r27" ulx="295" uly="1471" lrx="1475" lry="1502" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r32" ulx="295" uly="1711" lrx="1223" lry="1743" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r28" ulx="298" uly="1517" lrx="925" lry="1548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r18" ulx="291" uly="1035" lrx="1473" lry="1066" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r37" ulx="298" uly="1988" lrx="1473" lry="2017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r6" ulx="293" uly="452" lrx="1469" lry="484" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r2" ulx="802" uly="231" lrx="1042" lry="260" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r1" ulx="723" uly="235" lrx="783" lry="261" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r21" ulx="295" uly="1177" lrx="1323" lry="1208" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r38" ulx="300" uly="2030" lrx="877" lry="2062" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r7" ulx="291" uly="502" lrx="391" lry="525" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r22" ulx="293" uly="1231" lrx="1471" lry="1262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r31" ulx="298" uly="1669" lrx="1471" lry="1698" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r34" ulx="298" uly="1850" lrx="629" lry="1875" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r36" ulx="297" uly="1942" lrx="1472" lry="1974" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r24" ulx="298" uly="1323" lrx="535" lry="1351" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r5" ulx="291" uly="406" lrx="1467" lry="439" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r33" ulx="298" uly="1802" lrx="1472" lry="1830" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r35" ulx="297" uly="1898" lrx="1476" lry="1928" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r39" ulx="885" uly="2030" lrx="1046" lry="2062" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r11" ulx="295" uly="706" lrx="1469" lry="737" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r3" ulx="294" uly="318" lrx="1466" lry="350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r8" ulx="293" uly="566" lrx="707" lry="594" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r17" ulx="295" uly="990" lrx="1467" lry="1020" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r13" ulx="295" uly="796" lrx="1053" lry="825" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r14" ulx="295" uly="848" lrx="1469" lry="878" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r26" ulx="293" uly="1415" lrx="1250" lry="1450" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r15" ulx="295" uly="892" lrx="1471" lry="922" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r9" ulx="295" uly="608" lrx="1470" lry="639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r19" ulx="297" uly="1081" lrx="491" lry="1109" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_166_r10" ulx="293" uly="650" lrx="1425" lry="680" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_167" uly="0" ulx="0" lry="2373" lrx="1578">
+			<graphic url="Abl_1981_2__S__0167.tif" width="1578px" height="2373px"/>
+			<zone xml:id="facs_167_r7" ulx="112" uly="460" lrx="377" lry="488" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r39" ulx="113" uly="2033" lrx="1192" lry="2062" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r34" ulx="114" uly="1783" lrx="906" lry="1811" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r18" ulx="112" uly="962" lrx="271" lry="986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r17" ulx="112" uly="906" lrx="1284" lry="936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r36" ulx="114" uly="1889" lrx="1286" lry="1921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r22" ulx="112" uly="1160" lrx="1284" lry="1188" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r25" ulx="112" uly="1314" lrx="1272" lry="1345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r8" ulx="385" uly="460" lrx="550" lry="489" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r15" ulx="644" uly="777" lrx="837" lry="800" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r26" ulx="112" uly="1360" lrx="771" lry="1389" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r14" ulx="564" uly="781" lrx="620" lry="803" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r33" ulx="114" uly="1737" lrx="1284" lry="1766" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r0" ulx="1211" uly="145" lrx="1281" lry="168" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r16" ulx="112" uly="864" lrx="1282" lry="892" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r4" ulx="835" uly="314" lrx="991" lry="345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r37" ulx="114" uly="1935" lrx="1279" lry="1965" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r9" ulx="112" uly="510" lrx="1284" lry="540" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r31" ulx="554" uly="1652" lrx="614" lry="1675" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r11" ulx="589" uly="558" lrx="679" lry="586" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r38" ulx="114" uly="1989" lrx="1284" lry="2017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r30" ulx="114" uly="1502" lrx="896" lry="1529" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r29" ulx="594" uly="1447" lrx="685" lry="1477" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r19" ulx="108" uly="1020" lrx="525" lry="1048" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r28" ulx="112" uly="1450" lrx="587" lry="1477" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r5" ulx="116" uly="370" lrx="1284" lry="398" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r20" ulx="110" uly="1062" lrx="1284" lry="1090" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r6" ulx="116" uly="412" lrx="1282" lry="442" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r40" ulx="112" uly="2087" lrx="1279" lry="2145" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r13" ulx="114" uly="654" lrx="677" lry="684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r1" ulx="114" uly="225" lrx="1286" lry="255" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r12" ulx="114" uly="610" lrx="1284" lry="639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r21" ulx="112" uly="1108" lrx="837" lry="1136" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r3" ulx="116" uly="314" lrx="827" lry="345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r24" ulx="112" uly="1247" lrx="1276" lry="1277" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r2" ulx="114" uly="270" lrx="1284" lry="301" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r27" ulx="116" uly="1402" lrx="1288" lry="1431" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r41" ulx="106" uly="2173" lrx="965" lry="2204" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r10" ulx="116" uly="556" lrx="583" lry="583" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r35" ulx="116" uly="1850" lrx="523" lry="1879" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r32" ulx="637" uly="1650" lrx="849" lry="1674" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_167_r23" ulx="114" uly="1204" lrx="1286" lry="1233" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1154" facs="#facs_166"/>
+			<p>
+				<lb facs="#facs_166_r3"/>Der Regierungsrat hat den bisherigen Vizepräsidenten Dr. Peter
+              Wie<lb break="no" facs="#facs_166_r4"/>derkehr, Vorsteher der Direktionen des
+            Gesundheits- und des Fürsorge<lb break="no" facs="#facs_166_r5"/>wesens, zum
+            Regierungspräsidenten für das Amtsjahr 1981/82 gewählt.<lb facs="#facs_166_r6"/>Als
+            Vizepräsident wurde Dr. Alfred Gilgen, Erziehungsdirektor, ge<lb break="no" facs="#facs_166_r7"/>wählt.</p>
+			<p>
+				<lb facs="#facs_166_r8"/>Es sind gewählt worden:</p>
+			<p>
+				<lb facs="#facs_166_r9"/>Als Oberarzt an der Chirurgischen Klinik des Kantonsspitals
+              Winter<lb break="no" facs="#facs_166_r10"/>thur: Christian Osterwalder, Dr. med ., von
+            Stettfurt TG, in Zürich;</p>
+			<p>
+				<lb facs="#facs_166_r11"/>als Hauptlehrerin für beruflichen Fachunterricht und Stufen-
+            und Fach<lb break="no" facs="#facs_166_r12"/>didaktik am Haushaltungslehrerinnenseminar:
+            Elisabeth Scholl, dipl.<lb facs="#facs_166_r13"/>Haushaltungslehrerin, von Rüti, in
+            Pfäffikon;</p>
+			<p>
+				<lb facs="#facs_166_r14"/>als Hauptlehrer für Französisch und Italienisch an der
+              Kantonsschule<lb facs="#facs_166_r15"/>Oerlikon Zürich: Gérard Zahner, lic. phil .,
+            von Zürich und Lippoldswi<lb break="no" facs="#facs_166_r16"/>len TG, in Zürich;</p>
+			<p>
+				<lb facs="#facs_166_r17"/>als Hauptlehrer für Latein und Russisch an der Kantonsschule
+              Oerlikon<lb facs="#facs_166_r18"/>Zürich: Arnold Wille, lic. phil ., von Zürich und La
+            Sagne NE, in<lb facs="#facs_166_r19"/>Wallisellen;</p>
+			<p>
+				<lb facs="#facs_166_r20"/>als Hauptlehrer für Biologie mit halbem Pensum an der
+              Kantonsschule<lb facs="#facs_166_r21"/>Hottingen Zürich: Dr. Andreas Brunnert, von und
+            in Zürich;</p>
+			<p>
+				<lb facs="#facs_166_r22"/>als Hauptlehrerin mit halbem Pensum für Turnen an der
+              Kantonsschule<lb facs="#facs_166_r23"/>Hottingen Zürich: Andrea Graf-Widmer, Dipl.
+            Turnlehrerin ETH, von<lb facs="#facs_166_r24"/>und in Zürich;</p>
+			<p>
+				<lb facs="#facs_166_r25"/>als Ingenieur beim Landwirtschaftsamt: Rolf Alexander Gerber,
+              Dipl.<lb facs="#facs_166_r26"/>Ing .- Agr. ETH, von Zürich und Langnau i.E ., in
+            Zürich;</p>
+			<p>
+				<lb facs="#facs_166_r27"/>als Jugendanwältin (Halbamt) bei der Jugendstaatsanwaltschaft:
+              Chri<lb break="no" facs="#facs_166_r28"/>stine Meyer, von Zürich, in Zollikon;</p>
+			<p>
+				<lb facs="#facs_166_r29"/>als Sekretär beim Statistischen Amt: Werner Schoch, von
+            Zürich, in<lb facs="#facs_166_r30"/>Gossau;</p>
+			<p>
+				<lb facs="#facs_166_r31"/>als Ständiger wissenschaftlicher Mitarbeiter beim
+            Statistischen Amt:<lb facs="#facs_166_r32"/>Rudolf Meier, lic. oec. publ ., von
+            Buchberg, in Zürich.</p>
+			<p>
+				<lb facs="#facs_166_r33"/>Unter Verdankung der geleisteten Dienste werden altershalber
+            in den<lb facs="#facs_166_r34"/>Ruhestand versetzt:</p>
+			<p>
+				<lb facs="#facs_166_r35"/>Prof. Dr. Konrad Huber, Ordinarius für romanische Philologie
+              mit<lb facs="#facs_166_r36"/>besonderer Berücksichtigung der italienischen Linguistik
+            und der Wort<lb break="no" facs="#facs_166_r37"/>und Sachforschung in der romanischen
+            Schweiz an der Philosophischen<lb facs="#facs_166_r38"/>Fakultät I der Universität, auf
+            den <date when="--04-15">15. April;</date></p>
+			<pb n="1155" facs="#facs_167"/>
+			<p>
+				<lb facs="#facs_167_r1"/>Prof. Dr. Emil Hess, Ordinarius für tierärztliche
+              Lebensmittelhygiene<lb facs="#facs_167_r2"/>und Direktor des Instituts für
+            Veterinärhygiene an der Veterinär-medi<lb break="no" facs="#facs_167_r3"/>zinischen
+            Fakultät der Universität, auf den <date when="--04-15">15. April;</date></p>
+			<p>
+				<lb facs="#facs_167_r5"/>Rudolf Knaller, Didaktiklehrer sprachlich-historischer Richtung
+            bei der<lb facs="#facs_167_r6"/>Direktion der Sekundar- und Fachlehrerausbildung an der
+              Universität<lb facs="#facs_167_r7"/>Zürich, auf den <date when="--04-15">15.
+              April;</date></p>
+			<p>
+				<lb facs="#facs_167_r9"/>Dr. Alfred Flam, Ständiger wissenschaftlicher Mitarbeiter am
+              Kantona<lb break="no" facs="#facs_167_r10"/>len Laboratorium, auf Ende Juni;</p>
+			<p>
+				<lb facs="#facs_167_r12"/>Werner Wyss, Technischer Beamter beim Amt für technische
+              Anlagen<lb facs="#facs_167_r13"/>und Lufthygiene, auf Ende April.</p>
+		</body></text></TEI>

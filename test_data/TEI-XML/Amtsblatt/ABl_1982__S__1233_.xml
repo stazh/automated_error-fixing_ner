@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>2530 Antrag der Finanzkommission* zu den Nachtragskrediten für das Jahr 1982, III. Serie (vom 21.
+            Oktober 1982)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-11-05">05.11.1982</date><ident>StAZH ABl 1982 (S. 1233)</ident><idno>1233</idno><idno type="issue">44</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132838"/><note>Vorlagen-Nr. 2530</note></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_545" uly="0" ulx="0" lry="2399" lrx="1585">
+			<graphic url="Abl_1982_2__S__0545.tif" width="1585px" height="2399px"/>
+			<zone xml:id="facs_545_r15" ulx="114" uly="721" lrx="884" lry="750" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r3" ulx="116" uly="348" lrx="896" lry="382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r17" ulx="114" uly="935" lrx="306" lry="962" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r8" ulx="116" uly="552" lrx="562" lry="579" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r19" ulx="592" uly="1025" lrx="1151" lry="1050" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r24" ulx="171" uly="1938" lrx="1284" lry="1964" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r12" ulx="112" uly="677" lrx="771" lry="706" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r20" ulx="596" uly="1077" lrx="837" lry="1100" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r9" ulx="208" uly="631" lrx="1003" lry="660" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r14" ulx="1090" uly="677" lrx="1290" lry="703" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r28" ulx="112" uly="2082" lrx="704" lry="2107" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r22" ulx="1032" uly="1075" lrx="1288" lry="1100" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r25" ulx="116" uly="1975" lrx="1284" lry="2000" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r18" ulx="319" uly="931" lrx="608" lry="960" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r5" ulx="1023" uly="350" lrx="1216" lry="381" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r13" ulx="790" uly="677" lrx="1084" lry="704" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r1" ulx="117" uly="220" lrx="206" lry="248" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r27" ulx="112" uly="2044" lrx="1284" lry="2072" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r10" ulx="1009" uly="631" lrx="1105" lry="659" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r21" ulx="594" uly="1121" lrx="750" lry="1147" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r7" ulx="208" uly="427" lrx="511" lry="456" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r16" ulx="189" uly="798" lrx="815" lry="829" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r11" ulx="1112" uly="631" lrx="1286" lry="659" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r23" ulx="1032" uly="1119" lrx="1215" lry="1145" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r26" ulx="112" uly="2011" lrx="1288" lry="2037" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r4" ulx="907" uly="350" lrx="1016" lry="383" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r2" ulx="118" uly="298" lrx="757" lry="331" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r0" ulx="1209" uly="133" lrx="1282" lry="155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r6" ulx="118" uly="427" lrx="191" lry="456" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1233" facs="#facs_545"/>
+			<p>
+				<lb facs="#facs_545_r8"/>Der Kantonsrat beschliesst:</p>
+			<p>
+				<lb facs="#facs_545_r9"/>I. Den Nachtragskreditbegehren für das Jahr <date when="1982">1982,</date> III. Serie,<lb facs="#facs_545_r12"/>gemäss Antrag des Regierungsrates vom
+            <date when="1982-10-20">20. Oktober 1982,</date> im Gesamt<lb break="no" facs="#facs_545_r15"/>betrag von Fr. 42 933 000 .- wird entsprochen.</p>
+			<p>
+				<lb facs="#facs_545_r16"/>II. Mitteilung an den Regierungsrat.</p>
+			<p>
+				<lb facs="#facs_545_r17"/>Zürich, den <date when="1982-10-21">21. Oktober 1982</date></p>
+			<p>
+				<lb facs="#facs_545_r19"/>Im Namen der Finanzkommission</p>
+			<p>
+				<lb facs="#facs_545_r20"/>Der Präsident:<lb facs="#facs_545_r21"/>F. Signer</p>
+			<p>
+				<lb facs="#facs_545_r22"/>Die Sekretärin:<lb facs="#facs_545_r23"/>B. Haering</p>
+			<note>
+				<lb facs="#facs_545_r24"/>* Die Finanzkommission besteht aus folgenden Mitgliedern: F.
+            Signer,<lb facs="#facs_545_r25"/>Zürich (Präsident); E. Bosshard, Stäfa; H. Frei,
+          Regensdorf; H. U. Frei, Zürich;<lb facs="#facs_545_r26"/>Dr. E. Honegger, Rüschlikon; E.
+          Kriesi, Erlenbach; A. Kupper, Elgg; Th. Lo<lb break="no" facs="#facs_545_r27"/>cher,
+          Schlieren; K. Meister, Benken; A. Petermann, Zürich; Dr. W. Sieg,<lb facs="#facs_545_r28"/>Zürich; Sekretärin: B. Haering, Zürich.</note>
+		</body></text></TEI>

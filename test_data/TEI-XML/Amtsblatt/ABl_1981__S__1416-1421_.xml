@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-04-08">08.04.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>2455 Beschluss des Kantonsrates über die Bewilligung eines Beitrages zu Lasten des Fonds für gemeinnützige Zwecke für die Errichtung eines Gottfried Keller-Zentrums in Glattfelden (vom …)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-09-11">11.09.1981</date><ident>StAZH ABl 1981 (S. 1416-1421)</ident><idno>1416–1421</idno><idno type="issue">40</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132422"/><note>Vorlagen-Nr. 2455</note></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_428" uly="0" ulx="0" lry="2369" lrx="1585">
+			<graphic url="Abl_1981_2__S__0428.tif" width="1585px" height="2369px"/>
+			<zone xml:id="facs_428_r23" ulx="1105" uly="1220" lrx="1445" lry="1248" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r24" ulx="1107" uly="1270" lrx="1290" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r4" ulx="327" uly="368" lrx="946" lry="396" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r10" ulx="387" uly="660" lrx="790" lry="688" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r29" ulx="279" uly="1796" lrx="1109" lry="1830" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r17" ulx="331" uly="979" lrx="1364" lry="1009" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r0" ulx="266" uly="149" lrx="338" lry="172" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r33" ulx="269" uly="1958" lrx="538" lry="1985" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r8" ulx="385" uly="570" lrx="1447" lry="598" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r5" ulx="387" uly="418" lrx="1137" lry="449" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r13" ulx="328" uly="802" lrx="1439" lry="830" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r18" ulx="266" uly="1081" lrx="462" lry="1110" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r6" ulx="385" uly="472" lrx="1447" lry="500" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r22" ulx="748" uly="1268" lrx="942" lry="1292" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r30" ulx="274" uly="1879" lrx="344" lry="1903" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r32" ulx="765" uly="1485" lrx="1005" lry="1513" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r21" ulx="748" uly="1223" lrx="990" lry="1249" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r9" ulx="327" uly="614" lrx="976" lry="643" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r28" ulx="271" uly="1743" lrx="1276" lry="1780" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r12" ulx="327" uly="758" lrx="1441" lry="787" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r2" ulx="327" uly="279" lrx="1441" lry="305" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r7" ulx="329" uly="516" lrx="1195" lry="545" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r11" ulx="383" uly="712" lrx="1443" lry="741" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r19" ulx="471" uly="1083" lrx="740" lry="1111" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r25" ulx="271" uly="1573" lrx="360" lry="1600" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r3" ulx="331" uly="320" lrx="1441" lry="350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r16" ulx="273" uly="933" lrx="397" lry="954" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r15" ulx="327" uly="881" lrx="1445" lry="912" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r14" ulx="33" uly="889" lrx="235" lry="910" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r31" ulx="272" uly="1485" lrx="748" lry="1514" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r1" ulx="328" uly="235" lrx="1449" lry="261" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r26" ulx="273" uly="1639" lrx="832" lry="1670" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r34" ulx="271" uly="2035" lrx="1236" lry="2066" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r20" ulx="744" uly="1170" lrx="1269" lry="1198" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r35" ulx="272" uly="2121" lrx="452" lry="2143" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r27" ulx="269" uly="1687" lrx="1409" lry="1725" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_429" uly="0" ulx="0" lry="2372" lrx="1576">
+			<graphic url="Abl_1981_2__S__0429.tif" width="1576px" height="2372px"/>
+			<zone xml:id="facs_429_r5" ulx="210" uly="443" lrx="1304" lry="477" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r6" ulx="135" uly="493" lrx="1302" lry="524" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r9" ulx="136" uly="862" lrx="302" lry="889" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r33" ulx="137" uly="1890" lrx="1305" lry="1919" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r24" ulx="137" uly="1471" lrx="1307" lry="1502" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r29" ulx="194" uly="1702" lrx="1302" lry="1734" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r28" ulx="195" uly="1657" lrx="1307" lry="1687" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r35" ulx="137" uly="1978" lrx="1309" lry="2008" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r18" ulx="139" uly="1294" lrx="1307" lry="1324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r22" ulx="1134" uly="1381" lrx="1298" lry="1409" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r19" ulx="137" uly="1338" lrx="1307" lry="1368" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r4" ulx="137" uly="375" lrx="498" lry="402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r12" ulx="139" uly="1025" lrx="1309" lry="1055" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r30" ulx="195" uly="1755" lrx="1311" lry="1786" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r3" ulx="135" uly="325" lrx="1304" lry="357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r11" ulx="139" uly="981" lrx="1309" lry="1012" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r1" ulx="218" uly="235" lrx="1303" lry="264" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r37" ulx="139" uly="2065" lrx="1307" lry="2096" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r31" ulx="141" uly="1798" lrx="1307" lry="1830" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r14" ulx="137" uly="1115" lrx="1311" lry="1145" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r25" ulx="139" uly="1519" lrx="634" lry="1548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r8" ulx="195" uly="619" lrx="1054" lry="649" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r21" ulx="908" uly="1381" lrx="1125" lry="1409" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r10" ulx="193" uly="935" lrx="1307" lry="966" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r7" ulx="133" uly="539" lrx="700" lry="570" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r20" ulx="137" uly="1383" lrx="891" lry="1414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r26" ulx="198" uly="1569" lrx="1304" lry="1599" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r15" ulx="139" uly="1158" lrx="1307" lry="1189" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r32" ulx="135" uly="1846" lrx="1308" lry="1875" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r34" ulx="137" uly="1932" lrx="1311" lry="1962" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r23" ulx="141" uly="1427" lrx="1303" lry="1456" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r2" ulx="137" uly="279" lrx="1304" lry="309" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r16" ulx="138" uly="1204" lrx="1312" lry="1236" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r17" ulx="135" uly="1248" lrx="1307" lry="1280" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r13" ulx="141" uly="1071" lrx="1305" lry="1101" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r0" ulx="1229" uly="152" lrx="1302" lry="174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r27" ulx="195" uly="1613" lrx="1304" lry="1645" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r36" ulx="139" uly="2021" lrx="1311" lry="2052" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r38" ulx="137" uly="2109" lrx="1308" lry="2139" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_430" uly="0" ulx="0" lry="2370" lrx="1583">
+			<graphic url="Abl_1981_2__S__0430.tif" width="1583px" height="2370px"/>
+			<zone xml:id="facs_430_r28" ulx="325" uly="1548" lrx="1445" lry="1577" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r29" ulx="268" uly="1590" lrx="1347" lry="1621" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r27" ulx="262" uly="1496" lrx="930" lry="1523" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r8" ulx="269" uly="600" lrx="792" lry="630" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r11" ulx="269" uly="762" lrx="665" lry="786" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r48" ulx="264" uly="2071" lrx="1243" lry="2102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r46" ulx="1236" uly="1948" lrx="1441" lry="1975" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r6" ulx="329" uly="491" lrx="560" lry="518" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r0" ulx="272" uly="154" lrx="342" lry="175" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r12" ulx="266" uly="812" lrx="842" lry="840" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r47" ulx="329" uly="2030" lrx="1443" lry="2058" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r14" ulx="270" uly="910" lrx="546" lry="938" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r36" ulx="325" uly="1807" lrx="656" lry="1833" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r41" ulx="1329" uly="1855" lrx="1441" lry="1877" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r15" ulx="329" uly="965" lrx="1447" lry="994" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r4" ulx="331" uly="383" lrx="1242" lry="415" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r5" ulx="325" uly="443" lrx="748" lry="470" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r42" ulx="327" uly="1898" lrx="646" lry="1922" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r1" ulx="271" uly="231" lrx="1449" lry="266" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r44" ulx="1322" uly="1900" lrx="1440" lry="1921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r21" ulx="271" uly="1229" lrx="1445" lry="1260" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r25" ulx="264" uly="1404" lrx="1447" lry="1435" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r17" ulx="269" uly="1054" lrx="1443" lry="1083" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r40" ulx="1237" uly="1855" lrx="1293" lry="1877" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r32" ulx="324" uly="1715" lrx="696" lry="1740" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r18" ulx="269" uly="1096" lrx="1445" lry="1127" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r30" ulx="1353" uly="1596" lrx="1447" lry="1623" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r10" ulx="269" uly="706" lrx="604" lry="733" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r38" ulx="1326" uly="1809" lrx="1440" lry="1832" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r13" ulx="329" uly="867" lrx="1447" lry="897" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r16" ulx="266" uly="1006" lrx="1449" lry="1038" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r26" ulx="264" uly="1450" lrx="1443" lry="1480" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r7" ulx="325" uly="546" lrx="1218" lry="576" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r33" ulx="1234" uly="1723" lrx="1439" lry="1744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r31" ulx="267" uly="1636" lrx="371" lry="1659" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r39" ulx="329" uly="1853" lrx="600" lry="1878" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r3" ulx="331" uly="333" lrx="832" lry="362" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r20" ulx="269" uly="1186" lrx="1443" lry="1215" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r35" ulx="1237" uly="1765" lrx="1441" lry="1789" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r19" ulx="268" uly="1140" lrx="1443" lry="1172" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r23" ulx="269" uly="1319" lrx="1445" lry="1350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r45" ulx="325" uly="1946" lrx="412" lry="1970" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r43" ulx="1234" uly="1900" lrx="1292" lry="1920" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r24" ulx="264" uly="1363" lrx="1443" lry="1391" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r34" ulx="323" uly="1763" lrx="583" lry="1788" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r2" ulx="272" uly="281" lrx="409" lry="305" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r9" ulx="269" uly="654" lrx="430" lry="679" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r22" ulx="270" uly="1273" lrx="1445" lry="1304" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r37" ulx="1233" uly="1811" lrx="1293" lry="1833" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_431" uly="0" ulx="0" lry="2368" lrx="1578">
+			<graphic url="Abl_1981_2__S__0431.tif" width="1578px" height="2368px"/>
+			<zone xml:id="facs_431_r17" ulx="135" uly="885" lrx="1305" lry="917" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r44" ulx="189" uly="2013" lrx="1302" lry="2044" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r15" ulx="1098" uly="760" lrx="1302" lry="785" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r28" ulx="129" uly="1373" lrx="1303" lry="1405" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r8" ulx="193" uly="579" lrx="433" lry="605" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r37" ulx="131" uly="1782" lrx="1306" lry="1814" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r30" ulx="129" uly="1463" lrx="1298" lry="1493" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r22" ulx="135" uly="1108" lrx="1304" lry="1140" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r45" ulx="131" uly="2057" lrx="1301" lry="2087" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r6" ulx="135" uly="450" lrx="1302" lry="480" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r40" ulx="131" uly="1919" lrx="500" lry="1949" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r26" ulx="133" uly="1286" lrx="1304" lry="1316" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r7" ulx="137" uly="496" lrx="1200" lry="526" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r16" ulx="191" uly="842" lrx="1304" lry="872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r21" ulx="135" uly="1063" lrx="1307" lry="1093" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r11" ulx="191" uly="667" lrx="708" lry="697" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r4" ulx="134" uly="360" lrx="1301" lry="392" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r10" ulx="191" uly="623" lrx="733" lry="652" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r13" ulx="191" uly="710" lrx="765" lry="738" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r9" ulx="1098" uly="575" lrx="1298" lry="598" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r2" ulx="135" uly="273" lrx="1303" lry="303" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r41" ulx="529" uly="1917" lrx="737" lry="1946" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r1" ulx="191" uly="229" lrx="1299" lry="258" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r31" ulx="131" uly="1509" lrx="1301" lry="1538" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r18" ulx="133" uly="929" lrx="1300" lry="960" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r36" ulx="129" uly="1736" lrx="1301" lry="1769" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r38" ulx="133" uly="1830" lrx="1300" lry="1859" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r24" ulx="133" uly="1198" lrx="1304" lry="1229" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r25" ulx="135" uly="1240" lrx="1303" lry="1272" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r19" ulx="133" uly="975" lrx="1300" lry="1006" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r33" ulx="130" uly="1602" lrx="297" lry="1627" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r20" ulx="135" uly="1017" lrx="1302" lry="1049" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r0" ulx="1224" uly="143" lrx="1294" lry="164" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r12" ulx="1099" uly="662" lrx="1300" lry="687" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r39" ulx="129" uly="1871" lrx="1303" lry="1902" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r32" ulx="131" uly="1552" lrx="1298" lry="1584" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r46" ulx="127" uly="2103" lrx="1303" lry="2132" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r35" ulx="131" uly="1692" lrx="1304" lry="1725" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r43" ulx="133" uly="1961" lrx="1190" lry="1993" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r42" ulx="751" uly="1917" lrx="1290" lry="1946" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r27" ulx="131" uly="1329" lrx="1301" lry="1361" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r14" ulx="1098" uly="706" lrx="1300" lry="731" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r3" ulx="137" uly="318" lrx="1301" lry="349" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r5" ulx="133" uly="406" lrx="1303" lry="437" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r23" ulx="133" uly="1152" lrx="1304" lry="1184" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r29" ulx="131" uly="1419" lrx="1302" lry="1450" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r34" ulx="189" uly="1650" lrx="1300" lry="1681" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_432" uly="0" ulx="0" lry="2371" lrx="1581">
+			<graphic url="Abl_1981_2__S__0432.tif" width="1581px" height="2371px"/>
+			<zone xml:id="facs_432_r31" ulx="266" uly="1589" lrx="1443" lry="1621" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r9" ulx="266" uly="600" lrx="1439" lry="626" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r8" ulx="266" uly="552" lrx="1441" lry="582" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r14" ulx="269" uly="820" lrx="1443" lry="848" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r3" ulx="268" uly="322" lrx="1445" lry="352" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r26" ulx="266" uly="1370" lrx="1441" lry="1400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r28" ulx="264" uly="1460" lrx="1439" lry="1488" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r30" ulx="266" uly="1548" lrx="1439" lry="1577" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r39" ulx="266" uly="1956" lrx="1443" lry="1985" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r32" ulx="264" uly="1633" lrx="1441" lry="1665" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r29" ulx="266" uly="1502" lrx="1439" lry="1532" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r23" ulx="323" uly="1235" lrx="1441" lry="1266" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r1" ulx="266" uly="235" lrx="1439" lry="263" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r42" ulx="262" uly="2089" lrx="1437" lry="2120" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r37" ulx="264" uly="1866" lrx="1441" lry="1897" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r27" ulx="264" uly="1412" lrx="1445" lry="1443" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r22" ulx="264" uly="1183" lrx="1059" lry="1213" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r12" ulx="264" uly="731" lrx="1439" lry="759" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r20" ulx="260" uly="1093" lrx="1439" lry="1124" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r11" ulx="266" uly="685" lrx="1439" lry="714" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r13" ulx="269" uly="772" lrx="1441" lry="803" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r5" ulx="266" uly="408" lrx="1441" lry="440" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r0" ulx="263" uly="149" lrx="336" lry="172" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r35" ulx="323" uly="1781" lrx="1437" lry="1807" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r36" ulx="266" uly="1825" lrx="1441" lry="1852" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r19" ulx="323" uly="1050" lrx="1439" lry="1079" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r7" ulx="320" uly="506" lrx="1441" lry="536" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r24" ulx="264" uly="1279" lrx="1441" lry="1309" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r17" ulx="262" uly="956" lrx="1439" lry="982" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r41" ulx="263" uly="2045" lrx="1441" lry="2075" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r33" ulx="266" uly="1681" lrx="1439" lry="1709" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r16" ulx="262" uly="910" lrx="1439" lry="938" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r18" ulx="262" uly="1000" lrx="727" lry="1026" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r25" ulx="264" uly="1325" lrx="1441" lry="1352" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r40" ulx="262" uly="2000" lrx="1439" lry="2030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r38" ulx="265" uly="1910" lrx="1443" lry="1941" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r10" ulx="269" uly="643" lrx="1441" lry="670" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r2" ulx="270" uly="277" lrx="1439" lry="306" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r21" ulx="264" uly="1141" lrx="1437" lry="1169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r15" ulx="266" uly="862" lrx="1441" lry="894" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r34" ulx="262" uly="1729" lrx="464" lry="1752" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r4" ulx="266" uly="366" lrx="1443" lry="395" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r6" ulx="262" uly="454" lrx="611" lry="481" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_433" uly="0" ulx="0" lry="2368" lrx="1577">
+			<graphic url="Abl_1981_2__S__0433.tif" width="1577px" height="2368px"/>
+			<zone xml:id="facs_433_r12" ulx="137" uly="702" lrx="1307" lry="737" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r5" ulx="135" uly="393" lrx="1310" lry="430" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r27" ulx="350" uly="1427" lrx="621" lry="1458" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r14" ulx="141" uly="794" lrx="1310" lry="828" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r15" ulx="141" uly="835" lrx="1311" lry="870" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r25" ulx="143" uly="1292" lrx="730" lry="1325" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r19" ulx="141" uly="1021" lrx="891" lry="1051" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r7" ulx="137" uly="481" lrx="1308" lry="514" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r11" ulx="137" uly="660" lrx="1309" lry="692" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r6" ulx="139" uly="437" lrx="1308" lry="472" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r29" ulx="628" uly="1569" lrx="869" lry="1595" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r10" ulx="137" uly="614" lrx="1314" lry="648" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r31" ulx="629" uly="1663" lrx="961" lry="1688" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r13" ulx="139" uly="750" lrx="1313" lry="782" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r23" ulx="141" uly="1200" lrx="1314" lry="1235" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r20" ulx="202" uly="1069" lrx="1316" lry="1104" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r28" ulx="623" uly="1517" lrx="1147" lry="1543" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r3" ulx="137" uly="304" lrx="1307" lry="337" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r2" ulx="135" uly="260" lrx="1307" lry="293" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r21" ulx="146" uly="1113" lrx="1312" lry="1147" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r24" ulx="143" uly="1244" lrx="1316" lry="1280" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r26" ulx="141" uly="1429" lrx="342" lry="1460" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r18" ulx="141" uly="971" lrx="1315" lry="1006" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r0" ulx="1231" uly="131" lrx="1301" lry="153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r30" ulx="632" uly="1615" lrx="823" lry="1637" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r4" ulx="137" uly="350" lrx="1305" lry="384" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r16" ulx="140" uly="881" lrx="1305" lry="916" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r9" ulx="138" uly="571" lrx="1310" lry="604" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r22" ulx="141" uly="1158" lrx="1312" lry="1193" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r17" ulx="139" uly="925" lrx="1312" lry="960" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r32" ulx="634" uly="1711" lrx="811" lry="1736" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r1" ulx="137" uly="218" lrx="1305" lry="252" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r8" ulx="139" uly="523" lrx="1312" lry="557" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1416" facs="#facs_428"/>
+			<p>
+				<add place="above" type="remark">
+					<lb facs="#facs_428_r31"/>Antrag des Regierungsrates vom <date when="1981-08-19">19.
+              August 1981</date></add>
+			</p>
+			<p>
+				<lb facs="#facs_428_r33"/>Der Kantonsrat,</p>
+			<p>
+				<lb facs="#facs_428_r34"/>nach Einsichtnahme in einen Antrag des Regierungsrates,</p>
+			<p>
+				<lb facs="#facs_428_r35"/>beschliesst:</p>
+			<pb n="1417" facs="#facs_429"/>
+			<p>
+				<lb facs="#facs_429_r1"/>I. Der Stiftung «Gottfried Keller-Zentrum», Glattfelden, wird<lb facs="#facs_429_r2"/>für die Errichtung des Gottfried Keller-Zentrums in Glattfelden
+            ein<lb facs="#facs_429_r3"/>einmaliger Beitrag von Fr. 1 500 000 zu Lasten des Fonds für
+            gemeinnüt<lb break="no" facs="#facs_429_r4"/>zige Zwecke gewährt.</p>
+			<p>
+				<lb facs="#facs_429_r5"/>II. Diese Leistung steht unter der Bedingung, dass die
+            politische<lb facs="#facs_429_r6"/>Gemeinde und die Kirchgemeinde Glattfelden einen
+          Baubeitrag von<lb facs="#facs_429_r7"/>insgesamt Fr. 1 000 000 erbringen.</p>
+			<p>
+				<lb facs="#facs_429_r8"/>III. Mitteilung an den Regierungsrat zum Vollzug.</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_429_r9"/>Weisung</head>
+				<p>
+					<lb facs="#facs_429_r10"/>Die Gemeinde Glattfelden möchte die Persönlichkeit und das
+              Werk<lb facs="#facs_429_r11"/>des Zürcher Dichters und ehemaligen Staatsschreibers
+            Gottfried Keller<lb facs="#facs_429_r12"/>durch die Errichtung und Führung eines
+            Gottfried Keller-Zentrums<lb facs="#facs_429_r13"/>würdigen. In diesem Bestreben soll im
+            alten Dorfkern in nächster Nähe<lb facs="#facs_429_r14"/>der reformierten Kirche eine
+            malerische Gruppe historisch und architek<lb break="no" facs="#facs_429_r15"/>tonisch
+            wertvoller, aber renovationsbedürftiger Liegenschaften instand<lb break="no" facs="#facs_429_r16"/>gestellt und ausser als Gedenkstätte der Öffentlichkeit auch für
+              kultu<lb break="no" facs="#facs_429_r17"/>relle Zwecke zur Verfügung gestellt werden.
+            Die bisherigen Eigentümer<lb facs="#facs_429_r18"/>haben inzwischen den ganzen
+            Gebäudekomplex einer Stiftung übertra<lb break="no" facs="#facs_429_r19"/>gen, die durch
+            die Gemeindeversammlung auf Antrag des Gemeindera<lb break="no" facs="#facs_429_r20"/>tes und der Kirchenpflege mit Beschluss vom <date when="1979-05-28">28. Mai
+              1979</date> unter dem<lb facs="#facs_429_r23"/>Namen Stiftung «Gottfried
+            Keller-Zentrum» mit Sitz in Glattfelden<lb facs="#facs_429_r24"/>errichtet worden ist.
+            Der Stiftungszweck wird in Art. 3 der Stiftungsur<lb break="no" facs="#facs_429_r25"/>kunde wie folgt umschrieben:</p>
+				<p>
+					<lb facs="#facs_429_r26"/>«Die Stiftung bezweckt, eine Gottfried Keller-Gedenkstätte in
+              den<lb facs="#facs_429_r27"/>als Stiftungsvermögen gewidmeten Liegenschaften in
+            Glattfelden zu<lb facs="#facs_429_r28"/>unterhalten. Das Gottfried Keller-Zentrum soll
+            kulturellen Veran<lb break="no" facs="#facs_429_r29"/>staltungen dienen und der
+            Öffentlichkeit allgemein zugänglich sein.»</p>
+				<p>
+					<lb facs="#facs_429_r30"/>Dementsprechend sind Räume für kulturelle Zwecke
+              vorgesehen.<lb facs="#facs_429_r31"/>und zwar für die Gemeindebibliothek, Vorträge,
+            Konzerte, Sitzungen<lb facs="#facs_429_r32"/>und für ein Foyer für Ausstellungen, ein
+            Café-Restaurant, Büros, aber<lb facs="#facs_429_r33"/>auch für drei Wohnungen zur
+            Sicherung eines angemessenen Ertrages.<lb facs="#facs_429_r34"/>Kernstück der Anlage
+            sollen jedoch Gottfried Keller gewidmete länd<lb break="no" facs="#facs_429_r35"/>lich-bescheidene Räume bilden, wo Gegenstände, Möbel, Bilder usw.<lb facs="#facs_429_r36"/>aus seinem Leben ausgestellt werden; diese werden von der
+              Zentralbi<lb break="no" facs="#facs_429_r37"/>bliothek in Zürich, welche sich als
+            Sachwalterin des Nachlasses von<lb facs="#facs_429_r38"/>Gottfried Keller an der
+            Ausstattung der Gedenkstätte beteiligt, leih-</p>
+				<pb n="1418" facs="#facs_430"/>
+				<p>
+					<lb facs="#facs_430_r1"/>und abwechslungsweise zur Verfügung gestellt, wie auch von
+              anderen<lb facs="#facs_430_r2"/>Gebern.</p>
+				<p>
+					<lb facs="#facs_430_r3"/>Das Raumprogramm umfasst:</p>
+				<p>
+					<lb facs="#facs_430_r4"/>- Gottfried Keller-Zentrum mit vier Ausstellungsräumen</p>
+				<p>
+					<lb facs="#facs_430_r5"/>- grossen Ausstellungsraum</p>
+				<p>
+					<lb facs="#facs_430_r6"/>- Galerieräume</p>
+				<p>
+					<lb facs="#facs_430_r7"/>- grosses Foyer mit Säli, Küchenoffice und Abstellraum</p>
+				<p>
+					<lb facs="#facs_430_r8"/>- drei geräumige Wohnungen</p>
+				<p>
+					<lb facs="#facs_430_r9"/>- Laden</p>
+				<p>
+					<lb facs="#facs_430_r10"/>- Café-Restaurant</p>
+				<p>
+					<lb facs="#facs_430_r11"/>- Gemeindebibliothek</p>
+				<p>
+					<lb facs="#facs_430_r12"/>- Schutz- und technische Räume</p>
+				<p>
+					<lb facs="#facs_430_r13"/>Die Räume werden wie folgt auf die drei Haupt- und zwei
+              Nebenge<lb break="no" facs="#facs_430_r14"/>bäude aufgeteilt:</p>
+				<p>
+					<lb facs="#facs_430_r15"/>Das ehemalige Bauernhaus aus dem frühen 18. Jahrhundert,
+              ein<lb facs="#facs_430_r16"/>typischer, baukünstlerisch wertvoller Riegelbau des
+            Zürcher Unterlan<lb break="no" facs="#facs_430_r17"/>des, wird zur eigentlichen
+            Gottfried Keller-Gedenkstätte ausgestaltet,<lb facs="#facs_430_r18"/>und zudem wird das
+            Gebäude eine Galerie, das Foyer mit dem Säli, eine<lb facs="#facs_430_r19"/>41/2-Zimmer-Wohnung und den grosszügigen Ausstellungsraum (Dach<lb break="no" facs="#facs_430_r20"/>geschoss) aufnehmen. Im zweiten Wohnhaus, einem
+              Bohlenständerbau<lb facs="#facs_430_r21"/>aus dem frühen 17. Jahrhundert mit
+            Eichenecksäulen, werden die<lb facs="#facs_430_r22"/>Gemeindebibliothek und zwei
+            Wohnungen eingerichtet, während die<lb facs="#facs_430_r23"/>zwischen diesen beiden
+            Hauptgebäuden liegende Scheune im Erdge<lb break="no" facs="#facs_430_r24"/>schoss zu
+            einem Café-Restaurant umgebaut wird und das Obergeschoss<lb facs="#facs_430_r25"/>die
+            Säli-Küche und Neben- und Abstellräume aufnehmen wird. Der<lb facs="#facs_430_r26"/>jetzige Schopf wird zu einem Laden ausgebaut, und das Waschhäuschen<lb facs="#facs_430_r27"/>soll als Geräte- und Lagerraum dienen.</p>
+				<p>
+					<lb facs="#facs_430_r28"/>Die Gesamtkosten werden durch den Architekten auf Basis
+              einer<lb facs="#facs_430_r29"/>detaillierten Kostenberechnung wie folgt veranschlagt
+            (Preisstand März<lb facs="#facs_430_r31"/>1980):</p>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_430_r32"/>Vorbereitungsarbeiten</cell>
+						<cell>
+							<lb facs="#facs_430_r33"/>Fr. 133 000</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_430_r34"/>Gebäudekosten</cell>
+						<cell>
+							<lb facs="#facs_430_r35"/>Fr. 2678 000</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_430_r36"/>Umgebungsarbeiten</cell>
+						<cell>
+							<lb facs="#facs_430_r37"/>Fr. 133 000</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_430_r39"/>Baunebenkosten</cell>
+						<cell>
+							<lb facs="#facs_430_r40"/>Fr. 104 000</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_430_r42"/>Ausstattungskosten</cell>
+						<cell>
+							<lb facs="#facs_430_r43"/>Fr. 127 000</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_430_r45"/>Total</cell>
+						<cell>
+							<lb facs="#facs_430_r46"/>Fr. 3 175 000</cell>
+					</row>
+				</table>
+				<p>
+					<lb facs="#facs_430_r47"/>Angesichts der inzwischen eingetretenen Bauteuerung muss
+              mit<lb facs="#facs_430_r48"/>einer Bausumme von rund Fr. 3 500000 gerechnet
+            werden.</p>
+				<pb n="1419" facs="#facs_431"/>
+				<p>
+					<lb facs="#facs_431_r1"/>Die Stiftung ist nicht in der Lage, diese Mittel selbst
+              aufzubringen.<lb facs="#facs_431_r2"/>Da zur Deckung der künftigen Betriebskosten nur
+            ein beschränkter<lb facs="#facs_431_r3"/>Ertrag aus der Vermietung der Wohnungen, des
+            Cafés und einzelner<lb facs="#facs_431_r4"/>Räume zur Verfügung steht, ist sie bestrebt,
+            die Baukosten möglichst<lb facs="#facs_431_r5"/>weitgehend durch Drittbeiträge zu
+            decken. Sie ist denn auch in einer<lb facs="#facs_431_r6"/>breit angelegten Aktion an
+            die öffentliche Hand, die Industrie und die<lb facs="#facs_431_r7"/>Banken gelangt,
+            wobei folgende Aufschlüsselung vorgesehen ist:</p>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_431_r8"/>Kanton Zürich</cell>
+						<cell>
+							<lb facs="#facs_431_r9"/>Fr. 1 500 000</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_431_r10"/>Politische Gemeinde Glattfelden<lb facs="#facs_431_r11"/>und Kirchgemeinde Glattfelden</cell>
+						<cell>
+							<lb facs="#facs_431_r12"/>Fr. 1 000 000</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_431_r13"/>Bund, Institutionen und Wirtschaft</cell>
+						<cell>
+							<lb facs="#facs_431_r14"/>Fr. 1 000 000</cell>
+					</row>
+					<row>
+						<cell/>
+						<cell>
+							<lb facs="#facs_431_r15"/>Fr. 3 500 000</cell>
+					</row>
+				</table>
+				<p>
+					<lb facs="#facs_431_r16"/>Die Schaffung des Gottfried Keller-Zentrums ermöglicht es,
+              die<lb facs="#facs_431_r17"/>Gebäudegruppe in der nächsten Umgebung der reformierten
+              Kirche<lb facs="#facs_431_r18"/>fachgerecht zu restaurieren und sie neu zu nutzen.
+            Damit erfährt ein<lb facs="#facs_431_r19"/>wesentlicher Teil des Ortsbildes von
+            Glattfelden angemessene Schutz<lb break="no" facs="#facs_431_r20"/>und Pflegemassnahmen,
+            was im Interesse der Allgemeinheit im Rahmen<lb facs="#facs_431_r21"/>des
+            Ortsbildschutzes liegt. Das Restaurierungs- und Umbauprojekt ist<lb facs="#facs_431_r22"/>denn auch in Zusammenarbeit mit der kantonalen Denkmalpflege aus<lb break="no" facs="#facs_431_r23"/>gearbeitet worden und trägt den denkmalpflegerischen Belangen
+              umfas<lb break="no" facs="#facs_431_r24"/>send Rechnung. Wie hoch diese Bauten als
+            Ensemble eingestuft wer<lb break="no" facs="#facs_431_r25"/>den, zeigt sich in den
+            Tatsachen, dass dem Ortsbild von Glattfelden<lb facs="#facs_431_r26"/>kantonale
+            Bedeutung beigemessen wird und dass der Regierungsrat für<lb facs="#facs_431_r27"/>zwei
+            vom jetzigen Projekt erfasste Gebäude 1972 und 1973 ein Abbruch<lb break="no" facs="#facs_431_r28"/>und Veränderungsverbot gemäss Bundesbeschluss über dringliche
+              Mass<lb break="no" facs="#facs_431_r29"/>nahmen auf dem Gebiete der Raumplanung bis
+            zum Entscheid über die<lb facs="#facs_431_r30"/>Schutzwürdigkeit verfügt hat. Bei der
+            Einreihung der Ortsbilder von<lb facs="#facs_431_r31"/>kantonaler Bedeutung wurde
+            Zurückhaltung geübt, um dieser Einstu<lb break="no" facs="#facs_431_r32"/>fung das
+            angestrebte Gewicht als besonders wertvolle Ortsbilder zu<lb facs="#facs_431_r33"/>verleihen.</p>
+				<p>
+					<lb facs="#facs_431_r34"/>Von den Gesamtkosten von Fr. 3 500000 (aktueller Preisstand)
+              kön<lb break="no" facs="#facs_431_r35"/>nen gemäss Ermittlung der Kantonalen
+            Denkmalpflege Fr. 1 480 000 als<lb facs="#facs_431_r36"/>gebäudeerhaltende, und somit
+            aus denkmalpflegerischer Sicht als sub<lb break="no" facs="#facs_431_r37"/>ventionsberechtigte Aufwendungen anerkannt werden. Gemäss § 24 der<lb facs="#facs_431_r38"/>Verordnung über Staatsbeiträge an nachgeordnete Planungen und
+              an<lb facs="#facs_431_r39"/>Massnahmen für den Natur- und Heimatschutz und für
+              kommunale<lb facs="#facs_431_r40"/>Erholungsgebiete vom <date when="1977-07-06">6.
+              Juli 1977</date> kann allein schon unter diesem<lb facs="#facs_431_r43"/>Aspekt ein
+            Beitrag von 30%, d.h. Fr. 445 000, gewährt werden.</p>
+				<p>
+					<lb facs="#facs_431_r44"/>Die Erhaltung und Instandstellung dieser Gebäudegruppe kann
+              mit<lb facs="#facs_431_r45"/>den beiden Zielsetzungen der Stiftung, der Schaffung
+            einer Gottfried<lb facs="#facs_431_r46"/>Keller-Gedenkstätte und eines kulturellen
+            Zentrums, in überzeugender</p>
+				<pb n="1420" facs="#facs_432"/>
+				<p>
+					<lb facs="#facs_432_r1"/>Weise verbunden werden, was auch aus denkmalpflegerischer Sicht
+              ein<lb facs="#facs_432_r2"/>Grundanliegen bildet. Die Restaurierung alter Gebäude ist
+            mittel- und<lb facs="#facs_432_r3"/>langfristig vor allem dann angezeigt, wenn die
+            bisherige Zweckbestim<lb break="no" facs="#facs_432_r4"/>mung, sei es als Wohnraum oder
+            öffentliches Gebäude, gesichert oder<lb facs="#facs_432_r5"/>neue, lebensfähige
+            Zweckbestimmungen festgelegt werden können, wie<lb facs="#facs_432_r6"/>dies hier der
+            Fall ist.</p>
+				<p>
+					<lb facs="#facs_432_r7"/>Durch die Errichtung der Stiftung hat die
+              Gemeindeversammlung<lb facs="#facs_432_r8"/>Glattfelden die mit dem Zentrum
+            angestrebten Zielsetzungen befürwor<lb break="no" facs="#facs_432_r9"/>tet, die
+            einerseits umfassenden kulturellen Interessen gerecht werden<lb facs="#facs_432_r10"/>und anderseits dem Gemeindeleben dienen. Aber auch aus der Sicht des<lb facs="#facs_432_r11"/>Kantons Zürich verdienen die Würdigung der Persönlichkeit und
+              die<lb facs="#facs_432_r12"/>Förderung und Erhaltung des Werkes von Gottfried Keller
+              besondere<lb facs="#facs_432_r13"/>Unterstützung. Für beide Gemeinwesen bildet dabei
+            neben den persön<lb break="no" facs="#facs_432_r14"/>lichen Beziehungen des Geehrten zu
+            ihrem Lebens- und Hoheitsgebiet<lb facs="#facs_432_r15"/>die mit dem Gedenken an den
+            Dichter geförderte ideelle Komponente<lb facs="#facs_432_r16"/>ein Hauptanliegen, wird
+            Gottfried Keller ja nicht nur zu den bedeutend<lb break="no" facs="#facs_432_r17"/>sten
+            Dichtern des deutschschweizerischen, sondern des ganzen deut<lb break="no" facs="#facs_432_r18"/>schen Sprachraums gezählt.</p>
+				<p>
+					<lb facs="#facs_432_r19"/>Das Eidgenössische Departement des Innern hat mitgeteilt, dass
+              das<lb facs="#facs_432_r20"/>zuständige Bundesamt die Leistung eines Bundesbeitrages
+            prüfe. Ein<lb facs="#facs_432_r21"/>endgültiger Entscheid wird allerdings erst getroffen
+            werden können,<lb facs="#facs_432_r22"/>wenn die Zuwendung des Kantons gesichert
+            ist.</p>
+				<p>
+					<lb facs="#facs_432_r23"/>Die Finanzierung des Gesamtprojekts mit einem Kostenaufwand<lb facs="#facs_432_r24"/>von Fr. 3500000 kann durch die nur rund 2500 Einwohner
+              zählende<lb facs="#facs_432_r25"/>Gemeinde Glattfelden (Steuerfuss ohne Kirchensteuer
+            130%) nicht<lb facs="#facs_432_r26"/>allein getragen werden. Wohl ist im Sinne der
+            erwähnten Verankerung<lb facs="#facs_432_r27"/>des Zentrums bei Behörden und Bevölkerung
+            der Standort- und Hei<lb break="no" facs="#facs_432_r28"/>matgemeinde davon auszugehen,
+            dass sie einen vertretbar grossen<lb facs="#facs_432_r29"/>Anteil der Baukosten
+            übernimmt und dadurch angemessen zur weitge<lb break="no" facs="#facs_432_r30"/>henden
+            Entlastung der Stiftung vom Kapitaldienst für Fremdkapital<lb facs="#facs_432_r31"/>beiträgt. Die politische und die Kirchgemeinde sind deshalb bereit, der<lb facs="#facs_432_r32"/>Gemeindeversammlung bzw. der Kirchgemeindeversammlung einma<lb break="no" facs="#facs_432_r33"/>lige Beiträge von Fr. 600000 bzw. Fr. 400000 an die
+            Baukosten zu<lb facs="#facs_432_r34"/>beantragen.</p>
+				<p>
+					<lb facs="#facs_432_r35"/>Das von der Stiftung dem Kanton unterbreitete Gesuch um
+              einen<lb facs="#facs_432_r36"/>einmaligen Baukostenbeitrag von Fr. 1 500000 strebt
+            eine recht hohe<lb facs="#facs_432_r37"/>Zuwendung an. Bei der Beurteilung der
+            Beitragshöhe ist zu beachten,<lb facs="#facs_432_r38"/>dass sowohl die
+            denkmalpflegerischen Aspekte im Ortsbild von kanto<lb break="no" facs="#facs_432_r39"/>naler Bedeutung wie auch die kulturellen Gegebenheiten umfasst wer<lb break="no" facs="#facs_432_r40"/>den. Die von der Person des Dichters getrennte, nur
+              denkmalpflegeri<lb break="no" facs="#facs_432_r41"/>sche Prüfung führt, wie vorne
+            dargelegt, zu einem Beitrag des Kantons<lb facs="#facs_432_r42"/>von rund Fr. 450000.
+            Bei aller Würdigung der denkmalpflegerischen</p>
+				<pb n="1421" facs="#facs_433"/>
+				<p>
+					<lb facs="#facs_433_r1"/>Belange kommt aber dem Zentrum in erster Linie ideelle
+            Bedeutung zu<lb facs="#facs_433_r2"/>im Sinne der Schaffung einer Gottfried
+            Keller-Gedenkstätte und der<lb facs="#facs_433_r3"/>damit verbundenen Förderung und
+            Verbreitung des Werkes des Dich<lb break="no" facs="#facs_433_r4"/>ters. Ein gut
+            geführtes Zentrum, das den kulturellen Anforderungen<lb facs="#facs_433_r5"/>gerecht
+            wird. aber auch den finanziellen Anforderungen realistisch<lb facs="#facs_433_r6"/>Rechnung trägt, kann wertvolle Impulse im Sinne der festgelegten<lb facs="#facs_433_r7"/>Zielsetzungen vermitteln. Es rechtfertigt sich demnach, dass der
+              Kanton<lb facs="#facs_433_r8"/>Zürich das Projekt durch einen angemessenen einmaligen
+              Baubeitrag<lb facs="#facs_433_r9"/>unterstützt. Er will damit wesentlich dazu
+            beitragen, dass die Betriebs<lb break="no" facs="#facs_433_r10"/>kosten durch die
+            Stiftung und die politischen und kirchlichen Organisa<lb break="no" facs="#facs_433_r11"/>tionen der Gemeinde Glattfelden allein getragen werden können. Eine<lb facs="#facs_433_r12"/>solche Zuwendung, die auch Voraussetzung für einen Bundesbeitrag
+              bil<lb break="no" facs="#facs_433_r13"/>det, erfüllt den Zweck einer langfristigen
+            Wirkung aber nur, wenn in der<lb facs="#facs_433_r14"/>Heimatgemeinde nicht nur die
+            ideelle, sondern auch die finanzielle<lb facs="#facs_433_r15"/>Bereitschaft besteht, in
+            vertretbarer Weise die Grundlagen für die Ge<lb break="no" facs="#facs_433_r16"/>denkstätte zu schaffen. Die in Aussicht stehende Beteiligung der politi<lb break="no" facs="#facs_433_r17"/>schen und der Kirchgemeinde im Betrage von insgesamt Fr. 1000
+              000<lb facs="#facs_433_r18"/>kann als angemessene Leistung betrachtet werden, welche
+            auch eine<lb facs="#facs_433_r19"/>höhere Zuwendung des Kantons rechtfertigt.</p>
+				<p>
+					<lb facs="#facs_433_r20"/>Der Regierungsrat beantragt deshalb dem Kantonsrat, der
+              Stiftung<lb facs="#facs_433_r21"/>unter allen Titeln, einschliesslich Denkmalpflege,
+            einen einmaligen<lb facs="#facs_433_r22"/>Baubeitrag von pauschal Fr. 1500 000 zu Lasten
+            des Fonds für gemein<lb break="no" facs="#facs_433_r23"/>nützige Zwecke unter der
+            Bedingung zu gewähren, dass die politische<lb facs="#facs_433_r24"/>und die
+            Kirchgemeinde Glattfelden zusammen einen Baubeitrag von<lb facs="#facs_433_r25"/>mindestens Fr. 1000 000 erbringen.</p>
+				<p>
+					<lb facs="#facs_433_r26"/>Zürich, den <date when="1981-08-19">19. August 1981</date></p>
+				<p>
+					<lb facs="#facs_433_r28"/>Im Namen des Regierungsrates</p>
+				<p>
+					<lb facs="#facs_433_r29"/>Der Präsident:<lb facs="#facs_433_r30"/>Wiederkehr</p>
+				<p>
+					<lb facs="#facs_433_r31"/>Der Staatsschreiber:<lb facs="#facs_433_r32"/>Roggwiller</p>
+			</div>
+		</body></text></TEI>

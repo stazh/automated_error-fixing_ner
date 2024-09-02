@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Beschluss des Regierungsrates über die
+          Anordnung der kantonalen Volksabstimmung vom 26. September 1982 (vom 2. Juni
+            1982)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-06-04">04.06.1982</date><ident>StAZH ABl 1982 (S. 690-691)</ident><idno>690–691</idno><idno type="issue">24</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132698"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_2" uly="0" ulx="0" lry="2402" lrx="1590">
+			<graphic url="Abl_1982_2__S__0002.tif" width="1590px" height="2402px"/>
+			<zone xml:id="facs_2_r26" ulx="297" uly="1472" lrx="1010" lry="1501" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r8" ulx="393" uly="660" lrx="1331" lry="694" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r17" ulx="360" uly="1096" lrx="1427" lry="1129" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r34" ulx="353" uly="1932" lrx="1473" lry="1963" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r13" ulx="362" uly="902" lrx="773" lry="931" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r33" ulx="357" uly="1876" lrx="1039" lry="1909" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r3" ulx="310" uly="337" lrx="379" lry="368" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r10" ulx="362" uly="758" lrx="1481" lry="790" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r16" ulx="306" uly="1050" lrx="1481" lry="1085" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r19" ulx="358" uly="1198" lrx="600" lry="1225" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r0" ulx="306" uly="145" lrx="360" lry="165" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r30" ulx="295" uly="1703" lrx="1475" lry="1733" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r7" ulx="306" uly="535" lrx="800" lry="567" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r4" ulx="402" uly="335" lrx="815" lry="368" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r2" ulx="306" uly="281" lrx="1400" lry="317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r11" ulx="362" uly="806" lrx="616" lry="831" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r12" ulx="306" uly="854" lrx="1480" lry="888" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r1" ulx="310" uly="223" lrx="931" lry="261" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r35" ulx="293" uly="1974" lrx="716" lry="2007" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r31" ulx="296" uly="1747" lrx="483" lry="1774" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r25" ulx="375" uly="1424" lrx="1481" lry="1458" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r32" ulx="293" uly="1828" lrx="529" lry="1853" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r28" ulx="355" uly="1601" lrx="1044" lry="1634" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r5" ulx="308" uly="412" lrx="383" lry="441" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r23" ulx="681" uly="1349" lrx="1025" lry="1379" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r6" ulx="400" uly="410" lrx="625" lry="441" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r14" ulx="304" uly="954" lrx="1479" lry="986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r29" ulx="356" uly="1657" lrx="1475" lry="1687" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r18" ulx="304" uly="1148" lrx="1473" lry="1181" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r20" ulx="302" uly="1246" lrx="1479" lry="1279" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r27" ulx="297" uly="1553" lrx="529" lry="1579" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r22" ulx="297" uly="1346" lrx="673" lry="1377" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r9" ulx="306" uly="717" lrx="1481" lry="746" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r24" ulx="1033" uly="1351" lrx="1198" lry="1380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r15" ulx="362" uly="998" lrx="1446" lry="1030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r21" ulx="360" uly="1294" lrx="714" lry="1323" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_3" uly="0" ulx="0" lry="2397" lrx="1589">
+			<graphic url="Abl_1982_2__S__0003.tif" width="1589px" height="2397px"/>
+			<zone xml:id="facs_3_r35" ulx="959" uly="2076" lrx="1136" lry="2102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r17" ulx="173" uly="1125" lrx="1285" lry="1155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r0" ulx="1221" uly="147" lrx="1276" lry="171" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r34" ulx="959" uly="2032" lrx="1291" lry="2057" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r3" ulx="170" uly="339" lrx="1277" lry="368" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r2" ulx="170" uly="287" lrx="852" lry="316" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r21" ulx="114" uly="1346" lrx="312" lry="1369" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r1" ulx="108" uly="239" lrx="337" lry="265" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r6" ulx="106" uly="514" lrx="339" lry="542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r9" ulx="110" uly="660" lrx="1282" lry="689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r22" ulx="173" uly="1417" lrx="1286" lry="1446" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r5" ulx="110" uly="435" lrx="307" lry="463" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r7" ulx="170" uly="564" lrx="851" lry="593" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r20" ulx="110" uly="1292" lrx="1287" lry="1324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r31" ulx="598" uly="1980" lrx="1119" lry="2006" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r12" ulx="173" uly="839" lrx="855" lry="870" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r28" ulx="175" uly="1757" lrx="927" lry="1787" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r30" ulx="319" uly="1890" lrx="527" lry="1918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r19" ulx="169" uly="1248" lrx="1285" lry="1277" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r27" ulx="114" uly="1675" lrx="784" lry="1704" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r16" ulx="164" uly="1071" lrx="854" lry="1101" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r13" ulx="168" uly="887" lrx="1284" lry="921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r8" ulx="164" uly="612" lrx="1278" lry="643" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r26" ulx="112" uly="1629" lrx="1286" lry="1661" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r29" ulx="114" uly="1892" lrx="310" lry="1921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r25" ulx="191" uly="1582" lrx="1286" lry="1613" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r15" ulx="112" uly="1023" lrx="341" lry="1049" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r14" ulx="110" uly="942" lrx="350" lry="971" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r33" ulx="597" uly="2078" lrx="708" lry="2104" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r32" ulx="600" uly="2032" lrx="840" lry="2058" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r10" ulx="112" uly="710" lrx="299" lry="735" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r4" ulx="112" uly="381" lrx="1279" lry="413" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r11" ulx="112" uly="792" lrx="343" lry="817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r23" ulx="110" uly="1456" lrx="1288" lry="1488" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r18" ulx="108" uly="1169" lrx="1017" lry="1201" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r24" ulx="114" uly="1513" lrx="258" lry="1538" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="690" facs="#facs_2"/>
+			<p>
+				<lb facs="#facs_2_r7"/>Der Regierungsrat beschliesst:</p>
+			<p>
+				<lb facs="#facs_2_r8"/>I. Die kantonale Volksabstimmung über die Vorlagen:</p>
+			<p>
+				<lb facs="#facs_2_r9"/>1. Verfassungsgesetz über das Verhältnis zwischen Staat, Kirchen
+            und<lb facs="#facs_2_r10"/>religiösen Gemeinschaften (Änderung von Art. 16 und 64 der
+            Kan<lb break="no" facs="#facs_2_r11"/>tonsverfassung)</p>
+			<p>
+				<lb facs="#facs_2_r12"/>2. Einführungsgesetz zum Bundesgesetz über die Kranken- und
+            Unfall<lb break="no" facs="#facs_2_r13"/>versicherung (Änderung)</p>
+			<p>
+				<lb facs="#facs_2_r14"/>3. Beschluss des Kantonsrates über die Bewilligung eines Kredites
+            für<lb facs="#facs_2_r15"/>den Bau einer Psychiatrischen Klinik für Kinder und
+          Jugendliche</p>
+			<p>
+				<lb facs="#facs_2_r16"/>4. Beschluss des Kantonsrates über die Bewilligung eines Kredites
+            für<lb facs="#facs_2_r17"/>den Ausbau und die Erneuerung des Kantonsspitals
+          Winterthur</p>
+			<p>
+				<lb facs="#facs_2_r18"/>5. Volksinitiative zur Förderung des Erwerbs von Haus- und Woh<lb break="no" facs="#facs_2_r19"/>nungseigentum</p>
+			<p>
+				<lb facs="#facs_2_r20"/>6. Volksinitiative zu einem Gesetz zum Schutz von preis- und
+            mietzins<lb break="no" facs="#facs_2_r21"/>günstigem Wohnraum</p>
+			<p>
+				<lb facs="#facs_2_r22"/>wird auf Sonntag, den <date when="1982-09-26">26. September
+            1982,</date> angesetzt.</p>
+			<p>
+				<lb facs="#facs_2_r25"/>II. Den Stimmberechtigten werden die nachstehenden Fragen zur<lb facs="#facs_2_r26"/>Beantwortung mit Ja oder Nein vorgelegt:</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_2_r27"/>Stimmzettel 1</head>
+				<p>
+					<lb facs="#facs_2_r28"/>Wollen Sie folgende Vorlage annehmen?</p>
+				<p>
+					<lb facs="#facs_2_r29"/>Verfassungsgesetz über das Verhältnis zwischen Staat, Kirchen
+              und<lb facs="#facs_2_r30"/>religiösen Gemeinschaften (Änderung von Art. 16 und 64 der
+              Kantons<lb break="no" facs="#facs_2_r31"/>verfassung)</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_2_r32"/>Stimmzettel 2</head>
+				<p>
+					<lb facs="#facs_2_r33"/>Wollen Sie folgende Vorlage annehmen?</p>
+				<p>
+					<lb facs="#facs_2_r34"/>Einführungsgesetz zum Bundesgesetz über die Kranken- und
+              Unfall<lb break="no" facs="#facs_2_r35"/>versicherung (Änderung)</p>
+			</div>
+			<pb n="691" facs="#facs_3"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_3_r1"/>Stimmzettel 3</head>
+				<p>
+					<lb facs="#facs_3_r2"/>Wollen Sie folgende Vorlage annehmen?<lb facs="#facs_3_r3"/>Beschluss des Kantonsrates über die Bewilligung eines Kredites von<lb facs="#facs_3_r4"/>Fr. 18 150 000 für den Bau einer Psychiatrischen Klinik für Kinder
+              und<lb facs="#facs_3_r5"/>Jugendliche</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_3_r6"/>Stimmzettel 4</head>
+				<p>
+					<lb facs="#facs_3_r7"/>Wollen Sie folgende Vorlage annehmen?<lb facs="#facs_3_r8"/>Beschluss des Kantonsrates über die Bewilligung eines Kredites von<lb facs="#facs_3_r9"/>Fr. 32 300 000 für den Ausbau und die Erneuerung des
+              Kantonsspitals<lb facs="#facs_3_r10"/>Winterthur</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_3_r11"/>Stimmzettel 5</head>
+				<p>
+					<lb facs="#facs_3_r12"/>Wollen Sie folgende Vorlage annehmen?<lb facs="#facs_3_r13"/>Volksinitiative zur Förderung des Erwerbs von Haus- und Woh<lb break="no" facs="#facs_3_r14"/>nungseigentum</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_3_r15"/>Stimmzettel 6</head>
+				<p>
+					<lb facs="#facs_3_r16"/>Wollen Sie folgende Vorlage annehmen?<lb facs="#facs_3_r17"/>Volksinitiative betreffend ein Gesetz zum Schutz von preis- und<lb facs="#facs_3_r18"/>mietzinsgünstigem Wohnraum (Wohnschutz-Initiative)</p>
+				<p>
+					<lb facs="#facs_3_r19"/>III. Die Gemeinderäte erlassen die Veröffentlichungen gemäss<lb facs="#facs_3_r20"/>§ 14 der Vollziehungsverordnung zum Wahlgesetz in den
+              vorgeschriebe<lb break="no" facs="#facs_3_r21"/>nen Fristen.</p>
+				<p>
+					<lb facs="#facs_3_r22"/>IV. Die Wahlbüros melden die Abstimmungsergebnisse unverzüge<lb facs="#facs_3_r23"/>lich telefonisch der Direktion des Innern (Tel. 01 259 11 11;
+            10.30 bis<lb facs="#facs_3_r24"/>16 Uhr).</p>
+				<p>
+					<lb facs="#facs_3_r25"/>V. Veröffentlichung im Amtsblatt, Textteil, und Mitteilung in<lb facs="#facs_3_r26"/>besonderen Abzügen an die Präsidenten der Stadt- und
+              Gemeinderäte<lb facs="#facs_3_r27"/>(für sich und zuhanden der Wahlbüros).</p>
+				<p>
+					<lb facs="#facs_3_r28"/>VI. Mitteilung an die Direktion des Innern.</p>
+				<p>
+					<lb facs="#facs_3_r29"/>Zürich, den <date when="1982-06-02">2. Juni 1982</date></p>
+				<p>
+					<lb facs="#facs_3_r31"/>Im Namen des Regierungsrates</p>
+				<p>
+					<lb facs="#facs_3_r32"/>Der Präsident:<lb facs="#facs_3_r33"/>Gilgen</p>
+				<p>
+					<lb facs="#facs_3_r34"/>Der Staatsschreiber:<lb facs="#facs_3_r35"/>Roggwiller</p>
+			</div>
+		</body></text></TEI>

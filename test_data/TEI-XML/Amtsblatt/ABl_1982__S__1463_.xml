@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] vom 29. September 1982</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-12-17">17.12.1982</date><ident>StAZH ABl 1982 (S. 1463)</ident><idno>1463</idno><idno type="issue">51</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132895"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_775" uly="0" ulx="0" lry="2336" lrx="1580">
+			<graphic url="Abl_1982_2__S__0775.tif" width="1580px" height="2336px"/>
+			<zone xml:id="facs_775_r47" ulx="168" uly="2019" lrx="471" lry="2043" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r46" ulx="173" uly="1969" lrx="1344" lry="2000" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r32" ulx="662" uly="1502" lrx="940" lry="1529" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r7" ulx="177" uly="427" lrx="1352" lry="455" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r15" ulx="179" uly="787" lrx="1352" lry="817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r34" ulx="172" uly="1633" lrx="1342" lry="1663" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r19" ulx="175" uly="964" lrx="1346" lry="994" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r33" ulx="173" uly="1587" lrx="1331" lry="1618" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r36" ulx="169" uly="1729" lrx="1002" lry="1760" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r26" ulx="175" uly="1239" lrx="1349" lry="1269" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r21" ulx="177" uly="1062" lrx="1349" lry="1093" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r24" ulx="175" uly="1196" lrx="827" lry="1225" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r9" ulx="179" uly="523" lrx="590" lry="551" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r30" ulx="175" uly="1377" lrx="1017" lry="1405" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r11" ulx="179" uly="608" lrx="1348" lry="639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r31" ulx="583" uly="1506" lrx="642" lry="1530" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r3" ulx="179" uly="289" lrx="1065" lry="320" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r40" ulx="742" uly="1775" lrx="1015" lry="1806" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r10" ulx="179" uly="564" lrx="1340" lry="594" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r17" ulx="177" uly="875" lrx="1350" lry="906" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r28" ulx="979" uly="1287" lrx="1169" lry="1314" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r20" ulx="177" uly="1008" lrx="1073" lry="1039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r4" ulx="1083" uly="293" lrx="1350" lry="320" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r23" ulx="178" uly="1154" lrx="1349" lry="1182" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r27" ulx="177" uly="1287" lrx="973" lry="1317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r38" ulx="172" uly="1773" lrx="452" lry="1804" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r44" ulx="1202" uly="1877" lrx="1343" lry="1902" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r37" ulx="1017" uly="1733" lrx="1346" lry="1761" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r35" ulx="174" uly="1675" lrx="1222" lry="1707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r6" ulx="179" uly="379" lrx="1350" lry="408" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r29" ulx="175" uly="1331" lrx="1346" lry="1359" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r39" ulx="460" uly="1773" lrx="733" lry="1805" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r5" ulx="178" uly="335" lrx="1348" lry="365" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r1" ulx="564" uly="204" lrx="623" lry="230" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r2" ulx="642" uly="202" lrx="976" lry="231" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r14" ulx="173" uly="741" lrx="1346" lry="774" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r18" ulx="177" uly="921" lrx="927" lry="949" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r8" ulx="179" uly="470" lrx="303" lry="494" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r22" ulx="179" uly="1112" lrx="477" lry="1136" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r41" ulx="170" uly="1827" lrx="1347" lry="1858" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r16" ulx="179" uly="831" lrx="1346" lry="861" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r45" ulx="170" uly="1921" lrx="234" lry="1942" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r25" ulx="835" uly="1196" lrx="1027" lry="1225" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r12" ulx="179" uly="654" lrx="800" lry="683" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r13" ulx="175" uly="700" lrx="1346" lry="728" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r42" ulx="169" uly="1871" lrx="1106" lry="1902" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r0" ulx="1278" uly="118" lrx="1349" lry="141" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_775_r43" ulx="1115" uly="1877" lrx="1195" lry="1904" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1463" facs="#facs_775"/>
+			<p>
+				<lb facs="#facs_775_r3"/>Der Regierungsrat beantragt dem Kantonsrat, die am <date when="1981-08-17">17. August 1981</date><lb facs="#facs_775_r5"/>überwiesene
+            Einzelinitiative für die Schaffung eines Gesetzesinstrumen<lb break="no" facs="#facs_775_r6"/>tariums zum Schutz der Schul- und Wohnquartiere vor den
+              Auswirkun<lb break="no" facs="#facs_775_r7"/>gen des Sexgewerbes nicht definitiv zu
+            unterstützen, sondern abzu<lb break="no" facs="#facs_775_r8"/>lehnen.</p>
+			<p>
+				<lb facs="#facs_775_r9"/>Es sind gewählt worden:<lb facs="#facs_775_r10"/>Als Prorektor
+            am Mathematisch-naturwissenschaftlichen Gymnasium<lb facs="#facs_775_r11"/>der
+            Kantonsschule Rämibühl Zürich: Ernst Schmid, Dipl. Math. ETH,<lb facs="#facs_775_r12"/>von Eglisau und Zurzach, in Eglisau;<lb facs="#facs_775_r13"/>beim Steueramt: als
+            Sekretäre der Rechtsabteilung: Hans Peter Derk<lb break="no" facs="#facs_775_r14"/>sen,
+            lic.iur ., von Feuerthalen und Basel, in Horgen; Jürg Dubs, Dr. iur .,<lb facs="#facs_775_r15"/>von Zürich und Aesch, in Greifensee; Peter Kubli, lic. iur .,
+            von Netstal<lb facs="#facs_775_r16"/>GL, in Küsnacht; als Steuerkommissäre: Hans Eggler,
+            von Wollerau<lb facs="#facs_775_r17"/>SZ, in Eglisau; Christian Müller, von Löhningen
+            SH, in Schlieren;<lb facs="#facs_775_r18"/>Béatrice Wetter, lic. iur ., von und in
+              Zürich;<lb facs="#facs_775_r19"/>als Ingenieur bei der Verkehrstechnischen Abteilung
+            der Kantonspoli<lb break="no" facs="#facs_775_r20"/>zei: Fridolin Bühlmann, von Emmen
+            LU, in Benglen.<lb facs="#facs_775_r21"/>Unter Verdankung der geleisteten Dienste sind
+            aus dem Staatsdienst<lb facs="#facs_775_r22"/>entlassen worden:<lb facs="#facs_775_r23"/>Walter Brunner, Dr. sc. techn ., Leiter der Zentralwäscherei Zürich,<lb facs="#facs_775_r24"/>entsprechend seinem Gesuch auf Ende <date when="1983-04">April
+              1983;</date><lb facs="#facs_775_r26"/>Beat Bosshardt, Ingenieur beim Amt für
+            technische Anlagen und Luft<lb break="no" facs="#facs_775_r27"/>hygiene, entsprechend
+            seinem Gesuch auf Ende Dezember;<lb facs="#facs_775_r29"/>Max Romang, Beamter für Wertschriftenbewertung beim
+              Steueramt,<lb facs="#facs_775_r30"/>entsprechend seinem Gesuch auf Ende Dezember.</p>
+		</body></text></TEI>

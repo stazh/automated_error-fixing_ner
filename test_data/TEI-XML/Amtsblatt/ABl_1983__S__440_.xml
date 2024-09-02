@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 213. Sitzung. Montag, 24. Januar 1983, 9.15 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1983-04-15">15.04.1983</date><ident>StAZH ABl 1983 (S. 440)</ident><idno>440</idno><idno type="issue">15</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5133022"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_441" uly="0" ulx="0" lry="2392" lrx="1608">
+			<graphic url="Abl_1983_1__S__0441.tif" width="1608px" height="2392px"/>
+			<zone xml:id="facs_441_r35" ulx="323" uly="1433" lrx="796" lry="1462" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r16" ulx="385" uly="572" lrx="1484" lry="602" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r50" ulx="321" uly="2029" lrx="1453" lry="2060" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r47" ulx="321" uly="1887" lrx="502" lry="1914" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r42" ulx="378" uly="1679" lrx="988" lry="1708" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r39" ulx="821" uly="1529" lrx="1497" lry="1557" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r44" ulx="319" uly="1798" lrx="1217" lry="1828" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r26" ulx="1163" uly="1114" lrx="1319" lry="1144" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r9" ulx="1051" uly="372" lrx="1303" lry="400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r0" ulx="317" uly="135" lrx="375" lry="157" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r5" ulx="385" uly="260" lrx="1495" lry="289" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r3" ulx="1136" uly="216" lrx="1370" lry="247" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r33" ulx="572" uly="1331" lrx="1297" lry="1362" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r27" ulx="323" uly="1200" lrx="1497" lry="1228" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r48" ulx="322" uly="1939" lrx="1502" lry="1970" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r40" ulx="319" uly="1579" lrx="440" lry="1603" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r1" ulx="321" uly="218" lrx="371" lry="246" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r7" ulx="317" uly="375" lrx="375" lry="400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r41" ulx="394" uly="1625" lrx="1445" lry="1654" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r30" ulx="323" uly="1291" lrx="477" lry="1318" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r31" ulx="496" uly="1287" lrx="1488" lry="1318" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r21" ulx="1030" uly="787" lrx="1263" lry="811" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r43" ulx="379" uly="1731" lrx="1245" lry="1763" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r45" ulx="1234" uly="1800" lrx="1501" lry="1828" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r2" ulx="379" uly="216" lrx="1119" lry="247" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r46" ulx="319" uly="1841" lrx="1502" lry="1874" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r24" ulx="500" uly="1114" lrx="871" lry="1145" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r23" ulx="533" uly="1020" lrx="1288" lry="1053" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r22" ulx="1032" uly="829" lrx="1320" lry="857" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r10" ulx="1320" uly="372" lrx="1495" lry="400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r28" ulx="325" uly="1243" lrx="1309" lry="1274" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r25" ulx="878" uly="1114" lrx="1155" lry="1145" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r12" ulx="383" uly="460" lrx="1019" lry="489" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r29" ulx="1322" uly="1246" lrx="1498" lry="1274" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r18" ulx="317" uly="695" lrx="515" lry="725" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r6" ulx="380" uly="304" lrx="1368" lry="335" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r4" ulx="1378" uly="216" lrx="1498" lry="246" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r49" ulx="319" uly="1983" lrx="861" lry="2014" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r32" ulx="323" uly="1333" lrx="565" lry="1361" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r38" ulx="581" uly="1529" lrx="815" lry="1558" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r15" ulx="1230" uly="529" lrx="1499" lry="557" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r20" ulx="1030" uly="741" lrx="1497" lry="768" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r13" ulx="317" uly="529" lrx="373" lry="558" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r17" ulx="387" uly="618" lrx="627" lry="645" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r37" ulx="321" uly="1531" lrx="573" lry="1559" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r34" ulx="319" uly="1387" lrx="1497" lry="1415" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r19" ulx="523" uly="695" lrx="763" lry="725" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r11" ulx="385" uly="416" lrx="1495" lry="447" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r8" ulx="383" uly="370" lrx="1019" lry="401" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r14" ulx="381" uly="529" lrx="1201" lry="558" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_441_r36" ulx="410" uly="1483" lrx="1497" lry="1512" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="440" facs="#facs_441"/>
+			<p>
+				<lb facs="#facs_441_r27"/>4. Beschluss des Kantonsrates über die Erhöhung des Staatsbeitrages an<lb facs="#facs_441_r28"/>den Verkehrsverein Zürich (Antrag des Regierungsrates vom <date when="1982-11-03">3. Novem<lb break="no" facs="#facs_441_r30"/>ber 1982</date> und gleichlautender Antrag der Finanzkommission vom<lb facs="#facs_441_r32"/><date when="1983-01-06">6. Januar 1983,</date> siehe Amtsblatt 1982, Textteil, Seite 1293)</p>
+			<p>
+				<lb facs="#facs_441_r34"/>Der Kantonsrat beschliesst mit 90:18 Stimmen, nach Einsicht in einen<lb facs="#facs_441_r35"/>Antrag des Regierungsrates:</p>
+			<p>
+				<lb facs="#facs_441_r36"/>I. Der jährliche Staatsbeitrag an den Verkehrsverein Zürich wird<lb facs="#facs_441_r37"/>mit Wirkung ab <date when="1983-01-01">1. Januar 1983</date> von 180 000 Franken auf 225 000 Franken<lb facs="#facs_441_r40"/>erhöht.</p>
+			<p>
+				<lb facs="#facs_441_r41"/>II. Dieser Beschluss unterliegt dem fakultativen Referendum.</p>
+			<p>
+				<lb facs="#facs_441_r42"/>III. Veröffentlichung im Amtsblatt.</p>
+			<p>
+				<lb facs="#facs_441_r43"/>IV. Mitteilung an den Regierungsrat zum Vollzug.</p>
+			<p>
+				<lb facs="#facs_441_r44"/>5. Postulat Eberhard Hagenmüller (CVP, Zürich) vom <date when="1982-08-23">23. August 1982</date><lb facs="#facs_441_r46"/>betreffend Verhinderung des Durchgangsverkehrs durch das Stadtgebiet<lb facs="#facs_441_r47"/>von Zürich</p>
+			<p>
+				<lb facs="#facs_441_r48"/>Regierungsrat A. Sigrist erklärt sich namens des Regierungsrates bereit,<lb facs="#facs_441_r49"/>das Postulat entgegenzunehmen.</p>
+			<p>
+				<lb facs="#facs_441_r50"/>Ein anderer Antrag wird nicht gestellt. Das Postulat ist überwiesen.</p>
+		</body></text></TEI>

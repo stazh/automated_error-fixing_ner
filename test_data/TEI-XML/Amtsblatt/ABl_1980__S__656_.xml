@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 50. Sitzung. Montag, 17. März 1980, 9.15 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-05-30">30.05.1980</date><ident>StAZH ABl 1980 (S. 656)</ident><idno>656</idno><idno type="issue">43</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131873"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_657" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0657.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_657_r31" ulx="331" uly="1918" lrx="1596" lry="1986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r8" ulx="687" uly="433" lrx="939" lry="465" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r30" ulx="400" uly="1852" lrx="960" lry="1882" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r25" ulx="333" uly="1564" lrx="1600" lry="1601" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r10" ulx="1160" uly="591" lrx="1462" lry="622" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r1" ulx="365" uly="237" lrx="431" lry="268" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r6" ulx="452" uly="333" lrx="1518" lry="368" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r17" ulx="403" uly="1066" lrx="1512" lry="1101" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r3" ulx="454" uly="287" lrx="693" lry="318" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r5" ulx="1010" uly="291" lrx="1606" lry="325" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r33" ulx="397" uly="2085" lrx="1075" lry="2117" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r21" ulx="314" uly="1281" lrx="1029" lry="1314" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r20" ulx="314" uly="1235" lrx="1600" lry="1267" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r28" ulx="402" uly="1731" lrx="1485" lry="1766" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r23" ulx="400" uly="1447" lrx="1594" lry="1484" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r24" ulx="314" uly="1500" lrx="718" lry="1529" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r35" ulx="397" uly="2220" lrx="1595" lry="2255" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r19" ulx="316" uly="1185" lrx="1591" lry="1219" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r2" ulx="445" uly="237" lrx="1602" lry="273" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r4" ulx="731" uly="287" lrx="989" lry="321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r27" ulx="335" uly="1681" lrx="1591" lry="1716" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r16" ulx="410" uly="995" lrx="730" lry="1026" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r9" ulx="1018" uly="537" lrx="1602" lry="566" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r7" ulx="450" uly="433" lrx="681" lry="465" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r34" ulx="400" uly="2154" lrx="1141" lry="2185" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r12" ulx="518" uly="820" lrx="1397" lry="858" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r32" ulx="333" uly="2033" lrx="1597" lry="2069" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r18" ulx="400" uly="1133" lrx="1593" lry="1169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r14" ulx="933" uly="929" lrx="1216" lry="964" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r22" ulx="402" uly="1347" lrx="1058" lry="1382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r36" ulx="310" uly="2266" lrx="875" lry="2301" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r0" ulx="322" uly="141" lrx="385" lry="164" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r15" ulx="1225" uly="931" lrx="1403" lry="964" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r26" ulx="400" uly="1612" lrx="995" lry="1646" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r11" ulx="1076" uly="654" lrx="1536" lry="683" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r29" ulx="333" uly="1800" lrx="1597" lry="1836" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r13" ulx="514" uly="929" lrx="925" lry="962" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="656" facs="#facs_657"/>
+			<p>
+				<lb facs="#facs_657_r16"/>1. Mitteilungen.</p>
+			<p>
+				<lb facs="#facs_657_r17"/>Abweisung von Beschwerden durch das Bundesgericht.</p>
+			<p>
+				<lb facs="#facs_657_r18"/>Das Bundesgericht hat die Abweisung der Beschwerden<lb facs="#facs_657_r19"/>gegen den Kantonsratsbeschluss in Sachen Dr. F. Achermann<lb facs="#facs_657_r20"/>gegen Regierungsrat Dr. A. Bachmann beschlossen und die<lb facs="#facs_657_r21"/>Begründung des Urteils zugestellt.</p>
+			<p>
+				<lb facs="#facs_657_r22"/>Antworten auf Kleine Anfragen.</p>
+			<p>
+				<lb facs="#facs_657_r23"/>Der Rat nimmt von der Beantwortung folgender Kleiner<lb facs="#facs_657_r24"/>Anfragen Kenntnis:</p>
+			<p>
+				<lb facs="#facs_657_r25"/>- Dr. Roman Fischer (CVP, Wetzikon) betreffend differen<lb break="no" facs="#facs_657_r26"/>ziertere Abstimmungsfragen;</p>
+			<p>
+				<lb facs="#facs_657_r27"/>- Karl Weber (SVP, Stadel) betreffend Steuerkraftausgleich<lb facs="#facs_657_r28"/>innerhalb von Kreisgemeinden und Zweckverbänden;</p>
+			<p>
+				<lb facs="#facs_657_r29"/>- Rolf Krämer (SP, Zürich) betreffend Ausarbeitung einer<lb facs="#facs_657_r30"/>neuen Staatssteuerstatistik;</p>
+			<p>
+				<lb facs="#facs_657_r31"/>- Arthur Wegmann (LdU, Zürich) betreffend die VESKA-Erhebungen und Kostenvergleiche der Spitäler;</p>
+			<p>
+				<lb facs="#facs_657_r32"/>- Dr. Ursula Leemann (SP, Egg) betreffend den Bau eines<lb facs="#facs_657_r33"/>Sportzentrums auf der Guldenen.</p>
+			<p>
+				<lb facs="#facs_657_r34"/>Rücktritt aus der Finanzkommission.</p>
+			<p>
+				<lb facs="#facs_657_r35"/>G. Erismann (FDP, Küsnacht) gibt ihren Rücktritt aus der<lb facs="#facs_657_r36"/>Finanzkommission bekannt.</p>
+		</body></text></TEI>

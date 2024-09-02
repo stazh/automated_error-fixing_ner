@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 191. Sitzung. Montag, 18. Oktober
+              1982, 9.15 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-12-28">28.12.1982</date><ident>StAZH ABl 1982 (S. 1484)</ident><idno>1484</idno><idno type="issue">52</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132916"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_796" uly="0" ulx="0" lry="2337" lrx="1583">
+			<graphic url="Abl_1982_2__S__0796.tif" width="1583px" height="2337px"/>
+			<zone xml:id="facs_796_r8" ulx="239" uly="458" lrx="360" lry="479" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r24" ulx="408" uly="1140" lrx="840" lry="1170" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r34" ulx="241" uly="1459" lrx="1145" lry="1490" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r27" ulx="244" uly="1229" lrx="500" lry="1258" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r33" ulx="239" uly="1417" lrx="1422" lry="1445" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r3" ulx="1299" uly="214" lrx="1418" lry="244" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r28" ulx="241" uly="1284" lrx="835" lry="1312" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r7" ulx="239" uly="404" lrx="1417" lry="434" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r29" ulx="244" uly="1327" lrx="1405" lry="1357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r21" ulx="237" uly="911" lrx="1416" lry="942" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r17" ulx="237" uly="813" lrx="971" lry="842" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r26" ulx="1099" uly="1140" lrx="1256" lry="1168" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r20" ulx="239" uly="856" lrx="965" lry="887" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r39" ulx="239" uly="1699" lrx="1418" lry="1727" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r22" ulx="241" uly="956" lrx="961" lry="985" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r13" ulx="237" uly="602" lrx="1155" lry="634" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r23" ulx="239" uly="1006" lrx="1369" lry="1038" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r25" ulx="848" uly="1140" lrx="1091" lry="1170" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r2" ulx="1078" uly="214" lrx="1293" lry="245" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r16" ulx="246" uly="767" lrx="1414" lry="796" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r38" ulx="241" uly="1655" lrx="742" lry="1683" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r32" ulx="777" uly="1371" lrx="1416" lry="1400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r36" ulx="239" uly="1557" lrx="1420" lry="1586" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r14" ulx="241" uly="656" lrx="1420" lry="687" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r10" ulx="1067" uly="514" lrx="1292" lry="543" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r4" ulx="239" uly="262" lrx="1416" lry="292" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r35" ulx="245" uly="1513" lrx="678" lry="1543" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r9" ulx="244" uly="514" lrx="1044" lry="544" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r31" ulx="475" uly="1373" lrx="769" lry="1402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r1" ulx="244" uly="216" lrx="1063" lry="247" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r6" ulx="245" uly="364" lrx="453" lry="388" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r5" ulx="236" uly="310" lrx="600" lry="337" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r11" ulx="1299" uly="514" lrx="1418" lry="541" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r18" ulx="999" uly="810" lrx="1226" lry="842" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r19" ulx="1239" uly="810" lrx="1416" lry="839" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r15" ulx="238" uly="708" lrx="327" lry="729" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r30" ulx="239" uly="1375" lrx="465" lry="1402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r0" ulx="240" uly="141" lrx="315" lry="162" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r40" ulx="238" uly="1744" lrx="381" lry="1770" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r12" ulx="238" uly="556" lrx="1416" lry="589" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_796_r37" ulx="239" uly="1605" lrx="788" lry="1632" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1484" facs="#facs_796"/>
+			<p>
+				<lb facs="#facs_796_r27"/>1. Mitteilungen<lb facs="#facs_796_r28"/>Hinschied von Prof.
+            Dr. Peter Noll<lb facs="#facs_796_r29"/>Ratspräsident B. Schürch (FDP, Winterthur) gibt
+            bekannt, dass am<lb facs="#facs_796_r30"/>Samstag, den <date when="1982-10-09">9.
+              Oktober 1982,</date> nach schwerer Krankheit Herr Kassa<lb break="no" facs="#facs_796_r33"/>tionsrichter Dr. Peter Noll im Alter von 56 Jahren verstorben
+            ist. Er<lb facs="#facs_796_r34"/>spricht den Hinterlassenen sein herzliches Beileid
+              aus.<lb facs="#facs_796_r35"/>Antwort auf eine Anfrage<lb facs="#facs_796_r36"/>M.
+            Weber (LdU, Zürich) betreffend Einsatz von Strassengeldern bei<lb facs="#facs_796_r37"/>kantonalen Volksabstimmungen.<lb facs="#facs_796_r38"/>Rücktritt aus dem Kantonsrat<lb facs="#facs_796_r39"/>Dr. A. Birchmeier (SP, Fällanden) gibt ihren Rücktritt aus dem
+              Rat<lb facs="#facs_796_r40"/>bekannt.</p>
+		</body></text></TEI>

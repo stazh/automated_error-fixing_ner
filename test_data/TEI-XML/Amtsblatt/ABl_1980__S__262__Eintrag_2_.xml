@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] Vom 30. Januar 1980</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-03-07">07.03.1980</date><ident>StAZH ABl 1980 (S. 262, Eintrag 2)</ident><idno>262</idno><idno type="issue">18</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131771"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_263" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0263.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_263_r27" ulx="408" uly="1972" lrx="1602" lry="2003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r14" ulx="756" uly="1008" lrx="833" lry="1036" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r8" ulx="404" uly="720" lrx="1605" lry="754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r25" ulx="758" uly="1783" lrx="832" lry="1812" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r12" ulx="1275" uly="818" lrx="1610" lry="849" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r11" ulx="1168" uly="818" lrx="1266" lry="849" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r0" ulx="321" uly="158" lrx="389" lry="183" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r4" ulx="408" uly="508" lrx="1604" lry="539" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r33" ulx="318" uly="2285" lrx="885" lry="2316" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r22" ulx="406" uly="1527" lrx="1610" lry="1557" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r20" ulx="406" uly="1431" lrx="1602" lry="1462" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r31" ulx="317" uly="2185" lrx="1608" lry="2217" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r9" ulx="316" uly="770" lrx="1606" lry="801" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r5" ulx="318" uly="554" lrx="1558" lry="586" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r17" ulx="410" uly="1262" lrx="1611" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r30" ulx="410" uly="2135" lrx="1610" lry="2169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r1" ulx="758" uly="256" lrx="831" lry="284" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r19" ulx="318" uly="1360" lrx="947" lry="1394" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r10" ulx="320" uly="818" lrx="1161" lry="852" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r13" ulx="319" uly="870" lrx="658" lry="901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r23" ulx="318" uly="1575" lrx="1610" lry="1607" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r16" ulx="408" uly="1187" lrx="910" lry="1218" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r32" ulx="325" uly="2233" lrx="1610" lry="2265" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r24" ulx="316" uly="1622" lrx="1402" lry="1655" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r26" ulx="862" uly="1781" lrx="1172" lry="1810" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r2" ulx="860" uly="252" lrx="1170" lry="282" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r28" ulx="320" uly="2016" lrx="1610" lry="2051" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r21" ulx="322" uly="1479" lrx="652" lry="1510" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r6" ulx="406" uly="604" lrx="1606" lry="637" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r3" ulx="410" uly="431" lrx="904" lry="462" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r18" ulx="318" uly="1312" lrx="1610" lry="1343" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r15" ulx="856" uly="1006" lrx="1170" lry="1035" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r7" ulx="320" uly="652" lrx="1479" lry="685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_263_r29" ulx="322" uly="2070" lrx="797" lry="2100" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="262" facs="#facs_263"/>
+			<p>
+				<lb facs="#facs_263_r16"/>Es sind gewählt worden:</p>
+			<p>
+				<lb facs="#facs_263_r17"/>als Rektor der Kantonsschule Hohe Promenade Zürich:<lb facs="#facs_263_r18"/>Prorektor Professor Heinz Ruf, Hauptlehrer für Mathematik,<lb facs="#facs_263_r19"/>von Buch am Irchel, in Zürich;</p>
+			<p>
+				<lb facs="#facs_263_r20"/>als Forstingenieur beim Oberforstamt: Hermann Hess, von<lb facs="#facs_263_r21"/>Wald, in Zürich.</p>
+			<p>
+				<lb facs="#facs_263_r22"/>Heinrich Alder, Architekt (Bauverwalter) beim Hochbau<lb break="no" facs="#facs_263_r23"/>amt, wird unter Verdankung der geleisteten Dienste alters<lb break="no" facs="#facs_263_r24"/>halber auf Ende Mai aus dem Staatsdienst entlassen.</p>
+		</body></text></TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-03-15">15.03.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Beschluss des Regierungsrates über die
+            Ergebnisse der eidgenössischen Volksabstimmung vom 5. April 1981 (vom 8. April 1981)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-04-10">10.04.1981</date><ident>StAZH ABl 1981 (S. 580)</ident><idno>580</idno><idno type="issue">15</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132259"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_581" uly="0" ulx="0" lry="2369" lrx="1602">
+			<graphic url="Abl_1981_1__S__0581.tif" width="1602px" height="2369px"/>
+			<zone xml:id="facs_581_r18" ulx="511" uly="1016" lrx="1464" lry="1046" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r28" ulx="496" uly="1612" lrx="715" lry="1642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r9" ulx="289" uly="679" lrx="1464" lry="710" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r3" ulx="294" uly="358" lrx="365" lry="389" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r23" ulx="289" uly="1277" lrx="740" lry="1305" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r7" ulx="292" uly="554" lrx="604" lry="583" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r12" ulx="719" uly="722" lrx="1469" lry="753" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r33" ulx="1132" uly="1800" lrx="1314" lry="1828" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r17" ulx="294" uly="1016" lrx="502" lry="1046" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r20" ulx="371" uly="1139" lrx="1470" lry="1170" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r32" ulx="1132" uly="1750" lrx="1468" lry="1779" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r25" ulx="294" uly="1400" lrx="1245" lry="1428" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r0" ulx="286" uly="160" lrx="337" lry="181" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r26" ulx="350" uly="1477" lrx="1102" lry="1508" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r30" ulx="769" uly="1754" lrx="1017" lry="1781" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r2" ulx="292" uly="299" lrx="1464" lry="335" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r24" ulx="350" uly="1354" lrx="1464" lry="1383" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r13" ulx="292" uly="768" lrx="661" lry="797" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r5" ulx="298" uly="433" lrx="367" lry="462" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r22" ulx="294" uly="1231" lrx="1468" lry="1259" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r6" ulx="383" uly="431" lrx="619" lry="460" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r10" ulx="296" uly="727" lrx="460" lry="755" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r29" ulx="773" uly="1698" lrx="1293" lry="1730" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r16" ulx="381" uly="973" lrx="1455" lry="1002" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r31" ulx="775" uly="1802" lrx="880" lry="1827" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r4" ulx="385" uly="352" lrx="657" lry="388" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r1" ulx="293" uly="245" lrx="910" lry="282" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r8" ulx="292" uly="637" lrx="1466" lry="664" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r19" ulx="290" uly="1062" lrx="375" lry="1086" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r27" ulx="289" uly="1612" lrx="488" lry="1642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r15" ulx="289" uly="850" lrx="473" lry="875" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r11" ulx="483" uly="725" lrx="711" lry="754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r21" ulx="292" uly="1185" lrx="1453" lry="1215" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_581_r14" ulx="680" uly="768" lrx="982" lry="798" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="580" facs="#facs_581"/>
+			<p>
+				<lb facs="#facs_581_r7"/>Der Regierungsrat,</p>
+			<p>
+				<lb facs="#facs_581_r8"/>nach Einsichtnahme in einen Antrag der Direktion des Innern und
+            in die<lb facs="#facs_581_r9"/>Zusammenstellung der Ergebnisse der eidgenössischen
+              Volksabstimm<lb facs="#facs_581_r10"/>mung vom <date when="1981-04-05">5. April
+              1981</date> über die «Mitenand-Initiative für eine neue<lb facs="#facs_581_r13"/>Ausländerpolitik» vom <date when="1977-10-20">20. Oktober 1977,</date></p>
+			<p>
+				<lb facs="#facs_581_r15"/>beschliesst:</p>
+			<p>
+				<lb facs="#facs_581_r16"/>I. Die Ergebnisse der eidgenössischen Volksabstimmung vom<lb facs="#facs_581_r17"/><date when="1981-04-05">5. April 1981</date> werden
+            gemeindeweise im Amtsblatt, Textteil, veröffent<lb break="no" facs="#facs_581_r19"/>licht.</p>
+			<p>
+				<lb facs="#facs_581_r20"/>II. Binnen einer Frist von drei Tagen, den Herausgabetag
+              der<lb facs="#facs_581_r21"/>vorliegenden Nummer des Amtsblattes nicht mitgerechnet,
+            kann beim<lb facs="#facs_581_r22"/>Regierungsrat betreffend diese Volksabstimmung
+            schriftlich Be<lb break="no" facs="#facs_581_r23"/>schwerde erhoben werden.</p>
+			<p>
+				<lb facs="#facs_581_r24"/>III. Die Abstimmungsprotokolle werden innert zehn Tagen
+              nach<lb facs="#facs_581_r25"/>Ablauf der Beschwerdefrist der Bundeskanzlei
+            zugestellt.</p>
+			<p>
+				<lb facs="#facs_581_r26"/>IV. Mitteilung an die Direktion des Innern.</p>
+			<p>
+				<lb facs="#facs_581_r27"/>Zürich, den <date when="1981-04-08">8. April 1981</date></p>
+			<p>
+				<lb facs="#facs_581_r29"/>Im Namen des Regierungsrates</p>
+			<p>
+				<lb facs="#facs_581_r30"/>Der Präsident:<lb facs="#facs_581_r31"/>Stucki</p>
+			<p>
+				<lb facs="#facs_581_r32"/>Der Staatsschreiber:<lb facs="#facs_581_r33"/>Roggwiller</p>
+		</body></text></TEI>

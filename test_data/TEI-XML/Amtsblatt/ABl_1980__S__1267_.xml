@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-18">18.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Beschluss des Kantonsrates über die Erwahrung der Ergebnisse der kantonalen Volksabstimmung vom 28. September 1980 (vom 10. November 1980)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-12-05">05.12.1980</date><ident>StAZH ABl 1980 (S. 1267)</ident><idno>1267</idno><idno type="issue">84</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132060"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_531" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0531.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_531_r7" ulx="145" uly="656" lrx="451" lry="684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r28" ulx="229" uly="1529" lrx="1431" lry="1561" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r16" ulx="470" uly="870" lrx="850" lry="903" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r19" ulx="144" uly="970" lrx="197" lry="997" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r6" ulx="250" uly="477" lrx="637" lry="510" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r32" ulx="227" uly="1772" lrx="912" lry="1806" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r4" ulx="708" uly="375" lrx="1185" lry="415" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r39" ulx="841" uly="2285" lrx="1018" lry="2313" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r17" ulx="858" uly="870" lrx="1438" lry="903" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r1" ulx="147" uly="247" lrx="812" lry="284" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r11" ulx="145" uly="772" lrx="1433" lry="803" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r12" ulx="147" uly="825" lrx="312" lry="853" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r10" ulx="1058" uly="724" lrx="1433" lry="755" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r2" ulx="151" uly="308" lrx="1431" lry="351" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r23" ulx="145" uly="1233" lrx="1438" lry="1267" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r29" ulx="137" uly="1577" lrx="1431" lry="1610" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r34" ulx="362" uly="1879" lrx="727" lry="1911" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r18" ulx="141" uly="918" lrx="1431" lry="953" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r14" ulx="643" uly="822" lrx="1436" lry="853" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r24" ulx="141" uly="1285" lrx="1431" lry="1316" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r31" ulx="139" uly="1675" lrx="629" lry="1705" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r36" ulx="845" uly="2081" lrx="1116" lry="2107" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r0" ulx="1341" uly="152" lrx="1433" lry="177" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r5" ulx="147" uly="481" lrx="231" lry="512" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r25" ulx="143" uly="1329" lrx="1431" lry="1362" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r27" ulx="145" uly="1429" lrx="1431" lry="1461" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r15" ulx="147" uly="870" lrx="447" lry="901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r22" ulx="147" uly="1185" lrx="1435" lry="1216" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r8" ulx="145" uly="727" lrx="716" lry="755" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r13" ulx="335" uly="820" lrx="635" lry="853" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r33" ulx="139" uly="1881" lrx="354" lry="1913" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r3" ulx="153" uly="372" lrx="683" lry="414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r37" ulx="847" uly="2137" lrx="1081" lry="2168" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r30" ulx="136" uly="1627" lrx="1429" lry="1659" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r21" ulx="226" uly="1131" lrx="1432" lry="1167" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r26" ulx="145" uly="1381" lrx="1431" lry="1412" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r38" ulx="845" uly="2227" lrx="1095" lry="2255" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r35" ulx="843" uly="1989" lrx="1370" lry="2020" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r20" ulx="145" uly="1039" lrx="355" lry="1066" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_531_r9" ulx="745" uly="727" lrx="1047" lry="755" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1267" facs="#facs_531"/>
+			<p>
+				<lb facs="#facs_531_r7"/>Der Kantonsrat,</p>
+			<p>
+				<lb facs="#facs_531_r8"/>nach Einsichtnahme in den am <date when="1980-10-07">7. Oktober 1980</date> im Amtsblatt, Text<lb break="no" facs="#facs_531_r11"/>teil, Seite 1049 ff ., veröffentlichten Beschluss des Büros des Kantons<lb break="no" facs="#facs_531_r12"/>rates vom <date when="1980-10-02">2. Oktober 1980</date> über die Ergebnisse der kantonalen Volks<lb break="no" facs="#facs_531_r15"/>abstimmung vom <date when="1980-09-28">28. September 1980,</date> und nach Vormerknahme, dass<lb facs="#facs_531_r18"/>innerhalb der angesetzten Frist keine Einsprache eingereicht worden<lb facs="#facs_531_r19"/>ist,</p>
+			<p>
+				<lb facs="#facs_531_r20"/>beschliesst:</p>
+			<p>
+				<lb facs="#facs_531_r21"/>I. Die Referendumsvorlagen «Stellungnahme des Kantons Zürich<lb facs="#facs_531_r22"/>im Rahmen des Vernehmlassungsverfahrens des Bundes über die<lb facs="#facs_531_r23"/>Wünschbarkeit der Errichtung des in Kaiseraugst geplanten Kern<lb break="no" facs="#facs_531_r24"/>kraftwerks» und «Beschluss des Kantonsrates über die Bewilligung<lb facs="#facs_531_r25"/>eines Kredites für die Tiefbauten zum Fingerdock A, die Erweiterung<lb facs="#facs_531_r26"/>der Flugzeugabstellfläche und den Einbau einer Rollinienbefeuerung<lb facs="#facs_531_r27"/>im Flughafen Zürich» werden als vom Volke angenommen erklärt.</p>
+			<p>
+				<lb facs="#facs_531_r28"/>II. Von der Verwerfung der Referendumsvorlagen «Volksinitia<lb break="no" facs="#facs_531_r29"/>tive zur Festsetzung der Spitaltaxen» und «Gegenvorschlag des Kan<lb break="no" facs="#facs_531_r30"/>tonsrates für eine Änderung des Gesetzes über das Gesundheitswesen»<lb facs="#facs_531_r31"/>wird Kenntnis genommen.</p>
+			<p>
+				<lb facs="#facs_531_r32"/>III. Mitteilung an den Regierungsrat.</p>
+			<p>
+				<lb facs="#facs_531_r33"/>Zürich, den <date when="1980-11-10">10. November 1980</date></p>
+			<p>
+				<lb facs="#facs_531_r35"/>Im Namen des Kantonsrates</p>
+			<p>
+				<lb facs="#facs_531_r36"/>Der Präsident:<lb facs="#facs_531_r37"/>E. Spillmann</p>
+			<p>
+				<lb facs="#facs_531_r38"/>Der Sekretär:<lb facs="#facs_531_r39"/>E. Szabel</p>
+		</body></text></TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] vom 18. November 1981</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-01-15">15.01.1982</date><ident>StAZH ABl 1982 (S. 56, Eintrag 2)</ident><idno>56</idno><idno type="issue">2</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132560"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_57" uly="0" ulx="0" lry="2400" lrx="1603">
+			<graphic url="Abl_1982_1__S__0057.tif" width="1603px" height="2400px"/>
+			<zone xml:id="facs_57_r22" ulx="306" uly="1077" lrx="621" lry="1104" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r9" ulx="308" uly="514" lrx="1480" lry="545" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r38" ulx="302" uly="1991" lrx="1482" lry="2022" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r5" ulx="523" uly="372" lrx="797" lry="402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r8" ulx="306" uly="460" lrx="507" lry="488" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r6" ulx="804" uly="374" lrx="1484" lry="404" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r21" ulx="306" uly="1031" lrx="1484" lry="1063" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r33" ulx="689" uly="1768" lrx="749" lry="1793" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r32" ulx="438" uly="1666" lrx="1357" lry="1704" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r19" ulx="1121" uly="989" lrx="1254" lry="1017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r35" ulx="306" uly="1852" lrx="1482" lry="1881" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r30" ulx="306" uly="1485" lrx="1482" lry="1517" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r26" ulx="302" uly="1291" lrx="1482" lry="1323" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r34" ulx="771" uly="1764" lrx="1098" lry="1791" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r20" ulx="1263" uly="989" lrx="1484" lry="1017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r1" ulx="304" uly="216" lrx="1482" lry="250" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r11" ulx="302" uly="610" lrx="1482" lry="642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r28" ulx="303" uly="1389" lrx="1484" lry="1421" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r17" ulx="304" uly="935" lrx="675" lry="961" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r2" ulx="306" uly="262" lrx="931" lry="291" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r40" ulx="306" uly="2081" lrx="1221" lry="2110" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r31" ulx="304" uly="1535" lrx="654" lry="1564" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r10" ulx="306" uly="560" lrx="1411" lry="591" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r27" ulx="296" uly="1339" lrx="1194" lry="1367" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r37" ulx="306" uly="1939" lrx="746" lry="1970" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r23" ulx="304" uly="1143" lrx="837" lry="1171" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r36" ulx="306" uly="1895" lrx="1482" lry="1925" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r24" ulx="304" uly="1195" lrx="1480" lry="1226" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r16" ulx="310" uly="870" lrx="562" lry="895" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r29" ulx="302" uly="1437" lrx="883" lry="1465" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r15" ulx="1121" uly="779" lrx="1277" lry="808" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r0" ulx="306" uly="139" lrx="341" lry="160" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r25" ulx="305" uly="1241" lrx="1478" lry="1272" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r12" ulx="306" uly="660" lrx="499" lry="684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r14" ulx="892" uly="779" lrx="1113" lry="809" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r4" ulx="307" uly="372" lrx="503" lry="400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r3" ulx="305" uly="327" lrx="1483" lry="359" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r13" ulx="516" uly="777" lrx="883" lry="809" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r39" ulx="308" uly="2035" lrx="1484" lry="2066" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r18" ulx="306" uly="987" lrx="1098" lry="1016" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r7" ulx="304" uly="418" lrx="1477" lry="449" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="56" facs="#facs_57"/>
+			<p>
+				<lb facs="#facs_57_r35"/>Der Regierungsrat beantragt dem Kantonsrat, die Volksinitiative
+              «Für<lb facs="#facs_57_r36"/>Rechtsgleichheit in der Steuerbelastung» den
+            Stimmberechtigten zur<lb facs="#facs_57_r37"/>Ablehnung zu empfehlen.<lb facs="#facs_57_r38"/>Ferner beantragt er dem Kantonsrat die Bewilligung eines Kredites
+              von<lb facs="#facs_57_r39"/>4,95 Millionen Franken als Beitrag des Kantons an die
+            Finanzierung des<lb facs="#facs_57_r40"/>Werftneubaus für die
+            Zürichsee-Schiffahrtsgesellschaft.</p>
+		</body></text></TEI>

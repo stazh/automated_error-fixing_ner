@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] Vom 21. November 1979</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-02-01">01.02.1980</date><ident>StAZH ABl 1980 (S. 127-128)</ident><idno>127–128</idno><idno type="issue">8</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131731"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_128" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0128.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_128_r31" ulx="364" uly="1899" lrx="1408" lry="1936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r5" ulx="139" uly="499" lrx="1423" lry="537" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r22" ulx="130" uly="1468" lrx="1416" lry="1508" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r20" ulx="216" uly="1375" lrx="1408" lry="1410" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r10" ulx="134" uly="800" lrx="1418" lry="836" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r36" ulx="202" uly="2218" lrx="1402" lry="2253" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r4" ulx="136" uly="450" lrx="1418" lry="487" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r7" ulx="226" uly="633" lrx="1404" lry="669" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r28" ulx="125" uly="1785" lrx="791" lry="1817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r26" ulx="124" uly="1685" lrx="1408" lry="1721" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r17" ulx="502" uly="1066" lrx="825" lry="1097" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r16" ulx="139" uly="1062" lrx="487" lry="1093" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r9" ulx="222" uly="750" lrx="1422" lry="787" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r2" ulx="650" uly="241" lrx="1027" lry="273" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r29" ulx="212" uly="1852" lrx="1404" lry="1888" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r18" ulx="535" uly="1210" lrx="612" lry="1241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r34" ulx="210" uly="2095" lrx="1408" lry="2130" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r30" ulx="125" uly="1897" lrx="354" lry="1931" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r27" ulx="122" uly="1735" lrx="1410" lry="1773" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r24" ulx="125" uly="1568" lrx="265" lry="1596" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r35" ulx="114" uly="2147" lrx="1304" lry="2180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r15" ulx="134" uly="1014" lrx="1414" lry="1051" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r25" ulx="214" uly="1637" lrx="1410" lry="1675" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r33" ulx="124" uly="2002" lrx="252" lry="2027" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r0" ulx="1358" uly="154" lrx="1422" lry="178" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r23" ulx="131" uly="1516" lrx="1408" lry="1555" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r6" ulx="139" uly="550" lrx="1337" lry="585" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r21" ulx="129" uly="1420" lrx="1414" lry="1460" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r3" ulx="229" uly="406" lrx="1418" lry="439" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r8" ulx="141" uly="683" lrx="602" lry="712" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r32" ulx="122" uly="1950" lrx="1412" lry="1986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r37" ulx="116" uly="2262" lrx="941" lry="2300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r1" ulx="547" uly="239" lrx="622" lry="271" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r11" ulx="136" uly="845" lrx="427" lry="878" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r19" ulx="637" uly="1212" lrx="1018" lry="1243" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r13" ulx="226" uly="916" lrx="1418" lry="953" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r38" ulx="949" uly="2270" lrx="1279" lry="2304" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r12" ulx="439" uly="850" lrx="735" lry="882" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r14" ulx="131" uly="966" lrx="1418" lry="1004" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_129" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0129.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_129_r12" ulx="408" uly="866" lrx="1604" lry="905" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r0" ulx="316" uly="156" lrx="377" lry="180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r11" ulx="410" uly="808" lrx="907" lry="841" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r29" ulx="334" uly="1818" lrx="1102" lry="1856" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r36" ulx="333" uly="2095" lrx="1437" lry="2133" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r39" ulx="422" uly="2212" lrx="1623" lry="2251" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r6" ulx="314" uly="662" lrx="1210" lry="698" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r26" ulx="333" uly="1660" lrx="790" lry="1691" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r33" ulx="335" uly="1993" lrx="438" lry="2021" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r3" ulx="720" uly="441" lrx="793" lry="472" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r2" ulx="314" uly="297" lrx="731" lry="328" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r15" ulx="410" uly="1033" lrx="1607" lry="1072" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r17" ulx="327" uly="1137" lrx="887" lry="1173" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r25" ulx="416" uly="1597" lrx="1600" lry="1637" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r4" ulx="822" uly="437" lrx="1202" lry="471" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r21" ulx="329" uly="1356" lrx="471" lry="1385" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r8" ulx="316" uly="720" lrx="466" lry="750" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r34" ulx="445" uly="1989" lrx="712" lry="2019" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r35" ulx="425" uly="2043" lrx="1620" lry="2085" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r20" ulx="327" uly="1295" lrx="1606" lry="1335" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r38" ulx="335" uly="2154" lrx="442" lry="2182" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r1" ulx="400" uly="237" lrx="1604" lry="276" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r31" ulx="420" uly="1879" lrx="1619" lry="1918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r24" ulx="327" uly="1518" lrx="871" lry="1548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r16" ulx="319" uly="1085" lrx="1612" lry="1121" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r37" ulx="1452" uly="2093" lrx="1623" lry="2123" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r10" ulx="772" uly="714" lrx="1111" lry="746" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r13" ulx="320" uly="916" lrx="1611" lry="954" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r28" ulx="333" uly="1766" lrx="1617" lry="1804" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r22" ulx="416" uly="1408" lrx="1615" lry="1449" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r23" ulx="327" uly="1456" lrx="1617" lry="1496" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r40" ulx="339" uly="2262" lrx="1450" lry="2301" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r30" ulx="1110" uly="1816" lrx="1371" lry="1846" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r19" ulx="327" uly="1250" lrx="1617" lry="1287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r14" ulx="325" uly="977" lrx="770" lry="1007" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r18" ulx="410" uly="1200" lrx="1611" lry="1239" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r27" ulx="416" uly="1716" lrx="1615" lry="1754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r5" ulx="406" uly="604" lrx="1602" lry="647" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r9" ulx="477" uly="716" lrx="766" lry="748" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r7" ulx="1235" uly="654" lrx="1604" lry="690" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r32" ulx="333" uly="1929" lrx="1623" lry="1967" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="127" facs="#facs_128"/>
+			<p>
+				<lb facs="#facs_128_r20"/>Der Regierungsrat hat zuhanden der Finanzkommission<lb facs="#facs_128_r21"/>des Kantonsrates eine Sammelvorlage gutgeheissen, die jene<lb facs="#facs_128_r22"/>Änderungen des Voranschlags 1980 enthält, die sich seit der<lb facs="#facs_128_r23"/>Verabschiedung des Budgets durch den Regierungsrat ergeben<lb facs="#facs_128_r24"/>haben.</p>
+			<p>
+				<lb facs="#facs_128_r25"/>Im IX. Wahlkreis (Horgen) ist für den zurückgetretenen<lb facs="#facs_128_r26"/>Prof. Dr. Walter Hess (Liste der Freisinnig-Demokratischen<lb facs="#facs_128_r27"/>Partei) als Mitglied des Kantonsrates Vreni Spoerry, lic. iur .,<lb facs="#facs_128_r28"/>Horgen, gewählt erklärt worden.</p>
+			<p>
+				<lb facs="#facs_128_r29"/>Der Regierungsrat hat Professor Dr. Bernd Gutte auf den<lb facs="#facs_128_r30"/><date when="1980-05-01">1. Mai 1980</date> zum Extraordinarius für Biochemie an der Medi<lb break="no" facs="#facs_128_r32"/>zinischen Fakultät und der Philosophischen Fakultät II ge<lb break="no" facs="#facs_128_r33"/>wählt.</p>
+			<p>
+				<lb facs="#facs_128_r34"/>Unter Verdankung der geleisteten Dienste werden ent<lb break="no" facs="#facs_128_r35"/>sprechend ihrem Gesuch aus dem Staatsdienst entlassen:</p>
+			<p>
+				<lb facs="#facs_128_r36"/>Dr. Josef Kaufmann, Oberarzt an der Dermatologischen<lb facs="#facs_128_r37"/>Klinik des Universitätsspitals, auf Ende <date when="1979-12">Dezember 1979;</date></p>
+			<pb n="128" facs="#facs_129"/>
+			<p>
+				<lb facs="#facs_129_r1"/>Ivajlo Talew, lic. iur ., Sekretär beim Amt für Luftverkehr,<lb facs="#facs_129_r2"/>auf Ende November.</p>
+			<p>
+				<lb facs="#facs_129_r3"/>Vom <date when="1979-11-28">28. November 1979</date></p>
+			<p>
+				<lb facs="#facs_129_r5"/>Der Regierungsrat hat das Gesetz über die Förderung der<lb facs="#facs_129_r6"/>Landwirtschaft (Landwirtschaftsgesetz) vom <date when="1979-09-02">2. September 1979</date><lb facs="#facs_129_r8"/>auf den <date when="1980-01-01">1. Januar 1980</date> in Kraft gesetzt.</p>
+			<p>
+				<lb facs="#facs_129_r11"/>Es sind gewählt worden:<lb facs="#facs_129_r12"/>als Leitender Psychologe bei der Psychiatrischen Poliklinik<lb facs="#facs_129_r13"/>für Kinder und Jugendliche: Martin Thommen, von Füllins<lb break="no" facs="#facs_129_r14"/>dorf BL, in Gümligen;</p>
+			<p>
+				<lb facs="#facs_129_r15"/>als Hauptlehrerin für Französisch und Italienisch an der<lb facs="#facs_129_r16"/>Kantonsschule Zürcher Oberland: Erika Wolfensberger-Meier,<lb facs="#facs_129_r17"/>lic. phil ., von und in Zürich;</p>
+			<p>
+				<lb facs="#facs_129_r18"/>als Hauptlehrerin für Turnen an der Kantonsschule Freu<lb break="no" facs="#facs_129_r19"/>denberg Zürich, Wirtschaftsgymnasium und Handelsschule:<lb facs="#facs_129_r20"/>Beatrice Aerne, Dipl. Turnlehrerin ETH, von Wädenswil, in<lb facs="#facs_129_r21"/>Hirzel;</p>
+			<p>
+				<lb facs="#facs_129_r22"/>als Hauptlehrer für Geschichte und Französisch an der<lb facs="#facs_129_r23"/>Kantonsschule Oerlikon Zürich: Urs Jacob, lic. phil ., von Neu<lb break="no" facs="#facs_129_r24"/>hausen, in Mettmenstetten.</p>
+			<p>
+				<lb facs="#facs_129_r25"/>Unter Verdankung der geleisteten Dienste werden aus dem<lb facs="#facs_129_r26"/>Staatsdienst entlassen:</p>
+			<p>
+				<lb facs="#facs_129_r27"/>Dr. Fritz Marbach, Oberarzt am Institut für Physikalische<lb facs="#facs_129_r28"/>Therapie und an der Rheumaklinik des Universitätsspitals,<lb facs="#facs_129_r29"/>entsprechend seinem Gesuch auf Ende <date when="1980-01">Januar 1980;</date></p>
+			<p>
+				<lb facs="#facs_129_r31"/>Dr. Hansjürg Nüesch, Oberarzt an der Medizinischen Poli<lb break="no" facs="#facs_129_r32"/>klinik des Universitätsspitals, entsprechend seinem Gesuch auf<lb facs="#facs_129_r33"/>Ende <date when="1980-01">Januar 1980;</date></p>
+			<p>
+				<lb facs="#facs_129_r35"/>Christoph Tromp, Leiter der Informationsstelle bei der<lb facs="#facs_129_r36"/>Staatskanzlei, entsprechend seinem Gesuch auf Ende Februar<lb facs="#facs_129_r38"/>1980;</p>
+			<p>
+				<lb facs="#facs_129_r39"/>Rudolf und Trudi Vogler, Verwalter der Wäckerling-Stif<lb break="no" facs="#facs_129_r40"/>tung Uetikon am See, altershalber auf Ende November.</p>
+		</body></text></TEI>

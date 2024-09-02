@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-18">18.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>2410 Staatliche Anerkennung religiöser Gemeinschaften A. Verfassungsgesetz über die staatliche Anerkennung religiöser Gemeinschaften (Änderung von Art. 64 der Kantonsverfassung) (vom ...)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-12-30">30.12.1980</date><ident>StAZH ABl 1980 (S. 1441)</ident><idno>1441</idno><idno type="issue">95</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132098"/><note>Vorlagen-Nr. 2410</note></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_705" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0705.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_705_r17" ulx="147" uly="1058" lrx="227" lry="1087" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r9" ulx="144" uly="693" lrx="1196" lry="737" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r18" ulx="235" uly="1058" lrx="683" lry="1089" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r29" ulx="147" uly="1612" lrx="1444" lry="1650" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r28" ulx="210" uly="1564" lrx="1440" lry="1602" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r20" ulx="204" uly="1164" lrx="1437" lry="1202" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r30" ulx="150" uly="1660" lrx="1439" lry="1699" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r11" ulx="657" uly="783" lrx="691" lry="811" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r26" ulx="149" uly="1454" lrx="1440" lry="1496" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r12" ulx="135" uly="275" lrx="595" lry="304" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r8" ulx="141" uly="645" lrx="494" lry="679" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r5" ulx="133" uly="402" lrx="1261" lry="442" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r2" ulx="1402" uly="2447" lrx="1439" lry="2473" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r27" ulx="152" uly="1510" lrx="1156" lry="1545" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r3" ulx="1352" uly="162" lrx="1427" lry="187" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r19" ulx="206" uly="1112" lrx="825" lry="1146" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r25" ulx="147" uly="1408" lrx="1436" lry="1447" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r0" ulx="156" uly="2464" lrx="454" lry="2489" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r7" ulx="136" uly="579" lrx="1066" lry="617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r33" ulx="218" uly="1937" lrx="1293" lry="1972" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r21" ulx="141" uly="1212" lrx="1433" lry="1251" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r16" ulx="1270" uly="995" lrx="1436" lry="1029" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r1" ulx="462" uly="2460" lrx="806" lry="2487" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r10" ulx="141" uly="789" lrx="268" lry="817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r23" ulx="145" uly="1312" lrx="1433" lry="1353" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r15" ulx="200" uly="997" lrx="1249" lry="1035" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r22" ulx="144" uly="1260" lrx="1435" lry="1301" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r14" ulx="145" uly="927" lrx="245" lry="952" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r13" ulx="608" uly="270" lrx="856" lry="297" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r24" ulx="143" uly="1360" lrx="1433" lry="1398" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r31" ulx="149" uly="1720" lrx="579" lry="1754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r4" ulx="135" uly="356" lrx="231" lry="384" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r34" ulx="214" uly="1993" lrx="1356" lry="2030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r6" ulx="143" uly="529" lrx="622" lry="565" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_705_r32" ulx="152" uly="1860" lrx="275" lry="1888" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1441" facs="#facs_705"/>
+			<p>
+				<add place="above" type="remark">
+					<lb facs="#facs_705_r12"/>Antrag des Regierungsrates vom <date when="1980-10-29">29. Oktober 1980</date></add>
+			</p>
+			<p>
+				<lb facs="#facs_705_r14"/>Art. I</p>
+			<p>
+				<lb facs="#facs_705_r15"/>Die Verfassung des eidgenössischen Standes Zürich vom <date when="1869-04-18">18. April<lb facs="#facs_705_r17"/>1869</date> wird wie folgt geändert:</p>
+			<p>
+				<lb facs="#facs_705_r19"/>Art. 64 Abs. 1 und 2 unverändert.<lb facs="#facs_705_r20"/>Sie ordnen ihre innerkirchlichen Angelegenheiten selbständig,<lb facs="#facs_705_r21"/>unterstehen im übrigen aber der Oberaufsicht des Staates. Ihre Organi<lb break="no" facs="#facs_705_r22"/>sation sowie ihr Verhältnis zum Staat werden durch die Gesetzgebung<lb facs="#facs_705_r23"/>geregelt, die auch die staatlichen Leistungen für das Kirchenwesen<lb facs="#facs_705_r24"/>ordnet. Die auf historischen Rechtstiteln beruhenden Verpflichtungen<lb facs="#facs_705_r25"/>des Staates bleiben gewahrt. Die von den Stimmberechtigten zu wählen<lb break="no" facs="#facs_705_r26"/>den Pfarrer unterliegen alle sechs Jahre einer Bestätigungswahl. Das<lb facs="#facs_705_r27"/>Wahlverfahren wird durch die Gesetzgebung bestimmt.</p>
+			<p>
+				<lb facs="#facs_705_r28"/>Andere Kirchen und religiöse Gemeinschaften können ebenfalls<lb facs="#facs_705_r29"/>staatlich anerkannt werden. Sie erhalten die Rechtsstellung einer<lb facs="#facs_705_r30"/>Gemeinde oder können andere Rechte erlangen. Die Gesetzgebung<lb facs="#facs_705_r31"/>regelt die Einzelheiten.</p>
+			<p>
+				<lb facs="#facs_705_r32"/>Art. II</p>
+			<p>
+				<lb facs="#facs_705_r33"/>Dieses Verfassungsgesetz untersteht der Volksabstimmung.<lb facs="#facs_705_r34"/>Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.</p>
+		</body></text></TEI>

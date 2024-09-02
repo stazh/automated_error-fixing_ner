@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Kantonale Verordnung über die landwirtschaftliche Berufsbildung (vom 28. November 1979)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-03-14">14.03.1980</date><ident>StAZH ABl 1980 (S. 265-274)</ident><idno>265–274</idno><idno type="issue">19</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131775"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_266" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0266.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_266_r38" ulx="237" uly="1972" lrx="1143" lry="2010" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r41" ulx="150" uly="2137" lrx="1389" lry="2178" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r21" ulx="1462" uly="1379" lrx="1646" lry="1401" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r10" ulx="1297" uly="764" lrx="1439" lry="796" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r17" ulx="155" uly="1108" lrx="1435" lry="1150" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r39" ulx="232" uly="2037" lrx="1433" lry="2078" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r4" ulx="519" uly="254" lrx="1068" lry="296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r11" ulx="156" uly="800" lrx="412" lry="830" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r9" ulx="152" uly="754" lrx="1256" lry="792" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r36" ulx="151" uly="1850" lrx="1428" lry="1892" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r40" ulx="148" uly="2091" lrx="1437" lry="2128" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r22" ulx="1463" uly="1410" lrx="1662" lry="1432" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r19" ulx="239" uly="1231" lrx="1428" lry="1266" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r6" ulx="546" uly="439" lrx="635" lry="473" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r34" ulx="234" uly="1760" lrx="1428" lry="1795" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r25" ulx="153" uly="1460" lrx="1079" lry="1496" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r29" ulx="153" uly="1675" lrx="1350" lry="1712" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r3" ulx="1370" uly="168" lrx="1433" lry="193" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r8" ulx="525" uly="681" lrx="1075" lry="712" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r1" ulx="568" uly="2393" lrx="816" lry="2419" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r37" ulx="147" uly="1904" lrx="931" lry="1942" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r0" ulx="233" uly="2389" lrx="562" lry="2414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r7" ulx="660" uly="441" lrx="1050" lry="476" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r20" ulx="150" uly="1275" lrx="1025" lry="1311" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r30" ulx="1456" uly="1772" lrx="1602" lry="1834" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r2" ulx="1322" uly="2404" lrx="1360" lry="2426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r12" ulx="626" uly="877" lrx="970" lry="903" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r26" ulx="236" uly="1527" lrx="1437" lry="1564" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r33" ulx="1460" uly="1902" lrx="1577" lry="1923" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r42" ulx="1458" uly="2235" lrx="1616" lry="2266" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r31" ulx="1460" uly="1804" lrx="1616" lry="1825" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r44" ulx="147" uly="2272" lrx="1424" lry="2310" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r27" ulx="151" uly="1577" lrx="1433" lry="1614" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r5" ulx="282" uly="318" lrx="1304" lry="362" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r16" ulx="239" uly="1064" lrx="1433" lry="1102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r13" ulx="491" uly="968" lrx="1097" lry="1002" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r18" ulx="153" uly="1164" lrx="1091" lry="1196" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r32" ulx="1458" uly="1870" lrx="1682" lry="1897" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r23" ulx="239" uly="1364" lrx="1439" lry="1401" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r14" ulx="1461" uly="1072" lrx="1624" lry="1095" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r43" ulx="233" uly="2225" lrx="1435" lry="2262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r24" ulx="150" uly="1410" lrx="1429" lry="1448" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r28" ulx="151" uly="1625" lrx="1436" lry="1662" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r35" ulx="149" uly="1806" lrx="1425" lry="1845" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_266_r15" ulx="1463" uly="1106" lrx="1595" lry="1125" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_267" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0267.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_267_r39" ulx="60" uly="2191" lrx="225" lry="2229" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r7" ulx="293" uly="550" lrx="1580" lry="585" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r23" ulx="56" uly="1425" lrx="191" lry="1447" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r12" ulx="295" uly="825" lrx="1573" lry="857" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r20" ulx="297" uly="1218" lrx="714" lry="1249" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r16" ulx="297" uly="1006" lrx="1575" lry="1041" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r18" ulx="381" uly="1116" lrx="1573" lry="1150" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r0" ulx="295" uly="172" lrx="358" lry="198" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r3" ulx="291" uly="375" lrx="496" lry="400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r13" ulx="293" uly="879" lrx="667" lry="908" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r40" ulx="387" uly="2143" lrx="1585" lry="2180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r19" ulx="297" uly="1164" lrx="1577" lry="1201" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r36" ulx="385" uly="2002" lrx="1592" lry="2035" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r42" ulx="302" uly="2237" lrx="1591" lry="2275" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r34" ulx="297" uly="1883" lrx="1589" lry="1919" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r2" ulx="293" uly="314" lrx="1571" lry="348" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r8" ulx="293" uly="604" lrx="933" lry="636" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r43" ulx="302" uly="2289" lrx="1590" lry="2324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r27" ulx="383" uly="1531" lrx="1588" lry="1566" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r24" ulx="54" uly="1458" lrx="152" lry="1478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r35" ulx="297" uly="1935" lrx="1336" lry="1970" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r10" ulx="295" uly="714" lrx="956" lry="745" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r15" ulx="381" uly="958" lrx="1575" lry="992" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r29" ulx="300" uly="1637" lrx="508" lry="1668" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r5" ulx="377" uly="456" lrx="1579" lry="491" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r14" ulx="52" uly="962" lrx="269" lry="986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r38" ulx="62" uly="2160" lrx="179" lry="2178" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r44" ulx="304" uly="2337" lrx="1467" lry="2374" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r11" ulx="379" uly="775" lrx="1579" lry="807" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r22" ulx="293" uly="1329" lrx="960" lry="1361" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r28" ulx="297" uly="1581" lrx="1587" lry="1617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r4" ulx="52" uly="460" lrx="210" lry="482" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r33" ulx="297" uly="1837" lrx="1592" lry="1872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r9" ulx="377" uly="660" lrx="1577" lry="695" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r21" ulx="379" uly="1277" lrx="1581" lry="1310" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r1" ulx="291" uly="264" lrx="1572" lry="301" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r25" ulx="381" uly="1414" lrx="1585" lry="1452" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r31" ulx="297" uly="1741" lrx="1591" lry="1776" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r37" ulx="300" uly="2056" lrx="908" lry="2088" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r30" ulx="385" uly="1691" lrx="1581" lry="1726" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r26" ulx="300" uly="1472" lrx="784" lry="1503" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r41" ulx="304" uly="2191" lrx="1588" lry="2226" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r6" ulx="291" uly="502" lrx="1580" lry="538" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r32" ulx="297" uly="1791" lrx="1585" lry="1825" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_267_r17" ulx="295" uly="1064" lrx="569" lry="1091" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_268" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0268.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_268_r41" ulx="150" uly="2222" lrx="1433" lry="2263" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r4" ulx="158" uly="406" lrx="391" lry="432" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r35" ulx="1462" uly="1991" lrx="1620" lry="2019" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r32" ulx="237" uly="1791" lrx="1435" lry="1826" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r26" ulx="154" uly="1595" lrx="1434" lry="1633" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r29" ulx="1462" uly="1795" lrx="1656" lry="1819" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r3" ulx="158" uly="354" lrx="1437" lry="387" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r10" ulx="157" uly="660" lrx="958" lry="695" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r14" ulx="247" uly="902" lrx="554" lry="932" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r13" ulx="179" uly="850" lrx="1439" lry="889" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r2" ulx="154" uly="306" lrx="1439" lry="339" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r5" ulx="1466" uly="502" lrx="1659" lry="527" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r9" ulx="239" uly="612" lrx="1437" lry="647" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r15" ulx="177" uly="966" lrx="1441" lry="1003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r36" ulx="229" uly="1981" lrx="1416" lry="2017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r37" ulx="147" uly="2031" lrx="1436" lry="2069" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r42" ulx="149" uly="2270" lrx="1006" lry="2304" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r18" ulx="172" uly="1147" lrx="1204" lry="1185" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r1" ulx="242" uly="258" lrx="1433" lry="290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r21" ulx="149" uly="1316" lrx="1437" lry="1354" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r7" ulx="238" uly="497" lrx="1436" lry="532" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r34" ulx="145" uly="1889" lrx="1236" lry="1923" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r38" ulx="147" uly="2077" lrx="1439" lry="2116" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r17" ulx="177" uly="1083" lrx="1061" lry="1118" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r23" ulx="236" uly="1429" lrx="1439" lry="1468" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r12" ulx="152" uly="781" lrx="291" lry="807" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r8" ulx="158" uly="547" lrx="750" lry="578" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r16" ulx="239" uly="1016" lrx="1208" lry="1051" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r28" ulx="149" uly="1697" lrx="420" lry="1723" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r24" ulx="152" uly="1483" lrx="964" lry="1514" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r27" ulx="154" uly="1645" lrx="1439" lry="1682" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r22" ulx="152" uly="1370" lrx="310" lry="1397" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r20" ulx="153" uly="1264" lrx="1435" lry="1303" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r33" ulx="147" uly="1835" lrx="1439" lry="1873" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r0" ulx="1372" uly="162" lrx="1439" lry="187" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r6" ulx="1472" uly="529" lrx="1632" lry="548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r39" ulx="149" uly="2122" lrx="1435" lry="2165" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r19" ulx="241" uly="1218" lrx="1437" lry="1258" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r30" ulx="1462" uly="1829" lrx="1696" lry="1850" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r11" ulx="241" uly="731" lrx="1444" lry="766" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r40" ulx="149" uly="2175" lrx="1433" lry="2214" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r31" ulx="1461" uly="1856" lrx="1550" lry="1877" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_268_r25" ulx="234" uly="1545" lrx="1437" lry="1585" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_269" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0269.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_269_r15" ulx="383" uly="874" lrx="1584" lry="914" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r19" ulx="300" uly="1108" lrx="952" lry="1139" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r3" ulx="381" uly="356" lrx="1573" lry="392" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r16" ulx="297" uly="922" lrx="1510" lry="963" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r41" ulx="391" uly="2233" lrx="1594" lry="2271" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r13" ulx="300" uly="783" lrx="1027" lry="818" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r24" ulx="297" uly="1397" lrx="1577" lry="1437" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r18" ulx="297" uly="1054" lrx="1575" lry="1089" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r5" ulx="379" uly="481" lrx="1584" lry="519" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r25" ulx="297" uly="1447" lrx="1588" lry="1484" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r29" ulx="306" uly="1652" lrx="1217" lry="1684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r17" ulx="383" uly="1002" lrx="1583" lry="1039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r8" ulx="56" uly="687" lrx="240" lry="708" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r4" ulx="295" uly="410" lrx="1417" lry="442" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r28" ulx="387" uly="1597" lrx="1588" lry="1635" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r27" ulx="60" uly="1608" lrx="241" lry="1627" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r30" ulx="387" uly="1725" lrx="1590" lry="1760" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r33" ulx="304" uly="1872" lrx="1591" lry="1908" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r37" ulx="391" uly="2014" lrx="1590" lry="2052" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r26" ulx="295" uly="1506" lrx="735" lry="1537" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r42" ulx="305" uly="2289" lrx="1004" lry="2323" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r22" ulx="295" uly="1277" lrx="1201" lry="1313" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r40" ulx="301" uly="2173" lrx="431" lry="2198" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r39" ulx="308" uly="2110" lrx="1590" lry="2149" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r34" ulx="304" uly="1923" lrx="891" lry="1956" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r20" ulx="383" uly="1177" lrx="1585" lry="1213" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r38" ulx="300" uly="2060" lrx="1589" lry="2099" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r23" ulx="385" uly="1350" lrx="1591" lry="1387" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r6" ulx="293" uly="533" lrx="1344" lry="571" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r11" ulx="291" uly="681" lrx="1585" lry="719" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r32" ulx="302" uly="1822" lrx="1590" lry="1858" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r2" ulx="54" uly="364" lrx="235" lry="385" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r21" ulx="297" uly="1220" lrx="1587" lry="1261" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r31" ulx="302" uly="1772" lrx="1586" lry="1808" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r7" ulx="53" uly="645" lrx="214" lry="666" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r0" ulx="294" uly="168" lrx="358" lry="192" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r36" ulx="64" uly="2058" lrx="229" lry="2078" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r9" ulx="56" uly="716" lrx="277" lry="739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r1" ulx="523" uly="258" lrx="1347" lry="293" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r10" ulx="383" uly="633" lrx="1582" lry="669" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r35" ulx="62" uly="2027" lrx="210" lry="2048" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r12" ulx="295" uly="729" lrx="1581" lry="768" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_269_r14" ulx="56" uly="885" lrx="235" lry="909" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_270" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0270.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_270_r9" ulx="245" uly="645" lrx="1445" lry="679" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r26" ulx="158" uly="1435" lrx="1445" lry="1466" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r11" ulx="164" uly="743" lrx="1445" lry="777" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r7" ulx="162" uly="527" lrx="1445" lry="559" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r14" ulx="1468" uly="939" lrx="1655" lry="966" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r27" ulx="154" uly="1485" lrx="456" lry="1514" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r34" ulx="154" uly="1727" lrx="1441" lry="1756" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r31" ulx="241" uly="1579" lrx="1448" lry="1611" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r8" ulx="160" uly="583" lrx="338" lry="611" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r28" ulx="1468" uly="1577" lrx="1593" lry="1599" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r43" ulx="245" uly="2231" lrx="1440" lry="2264" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r2" ulx="248" uly="258" lrx="1439" lry="290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r3" ulx="166" uly="310" lrx="1441" lry="339" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r10" ulx="159" uly="693" lrx="1437" lry="727" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r17" ulx="162" uly="1035" lrx="1202" lry="1067" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r42" ulx="151" uly="2158" lrx="1054" lry="2193" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r25" ulx="245" uly="1385" lrx="1441" lry="1416" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r16" ulx="160" uly="989" lrx="1442" lry="1019" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r44" ulx="152" uly="2283" lrx="1147" lry="2312" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r12" ulx="162" uly="791" lrx="1446" lry="825" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r21" ulx="159" uly="1185" lrx="1442" lry="1217" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r35" ulx="152" uly="1775" lrx="587" lry="1805" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r41" ulx="152" uly="2114" lrx="1435" lry="2145" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r30" ulx="1466" uly="1635" lrx="1567" lry="1660" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r13" ulx="161" uly="841" lrx="246" lry="868" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r23" ulx="164" uly="1283" lrx="823" lry="1315" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r22" ulx="158" uly="1235" lrx="1439" lry="1267" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r15" ulx="247" uly="937" lrx="1425" lry="971" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r40" ulx="237" uly="2062" lrx="1435" lry="2094" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r1" ulx="1472" uly="252" lrx="1630" lry="278" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r20" ulx="247" uly="1137" lrx="1443" lry="1171" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r36" ulx="239" uly="1845" lrx="1422" lry="1876" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r39" ulx="154" uly="1989" lrx="966" lry="2021" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r0" ulx="1380" uly="160" lrx="1443" lry="185" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r19" ulx="1474" uly="1166" lrx="1658" lry="1186" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r24" ulx="1468" uly="1381" lrx="1581" lry="1405" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r33" ulx="153" uly="1675" lrx="1435" lry="1708" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r29" ulx="1469" uly="1608" lrx="1605" lry="1627" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r32" ulx="151" uly="1627" lrx="1441" lry="1659" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r38" ulx="156" uly="1943" lrx="1435" lry="1974" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r37" ulx="155" uly="1891" lrx="1435" lry="1926" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r18" ulx="1470" uly="1133" lrx="1571" lry="1155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r5" ulx="166" uly="410" lrx="305" lry="435" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r6" ulx="252" uly="477" lrx="1445" lry="509" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_270_r4" ulx="164" uly="349" lrx="1444" lry="387" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_271" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0271.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_271_r43" ulx="400" uly="2020" lrx="1595" lry="2054" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r47" ulx="314" uly="2233" lrx="1602" lry="2269" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r14" ulx="57" uly="712" lrx="237" lry="739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r13" ulx="387" uly="627" lrx="1587" lry="660" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r27" ulx="66" uly="1404" lrx="139" lry="1421" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r19" ulx="303" uly="910" lrx="1591" lry="941" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r38" ulx="308" uly="1837" lrx="1597" lry="1869" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r32" ulx="397" uly="1583" lrx="1589" lry="1617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r42" ulx="68" uly="2056" lrx="250" lry="2075" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r4" ulx="61" uly="362" lrx="183" lry="379" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r12" ulx="302" uly="566" lrx="856" lry="596" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r7" ulx="301" uly="310" lrx="1583" lry="342" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r3" ulx="64" uly="329" lrx="262" lry="350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r33" ulx="306" uly="1635" lrx="964" lry="1666" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r22" ulx="305" uly="1068" lrx="1006" lry="1101" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r10" ulx="304" uly="456" lrx="781" lry="485" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r2" ulx="60" uly="289" lrx="224" lry="307" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r1" ulx="59" uly="260" lrx="193" lry="277" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r28" ulx="393" uly="1368" lrx="1589" lry="1402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r34" ulx="396" uly="1700" lrx="1254" lry="1733" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r20" ulx="305" uly="964" lrx="441" lry="989" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r25" ulx="494" uly="1283" lrx="1404" lry="1314" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r44" ulx="314" uly="2072" lrx="1595" lry="2105" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r40" ulx="309" uly="1933" lrx="822" lry="1968" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r15" ulx="387" uly="718" lrx="1591" lry="748" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r5" ulx="62" uly="387" lrx="225" lry="407" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r30" ulx="308" uly="1468" lrx="1594" lry="1501" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r16" ulx="299" uly="764" lrx="1589" lry="796" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r6" ulx="385" uly="262" lrx="1589" lry="294" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r29" ulx="306" uly="1420" lrx="1587" lry="1450" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r17" ulx="304" uly="814" lrx="1591" lry="846" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r36" ulx="64" uly="1820" lrx="222" lry="1839" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r37" ulx="395" uly="1789" lrx="1593" lry="1820" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r45" ulx="313" uly="2120" lrx="955" lry="2153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r31" ulx="306" uly="1522" lrx="441" lry="1549" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r23" ulx="391" uly="1137" lrx="1591" lry="1168" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r46" ulx="400" uly="2187" lrx="1601" lry="2219" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r8" ulx="300" uly="358" lrx="1579" lry="390" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r18" ulx="302" uly="862" lrx="1583" lry="893" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r11" ulx="387" uly="518" lrx="1589" lry="549" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r41" ulx="66" uly="2025" lrx="239" lry="2046" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r9" ulx="306" uly="406" lrx="1590" lry="438" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r39" ulx="310" uly="1885" lrx="1600" lry="1919" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r0" ulx="305" uly="166" lrx="368" lry="190" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r48" ulx="312" uly="2289" lrx="468" lry="2317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r21" ulx="391" uly="1018" lrx="1593" lry="1052" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r35" ulx="64" uly="1793" lrx="268" lry="1813" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r26" ulx="64" uly="1372" lrx="239" lry="1391" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_271_r24" ulx="302" uly="1185" lrx="814" lry="1216" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_272" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0272.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_272_r37" ulx="166" uly="1837" lrx="1364" lry="1866" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r17" ulx="1475" uly="1039" lrx="1637" lry="1057" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r2" ulx="165" uly="297" lrx="1448" lry="330" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r46" ulx="250" uly="2272" lrx="1327" lry="2308" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r42" ulx="162" uly="2089" lrx="1445" lry="2124" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r11" ulx="168" uly="762" lrx="1450" lry="794" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r21" ulx="164" uly="1041" lrx="502" lry="1072" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r12" ulx="166" uly="810" lrx="1447" lry="842" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r38" ulx="250" uly="1897" lrx="1446" lry="1928" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r4" ulx="170" uly="393" lrx="1446" lry="427" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r9" ulx="252" uly="664" lrx="1447" lry="698" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r1" ulx="259" uly="247" lrx="1442" lry="281" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r44" ulx="162" uly="2191" lrx="495" lry="2219" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r7" ulx="252" uly="554" lrx="1447" lry="585" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r27" ulx="164" uly="1295" lrx="1454" lry="1328" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r32" ulx="164" uly="1539" lrx="1445" lry="1570" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r13" ulx="170" uly="856" lrx="1000" lry="888" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r31" ulx="166" uly="1489" lrx="1452" lry="1521" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r40" ulx="162" uly="1995" lrx="1441" lry="2026" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r35" ulx="1477" uly="1785" lrx="1631" lry="1807" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r6" ulx="170" uly="493" lrx="456" lry="521" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r15" ulx="1477" uly="981" lrx="1652" lry="999" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r30" ulx="166" uly="1439" lrx="1446" lry="1474" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r34" ulx="314" uly="1697" lrx="1300" lry="1730" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r19" ulx="256" uly="945" lrx="1450" lry="979" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r24" ulx="1472" uly="1304" lrx="1681" lry="1330" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r23" ulx="1477" uly="1250" lrx="1669" lry="1278" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r25" ulx="1475" uly="1281" lrx="1527" lry="1300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r39" ulx="162" uly="1945" lrx="1450" lry="1978" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r43" ulx="162" uly="2139" lrx="1450" lry="2173" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r29" ulx="164" uly="1393" lrx="1452" lry="1427" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r26" ulx="252" uly="1250" lrx="1454" lry="1279" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r22" ulx="425" uly="1158" lrx="1194" lry="1190" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r28" ulx="166" uly="1343" lrx="1447" lry="1377" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r3" ulx="164" uly="347" lrx="1447" lry="380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r20" ulx="164" uly="997" lrx="1454" lry="1027" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r10" ulx="166" uly="714" lrx="1445" lry="746" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r5" ulx="170" uly="443" lrx="1443" lry="474" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r41" ulx="160" uly="2043" lrx="1441" lry="2076" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r14" ulx="1475" uly="950" lrx="1648" lry="972" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r0" ulx="1387" uly="156" lrx="1445" lry="180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r8" ulx="165" uly="602" lrx="1131" lry="635" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r16" ulx="1472" uly="1010" lrx="1664" lry="1028" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r45" ulx="1478" uly="2281" lrx="1614" lry="2300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r33" ulx="160" uly="1583" lrx="1200" lry="1619" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r18" ulx="1474" uly="1066" lrx="1651" lry="1084" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_272_r36" ulx="252" uly="1787" lrx="1456" lry="1819" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_273" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0273.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_273_r12" ulx="380" uly="706" lrx="1581" lry="739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r17" ulx="56" uly="989" lrx="193" lry="1009" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r6" ulx="295" uly="499" lrx="470" lry="528" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r8" ulx="295" uly="608" lrx="1504" lry="646" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r4" ulx="295" uly="399" lrx="1583" lry="433" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r25" ulx="56" uly="1295" lrx="235" lry="1316" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r44" ulx="383" uly="1918" lrx="1589" lry="1949" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r38" ulx="383" uly="1627" lrx="1583" lry="1659" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r16" ulx="297" uly="897" lrx="1214" lry="931" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r51" ulx="62" uly="2260" lrx="161" lry="2278" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r24" ulx="54" uly="1256" lrx="181" lry="1275" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r30" ulx="299" uly="1279" lrx="1577" lry="1312" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r15" ulx="297" uly="850" lrx="1566" lry="883" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r21" ulx="300" uly="1087" lrx="1586" lry="1122" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r22" ulx="295" uly="1139" lrx="710" lry="1169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r35" ulx="58" uly="1560" lrx="243" lry="1581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r31" ulx="300" uly="1327" lrx="797" lry="1357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r0" ulx="297" uly="160" lrx="364" lry="185" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r2" ulx="297" uly="304" lrx="1581" lry="336" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r34" ulx="56" uly="1531" lrx="252" lry="1549" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r28" ulx="56" uly="1383" lrx="285" lry="1404" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r33" ulx="295" uly="1445" lrx="383" lry="1472" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r19" ulx="385" uly="991" lrx="1581" lry="1025" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r36" ulx="385" uly="1533" lrx="1577" lry="1562" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r45" ulx="302" uly="1968" lrx="1433" lry="1999" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r26" ulx="58" uly="1327" lrx="210" lry="1346" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r5" ulx="297" uly="447" lrx="1581" lry="481" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r48" ulx="59" uly="2164" lrx="281" lry="2187" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r56" ulx="304" uly="2218" lrx="1572" lry="2252" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r39" ulx="297" uly="1679" lrx="897" lry="1707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r11" ulx="54" uly="768" lrx="193" lry="787" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r37" ulx="297" uly="1579" lrx="1135" lry="1610" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r40" ulx="59" uly="1758" lrx="256" lry="1782" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r42" ulx="300" uly="1812" lrx="1589" lry="1843" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r27" ulx="54" uly="1356" lrx="183" lry="1375" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r49" ulx="64" uly="2202" lrx="144" lry="2220" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r57" ulx="302" uly="2268" lrx="1414" lry="2301" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r3" ulx="297" uly="349" lrx="1564" lry="385" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r10" ulx="58" uly="739" lrx="170" lry="756" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r9" ulx="56" uly="706" lrx="187" lry="725" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r52" ulx="60" uly="2287" lrx="275" lry="2308" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r43" ulx="301" uly="1864" lrx="383" lry="1891" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r13" ulx="295" uly="752" lrx="1581" lry="787" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r7" ulx="381" uly="564" lrx="1576" lry="598" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r54" ulx="60" uly="2345" lrx="218" lry="2366" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r41" ulx="383" uly="1764" lrx="1579" lry="1795" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r18" ulx="56" uly="1020" lrx="210" lry="1039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r47" ulx="297" uly="2083" lrx="1418" lry="2115" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r1" ulx="382" uly="254" lrx="1575" lry="287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r20" ulx="297" uly="1039" lrx="1579" lry="1073" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r53" ulx="60" uly="2320" lrx="158" lry="2339" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r14" ulx="295" uly="802" lrx="1579" lry="835" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r32" ulx="381" uly="1391" lrx="1585" lry="1426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r50" ulx="60" uly="2229" lrx="216" lry="2248" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r46" ulx="385" uly="2033" lrx="1583" lry="2065" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r23" ulx="56" uly="1227" lrx="218" lry="1248" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r29" ulx="385" uly="1231" lrx="1577" lry="1262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_273_r55" ulx="385" uly="2172" lrx="1591" lry="2202" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_274" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0274.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_274_r21" ulx="1458" uly="1077" lrx="1679" lry="1096" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r22" ulx="1462" uly="1108" lrx="1589" lry="1125" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r43" ulx="139" uly="1881" lrx="712" lry="1913" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r10" ulx="1458" uly="679" lrx="1613" lry="703" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r1" ulx="1456" uly="252" lrx="1612" lry="278" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r38" ulx="1454" uly="1725" lrx="1618" lry="1746" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r53" ulx="137" uly="2277" lrx="1429" lry="2310" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r24" ulx="1458" uly="1166" lrx="1614" lry="1186" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r29" ulx="229" uly="1241" lrx="1427" lry="1275" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r46" ulx="1454" uly="2081" lrx="1541" lry="2105" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r23" ulx="1460" uly="1135" lrx="1666" lry="1155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r47" ulx="1454" uly="2114" lrx="1643" lry="2137" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r18" ulx="235" uly="889" lrx="1427" lry="924" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r48" ulx="1450" uly="2141" lrx="1545" lry="2164" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r25" ulx="1466" uly="1195" lrx="1679" lry="1215" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r44" ulx="229" uly="1945" lrx="1427" lry="1980" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r50" ulx="145" uly="2131" lrx="1431" lry="2164" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r19" ulx="145" uly="941" lrx="1437" lry="975" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r41" ulx="142" uly="1783" lrx="1427" lry="1817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r6" ulx="150" uly="447" lrx="1427" lry="480" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r34" ulx="147" uly="1504" lrx="1425" lry="1536" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r5" ulx="150" uly="397" lrx="1429" lry="431" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r45" ulx="141" uly="2002" lrx="286" lry="2027" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r9" ulx="150" uly="593" lrx="606" lry="621" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r2" ulx="237" uly="254" lrx="1433" lry="284" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r33" ulx="233" uly="1456" lrx="1425" lry="1488" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r12" ulx="1458" uly="739" lrx="1631" lry="759" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r20" ulx="145" uly="991" lrx="1427" lry="1025" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r27" ulx="145" uly="1125" lrx="1438" lry="1158" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r37" ulx="1456" uly="1689" lrx="1538" lry="1710" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r39" ulx="229" uly="1687" lrx="1423" lry="1719" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r49" ulx="227" uly="2085" lrx="1427" lry="2116" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r3" ulx="149" uly="302" lrx="1431" lry="332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r31" ulx="143" uly="1339" lrx="1431" lry="1371" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r16" ulx="147" uly="777" lrx="1435" lry="809" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r8" ulx="147" uly="545" lrx="1433" lry="576" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r0" ulx="1364" uly="158" lrx="1431" lry="182" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r40" ulx="143" uly="1737" lrx="1427" lry="1769" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r17" ulx="150" uly="827" lrx="1272" lry="857" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r7" ulx="152" uly="495" lrx="1433" lry="528" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r36" ulx="143" uly="1602" lrx="257" lry="1628" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r13" ulx="1460" uly="770" lrx="1629" lry="791" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r4" ulx="149" uly="347" lrx="1433" lry="382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r52" ulx="141" uly="2229" lrx="1427" lry="2261" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r14" ulx="231" uly="681" lrx="1439" lry="712" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r28" ulx="145" uly="1179" lrx="309" lry="1205" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r30" ulx="143" uly="1291" lrx="1433" lry="1323" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r35" ulx="145" uly="1552" lrx="1431" lry="1585" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r42" ulx="143" uly="1833" lrx="1425" lry="1864" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r11" ulx="1462" uly="710" lrx="1685" lry="730" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r32" ulx="147" uly="1389" lrx="887" lry="1420" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r26" ulx="231" uly="1077" lrx="1435" lry="1110" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r51" ulx="136" uly="2179" lrx="1436" lry="2212" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_274_r15" ulx="145" uly="731" lrx="1425" lry="760" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_275" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0275.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_275_r25" ulx="320" uly="1277" lrx="1608" lry="1307" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r22" ulx="77" uly="1181" lrx="258" lry="1200" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r18" ulx="316" uly="1033" lrx="889" lry="1065" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r1" ulx="314" uly="252" lrx="1601" lry="284" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r2" ulx="317" uly="300" lrx="1602" lry="332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r14" ulx="77" uly="968" lrx="222" lry="988" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r6" ulx="75" uly="568" lrx="216" lry="589" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r5" ulx="400" uly="470" lrx="1364" lry="503" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r29" ulx="966" uly="1537" lrx="1608" lry="1569" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r35" ulx="1050" uly="1995" lrx="1386" lry="2029" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r7" ulx="72" uly="595" lrx="206" lry="615" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r28" ulx="652" uly="1431" lrx="1033" lry="1462" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r23" ulx="406" uly="1181" lrx="1602" lry="1213" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r9" ulx="316" uly="614" lrx="1602" lry="648" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r10" ulx="320" uly="664" lrx="1602" lry="696" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r32" ulx="1079" uly="1775" lrx="1497" lry="1804" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r13" ulx="79" uly="939" lrx="231" lry="959" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r3" ulx="316" uly="350" lrx="1598" lry="382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r16" ulx="406" uly="937" lrx="1602" lry="969" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r26" ulx="320" uly="1325" lrx="897" lry="1357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r24" ulx="322" uly="1227" lrx="1610" lry="1259" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r21" ulx="318" uly="1083" lrx="451" lry="1112" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r12" ulx="737" uly="837" lrx="1179" lry="868" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r19" ulx="931" uly="1035" lrx="1324" lry="1066" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r33" ulx="1122" uly="1833" lrx="1446" lry="1862" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r17" ulx="316" uly="985" lrx="1604" lry="1017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r27" ulx="410" uly="1433" lrx="637" lry="1462" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r30" ulx="1135" uly="1625" lrx="1433" lry="1654" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r31" ulx="1201" uly="1681" lrx="1373" lry="1710" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r0" ulx="316" uly="158" lrx="383" lry="182" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r8" ulx="402" uly="568" lrx="1602" lry="599" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r15" ulx="75" uly="1002" lrx="172" lry="1021" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r4" ulx="317" uly="397" lrx="454" lry="427" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r34" ulx="411" uly="1997" lrx="1020" lry="2030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r11" ulx="320" uly="712" lrx="966" lry="744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_275_r20" ulx="1347" uly="1035" lrx="1608" lry="1064" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="265" facs="#facs_266"/>
+			<p>
+				<lb facs="#facs_266_r8"/>Der Regierungsrat,</p>
+			<p>
+				<lb facs="#facs_266_r9"/>gestützt auf § 183 des Landwirtschaftsgesetzes vom <date when="1979-09-02">2. Sep<lb break="no" facs="#facs_266_r11"/>tember 1979,</date></p>
+			<p>
+				<lb facs="#facs_266_r12"/>beschliesst:</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_266_r13"/>A. Allgemeine Bestimmungen</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_266_r14"/>Zuständige<lb facs="#facs_266_r15"/>Direktion</add>
+				</p>
+				<p>
+					<lb facs="#facs_266_r16"/>§1. Die Volkswirtschaftsdirektion ist die für den Vollzug<lb facs="#facs_266_r17"/>des Landwirtschaftsgesetzes zuständige Direktion des Regie<lb break="no" facs="#facs_266_r18"/>rungsrates, soweit nichts anderes bestimmt ist.</p>
+				<p>
+					<lb facs="#facs_266_r19"/>Für den Bereich der landwirtschaftlichen Berufsbildung<lb facs="#facs_266_r20"/>ist ihr das Landwirtschaftsamt beigegeben.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_266_r21"/>Übertragung<lb facs="#facs_266_r22"/>von Aufgaben</add>
+				</p>
+				<p>
+					<lb facs="#facs_266_r23"/>§ 2. Als anerkannte Organisation mit landwirtschaft<lb break="no" facs="#facs_266_r24"/>lichen Zielsetzungen gelten vorab die landwirtschaftlichen<lb facs="#facs_266_r25"/>Hauptvereine und deren kantonale Sektionen.</p>
+				<p>
+					<lb facs="#facs_266_r26"/>Die Beteiligung des Staates an den Kosten, welche an<lb break="no" facs="#facs_266_r27"/>erkannten Organisationen aus ihnen übertragenen Bildungs<lb break="no" facs="#facs_266_r28"/>aufgaben entstehen, richtet sich nach dem Umfang der Auf<lb break="no" facs="#facs_266_r29"/>wendungen und der Bedeutung der übertragenen Aufgabe.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_266_r30"/>Landwirt-Schulen<lb facs="#facs_266_r31"/>schaftliche<lb facs="#facs_266_r32"/>a) Bezeichnung<lb facs="#facs_266_r33"/>und Ort</add>
+				</p>
+				<p>
+					<lb facs="#facs_266_r34"/>§3. Der Staat führt die landwirtschaftlichen Berufs- und<lb facs="#facs_266_r35"/>Fachschulen Strickhof (in Eschikon, Lindau), Weinland (in<lb facs="#facs_266_r36"/>Winterthur-Wülflingen), Unterland (in Bülach), Oberland (in<lb facs="#facs_266_r37"/>Wetzikon) und Amt (in Affoltern a. A).</p>
+				<p>
+					<lb facs="#facs_266_r38"/>Die Jahresschule wird am Strickhof geführt.<lb facs="#facs_266_r39"/>Landwirtschaftliche Haushaltungsschulen werden in Uster<lb facs="#facs_266_r40"/>und, zusammengeschlossen mit der landwirtschaftlichen Berufs<lb break="no" facs="#facs_266_r41"/>und Fachschule Weinland, in Winterthur-Wülflingen geführt.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_266_r42"/>b) Internat</add>
+				</p>
+				<p>
+					<lb facs="#facs_266_r43"/>§ 4. Der Strickhof führt ein für seine Fachschüler obliga<lb break="no" facs="#facs_266_r44"/>torisches Internat. Die Volkswirtschaftsdirektion kann hievon</p>
+				<pb n="266" facs="#facs_267"/>
+				<p>
+					<lb facs="#facs_267_r1"/>für einzelne Kurse oder Schüler Ausnahmen oder die Auf<lb break="no" facs="#facs_267_r2"/>nahme interner Schüler an anderen Berufs- und Fachschulen<lb facs="#facs_267_r3"/>anordnen.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_267_r4"/>c) Direktor</add>
+				</p>
+				<p>
+					<lb facs="#facs_267_r5"/>§5. Der Schuldirektor sorgt für die ordnungsgemässe<lb facs="#facs_267_r6"/>Führung der Schule, des allfälligen Gutsbetriebes und Be<lb break="no" facs="#facs_267_r7"/>ratungsdienstes sowie für die Erfüllung der weitern der<lb facs="#facs_267_r8"/>Schule übertragenen Aufgaben.</p>
+				<p>
+					<lb facs="#facs_267_r9"/>Er erlässt eine Hausordnung, die der Genehmigung durch<lb facs="#facs_267_r10"/>die Aufsichtskommission bedarf.</p>
+				<p>
+					<lb facs="#facs_267_r11"/>Er bereitet die Geschäfte der Aufsichtskommission vor<lb facs="#facs_267_r12"/>und erstattet dieser zuhanden der Volkswirtschaftsdirektion<lb facs="#facs_267_r13"/>den Jahresbericht.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_267_r14"/>d) Hauptlehrer</add>
+				</p>
+				<p>
+					<lb facs="#facs_267_r15"/>§ 6. Die Direktoren erstellen für jeden Hauptlehrer einen<lb facs="#facs_267_r16"/>Stellenbeschrieb, der der Genehmigung des Landwirtschafts<lb break="no" facs="#facs_267_r17"/>amtes bedarf.</p>
+				<p>
+					<lb facs="#facs_267_r18"/>Der Stellenbeschrieb regelt insbesondere die wichtigsten<lb facs="#facs_267_r19"/>Aufgaben im Berufs- und Fachschulunterricht, im Kurswesen<lb facs="#facs_267_r20"/>und in der Beratung.</p>
+				<p>
+					<lb facs="#facs_267_r21"/>Das Landwirtschaftsamt kann den Hauptlehrern einzelne<lb facs="#facs_267_r22"/>besondere Aufgaben übertragen.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_267_r23"/>e) Ubrige<lb facs="#facs_267_r24"/>Lehrer</add>
+				</p>
+				<p>
+					<lb facs="#facs_267_r25"/>§7. Die Volkswirtschaftsdirektion legt die Lehraufträge<lb facs="#facs_267_r26"/>der übrigen Lehrer fest.</p>
+				<p>
+					<lb facs="#facs_267_r27"/>Die Ernennung dieser Lehrer erfolgt durch die Volkswirt<lb break="no" facs="#facs_267_r28"/>schaftsdirektion grundsätzlich jeweils für ein Semester oder<lb facs="#facs_267_r29"/>Schuljahr.</p>
+				<p>
+					<lb facs="#facs_267_r30"/>Soll eine Lehrkraft, die nicht Hauptlehrer ist, während<lb facs="#facs_267_r31"/>eines längeren Zeitraumes wöchentlich mehrere Unterrichts<lb break="no" facs="#facs_267_r32"/>stunden erteilen, so ist dies bei der Ernennung festzuhalten.<lb facs="#facs_267_r33"/>Solche Anstellungsverhältnisse können beidseitig unter Ein<lb break="no" facs="#facs_267_r34"/>haltung einer dreimonatigen Kündigungsfrist auf das Ende<lb facs="#facs_267_r35"/>eines Semesters oder Schuljahrs gekündigt werden.</p>
+				<p>
+					<lb facs="#facs_267_r36"/>Die Besoldung richtet sich nach den besonderen Vor<lb break="no" facs="#facs_267_r37"/>schriften des Regierungsrates.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_267_r38"/>f) Schul<lb break="no" facs="#facs_267_r39"/>direktoren-Konferenz</add>
+				</p>
+				<p>
+					<lb facs="#facs_267_r40"/>§ 8. Die Direktoren aller landwirtschaftlichen Schulen<lb facs="#facs_267_r41"/>bilden die landwirtschaftliche Schuldirektorenkonferenz. Diese<lb facs="#facs_267_r42"/>koordiniert die Tätigkeit der Schulen auf allen Stufen der<lb facs="#facs_267_r43"/>bäuerlichen Berufsbildung. Das Landwirtschaftsamt kann ihr<lb facs="#facs_267_r44"/>einzelne Bildungsfragen zur Stellungnahme unterbreiten.</p>
+				<pb n="267" facs="#facs_268"/>
+				<p>
+					<lb facs="#facs_268_r1"/>Die Konferenz beschliesst, welche Lehrmittel von den<lb facs="#facs_268_r2"/>Schulen bevorzugt werden sollen; nach Möglichkeit sind die<lb facs="#facs_268_r3"/>Lehrmittel der Landwirtschaftlichen Lehrmittelzentrale zu<lb facs="#facs_268_r4"/>verwenden.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_268_r5"/>g) Aufsichts<lb break="no" facs="#facs_268_r6"/>kommission</add>
+				</p>
+				<p>
+					<lb facs="#facs_268_r7"/>§9. Die Aufsichtskommission überwacht die Führung<lb facs="#facs_268_r8"/>der Schule samt Gutsbetrieb.</p>
+				<p>
+					<lb facs="#facs_268_r9"/>Sie entscheidet auf Antrag des Direktors über die<lb facs="#facs_268_r10"/>dauernde Wegweisung eines Schülers.</p>
+				<p>
+					<lb facs="#facs_268_r11"/>Sie ist insbesondere zu den folgenden Geschäften anzu<lb break="no" facs="#facs_268_r12"/>hören:</p>
+				<p>
+					<lb facs="#facs_268_r13"/>a) Genehmigung des generellen Programmes der vorge<lb break="no" facs="#facs_268_r14"/>sehenen Kurse;</p>
+				<p>
+					<lb facs="#facs_268_r15"/>b) Wahl des Direktors, der Hauptlehrer und allenfalls des<lb facs="#facs_268_r16"/>leitenden Werkführers und des Internatsleiters;</p>
+				<p>
+					<lb facs="#facs_268_r17"/>c) Erlass und Änderung der Schulordnung;</p>
+				<p>
+					<lb facs="#facs_268_r18"/>d) Genehmigung der Lehr- und der Stundenpläne.</p>
+				<p>
+					<lb facs="#facs_268_r19"/>Die Volkswirtschaftsdirektion erlässt im übrigen für jede<lb facs="#facs_268_r20"/>Aufsichtskommission ein Pflichtenheft. Sie kann den Auf<lb break="no" facs="#facs_268_r21"/>sichtskommissionen von Fall zu Fall weitere Aufgaben zu<lb break="no" facs="#facs_268_r22"/>weisen.</p>
+				<p>
+					<lb facs="#facs_268_r23"/>Der Schuldirektor nimmt an den Sitzungen der Aufsichts<lb break="no" facs="#facs_268_r24"/>kommission mit beratender Stimme teil.</p>
+				<p>
+					<lb facs="#facs_268_r25"/>Die Kommission kann für die Behandlung dringlicher<lb facs="#facs_268_r26"/>Aufgaben einen Ausschuss bezeichnen, der sich aus dem Präsi<lb break="no" facs="#facs_268_r27"/>denten, seinem Stellvertreter und dem Protokollführer zu<lb break="no" facs="#facs_268_r28"/>sammensetzt.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_268_r29"/>h) Absenzen<lb facs="#facs_268_r30"/>und Disziplinar<lb break="no" facs="#facs_268_r31"/>wesen</add>
+				</p>
+				<p>
+					<lb facs="#facs_268_r32"/>§ 10. Das Absenzen- und Disziplinarwesen wird für die<lb facs="#facs_268_r33"/>Schüler der einzelnen Ausbildungstufen in allen Schulordnun<lb break="no" facs="#facs_268_r34"/>gen der Berufs- und Fachschulen einheitlich geregelt.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_268_r35"/>Stipendien</add>
+				</p>
+				<p>
+					<lb facs="#facs_268_r36"/>§ 11. Gesuche um Stipendien und Freiplätze sind dem<lb facs="#facs_268_r37"/>Schuldirektor einzureichen. Dieser übermittelt sie der kanto<lb break="no" facs="#facs_268_r38"/>nalen Stipendienkommission beim Amt für Berufsbildung.<lb facs="#facs_268_r39"/>Über Gesuche um Freiplätze, auf welche die Stipendien<lb break="no" facs="#facs_268_r40"/>kommission mangels Zuständigkeit nicht eintreten kann und<lb facs="#facs_268_r41"/>die auch nicht von einem andern Kanton zu behandeln sind,<lb facs="#facs_268_r42"/>entscheidet die Volkswirtschaftsdirektion.</p>
+			</div>
+			<pb n="268" facs="#facs_269"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_269_r1"/>B. Grundausbildung im Beruf Landwirt</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_269_r2"/>Berufsschule</add>
+				</p>
+				<p>
+					<lb facs="#facs_269_r3"/>§ 12. Die Einzugsgebiete der Berufsschulen sollen nach<lb facs="#facs_269_r4"/>Möglichkeit mit den Beratungskreisen übereinstimmen.</p>
+				<p>
+					<lb facs="#facs_269_r5"/>Die Volkswirtschaftsdirektion entscheidet über die Füh<lb break="no" facs="#facs_269_r6"/>rung räumlich dezentralisierter Berufsschulklassen.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_269_r7"/>Fachschule<lb facs="#facs_269_r8"/>a) Ausschrei<lb break="no" facs="#facs_269_r9"/>bung der Kurse</add>
+				</p>
+				<p>
+					<lb facs="#facs_269_r10"/>§ 13. Das Landwirtschaftsamt und die Berufs- und Fach<lb break="no" facs="#facs_269_r11"/>schulen schreiben die Fachschulkurse aus; sie geben gleich<lb break="no" facs="#facs_269_r12"/>zeitig die Frist für die Anmeldung und für die Bezahlung einer<lb facs="#facs_269_r13"/>allfälligen Anmeldegebühr bekannt.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_269_r14"/>b) Gebühren</add>
+				</p>
+				<p>
+					<lb facs="#facs_269_r15"/>§ 14. Der Regierungsrat setzt das Schul- und das Kost<lb break="no" facs="#facs_269_r16"/>geld fest, die Volkswirtschaftsdirektion die Anmeldegebühr.</p>
+				<p>
+					<lb facs="#facs_269_r17"/>Die Anmeldegebühr wird an das Kostgeld angerechnet;<lb facs="#facs_269_r18"/>sie wird Schülern, die von der Schule nicht aufgenommen<lb facs="#facs_269_r19"/>werden können, zurückerstattet.</p>
+				<p>
+					<lb facs="#facs_269_r20"/>Das Kostgeld wird anteilmässig zurückbezahlt, wenn der<lb facs="#facs_269_r21"/>Schüler während mindestens zwei zusammenhängenden Wo<lb break="no" facs="#facs_269_r22"/>chen aus zwingenden Gründen abwesend ist.</p>
+				<p>
+					<lb facs="#facs_269_r23"/>Die Hausordnung kann ein Haftgeld vorsehen. Dieses ist<lb facs="#facs_269_r24"/>zur Deckung von Schäden bestimmt, welche zweifelsfrei von<lb facs="#facs_269_r25"/>Schülern verursacht wurden, ohne dass der Urheber festge<lb break="no" facs="#facs_269_r26"/>stellt werden konnte.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_269_r27"/>Schulklassen</add>
+				</p>
+				<p>
+					<lb facs="#facs_269_r28"/>§ 15. Die Klassen der Berufs- und der Fachschule um<lb break="no" facs="#facs_269_r29"/>fassen in der Regel zehn bis zwanzig Schüler.</p>
+				<p>
+					<lb facs="#facs_269_r30"/>Das Landwirtschaftsamt bestimmt die Zahl der Klassen.<lb facs="#facs_269_r31"/>Es kann, soweit dies zweckmässig ist, Berufsschüler einer<lb facs="#facs_269_r32"/>Berufsschule ausserhalb des Berufsschulkreises ihres Lehr<lb break="no" facs="#facs_269_r33"/>ortes sowie Fachschüler einer andern als der von ihnen ge<lb break="no" facs="#facs_269_r34"/>wählten Fachschule zuteilen.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_269_r35"/>Aufnahme<lb facs="#facs_269_r36"/>der Schüler</add>
+				</p>
+				<p>
+					<lb facs="#facs_269_r37"/>§ 16. Der Schuldirektor prüft die Anmeldungen und ent<lb break="no" facs="#facs_269_r38"/>scheidet über die Aufnahme als Berufs- oder Fachschüler, die<lb facs="#facs_269_r39"/>Zulassung zur Aufnahmeprüfung oder die Aufnahme als Fach<lb break="no" facs="#facs_269_r40"/>hörer.</p>
+				<p>
+					<lb facs="#facs_269_r41"/>Die Schulordnung kann für die Fachschüler eine Probezeit<lb facs="#facs_269_r42"/>von bis zu neun Wochen vorsehen.</p>
+				<pb n="269" facs="#facs_270"/>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_270_r1"/>Lehrmittel</add>
+				</p>
+				<p>
+					<lb facs="#facs_270_r2"/>§ 17. Die Direktoren bestimmen die in ihrer Schule zu<lb facs="#facs_270_r3"/>verwendenden Lehrmittel nach Anhören der Lehrerschaft und<lb facs="#facs_270_r4"/>in Berücksichtigung der Empfehlungen der Direktorenkon<lb break="no" facs="#facs_270_r5"/>ferenz.</p>
+				<p>
+					<lb facs="#facs_270_r6"/>Die Lehrmittel werden den Schülern entweder leihweise<lb facs="#facs_270_r7"/>unentgeltlich oder als Eigentum zum Selbstkostenpreis ab<lb break="no" facs="#facs_270_r8"/>gegeben.</p>
+				<p>
+					<lb facs="#facs_270_r9"/>Hefte und Schreibmaterialien gehen zu Lasten der<lb facs="#facs_270_r10"/>Schüler, ebenso das Rohmaterial für die handwerklichen<lb facs="#facs_270_r11"/>Übungen, sofern es nicht nur von geringfügigem Wert ist und<lb facs="#facs_270_r12"/>die angefertigten Gegenstände den Schülern überlassen wer<lb break="no" facs="#facs_270_r13"/>den.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_270_r14"/>Exkursionen</add>
+				</p>
+				<p>
+					<lb facs="#facs_270_r15"/>§ 18. Die Kosten der Exkursionen werden bis zu einem<lb facs="#facs_270_r16"/>jährlich von der Volkswirtschaftsdirektion festzusetzenden<lb facs="#facs_270_r17"/>Betrag ganz oder teilweise vom Staat übernommen.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_270_r18"/>Unfall<lb break="no" facs="#facs_270_r19"/>versicherung</add>
+				</p>
+				<p>
+					<lb facs="#facs_270_r20"/>§ 19. Die Berufs- und Fachschüler werden gegen Unfälle<lb facs="#facs_270_r21"/>während der Ausbildung und auf dem direkten Weg von und<lb facs="#facs_270_r22"/>zum Ausbildungsort gemäss einem vom Staat abgeschlossenen<lb facs="#facs_270_r23"/>Versicherungsvertrag versichert.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_270_r24"/>Examen</add>
+				</p>
+				<p>
+					<lb facs="#facs_270_r25"/>§ 20. Die Fach- und Berufsschulkurse schliessen in der<lb facs="#facs_270_r26"/>Regel mit einem öffentlichen Examen oder öffentlichen Be<lb break="no" facs="#facs_270_r27"/>suchstagen ab.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_270_r28"/>Zeugnis,<lb facs="#facs_270_r29"/>Urkunde,<lb facs="#facs_270_r30"/>Diplom</add>
+				</p>
+				<p>
+					<lb facs="#facs_270_r31"/>§ 21. Am Ende jedes Kurses der Berufs- und der Fach<lb break="no" facs="#facs_270_r32"/>schule wird den Schülern, welche die Schule ordnungsgemäss<lb facs="#facs_270_r33"/>besucht haben, ein Zeugnis ausgestellt, das die Leistung in<lb facs="#facs_270_r34"/>jedem Fach mit einer Note bewertet und sich über das Be<lb break="no" facs="#facs_270_r35"/>tragen äussern kann.</p>
+				<p>
+					<lb facs="#facs_270_r36"/>Schüler, die mehr als einen Fünftel der Kurszeit dem<lb facs="#facs_270_r37"/>Unterricht ferngeblieben sind, erhalten in der Regel nur dann<lb facs="#facs_270_r38"/>ein Zeugnis, wenn sie die versäumte Zeit in einem späteren<lb facs="#facs_270_r39"/>Kurs derselben Stufe nachgeholt haben.</p>
+				<p>
+					<lb facs="#facs_270_r40"/>Den Absolventen der Fachschule wird eine Urkunde ab<lb break="no" facs="#facs_270_r41"/>gegeben. Die Jahresschüler erhalten aufgrund einer besondern<lb facs="#facs_270_r42"/>Prüfung und einer Diplomarbeit ein Diplom.</p>
+				<p>
+					<lb facs="#facs_270_r43"/>Urkunde und Diplom werden vom Direktor der Volks<lb break="no" facs="#facs_270_r44"/>wirtschaft und vom Schuldirektor unterzeichnet.</p>
+				<pb n="270" facs="#facs_271"/>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_271_r1"/>Bildungs<lb break="no" facs="#facs_271_r2"/>kommission<lb facs="#facs_271_r3"/>a) Zusammen<lb break="no" facs="#facs_271_r4"/>setzung,<lb facs="#facs_271_r5"/>Sekretariat</add>
+				</p>
+				<p>
+					<lb facs="#facs_271_r6"/>§ 22. Die Kommission für die landwirtschaftliche Berufs<lb break="no" facs="#facs_271_r7"/>bildung besteht aus je einem Vertreter jeder landwirtschaft<lb break="no" facs="#facs_271_r8"/>lichen Berufs- und Fachschule sowie aus einer angemessenen<lb facs="#facs_271_r9"/>Vertretung der Lehrmeister und des Zürcher Landwirtschaft<lb break="no" facs="#facs_271_r10"/>lichen Kantonalvereins.</p>
+				<p>
+					<lb facs="#facs_271_r11"/>Der Regierungsrat bezeichnet den Vorsitzenden nach An<lb break="no" facs="#facs_271_r12"/>hören des Kantonalvereins.</p>
+				<p>
+					<lb facs="#facs_271_r13"/>Das Sekretariat wird durch den Kantonalverein geführt.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_271_r14"/>b) Aufgaben</add>
+				</p>
+				<p>
+					<lb facs="#facs_271_r15"/>§ 23. Der Kommission für die landwirtschaftliche Berufs<lb break="no" facs="#facs_271_r16"/>bildung obliegt die Organisation und die Beaufsichtigung der<lb facs="#facs_271_r17"/>Berufslehre, der Lehrlings- und der Fähigkeitsprüfung gemäss<lb facs="#facs_271_r18"/>den Reglementen des Schweizerischen Landwirtschaftlichen<lb facs="#facs_271_r19"/>Vereins sowie die Lehrstellenvermittlung auf kantonaler<lb facs="#facs_271_r20"/>Ebene.</p>
+				<p>
+					<lb facs="#facs_271_r21"/>Es können ihr durch die Volkswirtschaftsdirektion wei<lb break="no" facs="#facs_271_r22"/>tere Aufgaben übertragen werden.</p>
+				<p>
+					<lb facs="#facs_271_r23"/>Sie erstattet der Volkswirtschaftsdirektion jährlich Be<lb break="no" facs="#facs_271_r24"/>richt über ihre Tätigkeit.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_271_r25"/>C. Landwirtschaftliche Haushaltungsschulen</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_271_r26"/>Bäuerinnen<lb break="no" facs="#facs_271_r27"/>kurse</add>
+				</p>
+				<p>
+					<lb facs="#facs_271_r28"/>§ 24. Die landwirtschaftlichen Haushaltungsschulen füh<lb break="no" facs="#facs_271_r29"/>ren in der Regel im Sommer- und im Winterhalbjahr je einen<lb facs="#facs_271_r30"/>Bäuerinnenkurs im Sinne der Bestimmungen des Bundes<lb facs="#facs_271_r31"/>durch.</p>
+				<p>
+					<lb facs="#facs_271_r32"/>Die Klassen weisen in der Regel einen Anfangsbestand von<lb facs="#facs_271_r33"/>mindestens 10 Schülerinnen auf.</p>
+				<p>
+					<lb facs="#facs_271_r34"/>Der Besuch des Internats ist obligatorisch.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_271_r35"/>Offene Kurse,<lb facs="#facs_271_r36"/>Blockkurse</add>
+				</p>
+				<p>
+					<lb facs="#facs_271_r37"/>§ 25. Die landwirtschaftlichen Haushaltungsschulen füh<lb break="no" facs="#facs_271_r38"/>ren bei Bedarf offene Kurse oder allenfalls Blockkurse durch.<lb facs="#facs_271_r39"/>Kursprogramm und Lehrplan sind von der Volkswirtschafts<lb break="no" facs="#facs_271_r40"/>direktion zu genehmigen.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_271_r41"/>Prüfung und<lb facs="#facs_271_r42"/>Fachausweis</add>
+				</p>
+				<p>
+					<lb facs="#facs_271_r43"/>§ 26. Die Bäuerinnenkurse schliessen mit einer Prüfung<lb facs="#facs_271_r44"/>ab, an welcher auch Teilnehmerinnen der offenen Kurse und<lb facs="#facs_271_r45"/>der Blockkurse zugelassen sind.</p>
+				<p>
+					<lb facs="#facs_271_r46"/>Den Prüfungsteilnehmerinnen wird ein Prüfungszeugnis<lb facs="#facs_271_r47"/>abgegeben, das die Leistung in jedem Fach mit einer Note be<lb break="no" facs="#facs_271_r48"/>wertet.</p>
+				<pb n="271" facs="#facs_272"/>
+				<p>
+					<lb facs="#facs_272_r1"/>Teilnehmerinnen, die die Prüfung mit Erfolg bestehen<lb facs="#facs_272_r2"/>und weitere ihre bisherige Ausbildung und Praxis betreffende<lb facs="#facs_272_r3"/>Bedingungen erfüllen, wird der «Zürcher Fachausweis für<lb facs="#facs_272_r4"/>Bäuerinnen» abgegeben. Dieser wird vom Direktor der Volks<lb break="no" facs="#facs_272_r5"/>wirtschaft und dem Präsidenten der Prüfungskommission<lb facs="#facs_272_r6"/>unterzeichnet.</p>
+				<p>
+					<lb facs="#facs_272_r7"/>Die Volkswirtschaftsdirektion erlässt ein Reglement über<lb facs="#facs_272_r8"/>die Prüfung und die Abgabe des Fachausweises.</p>
+				<p>
+					<lb facs="#facs_272_r9"/>Die Volkswirtschaftsdirektion ernennt eine Prüfungskom<lb break="no" facs="#facs_272_r10"/>mission, in welcher die landwirtschaftlichen Haushaltungs<lb break="no" facs="#facs_272_r11"/>schulen, die Direktion des Erziehungswesens, die Zürcher<lb facs="#facs_272_r12"/>Landfrauenvereinigung und, mit beratender Stimme, die<lb facs="#facs_272_r13"/>Volkswirtschaftsdirektion vertreten sind.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_272_r14"/>Anwendung<lb facs="#facs_272_r15"/>von Bestim<lb break="no" facs="#facs_272_r16"/>mungen über<lb facs="#facs_272_r17"/>Berufs- und<lb facs="#facs_272_r18"/>Fachschulen</add>
+				</p>
+				<p>
+					<lb facs="#facs_272_r19"/>§ 27. Die §§ 13, 14 und 17-21 über die Berufs- und Fach<lb break="no" facs="#facs_272_r20"/>schulen gelten sinngemäss für die landwirtschaftlichen Haus<lb break="no" facs="#facs_272_r21"/>haltungsschulen.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_272_r22"/>D. Landwirtschaftliche Spezialberufe</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_272_r23"/>Organisation<lb facs="#facs_272_r24"/>Durchführung<lb facs="#facs_272_r25"/>und</add>
+				</p>
+				<p>
+					<lb facs="#facs_272_r26"/>§ 28. Die Volkswirtschaftsdirektion überträgt die Organi<lb break="no" facs="#facs_272_r27"/>sation und die Durchführung der Berufslehre und der Lehr<lb break="no" facs="#facs_272_r28"/>abschlussprüfungen in den landwirtschaftlichen Spezialzwei<lb break="no" facs="#facs_272_r29"/>gen den zuständigen landwirtschaftlichen Vereinen und Be<lb break="no" facs="#facs_272_r30"/>rufsverbänden. Sie regelt, soweit erforderlich, mit diesen<lb facs="#facs_272_r31"/>Tägern durch Vereinbarung die Einzelheiten wie Berufsschul<lb break="no" facs="#facs_272_r32"/>ort, Kostentragung, Gebühren für die Vermittlung der Lehr<lb break="no" facs="#facs_272_r33"/>stellen und für die Genehmigung der Lehrverträge.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_272_r34"/>E. Beratung, Fort- und Weiterbildung, Versuche</head>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_272_r35"/>Grundsatz</head>
+				<p>
+					<lb facs="#facs_272_r36"/>§ 29. Die Beratung steht allen in der Landwirtschaft<lb facs="#facs_272_r37"/>tätigen Personen offen. Sie erfolgt einzeln oder in Gruppen.</p>
+				<p>
+					<lb facs="#facs_272_r38"/>Die Beratung kann im Einvernehmen mit der Volkswirt<lb break="no" facs="#facs_272_r39"/>schaftsdirektion auch von landwirtschaftlichen Selbsthilfe<lb break="no" facs="#facs_272_r40"/>organisationen wie landwirtschaftlichen Baugenossenschaften<lb facs="#facs_272_r41"/>in Anspruch genommen werden, wobei die Betriebsberater in<lb facs="#facs_272_r42"/>besondern Fällen, insbesondere im Berg- und Hügelgebiet,<lb facs="#facs_272_r43"/>einzelne Dienstleistungen wie die Sekretariatsführung über<lb break="no" facs="#facs_272_r44"/>nehmen können.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_272_r45"/>Gebühren</add>
+				</p>
+				<p>
+					<lb facs="#facs_272_r46"/>§ 30. Die Beratung ist im allgemeinen unentgeltlich.</p>
+				<pb n="272" facs="#facs_273"/>
+				<p>
+					<lb facs="#facs_273_r1"/>Übersteigt der Aufwand für eine einzelne Beratung einen<lb facs="#facs_273_r2"/>Tag, erhebt der Berater eine angemessene Gebühr. Die Volks<lb break="no" facs="#facs_273_r3"/>wirtschaftsdirektion kann im Einzelfall, insbesondere im<lb facs="#facs_273_r4"/>Berg- und Hügelgebiet und unter Berücksichtigung der wirt<lb break="no" facs="#facs_273_r5"/>schaftlichen Lage des beratenen Landwirts, Ausnahmen be<lb break="no" facs="#facs_273_r6"/>willigen.</p>
+				<p>
+					<lb facs="#facs_273_r7"/>Die Ansätze und die Erhebung der Gebühr werden von<lb facs="#facs_273_r8"/>der Volkswirtschaftsdirektion in einem Reglement geregelt.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_273_r9"/>Betriebs<lb break="no" facs="#facs_273_r10"/>berater<lb break="no" facs="#facs_273_r11"/>konferenz</add>
+				</p>
+				<p>
+					<lb facs="#facs_273_r12"/>§ 31. Sämtliche kantonalen Beratungskräfte können peri<lb break="no" facs="#facs_273_r13"/>odisch zu Betriebsberaterkonferenzen eingeladen werden.<lb facs="#facs_273_r14"/>Diese dienen dem Erfahrungsaustausch und der Weiterbildung<lb facs="#facs_273_r15"/>der Berater. Der Volkswirtschaftsdirektor oder ein von ihm<lb facs="#facs_273_r16"/>bezeichneter Stellvertreter führt den Vorsitz.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_273_r17"/>Landwirt<lb break="no" facs="#facs_273_r18"/>schaftsamt</add>
+				</p>
+				<p>
+					<lb facs="#facs_273_r19"/>§ 32. Das Landwirtschaftsamt behandelt alle Fragen des<lb facs="#facs_273_r20"/>landwirtschaftlichen Beratungswesens, die nicht in den Zu<lb break="no" facs="#facs_273_r21"/>ständigkeitsbereich einer der in den §§ 33-38 genannten Be<lb break="no" facs="#facs_273_r22"/>ratungstellen fallen.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_273_r23"/>Allgemeine<lb facs="#facs_273_r24"/>Beratung<lb facs="#facs_273_r25"/>a) Landwirt<lb break="no" facs="#facs_273_r26"/>schaftliche<lb facs="#facs_273_r27"/>Schulen,<lb facs="#facs_273_r28"/>Beratungskreise</add>
+				</p>
+				<p>
+					<lb facs="#facs_273_r29"/>§ 33. Die landwirtschaftlichen Berufs- und Fachschulen<lb facs="#facs_273_r30"/>führen die allgemeine Beratung in den ihnen zugewiesenen<lb facs="#facs_273_r31"/>Beratungskreisen durch.</p>
+				<p>
+					<lb facs="#facs_273_r32"/>Die Volkswirtschaftsdirektion setzt die Beratungskreise<lb facs="#facs_273_r33"/>fest.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_273_r34"/>b) Nebenamt<lb break="no" facs="#facs_273_r35"/>liche Berater</add>
+				</p>
+				<p>
+					<lb facs="#facs_273_r36"/>§ 34. Bei Bedarf kann die Volkswirtschaftsdirektion<lb facs="#facs_273_r37"/>nebenamtliche Betriebsberater einsetzen.</p>
+				<p>
+					<lb facs="#facs_273_r38"/>Diese sind in der Regel einer landwirtschaftlichen Schule<lb facs="#facs_273_r39"/>oder Zentralstelle unterstellt.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_273_r40"/>Zentralstellen</add>
+				</p>
+				<p>
+					<lb facs="#facs_273_r41"/>§ 35. Der Regierungsrat bestimmt, für welche besonderen<lb facs="#facs_273_r42"/>Fachgebiete Zentralstellen für die Beratung unterhalten wer<lb break="no" facs="#facs_273_r43"/>den.</p>
+				<p>
+					<lb facs="#facs_273_r44"/>Die Zentralstellen unterstehen fachlich dem Landwirt<lb break="no" facs="#facs_273_r45"/>schaftsamt, administrativ einer Berufs- und Fachschule.</p>
+				<p>
+					<lb facs="#facs_273_r46"/>Die Volkswirtschaftsdirektion bestimmt den Standort und<lb facs="#facs_273_r47"/>regelt die Aufgaben und die Organisation im einzelnen.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_273_r48"/>Viehwirtschaft<lb break="no" facs="#facs_273_r49"/>licher<lb facs="#facs_273_r50"/>Beratungs<lb break="no" facs="#facs_273_r51"/>dienst,<lb facs="#facs_273_r52"/>spezielle Bera<lb break="no" facs="#facs_273_r53"/>tung im<lb facs="#facs_273_r54"/>Berggebiet</add>
+				</p>
+				<p>
+					<lb facs="#facs_273_r55"/>§ 36. Der viehwirtschaftliche Beratungsdienst untersteht<lb facs="#facs_273_r56"/>den landwirtschaftlichen Schulen, die spezielle Beratung im<lb facs="#facs_273_r57"/>Berggebiet der Landwirtschaftlichen Schule Oberland.</p>
+				<pb n="273" facs="#facs_274"/>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_274_r1"/>Buchstelle</add>
+				</p>
+				<p>
+					<lb facs="#facs_274_r2"/>§ 37. Die Volkswirtschaftsdirektion kann der Zürcher<lb facs="#facs_274_r3"/>Landwirtschaftlichen Kreditkasse die Führung einer land<lb break="no" facs="#facs_274_r4"/>wirtschaftlichen Buchstelle übertragen. Diese ist besorgt für<lb facs="#facs_274_r5"/>den Abschluss von Buchhaltungen und berät die Buchhalter<lb facs="#facs_274_r6"/>bei der Führung der Buchhaltung und bei der Beurteilung<lb facs="#facs_274_r7"/>ihrer Ergebnisse. Die Gebühren für die Buchhaltungsab<lb break="no" facs="#facs_274_r8"/>schlüsse sind im Einvernehmen mit der Volkswirtschafts<lb break="no" facs="#facs_274_r9"/>direktion festzusetzen.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_274_r10"/>Bauerlich<lb break="no" facs="#facs_274_r11"/>hauswirtschaft<lb break="no" facs="#facs_274_r12"/>licher Bera<lb break="no" facs="#facs_274_r13"/>tungsdienst</add>
+				</p>
+				<p>
+					<lb facs="#facs_274_r14"/>§ 38. Der bauerlich-hauswirtschaftliche Beratungsdienst<lb facs="#facs_274_r15"/>obliegt vorbehaltlich von Absatz 2 den landwirtschaftlichen<lb facs="#facs_274_r16"/>Haushaltungsschulen und den von der Volkswirtschaftsdirek<lb break="no" facs="#facs_274_r17"/>tion eingesetzten nebenamtlichen Betriebsberaterinnen.</p>
+				<p>
+					<lb facs="#facs_274_r18"/>Die Volkswirtschaftsdirektion kann die Organisation und<lb facs="#facs_274_r19"/>die Durchführung der Zürcher Landfrauenvereinigung über<lb break="no" facs="#facs_274_r20"/>tragen und dabei die Einzelheiten in einem Reglement regeln.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_274_r21"/>Beiträge an die<lb facs="#facs_274_r22"/>Fort- und<lb facs="#facs_274_r23"/>Weiterbildung<lb facs="#facs_274_r24"/>und an das<lb facs="#facs_274_r25"/>Versuchswesen</add>
+				</p>
+				<p>
+					<lb facs="#facs_274_r26"/>§ 39. Beitragsgesuche im Sinne der §§ 25 und 26 des<lb facs="#facs_274_r27"/>Landwirtschaftsgesetzes sind dem Landwirtschaftsamt einzu<lb break="no" facs="#facs_274_r28"/>reichen.</p>
+				<p>
+					<lb facs="#facs_274_r29"/>Die Beitragsleistung an die Kosten für Kursleiter und<lb facs="#facs_274_r30"/>Referenten im Rahmen der vom Landwirtschaftsamt aner<lb break="no" facs="#facs_274_r31"/>kannten Ansätze soll zusammen mit dem Bundesbeitrag 80 %<lb facs="#facs_274_r32"/>der Gesamtkosten nicht übersteigen.</p>
+				<p>
+					<lb facs="#facs_274_r33"/>Beiträge an besondere Leistungen bemessen sich nach<lb facs="#facs_274_r34"/>dem Umfang der Aufwendungen und der Bedeutung der zu<lb facs="#facs_274_r35"/>unterstützenden Tätigkeit sowie den Möglichkeiten zur Selbst<lb break="no" facs="#facs_274_r36"/>hilfe.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_274_r37"/>Kurs<lb break="no" facs="#facs_274_r38"/>programme</add>
+				</p>
+				<p>
+					<lb facs="#facs_274_r39"/>§ 40. Die jährlichen Programme der landwirtschaftlichen<lb facs="#facs_274_r40"/>Schulen über ihre Veranstaltungen im Sinne von § 26 Abs. 2<lb facs="#facs_274_r41"/>des Landwirtschaftsgesetzes werden von der Schuldirektoren<lb break="no" facs="#facs_274_r42"/>konferenz aufeinander abgestimmt und von der Volkswirt<lb break="no" facs="#facs_274_r43"/>schaftsdirektion genehmigt.</p>
+				<p>
+					<lb facs="#facs_274_r44"/>Die Volkswirtschaftsdirektion kann ein Kursgeld fest<lb break="no" facs="#facs_274_r45"/>setzen.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_274_r46"/>Kurse<lb facs="#facs_274_r47"/>von längerer<lb facs="#facs_274_r48"/>Dauer</add>
+				</p>
+				<p>
+					<lb facs="#facs_274_r49"/>§ 41. Die Volkswirtschaftsdirektion bezeichnet die Kurse<lb facs="#facs_274_r50"/>von längerer Dauer, bei denen Schlussprüfungen und öffent<lb break="no" facs="#facs_274_r51"/>liche Examen durchgeführt werden und ein kantonaler Berufs<lb break="no" facs="#facs_274_r52"/>ausweis abgegeben wird. Sie ernennt in diesen Fällen eine<lb facs="#facs_274_r53"/>Prüfungskommission und ordnet in einem Reglement die Auf-</p>
+				<pb n="274" facs="#facs_275"/>
+				<p>
+					<lb facs="#facs_275_r1"/>nahmebedingungen für den Kurs, die Durchführung der Prü<lb break="no" facs="#facs_275_r2"/>fung, die Prüfungsbedingungen, die Bezeichnung und die Vor<lb break="no" facs="#facs_275_r3"/>aussetzungen des Berufsausweises sowie die weiteren Einzel<lb break="no" facs="#facs_275_r4"/>heiten.</p>
+				<p>
+					<lb facs="#facs_275_r5"/>Die §§ 13 und 14 sowie 17-21 gelten sinngemäss.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_275_r6"/>Staatliche<lb facs="#facs_275_r7"/>Versuche</add>
+				</p>
+				<p>
+					<lb facs="#facs_275_r8"/>§ 42. Für umfangreichere staatliche Versuche oder<lb facs="#facs_275_r9"/>solche, die besondere Kosten verursachen, ist die vorgängige<lb facs="#facs_275_r10"/>Genehmigung der Volkswirtschaftsdirektion erforderlich. Diese<lb facs="#facs_275_r11"/>kann selber Versuche anordnen.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_275_r12"/>Schlussbestimmungen</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_275_r13"/>Aufhebung<lb facs="#facs_275_r14"/>bisherigen<lb facs="#facs_275_r15"/>Rechts</add>
+				</p>
+				<p>
+					<lb facs="#facs_275_r16"/>§ 43. § 15 der Verordnung über die hauswirtschaftliche<lb facs="#facs_275_r17"/>Ausbildung und über die Berufsbildung der Bäuerin (Haus<lb break="no" facs="#facs_275_r18"/>wirtschaftsverordnung) vom <date when="1976-11-17">17. November 1976</date> wird aufge<lb break="no" facs="#facs_275_r21"/>hoben.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_275_r22"/>Inkrafttreten</add>
+				</p>
+				<p>
+					<lb facs="#facs_275_r23"/>§ 44. Diese Verordnung tritt nach der Genehmigung<lb facs="#facs_275_r24"/>durch den Bundesrat und der Veröffentlichung im Amtsblatt<lb facs="#facs_275_r25"/>mit Wirkung auf den Zeitpunkt des Inkrafttretens des Land<lb break="no" facs="#facs_275_r26"/>wirtschaftsgesetzes in Kraft.</p>
+				<p>
+					<lb facs="#facs_275_r27"/>Zürich, den <date when="1979-11-28">28. November 1979</date></p>
+				<p>
+					<lb facs="#facs_275_r29"/>Im Namen des Regierungsrates</p>
+				<p>
+					<lb facs="#facs_275_r30"/>Der Präsident:<lb facs="#facs_275_r31"/>Künzi</p>
+				<p>
+					<lb facs="#facs_275_r32"/>Der Staatsschreiber:<lb facs="#facs_275_r33"/>Roggwiller</p>
+				<p>
+					<lb facs="#facs_275_r34"/>Vom Bundesrat genehmigt am <date when="1980-02-26">26. Februar 1980</date></p>
+			</div>
+		</body></text></TEI>

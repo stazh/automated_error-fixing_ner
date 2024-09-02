@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 137. Sitzung. Montag, 9. November
+              1981, 14.30 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-01-29">29.01.1982</date><ident>StAZH ABl 1982 (S. 100, Eintrag 1)</ident><idno>100</idno><idno type="issue">4</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132574"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_101" uly="0" ulx="0" lry="2402" lrx="1599">
+			<graphic url="Abl_1982_1__S__0101.tif" width="1599px" height="2402px"/>
+			<zone xml:id="facs_101_r14" ulx="434" uly="811" lrx="1350" lry="848" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r27" ulx="703" uly="1576" lrx="763" lry="1601" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r33" ulx="305" uly="1857" lrx="1484" lry="1888" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r34" ulx="306" uly="1901" lrx="1257" lry="1932" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r12" ulx="1204" uly="629" lrx="1480" lry="657" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r8" ulx="304" uly="581" lrx="624" lry="609" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r15" ulx="687" uly="911" lrx="748" lry="937" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r7" ulx="298" uly="535" lrx="1467" lry="569" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r30" ulx="306" uly="1703" lrx="1484" lry="1732" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r25" ulx="299" uly="1382" lrx="1473" lry="1411" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r0" ulx="304" uly="160" lrx="358" lry="181" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r28" ulx="781" uly="1574" lrx="1088" lry="1599" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r21" ulx="306" uly="1198" lrx="713" lry="1223" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r5" ulx="306" uly="427" lrx="565" lry="453" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r11" ulx="898" uly="629" lrx="1192" lry="657" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r31" ulx="310" uly="1747" lrx="754" lry="1776" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r26" ulx="302" uly="1421" lrx="637" lry="1452" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r23" ulx="304" uly="1290" lrx="1476" lry="1322" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r29" ulx="305" uly="1659" lrx="1486" lry="1688" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r17" ulx="304" uly="994" lrx="1476" lry="1025" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r35" ulx="308" uly="1968" lrx="1476" lry="1998" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r1" ulx="519" uly="243" lrx="1273" lry="277" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r37" ulx="304" uly="2057" lrx="1484" lry="2089" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r24" ulx="305" uly="1332" lrx="1476" lry="1365" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r22" ulx="304" uly="1246" lrx="1473" lry="1277" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r20" ulx="302" uly="1140" lrx="458" lry="1158" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r13" ulx="305" uly="669" lrx="1146" lry="702" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r16" ulx="767" uly="907" lrx="1088" lry="936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r36" ulx="308" uly="2012" lrx="1482" lry="2042" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r19" ulx="297" uly="1082" lrx="1476" lry="1115" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r32" ulx="308" uly="1811" lrx="1486" lry="1843" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r18" ulx="304" uly="1040" lrx="1476" lry="1070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r6" ulx="304" uly="494" lrx="1480" lry="523" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r38" ulx="303" uly="2101" lrx="1484" lry="2132" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r4" ulx="1157" uly="339" lrx="1332" lry="369" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r2" ulx="451" uly="337" lrx="821" lry="368" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r10" ulx="306" uly="627" lrx="867" lry="656" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r9" ulx="631" uly="579" lrx="1482" lry="611" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_101_r3" ulx="829" uly="339" lrx="1150" lry="370" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="100" facs="#facs_101"/>
+			<p>
+				<lb facs="#facs_101_r5"/>1. Mitteilungen</p>
+			<p>
+				<lb facs="#facs_101_r6"/>2. Gesetz über das Dienstverhältnis des Personals der
+            Verwaltung und<lb facs="#facs_101_r7"/>der Rechtspflege (Personalgesetz) (Antrag des
+            Regierungsrates vom<lb facs="#facs_101_r8"/><date when="1979-12-12">12. Dezember
+              1979,</date> Amtsblatt 1980, Textteil, Seite 169, und abgeänder<lb break="no" facs="#facs_101_r10"/>ter Antrag der Kommission vom <date when="1981-08-19">19. August
+              1981,</date> Amtsblatt 1981,<lb facs="#facs_101_r13"/>Textteil, Seite 1533)
+            (Fortsetzung der Beratungen)</p>
+		</body></text></TEI>

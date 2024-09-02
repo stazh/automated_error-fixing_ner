@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>DER KANTONSRAT DES EIDGENÖSSISCHEN STANDES ZÜRICH EINLADUNG zur 58. Sitzung, auf Montag, den 19. Mai 1980, 08.15 Uhr, im Rathaus in Zürich</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-05-16">16.05.1980</date><ident>StAZH ABl 1980 (S. 618-622)</ident><idno>618–622</idno><idno type="issue">41</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131861"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_619" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0619.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_619_r4" ulx="377" uly="581" lrx="1022" lry="613" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r29" ulx="415" uly="1456" lrx="1577" lry="1496" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r56" ulx="417" uly="2247" lrx="1168" lry="2287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r22" ulx="1402" uly="1214" lrx="1577" lry="1248" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r28" ulx="356" uly="1458" lrx="402" lry="1487" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r38" ulx="418" uly="1747" lrx="508" lry="1775" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r52" ulx="409" uly="2152" lrx="1570" lry="2190" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r8" ulx="676" uly="772" lrx="1208" lry="802" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r49" ulx="1120" uly="2029" lrx="1572" lry="2062" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r0" ulx="301" uly="135" lrx="368" lry="160" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r35" ulx="1329" uly="1662" lrx="1575" lry="1694" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r14" ulx="423" uly="1033" lrx="495" lry="1061" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r32" ulx="420" uly="1602" lrx="1573" lry="1642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r44" ulx="418" uly="1927" lrx="1004" lry="1957" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r37" ulx="1271" uly="1710" lrx="1570" lry="1744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r5" ulx="1033" uly="583" lrx="1289" lry="615" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r31" ulx="424" uly="1558" lrx="1566" lry="1594" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r25" ulx="358" uly="1333" lrx="402" lry="1361" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r23" ulx="425" uly="1252" lrx="525" lry="1281" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r24" ulx="533" uly="1254" lrx="1452" lry="1293" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r1" ulx="722" uly="264" lrx="1158" lry="294" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r10" ulx="421" uly="854" lrx="685" lry="883" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r33" ulx="420" uly="1652" lrx="927" lry="1687" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r55" ulx="1085" uly="2210" lrx="1568" lry="2241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r15" ulx="533" uly="1033" lrx="798" lry="1064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r3" ulx="763" uly="491" lrx="1106" lry="521" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r48" ulx="818" uly="2027" lrx="1100" lry="2059" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r13" ulx="422" uly="985" lrx="1579" lry="1021" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r12" ulx="420" uly="931" lrx="1581" lry="970" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r7" ulx="724" uly="637" lrx="1147" lry="665" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r17" ulx="425" uly="1079" lrx="745" lry="1111" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r20" ulx="420" uly="1154" lrx="1575" lry="1193" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r45" ulx="351" uly="1973" lrx="395" lry="2002" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r27" ulx="422" uly="1383" lrx="1301" lry="1418" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r54" ulx="797" uly="2206" lrx="1072" lry="2238" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r26" ulx="420" uly="1331" lrx="1581" lry="1370" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r50" ulx="416" uly="2072" lrx="1568" lry="2109" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r18" ulx="775" uly="1083" lrx="995" lry="1114" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r9" ulx="364" uly="852" lrx="404" lry="882" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r47" ulx="420" uly="2025" lrx="781" lry="2055" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r42" ulx="1502" uly="1841" lrx="1572" lry="1869" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r30" ulx="425" uly="1506" lrx="1575" lry="1545" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r2" ulx="454" uly="322" lrx="1425" lry="359" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r40" ulx="416" uly="1827" lrx="1181" lry="1862" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r43" ulx="419" uly="1877" lrx="1572" lry="1913" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r51" ulx="354" uly="2154" lrx="395" lry="2182" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r41" ulx="1212" uly="1837" lrx="1487" lry="1866" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r34" ulx="964" uly="1658" lrx="1306" lry="1693" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r6" ulx="1297" uly="583" lrx="1508" lry="617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r19" ulx="358" uly="1154" lrx="404" lry="1183" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r36" ulx="415" uly="1700" lrx="1237" lry="1739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r39" ulx="354" uly="1827" lrx="395" lry="1856" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r53" ulx="414" uly="2202" lrx="764" lry="2235" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r46" ulx="411" uly="1973" lrx="1573" lry="2010" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r16" ulx="816" uly="1033" lrx="1576" lry="1069" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r21" ulx="424" uly="1208" lrx="1377" lry="1244" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_619_r11" ulx="360" uly="931" lrx="408" lry="962" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_620" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0620.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_620_r31" ulx="279" uly="1083" lrx="1432" lry="1118" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r20" ulx="1366" uly="762" lrx="1424" lry="791" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r59" ulx="287" uly="1991" lrx="1108" lry="2025" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r5" ulx="277" uly="337" lrx="1423" lry="369" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r8" ulx="270" uly="464" lrx="958" lry="498" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r49" ulx="737" uly="1666" lrx="1026" lry="1698" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r13" ulx="272" uly="589" lrx="1322" lry="626" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r3" ulx="1147" uly="237" lrx="1419" lry="268" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r46" ulx="197" uly="1625" lrx="265" lry="1655" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r7" ulx="189" uly="470" lrx="256" lry="500" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r32" ulx="281" uly="1147" lrx="479" lry="1171" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r24" ulx="283" uly="860" lrx="1432" lry="895" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r28" ulx="1258" uly="983" lrx="1431" lry="1017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r22" ulx="392" uly="816" lrx="486" lry="846" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r23" ulx="495" uly="810" lrx="1429" lry="845" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r47" ulx="281" uly="1612" lrx="1436" lry="1650" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r62" ulx="1379" uly="2070" lrx="1443" lry="2098" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r69" ulx="387" uly="2254" lrx="1442" lry="2287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r33" ulx="191" uly="1220" lrx="262" lry="1250" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r30" ulx="374" uly="1037" lrx="1430" lry="1071" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r64" ulx="506" uly="2120" lrx="1441" lry="2155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r11" ulx="274" uly="518" lrx="944" lry="548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r37" ulx="1109" uly="1258" lrx="1433" lry="1290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r50" ulx="1041" uly="1658" lrx="1437" lry="1693" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r15" ulx="277" uly="643" lrx="493" lry="673" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r18" ulx="193" uly="772" lrx="256" lry="802" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r54" ulx="281" uly="1843" lrx="1436" lry="1880" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r42" ulx="1062" uly="1433" lrx="1344" lry="1465" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r4" ulx="276" uly="287" lrx="1415" lry="321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r51" ulx="285" uly="1710" lrx="1438" lry="1748" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r44" ulx="282" uly="1483" lrx="1437" lry="1518" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r19" ulx="271" uly="762" lrx="1332" lry="798" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r27" ulx="273" uly="985" lrx="1237" lry="1023" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r35" ulx="282" uly="1264" lrx="760" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r26" ulx="195" uly="997" lrx="260" lry="1027" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r43" ulx="1362" uly="1431" lrx="1436" lry="1462" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r16" ulx="514" uly="639" lrx="1425" lry="671" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r63" ulx="293" uly="2127" lrx="497" lry="2157" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r40" ulx="195" uly="1441" lrx="262" lry="1472" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r55" ulx="289" uly="1900" lrx="522" lry="1930" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r61" ulx="281" uly="2070" lrx="1347" lry="2107" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r60" ulx="197" uly="2085" lrx="266" lry="2112" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r67" ulx="1264" uly="2197" lrx="1441" lry="2231" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r65" ulx="204" uly="2212" lrx="268" lry="2240" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r66" ulx="283" uly="2202" lrx="1238" lry="2237" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r0" ulx="1354" uly="131" lrx="1416" lry="155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r52" ulx="287" uly="1762" lrx="1061" lry="1799" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r41" ulx="279" uly="1437" lrx="1024" lry="1471" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r25" ulx="281" uly="918" lrx="677" lry="946" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r14" ulx="1366" uly="587" lrx="1420" lry="616" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r45" ulx="281" uly="1537" lrx="885" lry="1569" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r10" ulx="1279" uly="460" lrx="1425" lry="489" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r56" ulx="558" uly="1895" lrx="845" lry="1929" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r53" ulx="200" uly="1852" lrx="264" lry="1884" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r21" ulx="277" uly="820" lrx="385" lry="847" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r48" ulx="287" uly="1668" lrx="704" lry="1702" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r68" ulx="291" uly="2262" lrx="377" lry="2289" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r17" ulx="279" uly="693" lrx="729" lry="721" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r29" ulx="285" uly="1045" lrx="366" lry="1071" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r39" ulx="285" uly="1360" lrx="829" lry="1392" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r34" ulx="275" uly="1212" lrx="1435" lry="1247" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r6" ulx="275" uly="391" lrx="892" lry="421" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r58" ulx="291" uly="1941" lrx="1442" lry="1976" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r12" ulx="193" uly="597" lrx="254" lry="628" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r9" ulx="989" uly="460" lrx="1267" lry="494" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r57" ulx="860" uly="1891" lrx="1438" lry="1925" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r2" ulx="269" uly="239" lrx="1120" lry="274" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r38" ulx="280" uly="1310" lrx="1415" lry="1342" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r1" ulx="206" uly="250" lrx="254" lry="278" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_620_r36" ulx="797" uly="1258" lrx="1089" lry="1293" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_621" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0621.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_621_r14" ulx="438" uly="637" lrx="526" lry="665" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r11" ulx="352" uly="587" lrx="414" lry="616" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r22" ulx="433" uly="860" lrx="1346" lry="898" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r52" ulx="422" uly="1783" lrx="1575" lry="1821" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r29" ulx="435" uly="1118" lrx="1379" lry="1156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r60" ulx="631" uly="2016" lrx="881" lry="2047" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r58" ulx="420" uly="1964" lrx="1579" lry="2001" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r39" ulx="339" uly="1425" lrx="408" lry="1454" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r31" ulx="434" uly="1166" lrx="518" lry="1194" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r5" ulx="437" uly="335" lrx="1583" lry="370" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r48" ulx="691" uly="1654" lrx="925" lry="1687" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r16" ulx="435" uly="683" lrx="1583" lry="725" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r57" ulx="336" uly="1962" lrx="404" lry="1993" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r66" ulx="889" uly="2202" lrx="1177" lry="2234" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r0" ulx="312" uly="129" lrx="372" lry="151" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r46" ulx="422" uly="1604" lrx="1581" lry="1642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r43" ulx="534" uly="1470" lrx="1583" lry="1510" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r15" ulx="548" uly="637" lrx="1589" lry="675" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r27" ulx="346" uly="1068" lrx="410" lry="1098" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r40" ulx="422" uly="1422" lrx="1420" lry="1460" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r59" ulx="425" uly="2018" lrx="589" lry="2045" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r36" ulx="434" uly="1293" lrx="518" lry="1320" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r37" ulx="533" uly="1293" lrx="1583" lry="1333" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r4" ulx="440" uly="281" lrx="1593" lry="321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r8" ulx="1300" uly="425" lrx="1587" lry="457" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r26" ulx="431" uly="991" lrx="1477" lry="1029" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r42" ulx="429" uly="1473" lrx="514" lry="1499" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r18" ulx="428" uly="766" lrx="1372" lry="804" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r67" ulx="1197" uly="2206" lrx="1579" lry="2235" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r2" ulx="434" uly="233" lrx="1272" lry="272" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r3" ulx="1304" uly="241" lrx="1587" lry="278" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r28" ulx="424" uly="1068" lrx="1583" lry="1106" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r12" ulx="432" uly="589" lrx="1372" lry="628" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r21" ulx="537" uly="812" lrx="1589" lry="850" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r23" ulx="345" uly="943" lrx="414" lry="971" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r62" ulx="417" uly="2058" lrx="1383" lry="2097" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r61" ulx="903" uly="2016" lrx="1577" lry="2051" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r19" ulx="1410" uly="774" lrx="1587" lry="808" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r44" ulx="426" uly="1522" lrx="1141" lry="1556" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r34" ulx="426" uly="1245" lrx="1350" lry="1282" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r32" ulx="524" uly="1168" lrx="1581" lry="1205" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r25" ulx="1304" uly="952" lrx="1581" lry="985" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r65" ulx="428" uly="2197" lrx="850" lry="2231" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r9" ulx="436" uly="460" lrx="1591" lry="501" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r47" ulx="429" uly="1652" lrx="666" lry="1684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r63" ulx="335" uly="2150" lrx="402" lry="2180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r64" ulx="416" uly="2152" lrx="1572" lry="2187" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r1" ulx="354" uly="235" lrx="418" lry="263" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r13" ulx="1410" uly="602" lrx="1589" lry="632" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r56" ulx="424" uly="1879" lrx="1362" lry="1915" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r53" ulx="425" uly="1833" lrx="972" lry="1867" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r6" ulx="350" uly="414" lrx="416" lry="444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r7" ulx="434" uly="414" lrx="1262" lry="452" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r50" ulx="424" uly="1702" lrx="966" lry="1735" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r10" ulx="439" uly="514" lrx="770" lry="542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r20" ulx="434" uly="814" lrx="524" lry="841" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r17" ulx="345" uly="764" lrx="413" lry="792" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r35" ulx="1359" uly="1252" lrx="1583" lry="1285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r33" ulx="344" uly="1243" lrx="410" lry="1273" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r30" ulx="1404" uly="1129" lrx="1585" lry="1161" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r24" ulx="426" uly="941" lrx="1279" lry="980" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r68" ulx="425" uly="2247" lrx="929" lry="2278" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r55" ulx="1285" uly="1839" lrx="1577" lry="1871" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r51" ulx="337" uly="1783" lrx="406" lry="1814" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r49" ulx="940" uly="1656" lrx="1577" lry="1692" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r41" ulx="1454" uly="1435" lrx="1581" lry="1466" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r45" ulx="341" uly="1602" lrx="404" lry="1634" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r54" ulx="998" uly="1837" lrx="1275" lry="1869" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_621_r38" ulx="427" uly="1339" lrx="1347" lry="1377" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_622" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0622.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_622_r67" ulx="762" uly="1981" lrx="1103" lry="2013" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r55" ulx="302" uly="1731" lrx="658" lry="1763" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r76" ulx="422" uly="2160" lrx="1462" lry="2195" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r41" ulx="293" uly="1395" lrx="740" lry="1428" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r40" ulx="212" uly="1402" lrx="275" lry="1430" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r35" ulx="295" uly="1268" lrx="518" lry="1298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r71" ulx="912" uly="2029" lrx="1005" lry="2061" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r2" ulx="281" uly="245" lrx="1418" lry="283" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r57" ulx="1022" uly="1718" lrx="1455" lry="1753" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r49" ulx="545" uly="1543" lrx="638" lry="1573" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r6" ulx="287" uly="393" lrx="1280" lry="430" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r66" ulx="304" uly="1987" lrx="726" lry="2019" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r13" ulx="291" uly="635" lrx="609" lry="666" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r27" ulx="691" uly="1029" lrx="783" lry="1060" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r29" ulx="289" uly="1118" lrx="742" lry="1151" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r47" ulx="756" uly="1487" lrx="1432" lry="1521" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r21" ulx="1299" uly="879" lrx="1443" lry="908" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r73" ulx="300" uly="2110" lrx="1255" lry="2146" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r28" ulx="204" uly="1125" lrx="272" lry="1153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r72" ulx="220" uly="2122" lrx="285" lry="2151" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r37" ulx="297" uly="1318" lrx="368" lry="1346" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r46" ulx="400" uly="1495" lrx="740" lry="1525" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r60" ulx="812" uly="1772" lrx="904" lry="1805" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r45" ulx="300" uly="1502" lrx="368" lry="1527" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r44" ulx="302" uly="1439" lrx="1452" lry="1476" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r65" ulx="304" uly="1904" lrx="1458" lry="1944" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r19" ulx="204" uly="889" lrx="268" lry="917" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r62" ulx="298" uly="1862" lrx="739" lry="1896" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r14" ulx="204" uly="714" lrx="268" lry="745" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r32" ulx="295" uly="1160" lrx="1441" lry="1199" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r42" ulx="775" uly="1391" lrx="1050" lry="1423" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r23" ulx="587" uly="925" lrx="1445" lry="961" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r38" ulx="391" uly="1314" lrx="635" lry="1345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r11" ulx="1141" uly="527" lrx="1437" lry="559" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r8" ulx="281" uly="479" lrx="1438" lry="517" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r15" ulx="283" uly="704" lrx="1139" lry="742" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r16" ulx="1166" uly="700" lrx="1442" lry="733" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r50" ulx="214" uly="1635" lrx="281" lry="1664" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r33" ulx="297" uly="1210" lrx="1272" lry="1248" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r52" ulx="756" uly="1627" lrx="1034" lry="1659" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r7" ulx="200" uly="491" lrx="268" lry="521" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r74" ulx="1285" uly="2108" lrx="1459" lry="2140" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r4" ulx="585" uly="293" lrx="1432" lry="330" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r34" ulx="1308" uly="1208" lrx="1445" lry="1237" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r1" ulx="197" uly="256" lrx="264" lry="287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r25" ulx="297" uly="1037" lrx="364" lry="1066" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r54" ulx="304" uly="1670" lrx="1456" lry="1711" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r0" ulx="1363" uly="137" lrx="1429" lry="161" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r61" ulx="218" uly="1868" lrx="283" lry="1898" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r17" ulx="291" uly="752" lrx="1442" lry="788" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r39" ulx="643" uly="1314" lrx="734" lry="1344" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r20" ulx="286" uly="881" lrx="1259" lry="916" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r63" ulx="768" uly="1860" lrx="1033" lry="1892" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r78" ulx="308" uly="2258" lrx="1159" lry="2296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r70" ulx="662" uly="2029" lrx="904" lry="2062" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r48" ulx="301" uly="1545" lrx="538" lry="1575" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r31" ulx="1079" uly="1110" lrx="1445" lry="1142" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r10" ulx="850" uly="529" lrx="1130" lry="564" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r18" ulx="292" uly="810" lrx="478" lry="839" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r58" ulx="301" uly="1779" lrx="537" lry="1810" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r36" ulx="529" uly="1258" lrx="1442" lry="1294" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r12" ulx="289" uly="575" lrx="1435" lry="612" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r9" ulx="289" uly="533" lrx="824" lry="566" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r56" ulx="683" uly="1722" lrx="1014" lry="1758" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r51" ulx="296" uly="1629" lrx="729" lry="1662" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r26" ulx="393" uly="1033" lrx="684" lry="1065" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r3" ulx="289" uly="302" lrx="566" lry="332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r64" ulx="1041" uly="1856" lrx="1456" lry="1888" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r43" ulx="1064" uly="1387" lrx="1448" lry="1421" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r22" ulx="293" uly="937" lrx="563" lry="968" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r75" ulx="308" uly="2168" lrx="395" lry="2199" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r24" ulx="296" uly="977" lrx="1440" lry="1014" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r68" ulx="1120" uly="1975" lrx="1460" lry="2008" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r77" ulx="310" uly="2206" lrx="1464" lry="2244" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r59" ulx="562" uly="1775" lrx="803" lry="1808" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r53" ulx="1041" uly="1620" lrx="1450" lry="1654" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r69" ulx="308" uly="2035" lrx="639" lry="2066" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r5" ulx="287" uly="343" lrx="1434" lry="380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_622_r30" ulx="779" uly="1114" lrx="1062" lry="1145" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_623" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0623.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_623_r30" ulx="301" uly="1847" lrx="706" lry="1880" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r16" ulx="395" uly="1172" lrx="723" lry="1202" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r15" ulx="1218" uly="1100" lrx="1393" lry="1133" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r27" ulx="300" uly="1654" lrx="1295" lry="1689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r7" ulx="402" uly="456" lrx="631" lry="488" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r13" ulx="504" uly="1093" lrx="920" lry="1128" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r25" ulx="306" uly="1558" lrx="1581" lry="1593" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r20" ulx="1489" uly="1322" lrx="1589" lry="1350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r10" ulx="1154" uly="649" lrx="1462" lry="679" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r1" ulx="361" uly="243" lrx="427" lry="273" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r26" ulx="301" uly="1606" lrx="1585" lry="1642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r9" ulx="1016" uly="572" lrx="1598" lry="603" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r5" ulx="1057" uly="300" lrx="1600" lry="332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r32" ulx="388" uly="1962" lrx="1266" lry="2000" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r18" ulx="391" uly="1310" lrx="1132" lry="1345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r33" ulx="385" uly="2027" lrx="1577" lry="2069" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r17" ulx="391" uly="1239" lrx="1206" lry="1276" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r8" ulx="641" uly="458" lrx="891" lry="490" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r3" ulx="451" uly="291" lrx="754" lry="325" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r11" ulx="1070" uly="716" lrx="1531" lry="748" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r14" ulx="929" uly="1097" lrx="1210" lry="1132" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r31" ulx="323" uly="1916" lrx="1583" lry="1953" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r2" ulx="445" uly="243" lrx="1602" lry="283" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r28" ulx="391" uly="1720" lrx="1043" lry="1754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r29" ulx="384" uly="1800" lrx="1587" lry="1837" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r35" ulx="382" uly="2129" lrx="1412" lry="2167" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r23" ulx="308" uly="1456" lrx="1589" lry="1494" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r0" ulx="318" uly="137" lrx="389" lry="162" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r4" ulx="789" uly="295" lrx="1043" lry="329" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r22" ulx="300" uly="1408" lrx="1589" lry="1444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r19" ulx="1162" uly="1318" lrx="1479" lry="1349" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r37" ulx="384" uly="2250" lrx="1104" lry="2280" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r6" ulx="447" uly="345" lrx="1499" lry="379" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r21" ulx="306" uly="1360" lrx="1581" lry="1395" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r34" ulx="384" uly="2079" lrx="1577" lry="2118" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r36" ulx="316" uly="2197" lrx="1583" lry="2237" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r24" ulx="301" uly="1504" lrx="1587" lry="1543" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_623_r12" ulx="495" uly="977" lrx="1402" lry="1019" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="618" facs="#facs_619"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_619_r8"/>Verhandlungsgegenstände</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_619_r9"/>1.</cell>
+						<cell>
+							<lb facs="#facs_619_r10"/>Mitteilungen</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_619_r11"/>2.</cell>
+						<cell>
+							<lb facs="#facs_619_r12"/>Genehmigung eines Verwaltungsratsmandates eines Mit<lb break="no" facs="#facs_619_r13"/>glieds des Regierungsrates (Antrag des Regierungsrates<lb facs="#facs_619_r14"/>vom <date when="1980-04-09">9. April 1980</date> und Antrag der Geschäftsprüfungs<lb break="no" facs="#facs_619_r17"/>kommission vom <date when="1980-05-07">7. Mai 1980</date></cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_619_r19"/>3.</cell>
+						<cell>
+							<lb facs="#facs_619_r20"/>Gesetz über die Vermittlung von Wohn- und Geschäfts<lb break="no" facs="#facs_619_r21"/>räumen (Antrag der Redaktionskommission vom <date when="1980-04-30">30. April<lb facs="#facs_619_r23"/>1980,</date> Redaktionslesung und Verabschiedung 2244c</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_619_r25"/>4.</cell>
+						<cell>
+							<lb facs="#facs_619_r26"/>Wahl eines Mitglieds des Obergerichts für den zurück<lb break="no" facs="#facs_619_r27"/>getretenen Dr. Willy Hochuli, Zollikerberg</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_619_r28"/>5.</cell>
+						<cell>
+							<lb facs="#facs_619_r29"/>Beschluss des Kantonsrates über die Bewilligung eines<lb facs="#facs_619_r30"/>Kredites für die Tiefbauten zum Fingerdock A, die Er<lb break="no" facs="#facs_619_r31"/>weiterung der Flugzeugabstellfläche und den Einbau<lb facs="#facs_619_r32"/>einer Rollinienbefeuerung im Flughafen Zürich (Antrag<lb facs="#facs_619_r33"/>des Regierungsrates vom <date when="1979-10-17">17. Oktober 1979</date> und gleich<lb break="no" facs="#facs_619_r36"/>lautender Antrag der Kommission vom <date when="1980-04-22">22. April 1980)</date> 2335</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_619_r39"/>6.</cell>
+						<cell>
+							<lb facs="#facs_619_r40"/>Motion Alfred Bartholet, Zürich, vom <date when="1980-03-10">10. März 1980</date> be<lb break="no" facs="#facs_619_r43"/>treffend eine Anpassung der Einkommensgrenzen für<lb facs="#facs_619_r44"/>den Bezug der Altersbeihilfe</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_619_r45"/>7.</cell>
+						<cell>
+							<lb facs="#facs_619_r46"/>Postulat Dr. Werner Sieg, Zürich, und Dr. Emanuel Hur<lb break="no" facs="#facs_619_r47"/>witz, Zürich, vom <date when="1980-03-10">10. März 1980</date> betreffend eine Neu<lb break="no" facs="#facs_619_r50"/>regelung der Taxen für die spitalexterne Krankenpflege</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_619_r51"/>8.</cell>
+						<cell>
+							<lb facs="#facs_619_r52"/>Postulat Dr. Emanuel Hurwitz, Zürich, und Dr. Werner<lb facs="#facs_619_r53"/>Sieg, Zürich, vom <date when="1980-03-17">17. März 1980</date> betreffend die Subven<lb break="no" facs="#facs_619_r56"/>tionierung von Spitälern und Heimen</cell>
+					</row>
+				</table>
+				<pb n="619" facs="#facs_620"/>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_620_r1"/>9.</cell>
+						<cell>
+							<lb facs="#facs_620_r2"/>Postulat Dieter Metzenthin, Zollikon, vom <date when="1980-03-17">17. März 1980</date> über die Aufnahme von kantonalen Strassen in das von<lb facs="#facs_620_r5"/>der Gesamtverkehrskonzeption vorgesehene Strassen<lb break="no" facs="#facs_620_r6"/>netz von nationaler Bedeutung</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_620_r7"/>10.</cell>
+						<cell>
+							<lb facs="#facs_620_r8"/>Postulat Kurt Egloff, Aesch, vom <date when="1980-03-17">17. März 1980</date> betref<lb break="no" facs="#facs_620_r11"/>fend Ausweise für Organspender</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_620_r12"/>11.</cell>
+						<cell>
+							<lb facs="#facs_620_r13"/>Interpellation Marcel Achermann, Dietikon, vom <date when="1980-03-17">17.<lb facs="#facs_620_r15"/>März 1980</date> betreffend die Gesamtverteidigungskonzep<lb break="no" facs="#facs_620_r17"/>tion im Kanton Zürich</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_620_r18"/>12.</cell>
+						<cell>
+							<lb facs="#facs_620_r19"/>Interpellation Dr. Elmar Ledergerber, Zürich, vom <date when="1980-03-31">31. März 1980</date> betreffend die voraussichtliche Belastung der<lb facs="#facs_620_r24"/>Luft durch Abgase aus dem Milchbucktunnel nach des<lb break="no" facs="#facs_620_r25"/>sen Inbetriebnahme</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_620_r26"/>13.</cell>
+						<cell>
+							<lb facs="#facs_620_r27"/>Interpellation Albert L. Petermann, Zürich, vom <date when="1980-03-31">31. März<lb facs="#facs_620_r29"/>1980</date> betreffend Anschuldigungen gegen den Regierungs<lb break="no" facs="#facs_620_r31"/>rat im Zusammenhang mit der Entlassung einer Lern<lb break="no" facs="#facs_620_r32"/>schwester</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_620_r33"/>14.</cell>
+						<cell>
+							<lb facs="#facs_620_r34"/>Motion Dr. Martin Haas, Winterthur, und Robert<lb facs="#facs_620_r35"/>Henauer, Thalwil, vom <date when="1980-04-14">14. April 1980</date> betreffend eine<lb facs="#facs_620_r38"/>steuerliche Begünstigung der Eigentumsbildung zum<lb facs="#facs_620_r39"/>Zwecke der Selbstvorsorge</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_620_r40"/>15.</cell>
+						<cell>
+							<lb facs="#facs_620_r41"/>Postulat Rudolf Bautz, Zürich, vom <date when="1980-04-14">14. April 1980</date> be<lb break="no" facs="#facs_620_r44"/>treffend die Resultate der Untersuchung im Zusammen<lb break="no" facs="#facs_620_r45"/>hang mit dem Cincera-Archiv</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_620_r46"/>16.</cell>
+						<cell>
+							<lb facs="#facs_620_r47"/>Interpellation Dr. Ulrich Hedinger, Zürich, und René<lb facs="#facs_620_r48"/>Mahrer, Zürich, vom <date when="1980-04-14">14. April 1980</date> betreffend das Be<lb break="no" facs="#facs_620_r51"/>rufungsverfahren bei der Besetzung des Lehrstuhles für<lb facs="#facs_620_r52"/>Innenpolitik an der Universität Zürich</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_620_r53"/>17.</cell>
+						<cell>
+							<lb facs="#facs_620_r54"/>Interpellation Hans Müller, Zürich, und Otto Schütz,<lb facs="#facs_620_r55"/>Zürich, vom <date when="1980-04-21">21. April 1980</date> betreffend Ausrichtung der<lb facs="#facs_620_r58"/>Altersrenten an Betagte, die eine Altersunterkunft<lb facs="#facs_620_r59"/>ausserhalb des Kantons beziehen müssen</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_620_r60"/>18.</cell>
+						<cell>
+							<lb facs="#facs_620_r61"/>Interpellation Hans-Ulrich Frei-Huber, Zürich, vom <date when="1980-04-21">21.<lb facs="#facs_620_r63"/>April 1980</date> betreffend die Entwicklung des Erdölmarktes</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_620_r65"/>19.</cell>
+						<cell>
+							<lb facs="#facs_620_r66"/>Postulat Prof. Dr. Franz Hafner, Wetzikon, vom <date when="--04-28">28. April</date><lb facs="#facs_620_r68"/><date when="1980">1980</date> betreffend das Stipendienwesen an der Hochschule</cell>
+					</row>
+				</table>
+				<pb n="620" facs="#facs_621"/>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_621_r1"/>20.</cell>
+						<cell>
+							<lb facs="#facs_621_r2"/>Postulat Dr. Edwin Hauser, Zürich, vom <date when="1980-04-28">28. April 1980</date> betreffend Entlastung der Rekurs- und Schätzungskom<lb break="no" facs="#facs_621_r5"/>missionen von der Abgabe rein formeller Unterschriften</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_621_r6"/>21.</cell>
+						<cell>
+							<lb facs="#facs_621_r7"/>Motion Dr. Edwin Hauser, Zürich, vom <date when="1980-04-28">28. April 1980</date> betreffend eine Änderung von § 156 des Gerichtsver<lb break="no" facs="#facs_621_r10"/>fassungsgesetzes</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_621_r11"/>22.</cell>
+						<cell>
+							<lb facs="#facs_621_r12"/>Motion Edwin Weilenmann, Hofstetten, vom <date when="--04-28">28. April</date><lb facs="#facs_621_r14"/><date when="1980">1980</date> betreffend den Erlass eines Einführungsgesetzes<lb facs="#facs_621_r16"/>zum Investitionshilfegesetz des Bundes für Bergregionen</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_621_r17"/>23.</cell>
+						<cell>
+							<lb facs="#facs_621_r18"/>Postulat Dr. Roman Fischer, Wetzikon, vom <date when="1980-04-28">28. April<lb facs="#facs_621_r20"/>1980</date> betreffend die Verbesserung der Verkehrsverhält<lb break="no" facs="#facs_621_r22"/>nisse am Pilgersteg in der Gemeinde Dürnten</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_621_r23"/>24.</cell>
+						<cell>
+							<lb facs="#facs_621_r24"/>Interpellation Monika Weber, Zürich, vom <date when="1980-04-28">28. April 1980</date><lb facs="#facs_621_r26"/>betreffend die Nagra-Bohrungen im Kanton Zürich</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_621_r27"/>25.</cell>
+						<cell>
+							<lb facs="#facs_621_r28"/>Interpellation Karl Gmünder, Zürich, Dr. Emanuel Hur<lb break="no" facs="#facs_621_r29"/>witz, Zürich, und Curt Signer, Wädenswil, vom <date when="1980-04-28">28. April<lb facs="#facs_621_r31"/>1980</date> betreffend die Weiterleitung von Akten an E. Cincera</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_621_r33"/>26.</cell>
+						<cell>
+							<lb facs="#facs_621_r34"/>Motion Willi Neuenschwander, Oetwil a. d. L ., <date when="--05-05">vom 5. Mai</date><lb facs="#facs_621_r36"/><date when="1980">1980</date> betreffend die Aufnahme von Bestimmungen über<lb facs="#facs_621_r38"/>Einkaufszentren im Planungs- und Baugesetz</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_621_r39"/>27.</cell>
+						<cell>
+							<lb facs="#facs_621_r40"/>Postulat Prof. Dr. Franz Hafner, Wetzikon, vom <date when="1980-05-05">5. Mai<lb facs="#facs_621_r42"/>1980</date> betreffend die Volksabstimmungen über die Um<lb break="no" facs="#facs_621_r44"/>fahrungen von Wetzikon und Uster</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_621_r45"/>28.</cell>
+						<cell>
+							<lb facs="#facs_621_r46"/>Motion Alfred Bohren, Zürich, und Dr. Margrit Bohren,<lb facs="#facs_621_r47"/>Zürich, vom <date when="1980-05-05">5. Mai 1980</date> betreffend die Ausbildung der<lb facs="#facs_621_r50"/>Hortnerinnen und Hortner</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_621_r51"/>29.</cell>
+						<cell>
+							<lb facs="#facs_621_r52"/>Interpellation Richard Gubelmann, Zürich, und Leo<lb facs="#facs_621_r53"/>Lorenzo Fosco, Zürich, vom <date when="1980-03-10">10. März 1980</date> betreffend die<lb facs="#facs_621_r56"/>Planstudie über Kindergärten (Beantwortung)</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_621_r57"/>30.</cell>
+						<cell>
+							<lb facs="#facs_621_r58"/>Interpellation Kurt Egloff, Aesch, und Mitunterzeich<lb break="no" facs="#facs_621_r59"/>ner vom <date when="1980-05-05">5. Mai 1980</date> betreffend das ausserschulische<lb facs="#facs_621_r62"/>Praktikum für Lehreranwärter (Beantwortung)</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_621_r63"/>31.</cell>
+						<cell>
+							<lb facs="#facs_621_r64"/>Interpellation Fritz Höner, Winterthur, und Alfred<lb facs="#facs_621_r65"/>Bohren, Zürich, vom <date when="1980-03-31">31. März 1980</date> betreffend Schul<lb break="no" facs="#facs_621_r68"/>versuche (Beantwortung)</cell>
+					</row>
+				</table>
+				<pb n="621" facs="#facs_622"/>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_622_r1"/>32.</cell>
+						<cell>
+							<lb facs="#facs_622_r2"/>Interpellation Prof. Dr. Riccardo Jagmetti, Zürich, vom <date when="1980-03-31">31. März 1980</date> betreffend eine Ausdehnung der Mittel<lb break="no" facs="#facs_622_r5"/>schulzeit bei vertiefter musischer Ausbildung oder zeit<lb break="no" facs="#facs_622_r6"/>raubendem sportlichem Training (Beantwortung)</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_622_r7"/>33.</cell>
+						<cell>
+							<lb facs="#facs_622_r8"/>Interpellation Walter Meierhofer, Regensberg, und Dr.<lb facs="#facs_622_r9"/>Theodor Rüegg, Rüti, vom <date when="1980-03-31">31. März 1980</date> betreffend die<lb facs="#facs_622_r12"/>Durchführung von Sportveranstaltungen in den Wäldern<lb facs="#facs_622_r13"/>(Beantwortung)</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_622_r14"/>34.</cell>
+						<cell>
+							<lb facs="#facs_622_r15"/>Interpellation Jean Metz, Regensdorf, vom <date when="1980-03-31">31. März 1980</date> betreffend die Gewährung von Steuererlassen (Beant<lb break="no" facs="#facs_622_r18"/>wortung)</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_622_r19"/>35.</cell>
+						<cell>
+							<lb facs="#facs_622_r20"/>Bericht und Antrag des Regierungsrates vom <date when="1979-11-21">21. No<lb break="no" facs="#facs_622_r22"/>vember 1979</date> zur Volksinitiative zur Festsetzung der<lb facs="#facs_622_r24"/>Spitaltaxen (gleichlautender Antrag der Kommission<lb facs="#facs_622_r25"/>vom <date when="1980-04-24">24. April 1980)</date> 2345</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_622_r28"/>36.</cell>
+						<cell>
+							<lb facs="#facs_622_r29"/>Postulat Nr. 1556 vom <date when="1974-03-11">11. März 1974</date> über eine Ergän<lb break="no" facs="#facs_622_r32"/>zung von § 56 des Gesetzes über die direkten Steuern<lb facs="#facs_622_r33"/>(Bericht und Antrag des Regierungsrates vom <date when="1980-02-13">13. Fe<lb break="no" facs="#facs_622_r35"/>bruar 1980</date> und gleichlautender Antrag der Kommission<lb facs="#facs_622_r37"/>vom <date when="1980-05-08">8. Mai 1980)</date> 2359</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_622_r40"/>37.</cell>
+						<cell>
+							<lb facs="#facs_622_r41"/>Postulat Nr. 1557 vom <date when="1974-03-11">11. März 1974</date> betreffend Ausbil<lb break="no" facs="#facs_622_r44"/>dungsabzug (Bericht und Antrag des Regierungsrates<lb facs="#facs_622_r45"/>vom <date when="1980-02-13">13. Februar 1980</date> und Antrag der Kommission vom <date when="1980-05-08">8. Mai 1980)</date> 2360</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_622_r50"/>38.</cell>
+						<cell>
+							<lb facs="#facs_622_r51"/>Postulat Nr. 1565 vom <date when="1974-04-29">29. April 1974</date> über eine Änderung<lb facs="#facs_622_r54"/>von § 25 des Steuergesetzes (Bericht und Antrag des Re<lb break="no" facs="#facs_622_r55"/>gierungsrates vom <date when="1980-02-13">13. Februar 1980</date> und Antrag der Kom<lb break="no" facs="#facs_622_r58"/>mission vom <date when="1980-05-08">8. Mai 1980)</date> 2361</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_622_r61"/>39.</cell>
+						<cell>
+							<lb facs="#facs_622_r62"/>Postulat Nr. 1577 vom <date when="1974-06-24">24. Juni 1974</date> über eine Änderung<lb facs="#facs_622_r65"/>von § 161 des Steuergesetzes (Bericht und Antrag des<lb facs="#facs_622_r66"/>Regierungsrates vom <date when="1980-02-13">13. Februar 1980</date> und Antrag der<lb facs="#facs_622_r69"/>Kommission vom <date when="1980-05-08">8. Mai 1980)</date> 2362</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_622_r72"/>40.</cell>
+						<cell>
+							<lb facs="#facs_622_r73"/>Einzelinitiative Christian Depuoz, Zürich, vom <date when="--04-21">21. April</date><lb facs="#facs_622_r75"/><date when="1980">1980</date> betreffend die Einführung einer Steuerertrags-<lb facs="#facs_622_r77"/>Ausscheidung zwischen Wohn- und Arbeitsortgemeinde<lb facs="#facs_622_r78"/>bei Arbeitnehmern im öffentlichen Dienst</cell>
+					</row>
+				</table>
+				<pb n="622" facs="#facs_623"/>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_623_r1"/>41.</cell>
+						<cell>
+							<lb facs="#facs_623_r2"/>Interpellation Karl Schärer, Wetzikon, und Erich Kriesi,<lb facs="#facs_623_r3"/>Erlenbach, vom <date when="1980-05-12">12. Mai 1980</date> betreffend die Subventio<lb break="no" facs="#facs_623_r6"/>nierung von Bauten die im Baurecht erstellt wurden</cell>
+					</row>
+				</table>
+				<p>
+					<lb facs="#facs_623_r7"/>Zürich, den <date when="1980-05-12">12. Mai 1980</date></p>
+				<p>
+					<lb facs="#facs_623_r9"/>Im Namen des Kantonsrates</p>
+				<p>
+					<lb facs="#facs_623_r10"/>Der Präsident:<lb facs="#facs_623_r11"/>Ernst Spillmann</p>
+			</div>
+		</body></text></TEI>

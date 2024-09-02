@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>2517 Bericht und Antrag des
+            Regierungsrates an den Kantonsrat zur Motion Nr. 2050 betreffend
+            die Haftung des Gemeinwesens bei Krawallschäden (vom 1. September 1982)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-10-15">15.10.1982</date><ident>StAZH ABl 1982 (S. 1117-1125)</ident><idno>1117–1125</idno><idno type="issue">41</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132813"/><note>Vorlagen-Nr. 2517</note></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_429" uly="0" ulx="0" lry="2333" lrx="1612">
+			<graphic url="Abl_1982_2__S__0429.tif" width="1612px" height="2333px"/>
+			<zone xml:id="facs_429_r38" ulx="183" uly="1966" lrx="1353" lry="1999" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r5" ulx="181" uly="262" lrx="1005" lry="303" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r13" ulx="181" uly="585" lrx="1355" lry="617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r12" ulx="1207" uly="544" lrx="1355" lry="572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r9" ulx="277" uly="450" lrx="600" lry="482" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r16" ulx="183" uly="754" lrx="1359" lry="784" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r3" ulx="1276" uly="108" lrx="1353" lry="134" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r10" ulx="239" uly="542" lrx="932" lry="572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r2" ulx="1320" uly="2205" lrx="1353" lry="2225" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r32" ulx="233" uly="1586" lrx="1118" lry="1616" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r11" ulx="953" uly="544" lrx="1199" lry="572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r33" ulx="183" uly="1711" lrx="527" lry="1740" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r36" ulx="179" uly="1878" lrx="1357" lry="1908" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r8" ulx="183" uly="454" lrx="258" lry="483" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r35" ulx="181" uly="1832" lrx="1353" lry="1864" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r17" ulx="179" uly="800" lrx="1355" lry="830" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r21" ulx="179" uly="977" lrx="1353" lry="1008" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r22" ulx="181" uly="1021" lrx="1355" lry="1051" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r14" ulx="181" uly="631" lrx="381" lry="659" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r40" ulx="177" uly="2053" lrx="1353" lry="2086" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r18" ulx="181" uly="844" lrx="1355" lry="873" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r31" ulx="179" uly="1434" lrx="321" lry="1460" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r34" ulx="237" uly="1788" lrx="1355" lry="1820" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r29" ulx="179" uly="1340" lrx="1355" lry="1372" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r26" ulx="181" uly="1209" lrx="1342" lry="1239" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r4" ulx="185" uly="198" lrx="279" lry="226" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r25" ulx="181" uly="1163" lrx="1351" lry="1195" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r19" ulx="183" uly="888" lrx="1360" lry="918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r6" ulx="177" uly="321" lrx="1249" lry="355" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r30" ulx="177" uly="1388" lrx="1357" lry="1417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r15" ulx="237" uly="710" lrx="1357" lry="741" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r20" ulx="179" uly="931" lrx="1357" lry="963" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r7" ulx="181" uly="377" lrx="1149" lry="409" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r24" ulx="235" uly="1119" lrx="1353" lry="1149" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r0" ulx="179" uly="2203" lrx="452" lry="2228" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r28" ulx="181" uly="1298" lrx="1358" lry="1329" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r37" ulx="181" uly="1922" lrx="1355" lry="1952" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r23" ulx="177" uly="1063" lrx="913" lry="1096" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r39" ulx="183" uly="2011" lrx="1355" lry="2042" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r27" ulx="177" uly="1253" lrx="1356" lry="1284" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_429_r1" ulx="458" uly="2201" lrx="742" lry="2227" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_430" uly="0" ulx="0" lry="2332" lrx="1620">
+			<graphic url="Abl_1982_2__S__0430.tif" width="1620px" height="2332px"/>
+			<zone xml:id="facs_430_r38" ulx="252" uly="1596" lrx="1430" lry="1625" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r24" ulx="252" uly="1142" lrx="1434" lry="1172" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r20" ulx="246" uly="962" lrx="1430" lry="994" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r16" ulx="252" uly="779" lrx="1430" lry="808" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r22" ulx="250" uly="1050" lrx="1430" lry="1082" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r11" ulx="250" uly="556" lrx="1430" lry="586" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r7" ulx="246" uly="464" lrx="1434" lry="496" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r32" ulx="250" uly="1419" lrx="1436" lry="1448" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r27" ulx="896" uly="1187" lrx="1432" lry="1216" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r44" ulx="250" uly="2013" lrx="1435" lry="2043" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r34" ulx="250" uly="1506" lrx="1430" lry="1537" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r12" ulx="248" uly="600" lrx="1432" lry="630" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r18" ulx="306" uly="875" lrx="1432" lry="905" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r39" ulx="249" uly="1640" lrx="508" lry="1669" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r23" ulx="248" uly="1096" lrx="1431" lry="1128" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r42" ulx="306" uly="1923" lrx="1430" lry="1953" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r25" ulx="250" uly="1187" lrx="617" lry="1216" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r33" ulx="252" uly="1462" lrx="1434" lry="1493" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r19" ulx="248" uly="919" lrx="1428" lry="950" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r10" ulx="813" uly="510" lrx="1428" lry="540" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r40" ulx="250" uly="1765" lrx="635" lry="1794" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r28" ulx="250" uly="1229" lrx="1435" lry="1261" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r1" ulx="248" uly="191" lrx="1430" lry="223" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r45" ulx="254" uly="2056" lrx="1437" lry="2088" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r13" ulx="252" uly="646" lrx="1428" lry="674" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r5" ulx="250" uly="379" lrx="1432" lry="408" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r35" ulx="250" uly="1552" lrx="1164" lry="1581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r29" ulx="252" uly="1273" lrx="1432" lry="1306" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r37" ulx="1268" uly="1550" lrx="1431" lry="1579" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r30" ulx="250" uly="1323" lrx="437" lry="1352" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r9" ulx="721" uly="512" lrx="802" lry="541" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r26" ulx="642" uly="1187" lrx="888" lry="1216" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r21" ulx="250" uly="1008" lrx="1428" lry="1039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r15" ulx="250" uly="733" lrx="1432" lry="763" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r36" ulx="1180" uly="1550" lrx="1259" lry="1579" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r0" ulx="250" uly="114" lrx="321" lry="136" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r17" ulx="252" uly="823" lrx="685" lry="855" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r31" ulx="306" uly="1373" lrx="1430" lry="1402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r2" ulx="252" uly="233" lrx="1433" lry="266" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r43" ulx="252" uly="1967" lrx="1434" lry="1999" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r3" ulx="246" uly="283" lrx="365" lry="308" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r41" ulx="252" uly="1846" lrx="493" lry="1872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r8" ulx="250" uly="512" lrx="713" lry="541" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r4" ulx="302" uly="333" lrx="1430" lry="363" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r6" ulx="246" uly="423" lrx="1434" lry="453" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_430_r14" ulx="247" uly="687" lrx="1435" lry="719" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_431" uly="0" ulx="0" lry="2333" lrx="1613">
+			<graphic url="Abl_1982_2__S__0431.tif" width="1613px" height="2333px"/>
+			<zone xml:id="facs_431_r5" ulx="189" uly="387" lrx="1358" lry="419" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r7" ulx="187" uly="475" lrx="1358" lry="507" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r32" ulx="183" uly="1603" lrx="1354" lry="1634" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r0" ulx="1282" uly="120" lrx="1354" lry="143" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r35" ulx="183" uly="1736" lrx="1356" lry="1768" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r30" ulx="185" uly="1509" lrx="718" lry="1538" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r39" ulx="181" uly="1918" lrx="1356" lry="1946" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r10" ulx="187" uly="610" lrx="1358" lry="641" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r21" ulx="183" uly="1107" lrx="1361" lry="1138" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r23" ulx="183" uly="1196" lrx="1358" lry="1227" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r12" ulx="187" uly="694" lrx="1361" lry="730" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r11" ulx="189" uly="652" lrx="1362" lry="685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r19" ulx="185" uly="1011" lrx="725" lry="1040" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r15" ulx="186" uly="829" lrx="1362" lry="864" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r8" ulx="187" uly="523" lrx="1362" lry="552" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r14" ulx="189" uly="788" lrx="1357" lry="819" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r24" ulx="183" uly="1238" lrx="1358" lry="1271" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r4" ulx="188" uly="344" lrx="1358" lry="375" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r27" ulx="184" uly="1373" lrx="1346" lry="1405" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r17" ulx="189" uly="921" lrx="1360" lry="951" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r36" ulx="179" uly="1782" lrx="1356" lry="1814" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r26" ulx="183" uly="1330" lrx="1360" lry="1361" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r20" ulx="241" uly="1061" lrx="1358" lry="1094" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r41" ulx="185" uly="2005" lrx="1356" lry="2035" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r33" ulx="181" uly="1649" lrx="1354" lry="1680" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r28" ulx="183" uly="1419" lrx="1358" lry="1450" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r38" ulx="183" uly="1872" lrx="1356" lry="1902" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r18" ulx="183" uly="965" lrx="1358" lry="998" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r42" ulx="181" uly="2051" lrx="1354" lry="2080" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r25" ulx="183" uly="1286" lrx="1359" lry="1318" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r13" ulx="189" uly="744" lrx="1346" lry="774" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r1" ulx="191" uly="202" lrx="1356" lry="232" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r40" ulx="187" uly="1961" lrx="1352" lry="1990" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r31" ulx="243" uly="1561" lrx="1358" lry="1593" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r9" ulx="185" uly="562" lrx="1360" lry="596" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r3" ulx="240" uly="298" lrx="1361" lry="329" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r22" ulx="185" uly="1150" lrx="1356" lry="1182" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r6" ulx="191" uly="431" lrx="1359" lry="463" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r2" ulx="189" uly="250" lrx="493" lry="274" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r16" ulx="188" uly="875" lrx="1358" lry="907" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r37" ulx="183" uly="1826" lrx="1358" lry="1856" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r29" ulx="183" uly="1461" lrx="1358" lry="1494" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_431_r34" ulx="180" uly="1695" lrx="1354" lry="1725" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_432" uly="0" ulx="0" lry="2332" lrx="1618">
+			<graphic url="Abl_1982_2__S__0432.tif" width="1618px" height="2332px"/>
+			<zone xml:id="facs_432_r11" ulx="254" uly="656" lrx="1430" lry="688" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r27" ulx="250" uly="1490" lrx="1436" lry="1521" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r6" ulx="249" uly="427" lrx="1428" lry="457" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r40" ulx="252" uly="2079" lrx="1435" lry="2111" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r9" ulx="252" uly="566" lrx="1430" lry="598" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r34" ulx="252" uly="1804" lrx="1436" lry="1835" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r13" ulx="252" uly="743" lrx="1432" lry="775" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r21" ulx="252" uly="1214" lrx="1435" lry="1248" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r24" ulx="252" uly="1350" lrx="1430" lry="1380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r29" ulx="254" uly="1581" lrx="1434" lry="1612" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r32" ulx="254" uly="1715" lrx="1434" lry="1745" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r28" ulx="256" uly="1537" lrx="1432" lry="1568" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r14" ulx="254" uly="791" lrx="686" lry="822" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r5" ulx="250" uly="381" lrx="1434" lry="413" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r17" ulx="249" uly="1039" lrx="1432" lry="1070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r36" ulx="258" uly="1890" lrx="1434" lry="1922" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r2" ulx="252" uly="247" lrx="1433" lry="279" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r4" ulx="252" uly="337" lrx="1426" lry="369" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r10" ulx="249" uly="612" lrx="1430" lry="643" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r8" ulx="304" uly="523" lrx="1432" lry="556" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r0" ulx="250" uly="122" lrx="321" lry="147" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r39" ulx="312" uly="2033" lrx="1440" lry="2065" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r15" ulx="248" uly="914" lrx="523" lry="948" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r38" ulx="254" uly="1983" lrx="879" lry="2014" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r33" ulx="254" uly="1758" lrx="1434" lry="1789" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r23" ulx="252" uly="1306" lrx="1433" lry="1337" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r1" ulx="250" uly="206" lrx="1432" lry="239" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r3" ulx="248" uly="291" lrx="1430" lry="323" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r35" ulx="258" uly="1848" lrx="1437" lry="1880" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r7" ulx="252" uly="475" lrx="461" lry="505" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r12" ulx="250" uly="698" lrx="1432" lry="732" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r22" ulx="250" uly="1262" lrx="1432" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r20" ulx="254" uly="1173" lrx="1434" lry="1203" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r31" ulx="254" uly="1669" lrx="1436" lry="1701" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r16" ulx="308" uly="996" lrx="1435" lry="1026" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r25" ulx="252" uly="1394" lrx="1288" lry="1427" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r19" ulx="251" uly="1129" lrx="1436" lry="1161" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r37" ulx="256" uly="1936" lrx="1436" lry="1969" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r18" ulx="250" uly="1085" lrx="1432" lry="1114" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r30" ulx="254" uly="1625" lrx="1432" lry="1655" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_432_r26" ulx="306" uly="1446" lrx="1439" lry="1479" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_433" uly="0" ulx="0" lry="2333" lrx="1613">
+			<graphic url="Abl_1982_2__S__0433.tif" width="1613px" height="2333px"/>
+			<zone xml:id="facs_433_r13" ulx="189" uly="746" lrx="260" lry="773" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r2" ulx="191" uly="256" lrx="1361" lry="288" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r27" ulx="187" uly="1436" lrx="1360" lry="1466" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r33" ulx="183" uly="1703" lrx="1350" lry="1735" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r3" ulx="191" uly="302" lrx="1360" lry="332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r34" ulx="241" uly="1755" lrx="1362" lry="1787" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r15" ulx="187" uly="788" lrx="1358" lry="821" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r44" ulx="723" uly="2112" lrx="1358" lry="2142" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r39" ulx="183" uly="1980" lrx="1355" lry="2009" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r38" ulx="183" uly="1934" lrx="1358" lry="1965" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r43" ulx="552" uly="2114" lrx="716" lry="2141" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r6" ulx="189" uly="435" lrx="1360" lry="467" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r19" ulx="185" uly="967" lrx="1362" lry="1000" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r37" ulx="181" uly="1888" lrx="1356" lry="1920" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r1" ulx="189" uly="210" lrx="1362" lry="242" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r14" ulx="266" uly="744" lrx="1362" lry="774" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r4" ulx="191" uly="346" lrx="1359" lry="376" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r36" ulx="181" uly="1845" lrx="1360" lry="1875" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r12" ulx="189" uly="700" lrx="1362" lry="732" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r10" ulx="187" uly="610" lrx="1361" lry="642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r25" ulx="189" uly="1346" lrx="1360" lry="1378" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r17" ulx="187" uly="879" lrx="1358" lry="910" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r8" ulx="187" uly="523" lrx="1367" lry="553" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r5" ulx="187" uly="387" lrx="1365" lry="420" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r31" ulx="183" uly="1613" lrx="1358" lry="1645" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r16" ulx="189" uly="836" lrx="1362" lry="867" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r30" ulx="185" uly="1569" lrx="1362" lry="1600" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r9" ulx="189" uly="567" lrx="1365" lry="598" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r24" ulx="184" uly="1303" lrx="1359" lry="1336" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r20" ulx="187" uly="1011" lrx="1360" lry="1041" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r32" ulx="183" uly="1659" lrx="1360" lry="1689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r22" ulx="189" uly="1180" lrx="789" lry="1210" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r40" ulx="177" uly="2024" lrx="1361" lry="2054" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r21" ulx="183" uly="1054" lrx="671" lry="1086" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r18" ulx="187" uly="921" lrx="1360" lry="954" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r0" ulx="1287" uly="133" lrx="1356" lry="155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r26" ulx="183" uly="1390" lrx="1362" lry="1422" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r41" ulx="183" uly="2070" lrx="1354" lry="2099" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r7" ulx="189" uly="481" lrx="1358" lry="510" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r29" ulx="185" uly="1524" lrx="1358" lry="1555" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r28" ulx="185" uly="1480" lrx="1360" lry="1511" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r35" ulx="179" uly="1801" lrx="1359" lry="1831" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r42" ulx="181" uly="2114" lrx="531" lry="2141" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r11" ulx="187" uly="656" lrx="1365" lry="688" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_433_r23" ulx="243" uly="1259" lrx="1360" lry="1292" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_434" uly="0" ulx="0" lry="2333" lrx="1620">
+			<graphic url="Abl_1982_2__S__0434.tif" width="1620px" height="2333px"/>
+			<zone xml:id="facs_434_r15" ulx="248" uly="836" lrx="1417" lry="869" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r2" ulx="254" uly="256" lrx="1429" lry="288" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r14" ulx="250" uly="792" lrx="1430" lry="822" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r43" ulx="255" uly="2097" lrx="1434" lry="2130" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r29" ulx="251" uly="1478" lrx="312" lry="1497" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r19" ulx="250" uly="1021" lrx="1432" lry="1054" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r20" ulx="252" uly="1067" lrx="1435" lry="1099" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r26" ulx="250" uly="1332" lrx="1435" lry="1364" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r12" ulx="250" uly="702" lrx="1430" lry="734" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r17" ulx="306" uly="934" lrx="1433" lry="964" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r27" ulx="252" uly="1378" lrx="1436" lry="1407" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r0" ulx="246" uly="133" lrx="316" lry="156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r10" ulx="250" uly="615" lrx="1435" lry="645" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r7" ulx="248" uly="481" lrx="1432" lry="512" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r23" ulx="251" uly="1194" lrx="1438" lry="1229" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r24" ulx="252" uly="1244" lrx="1434" lry="1275" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r41" ulx="256" uly="2007" lrx="1434" lry="2039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r22" ulx="252" uly="1155" lrx="1438" lry="1186" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r44" ulx="256" uly="2139" lrx="1436" lry="2172" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r13" ulx="248" uly="746" lrx="1432" lry="778" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r5" ulx="248" uly="394" lrx="1434" lry="423" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r32" ulx="252" uly="1607" lrx="1434" lry="1639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r30" ulx="312" uly="1521" lrx="1435" lry="1550" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r40" ulx="256" uly="1963" lrx="1439" lry="1995" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r16" ulx="250" uly="879" lrx="1428" lry="914" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r1" ulx="248" uly="214" lrx="1430" lry="245" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r21" ulx="250" uly="1111" lrx="1436" lry="1143" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r28" ulx="254" uly="1419" lrx="1432" lry="1451" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r35" ulx="254" uly="1742" lrx="1437" lry="1773" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r11" ulx="253" uly="658" lrx="1430" lry="689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r18" ulx="254" uly="977" lrx="1428" lry="1009" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r42" ulx="252" uly="2053" lrx="1433" lry="2085" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r8" ulx="247" uly="523" lrx="1434" lry="555" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r33" ulx="252" uly="1655" lrx="1432" lry="1685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r25" ulx="252" uly="1288" lrx="1436" lry="1320" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r39" ulx="258" uly="1920" lrx="1436" lry="1952" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r34" ulx="254" uly="1697" lrx="1432" lry="1728" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r3" ulx="254" uly="302" lrx="1432" lry="335" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r38" ulx="258" uly="1876" lrx="1436" lry="1906" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r4" ulx="246" uly="348" lrx="1430" lry="380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r9" ulx="252" uly="569" lrx="1430" lry="599" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r36" ulx="252" uly="1788" lrx="1435" lry="1819" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r6" ulx="252" uly="437" lrx="1417" lry="466" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r37" ulx="254" uly="1830" lrx="1436" lry="1863" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_434_r31" ulx="252" uly="1563" lrx="1435" lry="1595" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_435" uly="0" ulx="0" lry="2333" lrx="1613">
+			<graphic url="Abl_1982_2__S__0435.tif" width="1613px" height="2333px"/>
+			<zone xml:id="facs_435_r9" ulx="183" uly="573" lrx="1354" lry="605" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r19" ulx="172" uly="1061" lrx="1352" lry="1095" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r1" ulx="184" uly="208" lrx="1358" lry="241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r38" ulx="172" uly="1932" lrx="1346" lry="1965" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r8" ulx="237" uly="527" lrx="1354" lry="560" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r36" ulx="175" uly="1845" lrx="1348" lry="1875" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r4" ulx="181" uly="346" lrx="1356" lry="373" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r32" ulx="175" uly="1657" lrx="1352" lry="1689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r39" ulx="171" uly="1978" lrx="1348" lry="2008" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r30" ulx="172" uly="1561" lrx="775" lry="1591" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r41" ulx="170" uly="2068" lrx="1344" lry="2098" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r43" ulx="170" uly="2153" lrx="1346" lry="2185" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r31" ulx="231" uly="1613" lrx="1350" lry="1645" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r34" ulx="172" uly="1747" lrx="438" lry="1777" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r12" ulx="178" uly="706" lrx="1354" lry="738" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r17" ulx="179" uly="971" lrx="1353" lry="1004" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r21" ulx="175" uly="1152" lrx="1223" lry="1181" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r6" ulx="180" uly="431" lrx="1356" lry="463" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r27" ulx="175" uly="1428" lrx="1352" lry="1458" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r25" ulx="176" uly="1338" lrx="1352" lry="1370" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r22" ulx="234" uly="1205" lrx="1353" lry="1236" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r3" ulx="181" uly="298" lrx="1354" lry="329" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r26" ulx="172" uly="1384" lrx="1350" lry="1414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r14" ulx="181" uly="794" lrx="1354" lry="827" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r28" ulx="172" uly="1471" lrx="1351" lry="1503" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r24" ulx="175" uly="1294" lrx="1347" lry="1324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r40" ulx="170" uly="2022" lrx="1350" lry="2054" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r37" ulx="172" uly="1888" lrx="1346" lry="1920" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r5" ulx="181" uly="387" lrx="1360" lry="418" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r16" ulx="179" uly="886" lrx="1354" lry="946" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r35" ulx="233" uly="1799" lrx="1342" lry="1830" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r15" ulx="177" uly="840" lrx="1352" lry="871" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r29" ulx="174" uly="1515" lrx="1352" lry="1547" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r0" ulx="1279" uly="131" lrx="1350" lry="154" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r10" ulx="185" uly="619" lrx="1348" lry="650" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r11" ulx="182" uly="662" lrx="1354" lry="693" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r13" ulx="181" uly="752" lrx="1354" lry="784" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r42" ulx="168" uly="2111" lrx="1348" lry="2140" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r20" ulx="175" uly="1107" lrx="1350" lry="1137" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r7" ulx="182" uly="475" lrx="1071" lry="505" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r23" ulx="175" uly="1248" lrx="1354" lry="1281" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r33" ulx="175" uly="1703" lrx="1352" lry="1733" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r2" ulx="183" uly="254" lrx="1356" lry="287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_435_r18" ulx="179" uly="1019" lrx="1352" lry="1049" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_436" uly="0" ulx="0" lry="2334" lrx="1620">
+			<graphic url="Abl_1982_2__S__0436.tif" width="1620px" height="2334px"/>
+			<zone xml:id="facs_436_r30" ulx="250" uly="1525" lrx="1435" lry="1557" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r27" ulx="252" uly="1383" lrx="1419" lry="1414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r23" ulx="252" uly="1206" lrx="1432" lry="1238" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r33" ulx="310" uly="1669" lrx="1430" lry="1699" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r9" ulx="302" uly="575" lrx="1430" lry="606" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r20" ulx="248" uly="1073" lrx="1434" lry="1105" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r34" ulx="250" uly="1715" lrx="1430" lry="1748" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r36" ulx="250" uly="1800" lrx="1437" lry="1833" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r42" ulx="248" uly="2077" lrx="1430" lry="2110" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r14" ulx="248" uly="798" lrx="1432" lry="829" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r7" ulx="243" uly="477" lrx="1426" lry="507" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r28" ulx="310" uly="1437" lrx="1434" lry="1468" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r16" ulx="254" uly="887" lrx="1428" lry="918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r15" ulx="252" uly="841" lrx="1432" lry="873" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r26" ulx="254" uly="1339" lrx="1430" lry="1371" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r35" ulx="252" uly="1758" lrx="1428" lry="1789" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r29" ulx="250" uly="1481" lrx="1434" lry="1513" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r39" ulx="250" uly="1933" lrx="1437" lry="1967" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r24" ulx="248" uly="1252" lrx="1428" lry="1282" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r21" ulx="252" uly="1119" lrx="1430" lry="1149" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r43" ulx="252" uly="2121" lrx="1435" lry="2153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r0" ulx="248" uly="135" lrx="321" lry="158" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r8" ulx="243" uly="520" lrx="1172" lry="554" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r37" ulx="250" uly="1848" lrx="1434" lry="1880" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r12" ulx="249" uly="710" lrx="1430" lry="740" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r11" ulx="247" uly="662" lrx="1427" lry="695" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r1" ulx="246" uly="210" lrx="1432" lry="242" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r17" ulx="246" uly="931" lrx="1428" lry="964" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r13" ulx="250" uly="754" lrx="1428" lry="786" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r31" ulx="250" uly="1569" lrx="1434" lry="1603" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r32" ulx="248" uly="1615" lrx="1430" lry="1648" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r22" ulx="250" uly="1162" lrx="1430" lry="1193" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r6" ulx="248" uly="433" lrx="1428" lry="465" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r40" ulx="249" uly="1985" lrx="694" lry="2017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r2" ulx="243" uly="254" lrx="1428" lry="288" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r3" ulx="250" uly="300" lrx="1424" lry="331" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r10" ulx="248" uly="621" lrx="1428" lry="652" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r25" ulx="250" uly="1296" lrx="1430" lry="1326" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r41" ulx="302" uly="2033" lrx="1436" lry="2064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r5" ulx="247" uly="389" lrx="1426" lry="421" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r18" ulx="250" uly="985" lrx="383" lry="1007" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r4" ulx="248" uly="343" lrx="1431" lry="375" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r38" ulx="252" uly="1890" lrx="1434" lry="1923" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_436_r19" ulx="306" uly="1027" lrx="1434" lry="1060" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_437" uly="0" ulx="0" lry="2333" lrx="1614">
+			<graphic url="Abl_1982_2__S__0437.tif" width="1614px" height="2333px"/>
+			<zone xml:id="facs_437_r18" ulx="189" uly="1079" lrx="1364" lry="1108" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r6" ulx="189" uly="429" lrx="1361" lry="459" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r4" ulx="189" uly="339" lrx="1363" lry="370" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r22" ulx="185" uly="1255" lrx="1361" lry="1286" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r36" ulx="183" uly="1884" lrx="381" lry="1916" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r20" ulx="186" uly="1163" lrx="1366" lry="1197" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r28" ulx="183" uly="1521" lrx="994" lry="1552" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r7" ulx="187" uly="473" lrx="1359" lry="505" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r23" ulx="187" uly="1298" lrx="1368" lry="1332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r39" ulx="671" uly="1974" lrx="1190" lry="2004" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r19" ulx="185" uly="1121" lrx="1360" lry="1153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r37" ulx="389" uly="1886" lrx="419" lry="1917" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r38" ulx="425" uly="1886" lrx="700" lry="1917" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r41" ulx="1025" uly="2072" lrx="1207" lry="2101" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r32" ulx="187" uly="1611" lrx="1359" lry="1640" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r0" ulx="1286" uly="129" lrx="1359" lry="150" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r25" ulx="185" uly="1388" lrx="1365" lry="1418" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r31" ulx="184" uly="1565" lrx="1367" lry="1597" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r5" ulx="189" uly="387" lrx="1361" lry="416" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r35" ulx="183" uly="1753" lrx="777" lry="1783" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r29" ulx="1013" uly="1521" lrx="1244" lry="1552" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r10" ulx="187" uly="606" lrx="1362" lry="638" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r9" ulx="187" uly="562" lrx="1363" lry="593" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r40" ulx="1021" uly="2028" lrx="1359" lry="2057" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r21" ulx="187" uly="1211" lrx="1366" lry="1241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r30" ulx="1253" uly="1524" lrx="1359" lry="1551" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r3" ulx="189" uly="296" lrx="1361" lry="326" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r12" ulx="187" uly="696" lrx="1364" lry="726" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r2" ulx="187" uly="252" lrx="1359" lry="281" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r1" ulx="187" uly="206" lrx="1357" lry="236" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r11" ulx="185" uly="652" lrx="1359" lry="682" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r42" ulx="668" uly="2028" lrx="994" lry="2083" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r26" ulx="187" uly="1432" lrx="1361" lry="1464" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r15" ulx="185" uly="909" lrx="585" lry="937" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r16" ulx="246" uly="990" lrx="1365" lry="1020" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r13" ulx="187" uly="740" lrx="1363" lry="770" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r14" ulx="187" uly="788" lrx="1161" lry="816" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r34" ulx="241" uly="1707" lrx="1359" lry="1739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r17" ulx="185" uly="1034" lrx="1359" lry="1065" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r27" ulx="187" uly="1478" lrx="1361" lry="1508" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r24" ulx="187" uly="1344" lrx="1361" lry="1373" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r33" ulx="189" uly="1655" lrx="1055" lry="1685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_437_r8" ulx="189" uly="519" lrx="1361" lry="549" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1117" facs="#facs_429"/>
+			<p>
+				<lb facs="#facs_429_r10"/>Der Kantonsrat hat dem Regierungsrat am <date when="1982-01-18">18. Januar 1982</date> folgende<lb facs="#facs_429_r13"/>von Kantonsrat Adolf Gucker,
+          Zürich, eingereichte Motion zur Prüfung<lb facs="#facs_429_r14"/>überwiesen:</p>
+			<p>
+				<lb facs="#facs_429_r15"/>«Die Folgeschäden von Krawallen, Demonstrationen und
+            gewalttäti<lb break="no" facs="#facs_429_r16"/>gen Störaktionen durch randalierende
+          Jugendliche haben in den vergan<lb break="no" facs="#facs_429_r17"/>genen Monaten
+          namentlich für Liegenschafteneigentümer und Gewer<lb break="no" facs="#facs_429_r18"/>betreibende in der Zürcher Innenstadt ein nicht mehr tolerierbares Mass<lb facs="#facs_429_r19"/>angenommen. Dabei zeigte sich, dass eine grosse Mehrzahl der
+            Scha<lb break="no" facs="#facs_429_r20"/>denfälle - namentlich zerstörte Ladengeschäfte
+          und verunstaltete Haus<lb break="no" facs="#facs_429_r21"/>fassaden - durch gezielte und
+          konsequente Einsätze der Ordnungskräfte<lb facs="#facs_429_r22"/>hätte vermieden werden
+          können, wenn diese nicht aus politischen und<lb facs="#facs_429_r23"/>anderen Überlegungen
+          ausgeblieben wären.</p>
+			<p>
+				<lb facs="#facs_429_r24"/>Der Regierungsrat wird eingeladen, Bericht und Antrag für
+            eine<lb facs="#facs_429_r25"/>Änderung des Polizeirechts bzw. des Staatshaftungsrechts
+          zu erstatten,<lb facs="#facs_429_r26"/>wonach das Gemeinwesen seine Ordnungskräfte
+          konsequent nach dem<lb facs="#facs_429_r27"/>Legalitätsprinzip einzusetzen hat. Der
+          Ermessensspielraum der Behör<lb break="no" facs="#facs_429_r28"/>den soll ganz klar ein-
+          und abgegrenzt werden. Handeln nach reiner<lb facs="#facs_429_r29"/>Opportunität soll in
+          Zukunft eine Rechtswidrigkeit im Sinne des Haf<lb break="no" facs="#facs_429_r30"/>tungsgesetzes darstellen und somit zur Haftung des Gemeinwesens<lb facs="#facs_429_r31"/>führen.»</p>
+			<p>
+				<lb facs="#facs_429_r32"/>Der Regierungsrat erstattet hiezu folgenden Bericht:</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_429_r33"/>A. Vorbemerkungen</head>
+				<p>
+					<lb facs="#facs_429_r34"/>Ziel der Motion ist es, Unbeteiligte vor Schäden bei
+              gewalttätigen<lb facs="#facs_429_r35"/>Auseinandersetzungen in der Öffentlichkeit zu
+            bewahren bzw. ihnen<lb facs="#facs_429_r36"/>gegebenenfalls die Schadensdeckung zu
+            sichern. Mit Vorschriften über<lb facs="#facs_429_r37"/>den Einsatz soll erreicht
+            werden, dass die Polizei bei gestörter öffentli<lb break="no" facs="#facs_429_r38"/>cher
+            Ordnung die Schädigung Dritter möglichst absolut verhindert.<lb facs="#facs_429_r39"/>Gelingt dies nicht, soll das Gemeinwesen für solche Schäden haften,<lb facs="#facs_429_r40"/>wenn der Einsatz der Polizei irgendwie als ungenügend beurteilt
+            werden</p>
+				<pb n="1118" facs="#facs_430"/>
+				<p>
+					<lb facs="#facs_430_r1"/>kann. Der Auftrag für den Gesetzgeber ist allgemeiner Art und
+              müsste<lb facs="#facs_430_r2"/>sich wohl auf Ordnungsstörungen verschiedenster Art und
+            Grösse be<lb break="no" facs="#facs_430_r3"/>ziehen.</p>
+				<p>
+					<lb facs="#facs_430_r4"/>Das Ausmass der in Verbindung mit den sogenannten
+              80er-Unruhen<lb facs="#facs_430_r5"/>in der Stadt Zürich entstandenen Schäden zeigt
+            die finanzielle Bedeu<lb break="no" facs="#facs_430_r6"/>tung der zur Diskussion
+            gestellten Fragen. Die in der Stadt Zürich der<lb facs="#facs_430_r7"/>Polizei bekannt
+            gewordenen Schäden belaufen sich für 1980 auf etwa 3,5<lb facs="#facs_430_r8"/>Millionen
+            Franken und für <date when="1981">1981</date> auf etwa 4,5 Millionen Franken. In<lb facs="#facs_430_r11"/>erster Linie waren private Liegenschaftenbesitzer und
+              Gewerbetrei<lb break="no" facs="#facs_430_r12"/>bende, zum Teil aber auch die
+            öffentliche Hand, Opfer der Zerstörungs<lb break="no" facs="#facs_430_r13"/>wut, wobei
+            die finanziellen Folgen für die einzelnen Geschädigten<lb facs="#facs_430_r14"/>unterschiedlich sind und u.a. davon abhängen, ob Schäden an nicht<lb facs="#facs_430_r15"/>versicherbaren oder nicht versicherten Sachen entstanden sind
+            und wie<lb facs="#facs_430_r16"/>gross allfällige Umsatzverluste oder Schäden durch
+              Betriebsunterbre<lb break="no" facs="#facs_430_r17"/>chungen zu beziffern sind.</p>
+				<p>
+					<lb facs="#facs_430_r18"/>Die Leistungen privater Sachversicherer für die 1980/81 in der
+              Stadt<lb facs="#facs_430_r19"/>Zürich entstandenen Krawallschäden werden auf etwa 6
+              Millionen<lb facs="#facs_430_r20"/>Franken geschätzt, darin sind Schäden, die durch
+            Brandstiftung entstan<lb break="no" facs="#facs_430_r21"/>den sind, in der Höhe von etwa
+            4 Millionen Franken, mitenthalten.<lb facs="#facs_430_r22"/>Verlässliche Zahlen liegen
+            allerdings nicht vor; zudem bleibt in mehre<lb break="no" facs="#facs_430_r23"/>ren
+            Fällen die Frage offen, ob die Brandanschläge - wie übrigens auch<lb facs="#facs_430_r24"/>andere Sachschäden - der sogenannten Unruheszene zugerechnet
+              wer<lb break="no" facs="#facs_430_r25"/>den können. Seit dem <date when="1982-01-01">1. Januar 1982</date> bieten die privaten Versicherer<lb facs="#facs_430_r28"/>eine
+            Risikodeckung gegen Schädigungen bei Unruhen aller Art an; dies<lb facs="#facs_430_r29"/>als Ergänzung zu Feuer -, Wasser -, Einbruch -, Diebstahl- und Glasversi<lb break="no" facs="#facs_430_r30"/>cherungen.</p>
+				<p>
+					<lb facs="#facs_430_r31"/>Die kantonale Gebäudeversicherungsanstalt schätzt ihre
+              Leistungen<lb facs="#facs_430_r32"/>für Schäden, die sich unmittelbar während der
+            Krawalle ereigneten, auf<lb facs="#facs_430_r33"/>weniger als eine Million Franken.
+            Durch Brand- und Terroranschläge<lb facs="#facs_430_r34"/>entstehen jedoch jährlich
+            Gebäudeschäden von mehreren Millionen<lb facs="#facs_430_r35"/>Franken. Bei einigen
+            Brandanschlägen in den Jahren <date when="1980">1980</date> und 1981<lb facs="#facs_430_r38"/>wird ein Zusammenhang mit den Unruhen vermutet; Beweise
+              fehlen<lb facs="#facs_430_r39"/>aber bis heute.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_430_r40"/>B. Das geltende Recht</head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_430_r41"/>1. Polizeirecht</head>
+					<p>
+						<lb facs="#facs_430_r42"/>Die Motion geht davon aus, dass die massgebenden
+                polizeirechtli<lb break="no" facs="#facs_430_r43"/>chen Grundsätze für den
+              Ordnungsdienst zu viel Spielraum aufweisen<lb facs="#facs_430_r44"/>und deshalb die
+              Polizei zu wenig konsequent eingesetzt und damit<lb facs="#facs_430_r45"/>vermeidbare
+              Schäden in Kauf genommen worden seien. Es ist daher</p>
+					<pb n="1119" facs="#facs_431"/>
+					<p>
+						<lb facs="#facs_431_r1"/>zunächst kurz auf die heute im schweizerischen Recht
+              geltenden Grund<lb break="no" facs="#facs_431_r2"/>sätze hinzuweisen.</p>
+					<p>
+						<lb facs="#facs_431_r3"/>Die Polizei hat den Auftrag, die öffentliche Sicherheit und
+                Ordnung<lb facs="#facs_431_r4"/>durch Abwehr von Gefahren und Beseitigung von
+              Störungen aufrecht<lb break="no" facs="#facs_431_r5"/>zuerhalten. Dazu gehört der
+              Schutz privater Rechte grundsätzlich in<lb facs="#facs_431_r6"/>dem Umfange, als deren
+              Verletzung auch eine öffentliche Ordnungsstö<lb break="no" facs="#facs_431_r7"/>rung
+              bedeutet. Dieses Prinzip bedeutet allerdings nicht, dass jede Ord<lb break="no" facs="#facs_431_r8"/>nungswidrigkeit mit allen Mitteln verhindert oder unterbunden
+                oder<lb facs="#facs_431_r9"/>jede Gefahr bedingungslos ausgeschaltet werden muss.
+              Vielmehr hat die<lb facs="#facs_431_r10"/>Polizei unter Beachtung des Grundsatzes der
+              Verhältnismässigkeit zu<lb facs="#facs_431_r11"/>entscheiden, ob und wie im Einzelfall
+              eine Störung oder Gefährdung der<lb facs="#facs_431_r12"/>öffentlichen Sicherheit
+              abzuwenden ist. Diese Ordnung - auch Opportu<lb break="no" facs="#facs_431_r13"/>nitätsprinzip genannt - wahrt die Flexibilität, die erforderlich ist, um<lb facs="#facs_431_r14"/>den Einsatz der Polizei jeweils nach Lage aller in Betracht
+                kommenden<lb facs="#facs_431_r15"/>Umstände konkret zu bestimmen. Sie bedeutet
+              keineswegs, dass die<lb facs="#facs_431_r16"/>Polizei die Dinge einfach treiben lassen
+              darf, zwingt sie aber auch nicht,<lb facs="#facs_431_r17"/>stets mit allen Mitteln
+              eingreifen zu müssen, sondern enthält die Ver<lb break="no" facs="#facs_431_r18"/>pflichtung, die in einer gegebenen Situation mutmasslich «klügste und<lb facs="#facs_431_r19"/>schonendste» Lösung zu treffen.</p>
+					<p>
+						<lb facs="#facs_431_r20"/>Insbesondere beschränkt der bereits genannte Grundsatz der
+                Ver<lb break="no" facs="#facs_431_r21"/>hältnismässigkeit den
+              sicherheitspolizeilichen Auftrag. Stehen mehrere<lb facs="#facs_431_r22"/>Möglichkeiten für das Tätigwerden der Polizei bei Ordnungsstörungen<lb facs="#facs_431_r23"/>offen, ist diejenige zu wählen, welche den einzelnen und die
+                Allgemein<lb break="no" facs="#facs_431_r24"/>heit voraussichtlich am wenigsten
+              belastet. Der polizeiliche Eingriff darf<lb facs="#facs_431_r25"/>nicht weitergehen,
+              als zur Abwehr der jeweiligen Gefahr oder Störung<lb facs="#facs_431_r26"/>erforderlich ist, und muss für diesen Zweck geeignet sein. Seine gegebe<lb break="no" facs="#facs_431_r27"/>nenfalls nachteiligen Wirkungen dürfen in keinem
+              Missverhältnis zum<lb facs="#facs_431_r28"/>geschützten Rechtsgut stehen. Dabei ist
+              auch zu beachten, dass in<lb facs="#facs_431_r29"/>unserer Rechtsordnung Leben und
+              körperliche Integrität höher bewer<lb break="no" facs="#facs_431_r30"/>tet werden als
+              materielle Güter.</p>
+					<p>
+						<lb facs="#facs_431_r31"/>Am Beispiel politisch motivierter Auseinandersetzungen in
+                der<lb facs="#facs_431_r32"/>Öffentlichkeit zeigt sich, dass namentlich auch die
+                Meinungsäusserungs<lb break="no" facs="#facs_431_r33"/>und die Versammlungsfreiheit
+              bei der Anordnung polizeilicher Mass<lb break="no" facs="#facs_431_r34"/>nahmen zur
+              Verhinderung oder Bewältigung von Ordnungsstörungen zu<lb facs="#facs_431_r35"/>berücksichtigen sind. Die konstante bundesgerichtliche Rechtsprechung<lb facs="#facs_431_r36"/>betreffend die Erteilung von Demonstrationsbewilligungen macht
+                dies<lb facs="#facs_431_r37"/>klar. Danach steht es nicht im freien Ermessen der
+              Behörden, solche<lb facs="#facs_431_r38"/>Manifestationen zu gestatten oder zu
+              verbieten. Vielmehr haben sie<lb facs="#facs_431_r39"/>unter Wahrung des Grundsatzes
+              der Verhältnismässigkeit alle<lb facs="#facs_431_r40"/>Umstände zu prüfen und im Blick
+              auf die Freiheitsrechte nicht nur den<lb facs="#facs_431_r41"/>Gesichtspunkten der
+              Gefahrenabwehr und der Sicherstellung der öffent<lb break="no" facs="#facs_431_r42"/>lichen Ordnung, sondern auch den Bedürfnissen nach öffentlicher Mei-</p>
+					<pb n="1120" facs="#facs_432"/>
+					<p>
+						<lb facs="#facs_432_r1"/>nungsäusserung Rechnung zu tragen. Dies heisst aber nichts
+              anderes, als<lb facs="#facs_432_r2"/>dass eben gewisse Ordnungsstörungen vorübergehend
+              in Kauf zu neh<lb break="no" facs="#facs_432_r3"/>men sind und nicht jede Gefährdung
+              polizeiliche Verbote oder Interven<lb break="no" facs="#facs_432_r4"/>tionen
+              rechtfertigt. Diese Rechtsprechung will keineswegs Gewalttätig<lb break="no" facs="#facs_432_r5"/>keiten tolerieren, bedingt aber die Übernahme von Risiken. Eine
+                leicht<lb facs="#facs_432_r6"/>erkennbare Grenze, bis zu der Störungen und Risiken
+              zu ertragen sind,<lb facs="#facs_432_r7"/>gibt es nicht.</p>
+					<p>
+						<lb facs="#facs_432_r8"/>Opportunitätsprinzip, Verhältnismässigkeitsgrundsatz und
+                Wirkun<lb break="no" facs="#facs_432_r9"/>gen verschiedener Freiheitsrechte fliessen
+              ineinander und bilden ein<lb facs="#facs_432_r10"/>rechtliches Netzwerk, in dem die
+              zuständigen Behörden im konkreten<lb facs="#facs_432_r11"/>Fall die erforderlichen
+              Entscheidungen zu treffen haben. Sie entsprin<lb break="no" facs="#facs_432_r12"/>gen
+              übergeordnetem Recht, das auch vom kantonalen Gesetzgeber zu<lb facs="#facs_432_r13"/>beachten ist und ihm keine Freiheit zu beliebigem Eingreifen mit<lb facs="#facs_432_r14"/>Gesetzesvorschriften lässt.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_432_r15"/>2. Haftungsrecht</head>
+					<p>
+						<lb facs="#facs_432_r16"/>Die zuvor genannten, beträchtlichen Schäden, die im Zeitraum
+                der<lb facs="#facs_432_r17"/>intensiven Ordnungsstörungen 1980/81 entstanden sind,
+              mussten bis<lb facs="#facs_432_r18"/>heute weitgehend von den Geschädigten bzw. ihren
+              Versicherern getra<lb break="no" facs="#facs_432_r19"/>gen werden. Dies führt zu der
+              in der Motion enthaltenen Forderung<lb facs="#facs_432_r20"/>nach einer neuen Form der
+              Sicherung der Schadensdeckung. Diese<lb facs="#facs_432_r21"/>Forderung ist
+              grundsätzlich auf alle Arten von Schädigungen bei Ord<lb break="no" facs="#facs_432_r22"/>nungsstörungen ausgerichtet. Dabei müssten unter
+                Ordnungsstörungen<lb facs="#facs_432_r23"/>nicht nur ausartende Massenkundgebungen
+              verstanden werden, sondern<lb facs="#facs_432_r24"/>auch zerstörerische Aktionen
+              einzelner oder kleiner Gruppen, die sich<lb facs="#facs_432_r25"/>irgendwo und
+              ausgelöst durch irgendwelche Motive abspielen.</p>
+					<p>
+						<lb facs="#facs_432_r26"/>Nach geltendem Recht ist an sich vorab der Verursacher
+                eines<lb facs="#facs_432_r27"/>Schadens zu dessen Deckung verpflichtet. Diese
+              zivilrechtliche Haftung<lb facs="#facs_432_r28"/>aus unerlaubter Handlung greift
+              Platz, wenn jemand einem andern<lb facs="#facs_432_r29"/>widerrechtlich und schuldhaft
+              einen Schaden zufügt und das widerrecht<lb break="no" facs="#facs_432_r30"/>liche
+              Verhalten für den Schaden kausal war. Haben mehrere den<lb facs="#facs_432_r31"/>Schaden gemeinsam als Anstifter, Urheber oder Gehilfe verschuldet, so<lb facs="#facs_432_r32"/>haften sie solidarisch. Diese Haftungsordnung erreicht
+                erfahrungsge<lb break="no" facs="#facs_432_r33"/>mäss bei Schädigungen der hier in
+              Frage stehenden Art wenig Wirkung.<lb facs="#facs_432_r34"/>Die Schwierigkeiten, Täter
+              zu ermitteln, Anstifter ins Recht zu fassen,<lb facs="#facs_432_r35"/>Organisationen
+              verantwortlich zu machen usw. sind sehr gross und<lb facs="#facs_432_r36"/>unlösbare
+              Beweisprobleme überaus zahlreich. Könnte ein solches Haf<lb break="no" facs="#facs_432_r37"/>tungsverfahren auch noch erfolgreich sein, erweist sich der
+                Schadensver<lb break="no" facs="#facs_432_r38"/>ursacher vielfach als
+              zahlungsunfähig.</p>
+					<p>
+						<lb facs="#facs_432_r39"/>Aufgrund dieser Situation wurde die Frage aufgeworfen, ob
+                nicht<lb facs="#facs_432_r40"/>subsidiär die Staatshaftung in Anspruch genommen
+              werden könnte.</p>
+					<pb n="1121" facs="#facs_433"/>
+					<p>
+						<lb facs="#facs_433_r1"/>Nach heutiger Ordnung haften Staat und Gemeinden für Schäden,
+                die<lb facs="#facs_433_r2"/>ihre Beamten in Ausübung hoheitlicher Verrichtungen
+              einem Dritten<lb facs="#facs_433_r3"/>widerrechtlich zufügen, wenn der Schaden im
+              Kausalzusammenhang mit<lb facs="#facs_433_r4"/>der rechtswidrigen Verrichtung steht.
+              Das widerrechtliche Verhalten<lb facs="#facs_433_r5"/>kann auch in einer Unterlassung
+              bestehen, und der Kausalzusammen<lb break="no" facs="#facs_433_r6"/>hang ist gegeben,
+              wenn das Verhalten nach der allgemeinen Lebenser<lb break="no" facs="#facs_433_r7"/>fahrung geeignet war, den Schaden voraussehbar zu bewirken. Dass<lb facs="#facs_433_r8"/>diese Haftung zum Zuge kommt, ist unwahrscheinlich. Den
+                Polizeibe<lb break="no" facs="#facs_433_r9"/>hörden müsste nachgewiesen werden, dass
+              sie in Überschreitung oder<lb facs="#facs_433_r10"/>Missbrauch ihres
+              Entscheidungsspielraums den ihnen gegebenen Auf<lb break="no" facs="#facs_433_r11"/>trag nicht erfüllt und dies die entstandenen Schäden zur Folge gehabt<lb facs="#facs_433_r12"/>hätte. Ein derartiger Vorwurf ist allgemein und in bezug auf
+              die Jahre<lb facs="#facs_433_r13"/><date when="1980">1980</date> und 1981 unhaltbar.
+              Das allseits bekannte Ausmass der Beanspru<lb break="no" facs="#facs_433_r15"/>chung
+              der Polizei 1980/81 ist allein schon geeignet, einer solchen<lb facs="#facs_433_r16"/>Behauptung generell entgegenzutreten. Im einzelnen vermögen die<lb facs="#facs_433_r17"/>vorausgegangenen polizeirechtlichen Darlegungen und die
+                nachfolgen<lb break="no" facs="#facs_433_r18"/>den Ausführungen über die
+              tatsächlichen Gegebenheiten dies näher zu<lb facs="#facs_433_r19"/>belegen. Im übrigen
+              ist ein entsprechender Haftungsprozess gegen die<lb facs="#facs_433_r20"/>Stadt Zürich
+              pendent, der schliesslich zu einer richterlichen Entschei<lb break="no" facs="#facs_433_r21"/>dung der Frage führen muss.</p>
+				</div>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_433_r22"/>C. Die angestrebte Rechtsänderung</head>
+				<p>
+					<lb facs="#facs_433_r23"/>Dass Randalierer irgendwen in irgendwelchem Umfang
+              schädigen<lb facs="#facs_433_r24"/>können und - wie erwähnt - dann häufig der
+            Geschädigte oder dessen<lb facs="#facs_433_r25"/>Versicherer bzw. die
+            Versicherungsprämienzahler letztlich den Schaden<lb facs="#facs_433_r26"/>zu tragen
+            haben, ist stossend. Der Wunsch nach Abhilfe ist durchaus<lb facs="#facs_433_r27"/>verständlich. Mit Gesetzesbestimmungen, der Polizei die Verhinderung<lb facs="#facs_433_r28"/>solcher Schäden einfach vorzuschreiben, und, wenn dann
+              unvermeid<lb break="no" facs="#facs_433_r29"/>licherweise doch Schäden entstehen,
+            festzustellen, die Polizei habe eben<lb facs="#facs_433_r30"/>ihre Rechtspflicht
+            verletzt und damit sei die Haftung des Gemeinwesens<lb facs="#facs_433_r31"/>bzw. der
+            Steuerzahler gegeben, erweist sich als nicht gangbarer Weg. Es<lb facs="#facs_433_r32"/>ergäbe sich eine gesetzestechnische Konstruktion ohne Bezug zur Wirk<lb break="no" facs="#facs_433_r33"/>lichkeit, aber mit dem Effekt, dass immer die Polizei «schuldig
+            wäre».</p>
+				<p>
+					<lb facs="#facs_433_r34"/>Die Polizei kann wohl schädigendes Verhalten eindämmen
+              helfen,<lb facs="#facs_433_r35"/>unterbinden lässt es sich nicht. Die Annahme, die
+            Mehrzahl der Kra<lb break="no" facs="#facs_433_r36"/>wallschäden 1980/81 hätte durch
+            anderes Einsetzen der Ordnungskräfte<lb facs="#facs_433_r37"/>vermieden werden können,
+            kann nicht belegt werden. Erfahrungsge<lb break="no" facs="#facs_433_r38"/>mäss
+            entstanden Krawallschäden teils während - bewilligten oder unbe<lb break="no" facs="#facs_433_r39"/>willigten - Demonstrationen, teils im Anschluss an solche und
+            oft auch<lb facs="#facs_433_r40"/>mit starkem zeitlichem Verzug, oder aber sie
+            entstanden bei Störaktio<lb break="no" facs="#facs_433_r41"/>nen ohne eigentlichen
+            Demonstrationscharakter. Die Demonstrationen<lb facs="#facs_433_r42"/>waren vor allem
+            vom <date when="1980-05">Mai 1980</date> bis Frühsommer 1981 gekennzeichnet</p>
+				<pb n="1122" facs="#facs_434"/>
+				<p>
+					<lb facs="#facs_434_r1"/>durch teilweise hohe, in die Tausende gehende
+              Teilnehmerzahlen.<lb facs="#facs_434_r2"/>Davon stellten die auf Konfrontation und
+            letztlich Krawall abzielenden<lb facs="#facs_434_r3"/>Gruppen bis zu einigen Hundert,
+            oft auch viel weniger. Bei der überwie<lb break="no" facs="#facs_434_r4"/>genden Zahl
+            der Demonstranten handelte es sich um solche, die keine<lb facs="#facs_434_r5"/>Gewalt
+            suchten. Darunter fanden sich alle Schattierungen, vom potenti<lb break="no" facs="#facs_434_r6"/>ellen Gewalttäter, der sich im Verlaufe von Krawallen von anderen
+              zum<lb facs="#facs_434_r7"/>aktiven Mitmachen mitreissen lässt, über den Mitläufer,
+            der zwar passiv<lb facs="#facs_434_r8"/>bleibt, aber mit unverhohlener Sympathie die
+            unmittelbare Nähe der<lb facs="#facs_434_r9"/>Krawallanten sucht, bis zu dem, der Gewalt
+            ablehnt und entweder zu<lb facs="#facs_434_r10"/>Gewalttätigkeiten auf Distanz geht,
+            sich zu den Gaffern gesellt, das<lb facs="#facs_434_r11"/>Weite sucht oder gar im
+            Anfangsstadium Versuche unternimmt, andere<lb facs="#facs_434_r12"/>von
+            Gewalttätigkeiten abzuhalten. Zur Demonstrations- und Krawall<lb break="no" facs="#facs_434_r13"/>szene zu zählen sind aber auch die zahlreichen «Nur-Gaffer», die
+            sich oft<lb facs="#facs_434_r14"/>von Demonstranten kaum unterscheiden liessen, den
+              Gewalttätern<lb facs="#facs_434_r15"/>gewollt oder ungewollt Deckung und physischen
+            Schutz boten und im<lb facs="#facs_434_r16"/>übrigen die Polizeieinsätze allein durch
+            ihre Präsenz stark behinderten.</p>
+				<p>
+					<lb facs="#facs_434_r17"/>Die Erfahrung zeigt weiter, dass es nicht darauf ankam, ob
+              eine<lb facs="#facs_434_r18"/>Demonstration behördlich bewilligt worden war oder
+            nicht. Es gab<lb facs="#facs_434_r19"/>bewilligte Demonstrationen mit erheblichen
+            Sachschäden und unbewil<lb break="no" facs="#facs_434_r20"/>ligte, die keine oder keine
+            nennenswerten Schäden verursachten. Das<lb break="no" facs="#facs_434_r21"/>selbe gilt
+            für die gewaltsame polizeiliche Auflösung unbewilligter<lb facs="#facs_434_r22"/>Demonstrationen: Ob dadurch Schäden verhindert oder provoziert wür<lb break="no" facs="#facs_434_r23"/>den, war nie vorauszusehen; für beides gibt es Beispiele. Die in
+              der<lb facs="#facs_434_r24"/>letzten Phase der Unruhen erfolgreiche Taktik der
+            Polizei, die Besamm<lb break="no" facs="#facs_434_r25"/>lungsorte von angesagten
+            Demonstrationen im voraus mit sichtbar star<lb break="no" facs="#facs_434_r26"/>ken
+            Kräften zu besetzen und damit die Ansammlung und die Bildung<lb facs="#facs_434_r27"/>eines Demonstrationszuges im Keim zu ersticken, wurde erst möglich,<lb facs="#facs_434_r28"/>als die Zahl der Demonstrationsteilnehmer drastisch geringer
+              geworden<lb facs="#facs_434_r29"/>war</p>
+				<p>
+					<lb facs="#facs_434_r30"/>Die Krawallanten entwickelten schon sehr bald die bekannte
+              «Gue<lb break="no" facs="#facs_434_r31"/>rillataktik». Diese bestand darin, sich der
+            Konfrontation mit den Polizei<lb break="no" facs="#facs_434_r32"/>kräften gar nicht erst
+            zu stellen, sondern beim Eingreifen der Polizei zu<lb facs="#facs_434_r33"/>verschwinden
+            und dann in kleinen Gruppen geografisch stark gestreut<lb facs="#facs_434_r34"/>zu
+            randalieren, d.h. Schaufenster einzuwerfen, Geschäfte zu plündern,<lb facs="#facs_434_r35"/>Autos zu beschädigen, Brände zu legen, Barrikaden zu bauen.
+              Dabei<lb facs="#facs_434_r36"/>wurden Quartiere und Angriffsobjekte laufend und in
+            rascher Folge<lb facs="#facs_434_r37"/>gewechselt. Besonderer Beliebtheit erfreuten sich
+            enge Gassen, weil sie<lb facs="#facs_434_r38"/>den Fahrzeugeinsatz der Polizei
+            verhinderten. Aber auch dort, wo die<lb facs="#facs_434_r39"/>Polizei motorisiert
+            eingesetzt werden konnte, verstrich zwischen Scha<lb break="no" facs="#facs_434_r40"/>densverursachung, Meldung an die Polizei (sei es durch deren eigene<lb facs="#facs_434_r41"/>Beobachtungsorgane, sei es durch Dritte), Einsatzbefehl und
+              Eintreffen<lb facs="#facs_434_r42"/>der Polizeikräfte notgedrungen einige Zeit, die es
+            den in leichter Klei<lb break="no" facs="#facs_434_r43"/>dung, oft in Turnschuhen und
+            gelegentlich unter Zuhilfenahme von<lb facs="#facs_434_r44"/>Motorfahrrädern
+            operierenden Chaoten ermöglichte, nach einer rasch</p>
+				<pb n="1123" facs="#facs_435"/>
+				<p>
+					<lb facs="#facs_435_r1"/>durchgeführten Sachbeschädigung oder Plünderung rechtzeitig
+              die<lb facs="#facs_435_r2"/>Flucht zu ergreifen. Dabei lösten sich die
+            Krawallantengruppen oft auf,<lb facs="#facs_435_r3"/>vermischten sich mit Passanten oder
+            Gaffern und besammelten sich<lb facs="#facs_435_r4"/>später ausser Griffweite der
+            Polizei zu neuen Untaten. Moderne techni<lb break="no" facs="#facs_435_r5"/>sche Mittel,
+            so das Abhören oder zeitweilige Stören des Polizeifunks<lb facs="#facs_435_r6"/>sowie
+            die Aktivität von Schwarzsendern, unterstützten die Chaoten und<lb facs="#facs_435_r7"/>behinderten gleichermassen die Aktionen der Polizei.</p>
+				<p>
+					<lb facs="#facs_435_r8"/>Die Polizei hat unter Einsatz grosser Kräfte versucht, das
+              Krawallge<lb break="no" facs="#facs_435_r9"/>schehen zu bekämpfen. Sie hat ihre
+            taktischen Dispositionen und ihre<lb facs="#facs_435_r10"/>Ausrüstung laufend den
+            Veränderungen der Gewaltszene angepasst.<lb facs="#facs_435_r11"/>Angesichts des
+            Gesagten liegt es aber auf der Hand, dass viele Schäden<lb facs="#facs_435_r12"/>einfach
+            nicht zu verhindern waren und dass auch die nachträgliche<lb facs="#facs_435_r13"/>Eruierung von Schadensverursachern mit grössten Schwierigkeiten ver<lb break="no" facs="#facs_435_r14"/>bunden war. Die selbst im Extremfall verfügbaren polizeilichen
+              Kräfte<lb facs="#facs_435_r15"/>von Stadt- und Kantonspolizei Zürich genügen nicht, um
+            ein sehr<lb facs="#facs_435_r16"/>grosses Gebiet zu schützen, das von Wollishofen bis
+            zum Escher-Wyss-Platz und vom Bezirksgebäude bis zum Dolder reicht. In diesem Gebiet<lb facs="#facs_435_r17"/>ist die Zahl der potentiellen Schadensobjekte unabsehbar gross.
+              Auch<lb facs="#facs_435_r18"/>eine Polizei, die über weitaus mehr Kräfte verfügt als
+            die zürcherische,<lb facs="#facs_435_r19"/>wäre niemals in der Lage, alle diese Objekte
+            über lange Zeit hinweg so<lb facs="#facs_435_r20"/>unter Kontrolle zu halten, dass
+            Schäden verhindert oder Schadensverur<lb break="no" facs="#facs_435_r21"/>sacher mit
+            hoher Wahrscheinlichkeit erwischt werden könnten.</p>
+				<p>
+					<lb facs="#facs_435_r22"/>Hinzu kommt, dass Sachbeschädigungen von der
+              Fassadenschmiere<lb break="no" facs="#facs_435_r23"/>rei bis hin zu Brand- und
+            Sprengstoffanschlägen zahlenmässig generell<lb facs="#facs_435_r24"/>zunehmen. Bei
+            vielen solcher Einzeltaten, die sich 1980/81 ereigneten,<lb facs="#facs_435_r25"/>kann
+            nicht gesagt werden, ob sie in einen Zusammenhang mit der<lb facs="#facs_435_r26"/>sogenannten Unruheszene zu bringen oder der übrigen Kriminalität<lb facs="#facs_435_r27"/>zuzurechnen sind. Hier tritt aber noch deutlicher zutage, dass
+              die<lb facs="#facs_435_r28"/>gewollte Sicherung gegen Schädigungen unerreichbar ist.
+            Sie würde<lb facs="#facs_435_r29"/>letztlich eine perfekte polizeiliche
+            Sicherheitsgarantie fordern, die selbst<lb facs="#facs_435_r30"/>in totalitären Staaten
+            undenkbar ist.</p>
+				<p>
+					<lb facs="#facs_435_r31"/>Die gewünschte enge Normierung des Polizeiauftrags würde
+              nicht<lb facs="#facs_435_r32"/>nur die tatsächlichen Verhältnisse missachten, sondern
+            eine Reihe ande<lb break="no" facs="#facs_435_r33"/>rer nicht oder kaum lösbarer
+            Probleme stellen und unannehmbare<lb facs="#facs_435_r34"/>Folgen zeitigen:</p>
+				<p>
+					<lb facs="#facs_435_r35"/>1. Zunächst ist nicht ersichtlich, in welcher Weise
+              gesetzgebungs<lb break="no" facs="#facs_435_r36"/>technisch mehr festgelegt werden
+            könnte, als bereits gegeben ist. Der<lb facs="#facs_435_r37"/>polizeiliche Einsatz geht
+            von der Beschaffung von Informationen, die<lb facs="#facs_435_r38"/>allein schon grosse
+            Schwierigkeiten bereitet, der Beurteilung der Lage,<lb facs="#facs_435_r39"/>der
+            Bereitstellung usw. bis hin zur gefechtsähnlichen Auseinanderset<lb break="no" facs="#facs_435_r40"/>zung mit Volksmassen und Störergruppen; er kann alle diese
+              Elemente<lb facs="#facs_435_r41"/>umfassen, sich aber auch auf gewisse beschränken. Er
+            kann je nach den<lb facs="#facs_435_r42"/>Zeitverhältnissen einlässlich, nur kurzfristig
+            oder gar nicht vorbereitet<lb facs="#facs_435_r43"/>werden. Die Einsatzformen sind sehr
+            variabel und haben sich nach den</p>
+				<pb n="1124" facs="#facs_436"/>
+				<p>
+					<lb facs="#facs_436_r1"/>noch variableren tatsächlichen Verhältnissen zu richten.
+              Gesetzgeberi<lb break="no" facs="#facs_436_r2"/>sche Lösungen, die den bestehenden
+            Ermessens- und Handlungsspiel<lb break="no" facs="#facs_436_r3"/>raum in diesem Bereich
+            gemäss Motion ganz klar abgrenzen, müssten<lb facs="#facs_436_r4"/>wohl umschreiben,
+            wann, wie und bis zu welchem Ziel die Polizei<lb facs="#facs_436_r5"/>einzugreifen hat,
+            und festlegen, welche Situationen, Voraussetzungen<lb facs="#facs_436_r6"/>und
+            Bedingungen dieses Eingreifen auslösen. Ein solches Unterfangen<lb facs="#facs_436_r7"/>kann, selbst wenn man die Begrenztheit der personellen und materiellen<lb facs="#facs_436_r8"/>Mittel der Polizei unberücksichtigt lässt, nicht gelingen.</p>
+				<p>
+					<lb facs="#facs_436_r9"/>2. Ohne eine derartige Ausgestaltung des Polizeirechts in
+              Richtung<lb facs="#facs_436_r10"/>von vorgeschriebenen Musterabläufen des
+            polizeilichen Eingreifens<lb facs="#facs_436_r11"/>wäre es aber wiederum kaum möglich,
+            die Widerrechtlichkeit des Ver<lb break="no" facs="#facs_436_r12"/>haltens der Polizei
+            bei als ungenügend empfundenem Einsatz klar<lb facs="#facs_436_r13"/>festzuhalten.
+            Abgesehen von der Frage des Kausalzusammenhangs<lb facs="#facs_436_r14"/>bezüglich
+            entstandener Schäden würde die Hauptvoraussetzung der<lb facs="#facs_436_r15"/>Haftung
+            des Gemeinwesens, die Rechtswidrigkeit seines Tuns oder<lb facs="#facs_436_r16"/>Unterlassens, entgegen der Zielsetzung der Motion, aber im Sinne der<lb facs="#facs_436_r17"/>heutigen Ordnung erst wieder im Einzelfall nachgewiesen
+              werden<lb facs="#facs_436_r18"/>müssen.</p>
+				<p>
+					<lb facs="#facs_436_r19"/>Die gewünschte rechtliche Konstruktion zur Inanspruchnahme
+              der<lb facs="#facs_436_r20"/>Staatshaftung erweist sich auch in diesem Sinne als
+            untauglich. Das Ziel,<lb facs="#facs_436_r21"/>die öffentliche Hand zur Schadensdeckung
+            heranzuziehen, wäre prak<lb break="no" facs="#facs_436_r22"/>tisch nur durch
+            vorbehaltlose Anknüpfung an das Vorliegen eines<lb facs="#facs_436_r23"/>Schadens zu
+            erreichen. Dabei wäre allerdings nicht abzusehen, für<lb facs="#facs_436_r24"/>welche
+            Arten von Schäden überhaupt das Prinzip der bedingungslosen<lb facs="#facs_436_r25"/>Haftung der Öffentlichkeit zu gelten hätte, zeigen doch die bisherigen<lb facs="#facs_436_r26"/>Ausführungen, dass Abgrenzungen und die Zuordnung von Schäden
+              zu<lb facs="#facs_436_r27"/>bestimmten Geschehnissen von vornherein nur teilweise
+            möglich sind.</p>
+				<p>
+					<lb facs="#facs_436_r28"/>3. Wie bereits früher ausgeführt wurde, müssten der Motion
+              entspre<lb break="no" facs="#facs_436_r29"/>chende kantonale Rechtssätze fast
+            zwangsläufig in Widerspruch zur<lb facs="#facs_436_r30"/>übergeordneten Rechtsordnung
+            geraten. Spätestens bei deren Anwen<lb break="no" facs="#facs_436_r31"/>dung wären
+            jedenfalls Kollisionen, namentlich mit dem Verhältnismäs<lb break="no" facs="#facs_436_r32"/>sigkeitsprinzip, aber auch mit den Freiheitsrechten in Kauf zu
+            nehmen.</p>
+				<p>
+					<lb facs="#facs_436_r33"/>4. Im Kanton Zürich obliegen die sicherheitspolizeilichen
+              Aufgaben<lb facs="#facs_436_r34"/>primär den Gemeinden, die deshalb auch die
+            Schadensdeckung zu<lb facs="#facs_436_r35"/>übernehmen hätten. Das Ausmass, das eine
+            solche Belastung erreichen<lb facs="#facs_436_r36"/>kann, ist am Anfang dieses Berichts
+            angedeutet worden. Indessen geht<lb facs="#facs_436_r37"/>es nicht nur um diese Schäden
+            allein, sondern um Schäden bei gestörter<lb facs="#facs_436_r38"/>Ordnung gemeinhin, wie
+            sie sich überall und bei jedem Anlass, z. B.<lb facs="#facs_436_r39"/>durch Rowdytum bei
+            Fussballveranstaltungen, Rockkonzerten und der<lb break="no" facs="#facs_436_r40"/>gleichen, ergeben können.</p>
+				<p>
+					<lb facs="#facs_436_r41"/>Schliesslich ist nicht zu übersehen, dass die anvisierte
+            Auslösung der<lb facs="#facs_436_r42"/>Haftung des Gemeinwesens Aspekte aufweist, die
+            über den zur Diskus<lb break="no" facs="#facs_436_r43"/>sion stehenden Bereich
+            hinausgehen und Staat und Gemeinden erheb-</p>
+				<pb n="1125" facs="#facs_437"/>
+				<p>
+					<lb facs="#facs_437_r1"/>lich berühren. Wenn die Tatsache, dass die Polizei das
+            Entstehen von<lb facs="#facs_437_r2"/>Schäden nicht verhindern kann, einfach zur
+            Schadensdeckung durch die<lb facs="#facs_437_r3"/>öffentliche Hand führen soll, wird
+            eine neue Verantwortlichkeit des<lb facs="#facs_437_r4"/>Staates geschaffen. Er hätte in
+            einem Fall, wo die Aufgabenerfüllung<lb facs="#facs_437_r5"/>ohne jede Pflichtversäumnis
+            seiner Organe zwangsläufig unvollkommen<lb facs="#facs_437_r6"/>bleiben muss, doch für
+            allfällige Schäden einzutreten. Ein solches Prin<lb break="no" facs="#facs_437_r7"/>zip
+            könnte, wenn es für den Bereich der Polizei akzeptiert würde, bald<lb facs="#facs_437_r8"/>einmal auch in andern Gebieten staatlicher Tätigkeit angerufen
+              werden,<lb facs="#facs_437_r9"/>in denen eine perfekte Aufgabenerfüllung faktisch
+            nicht möglich ist.<lb facs="#facs_437_r10"/>Abgesehen von gewissen Sonderfällen galt
+            bisher, dass das Risiko<lb facs="#facs_437_r11"/>solcher Schäden vom Einzelnen zu tragen
+            ist, der dafür in vielen Fällen<lb facs="#facs_437_r12"/>eine Versicherung abschliessen
+            kann. Daran sollte nichts geändert wer<lb break="no" facs="#facs_437_r13"/>den. Eine
+            Tendenz, die letztlich eine Garantie des Staates an die Stelle<lb facs="#facs_437_r14"/>der privaten Versicherungen setzen würde, ist abzulehnen.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_437_r15"/>D. Schlussbemerkungen</head>
+				<p>
+					<lb facs="#facs_437_r16"/>Aus den bisherigen Ausführungen ergibt sich, dass das erste
+            Ziel der<lb facs="#facs_437_r17"/>Motion, die Schadensverhütung durch die Polizei mit
+              Bestimmungen<lb facs="#facs_437_r18"/>über ihren Einsatz zu erzwingen, von der Sache
+            her nicht erreicht<lb facs="#facs_437_r19"/>werden kann. Die daran anknüpfende Absicht,
+            mit der Konstruktion<lb facs="#facs_437_r20"/>einer Rechtswidrigkeit bei mangelndem
+            Erfolg der Polizei das Gemein<lb break="no" facs="#facs_437_r21"/>wesen zur
+            Schadensdeckung zu bringen, ist rechtlich nicht realisierbar<lb facs="#facs_437_r22"/>und hätte unannehmbare Konsequenzen. Im Ergebnis würde eine staat<lb break="no" facs="#facs_437_r23"/>liche Zahlungspflicht entstehen für Folgeschäden nicht etwa
+            eines staat<lb break="no" facs="#facs_437_r24"/>lichen Unrechts, sondern des staatlichen
+            Unvermögens, rechtswidriges<lb facs="#facs_437_r25"/>Verhalten seiner Bürger zu
+            verhindern. Es besteht kein zwingender<lb facs="#facs_437_r26"/>Grund, dem Gemeinwesen
+            diese neue Last zu überbinden, lässt sich<lb facs="#facs_437_r27"/>doch ein grosser Teil
+            der Risiken über private Versicherungen decken,<lb facs="#facs_437_r28"/>zumal die
+            entsprechenden Möglichkeiten seit dem <date when="1982-01-01">1. Januar 1982</date>
+              ausge<lb break="no" facs="#facs_437_r31"/>baut worden sind. In gewissem Masse ist auch
+            Deckung durch die<lb facs="#facs_437_r32"/>Gebäudeversicherung gegeben. Personenschäden
+            werden zudem noch<lb facs="#facs_437_r33"/>durch die vorhandenen Sozialversicherungen
+            erfasst.</p>
+				<p>
+					<lb facs="#facs_437_r34"/>Gestützt auf diesen Bericht beantragt der Regierungsrat, die
+              Motion<lb facs="#facs_437_r35"/>Nr. 2050 als erledigt abzuschreiben.</p>
+				<p>
+					<lb facs="#facs_437_r36"/>Zürich, den</p>
+				<p>
+					<date when="1982-09-01">1. 
+            September 1982</date></p>
+				<p>
+					<lb facs="#facs_437_r39"/>Im Namen des Regierungsrates</p>
+				<p>
+					<lb facs="#facs_437_r40"/>Der Staatsschreiber:<lb facs="#facs_437_r41"/>Roggwiller</p>
+				<p>
+					<lb facs="#facs_437_r42"/>Der Vizepräsident: Gisler</p>
+			</div>
+		</body></text></TEI>

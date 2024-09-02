@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Verfügung der Direktion des Innern über die
+          Anordnung von Ersatzwahlen in Bezirksbehörden (vom 18. Januar 1982)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-01-22">22.01.1982</date><ident>StAZH ABl 1982 (S. 60-61)</ident><idno>60–61</idno><idno type="issue">3</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132563"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_61" uly="0" ulx="0" lry="2402" lrx="1602">
+			<graphic url="Abl_1982_1__S__0061.tif" width="1602px" height="2402px"/>
+			<zone xml:id="facs_61_r5" ulx="291" uly="456" lrx="1460" lry="492" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r27" ulx="271" uly="1609" lrx="642" lry="1638" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r12" ulx="377" uly="706" lrx="1458" lry="741" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r7" ulx="596" uly="506" lrx="899" lry="535" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r32" ulx="330" uly="1928" lrx="1445" lry="1964" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r17" ulx="281" uly="971" lrx="432" lry="995" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r8" ulx="906" uly="508" lrx="1458" lry="540" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r9" ulx="285" uly="544" lrx="690" lry="576" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r1" ulx="293" uly="202" lrx="1031" lry="241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r30" ulx="274" uly="1751" lrx="765" lry="1780" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r11" ulx="287" uly="629" lrx="831" lry="657" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r26" ulx="275" uly="1484" lrx="869" lry="1516" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r31" ulx="267" uly="1874" lrx="698" lry="1903" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r2" ulx="289" uly="254" lrx="1460" lry="296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r25" ulx="333" uly="1440" lrx="1449" lry="1476" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r10" ulx="711" uly="552" lrx="976" lry="580" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r21" ulx="276" uly="1163" lrx="734" lry="1195" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r24" ulx="277" uly="1390" lrx="674" lry="1415" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r3" ulx="292" uly="335" lrx="365" lry="363" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r6" ulx="289" uly="502" lrx="575" lry="533" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r33" ulx="263" uly="1970" lrx="730" lry="2003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r19" ulx="279" uly="1071" lrx="1368" lry="1105" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r15" ulx="340" uly="884" lrx="1453" lry="918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r14" ulx="283" uly="831" lrx="635" lry="856" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r16" ulx="279" uly="927" lrx="1455" lry="963" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r13" ulx="280" uly="752" lrx="434" lry="774" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r18" ulx="340" uly="1025" lrx="1455" lry="1060" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r35" ulx="262" uly="2074" lrx="1001" lry="2102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r23" ulx="275" uly="1263" lrx="1316" lry="1299" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r20" ulx="340" uly="1119" lrx="1453" lry="1158" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r29" ulx="270" uly="1709" lrx="1443" lry="1744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r28" ulx="333" uly="1661" lrx="1445" lry="1699" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r34" ulx="331" uly="2028" lrx="1443" lry="2062" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r0" ulx="289" uly="118" lrx="329" lry="141" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r4" ulx="385" uly="333" lrx="667" lry="365" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_61_r22" ulx="340" uly="1219" lrx="1453" lry="1255" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_62" uly="0" ulx="0" lry="2399" lrx="1596">
+			<graphic url="Abl_1982_1__S__0062.tif" width="1596px" height="2399px"/>
+			<zone xml:id="facs_62_r10" ulx="131" uly="629" lrx="1295" lry="657" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r13" ulx="364" uly="719" lrx="585" lry="745" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r17" ulx="131" uly="850" lrx="1302" lry="879" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r2" ulx="131" uly="273" lrx="1287" lry="304" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r24" ulx="128" uly="1142" lrx="1298" lry="1171" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r26" ulx="132" uly="1229" lrx="1300" lry="1260" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r15" ulx="133" uly="764" lrx="1300" lry="792" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r27" ulx="133" uly="1275" lrx="1302" lry="1304" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r23" ulx="206" uly="1098" lrx="1298" lry="1127" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r8" ulx="137" uly="531" lrx="1121" lry="561" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r35" ulx="952" uly="1729" lrx="1120" lry="1753" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r7" ulx="135" uly="487" lrx="1304" lry="516" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r9" ulx="189" uly="583" lrx="1300" lry="615" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r21" ulx="889" uly="1019" lrx="1126" lry="1048" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r25" ulx="133" uly="1185" lrx="1300" lry="1215" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r30" ulx="131" uly="1406" lrx="1298" lry="1437" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r11" ulx="131" uly="673" lrx="1302" lry="702" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r5" ulx="133" uly="362" lrx="408" lry="389" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r12" ulx="131" uly="719" lrx="351" lry="746" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r20" ulx="133" uly="1017" lrx="875" lry="1047" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r19" ulx="193" uly="973" lrx="1302" lry="1002" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r3" ulx="135" uly="314" lrx="431" lry="345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r4" ulx="438" uly="316" lrx="1287" lry="348" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r16" ulx="133" uly="806" lrx="1300" lry="835" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r1" ulx="206" uly="229" lrx="1298" lry="259" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r29" ulx="129" uly="1363" lrx="1298" lry="1393" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r34" ulx="953" uly="1684" lrx="1298" lry="1710" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r32" ulx="127" uly="1586" lrx="322" lry="1613" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r28" ulx="126" uly="1319" lrx="1300" lry="1348" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r31" ulx="131" uly="1452" lrx="823" lry="1481" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r14" ulx="591" uly="716" lrx="1298" lry="744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r6" ulx="191" uly="441" lrx="1300" lry="472" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r22" ulx="1133" uly="1019" lrx="1220" lry="1046" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r0" ulx="1262" uly="152" lrx="1300" lry="172" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r33" ulx="335" uly="1586" lrx="600" lry="1612" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_62_r18" ulx="131" uly="896" lrx="1012" lry="923" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="60" facs="#facs_61"/>
+			<p>
+				<lb facs="#facs_61_r5"/>Gestützt auf § 32 des Gesetzes über die Wahlen und Abstimmungen<lb facs="#facs_61_r6"/>(Wahlgesetz) vom <date when="1955-12-04">4. Dezember 1955</date> und
+          § 13 der dazugehörigen Voll<lb break="no" facs="#facs_61_r9"/>ziehungsverordnung vom <date when="1956-01-23">23. Januar 1956</date></p>
+			<p>
+				<lb facs="#facs_61_r11"/>verfügt die Direktion des Innern:</p>
+			<p>
+				<lb facs="#facs_61_r12"/>I. Es sind folgende Ersatzwahlen in Bezirksbehörden vorzu<lb break="no" facs="#facs_61_r13"/>nehmen:</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_61_r14"/>a) Im Bezirk Zürich:</head>
+				<p>
+					<lb facs="#facs_61_r15"/>drei Bezirksanwälte für die zurückgetretenen Dr. Hans Frank,<lb facs="#facs_61_r16"/>Zürich, Dr. Peter Schneider, Erlenbach, und Dr. Hans
+              Schreiber,<lb facs="#facs_61_r17"/>Uerikon;</p>
+				<p>
+					<lb facs="#facs_61_r18"/>zwei Mitglieder des Bezirksgerichtes für die zurückgetrete<lb break="no" facs="#facs_61_r19"/>nen Dr. Peter Deuss, Zürich, und Dr. Alfred Ernst,
+            Pfaffhausen;</p>
+				<p>
+					<lb facs="#facs_61_r20"/>ein Mitglied der Bezirksschulpflege für die zurückgetretene<lb facs="#facs_61_r21"/>Michèle Odermatt, Zürich;</p>
+				<p>
+					<lb facs="#facs_61_r22"/>ein Mitglied der Bezirkskirchenpflege Zürich rechts der<lb facs="#facs_61_r23"/>Limmat für den verstorbenen Dr. Gustav Neukomm, Zürich.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_61_r24"/>b) Im Bezirk Affoltern:</head>
+				<p>
+					<lb facs="#facs_61_r25"/>ein Mitglied der Bezirksschulpflege für die verstorbene<lb facs="#facs_61_r26"/>Marie-Louise Grandjean, Stallikon.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_61_r27"/>c) Im Bezirk Horgen:</head>
+				<p>
+					<lb facs="#facs_61_r28"/>drei Mitglieder der Bezirkskirchenpflege für die zurückge<lb break="no" facs="#facs_61_r29"/>tretenen Werner Bäbler, Adliswil, Pfarrer Hans
+            Fischer, Zürich, und<lb facs="#facs_61_r30"/>Verena Schilling, Richterswil.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_61_r31"/>d) Im Bezirk Winterthur:</head>
+				<p>
+					<lb facs="#facs_61_r32"/>ein Mitglied des Bezirksrates für den zurückgetretenen Kurt<lb facs="#facs_61_r33"/>Lenggenhager, Winterthur;</p>
+				<p>
+					<lb facs="#facs_61_r34"/>ein Mitglied des Bezirksgerichtes für den zum Oberrichter<lb facs="#facs_61_r35"/>gewählten Dr. Dieter Bosshart, Winterthur.</p>
+				<pb n="61" facs="#facs_62"/>
+				<p>
+					<lb facs="#facs_62_r1"/>II. Die Durchführung dieser Ersatzwahlen erfolgt nach den Vor<lb break="no" facs="#facs_62_r2"/>schriften des Gesetzes über die Wahlen und Abstimmungen
+              vom<lb facs="#facs_62_r3"/><date when="1955-12-04">4. Dezember 1955</date> und der
+            dazugehörigen Vollziehungsverordnung vom<lb facs="#facs_62_r5"/><date when="1956-01-23">23. Januar 1956.</date></p>
+				<p>
+					<lb facs="#facs_62_r6"/>III. Sofern die in § 70 des Wahlgesetzes genannten
+              Voraussetzung<lb facs="#facs_62_r7"/>gen erfüllt sind, können die Vorgeschlagenen ohne
+            Durchführung eines<lb facs="#facs_62_r8"/>Wahlganges als gewählt erklärt werden (§ 71a,
+            Stille Wahl).</p>
+				<p>
+					<lb facs="#facs_62_r9"/>Wahlvorschläge, die von mindestens 15 Stimmberechtigten mit
+              poli<lb break="no" facs="#facs_62_r10"/>tischem Wohnsitz im betreffenden Bezirk
+            unterzeichnet sein müssen,<lb facs="#facs_62_r11"/>sind der Direktion des Innern, Kaspar
+            Escher-Haus, 8090 Zürich, bis<lb facs="#facs_62_r12"/>spätestens am <date when="1982-03-05">5. März 1982</date> einzureichen. Die Unterzeichner der Wahl<lb break="no" facs="#facs_62_r15"/>vorschläge haben mit Namen und Vornamen zu
+            unterzeichnen und ihr<lb facs="#facs_62_r16"/>Geburtsjahr sowie ihre Adresse (Ort,
+            Strasse, Hausnummer) anzuge<lb break="no" facs="#facs_62_r17"/>ben. Die vorgeschlagenen
+            Kandidaten müssen mit Namen und Vorna<lb break="no" facs="#facs_62_r18"/>men, Beruf und
+            genauer Adresse bezeichnet werden.</p>
+				<p>
+					<lb facs="#facs_62_r19"/>IV. Kommt eine Stille Wahl nicht zustande (§§ 71a und 70 des<lb facs="#facs_62_r20"/>Wahlgesetzes), findet der erste Wahlgang am <date when="1982-04-25">25. April 1982</date> statt.</p>
+				<p>
+					<lb facs="#facs_62_r23"/>V. Veröffentlichung im Amtsblatt, Textteil, und Mitteilung
+              in<lb facs="#facs_62_r24"/>besonderen Abzügen an die Präsidenten der Stadt- und
+              Gemeinderäte<lb facs="#facs_62_r25"/>der Bezirke Zürich, Affoltern, Horgen und
+            Winterthur, den Bezirksrat<lb facs="#facs_62_r26"/>Winterthur, die Bezirksanwaltschaft
+            Zürich, die Staatsanwaltschaft, die<lb facs="#facs_62_r27"/>Bezirksschulpflegen Zürich
+            und Affoltern, die Kirchenratskanzlei<lb facs="#facs_62_r28"/>zuhanden des Kirchenrates
+            und der Bezirkskirchenpflegen Zürich rechts<lb facs="#facs_62_r29"/>der Limmat und
+            Horgen, die Bezirksgerichte Zürich und Winterthur,<lb facs="#facs_62_r30"/>die
+            Verwaltungskommission des Obergerichtes sowie an die Direktio<lb break="no" facs="#facs_62_r31"/>nen der Justiz und des Erziehungswesens.</p>
+				<p>
+					<lb facs="#facs_62_r32"/>Zürich, den <date when="1982-01-18">18. Januar 1982</date></p>
+				<p>
+					<lb facs="#facs_62_r34"/>Direktion des Innern<lb facs="#facs_62_r35"/>Bachmann</p>
+			</div>
+		</body></text></TEI>

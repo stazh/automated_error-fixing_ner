@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-03-15">15.03.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Verordnung über die Begrenzung der Zahl
+            der erwerbstätigen Ausländer im Kanton Zürich (vom 17. Dezember 1980)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-01-23">23.01.1981</date><ident>StAZH ABl 1981 (S. 132-138)</ident><idno>132–138</idno><idno type="issue">3</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132151"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_133" uly="0" ulx="0" lry="2369" lrx="1609">
+			<graphic url="Abl_1981_1__S__0133.tif" width="1609px" height="2369px"/>
+			<zone xml:id="facs_133_r34" ulx="368" uly="1900" lrx="1479" lry="1936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r6" ulx="285" uly="627" lrx="585" lry="652" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r21" ulx="298" uly="1300" lrx="1208" lry="1339" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r5" ulx="373" uly="468" lrx="705" lry="499" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r14" ulx="345" uly="1025" lrx="1465" lry="1061" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r36" ulx="308" uly="2002" lrx="832" lry="2033" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r26" ulx="295" uly="1535" lrx="1474" lry="1575" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r10" ulx="287" uly="831" lrx="464" lry="855" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r22" ulx="356" uly="1352" lrx="1472" lry="1391" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r39" ulx="310" uly="2139" lrx="867" lry="2175" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r23" ulx="295" uly="1395" lrx="1473" lry="1434" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r16" ulx="52" uly="1112" lrx="267" lry="1136" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r33" ulx="308" uly="1866" lrx="516" lry="1892" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r20" ulx="295" uly="1254" lrx="1471" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r3" ulx="277" uly="387" lrx="862" lry="427" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r38" ulx="308" uly="2089" lrx="1485" lry="2126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r9" ulx="954" uly="735" lrx="1244" lry="766" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r12" ulx="52" uly="1052" lrx="233" lry="1072" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r13" ulx="49" uly="1083" lrx="168" lry="1101" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r35" ulx="308" uly="1946" lrx="1483" lry="1984" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r7" ulx="284" uly="687" lrx="1461" lry="728" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r17" ulx="345" uly="1120" lrx="1464" lry="1159" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r24" ulx="296" uly="1441" lrx="1466" lry="1478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r1" ulx="276" uly="285" lrx="519" lry="316" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r4" ulx="277" uly="477" lrx="353" lry="504" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r29" ulx="62" uly="1741" lrx="227" lry="1765" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r30" ulx="358" uly="1716" lrx="1475" lry="1753" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r28" ulx="358" uly="1641" lrx="1343" lry="1674" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r32" ulx="306" uly="1806" lrx="1475" lry="1843" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r18" ulx="298" uly="1166" lrx="1467" lry="1204" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r27" ulx="300" uly="1598" lrx="634" lry="1624" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r31" ulx="306" uly="1760" lrx="1477" lry="1800" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r19" ulx="293" uly="1212" lrx="1466" lry="1248" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r11" ulx="285" uly="958" lrx="784" lry="986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r2" ulx="275" uly="331" lrx="1246" lry="370" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r15" ulx="289" uly="1077" lrx="796" lry="1109" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r37" ulx="364" uly="2046" lrx="1479" lry="2082" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r25" ulx="356" uly="1493" lrx="1474" lry="1532" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r8" ulx="283" uly="741" lrx="935" lry="774" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r0" ulx="275" uly="208" lrx="329" lry="230" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_134" uly="0" ulx="0" lry="2368" lrx="1601">
+			<graphic url="Abl_1981_1__S__0134.tif" width="1601px" height="2368px"/>
+			<zone xml:id="facs_134_r15" ulx="214" uly="781" lrx="1134" lry="814" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r7" ulx="160" uly="402" lrx="1324" lry="431" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r0" ulx="1271" uly="187" lrx="1323" lry="210" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r4" ulx="214" uly="266" lrx="1323" lry="297" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r34" ulx="208" uly="1667" lrx="1321" lry="1698" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r31" ulx="213" uly="1536" lrx="1325" lry="1567" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r27" ulx="210" uly="1344" lrx="1323" lry="1371" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r10" ulx="208" uly="546" lrx="1319" lry="574" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r3" ulx="1346" uly="337" lrx="1463" lry="357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r44" ulx="204" uly="2134" lrx="436" lry="2159" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r18" ulx="212" uly="925" lrx="1309" lry="955" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r33" ulx="210" uly="1625" lrx="1321" lry="1654" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r37" ulx="208" uly="1821" lrx="1323" lry="1848" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r12" ulx="156" uly="637" lrx="675" lry="664" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r13" ulx="215" uly="685" lrx="1181" lry="715" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r42" ulx="206" uly="2042" lrx="1317" lry="2069" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r41" ulx="210" uly="1994" lrx="1304" lry="2024" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r6" ulx="156" uly="356" lrx="1318" lry="387" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r29" ulx="210" uly="1431" lrx="905" lry="1460" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r14" ulx="1352" uly="783" lrx="1538" lry="803" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r30" ulx="154" uly="1490" lrx="1307" lry="1521" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r32" ulx="210" uly="1580" lrx="1317" lry="1611" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r2" ulx="1348" uly="308" lrx="1495" lry="328" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r5" ulx="154" uly="314" lrx="1322" lry="344" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r40" ulx="208" uly="1953" lrx="1317" lry="1979" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r43" ulx="206" uly="2086" lrx="1315" lry="2114" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r35" ulx="207" uly="1713" lrx="1269" lry="1744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r8" ulx="154" uly="450" lrx="1317" lry="477" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r26" ulx="212" uly="1298" lrx="1321" lry="1326" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r39" ulx="208" uly="1909" lrx="1317" lry="1937" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r25" ulx="213" uly="1254" lrx="1321" lry="1283" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r11" ulx="155" uly="587" lrx="1322" lry="618" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r24" ulx="210" uly="1209" lrx="1323" lry="1238" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r1" ulx="1346" uly="271" lrx="1435" lry="297" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r9" ulx="157" uly="496" lrx="262" lry="518" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r16" ulx="160" uly="835" lrx="1321" lry="865" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r36" ulx="154" uly="1773" lrx="1319" lry="1804" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r17" ulx="210" uly="881" lrx="1321" lry="909" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r20" ulx="214" uly="1013" lrx="508" lry="1039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r19" ulx="210" uly="969" lrx="1318" lry="997" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r21" ulx="158" uly="1077" lrx="1325" lry="1105" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r23" ulx="212" uly="1167" lrx="1317" lry="1195" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r28" ulx="212" uly="1388" lrx="1321" lry="1416" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r22" ulx="212" uly="1123" lrx="1319" lry="1150" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r38" ulx="206" uly="1863" lrx="1317" lry="1893" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_135" uly="0" ulx="0" lry="2368" lrx="1607">
+			<graphic url="Abl_1981_1__S__0135.tif" width="1607px" height="2368px"/>
+			<zone xml:id="facs_135_r4" ulx="41" uly="458" lrx="237" lry="478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r25" ulx="285" uly="1275" lrx="1125" lry="1305" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r2" ulx="279" uly="321" lrx="1455" lry="350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r5" ulx="41" uly="489" lrx="145" lry="511" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r27" ulx="1400" uly="1327" lrx="1454" lry="1349" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r0" ulx="278" uly="193" lrx="334" lry="216" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r30" ulx="285" uly="1438" lrx="723" lry="1463" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r51" ulx="1386" uly="2036" lrx="1465" lry="2062" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r11" ulx="285" uly="783" lrx="654" lry="812" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r36" ulx="289" uly="1603" lrx="708" lry="1634" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r21" ulx="1419" uly="1148" lrx="1454" lry="1169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r8" ulx="281" uly="529" lrx="1452" lry="561" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r34" ulx="341" uly="1513" lrx="1459" lry="1543" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r40" ulx="1404" uly="1709" lrx="1459" lry="1730" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r14" ulx="281" uly="908" lrx="1253" lry="938" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r16" ulx="285" uly="1046" lrx="742" lry="1076" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r53" ulx="348" uly="2136" lrx="767" lry="2169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r54" ulx="1446" uly="2136" lrx="1467" lry="2157" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r32" ulx="47" uly="1527" lrx="118" lry="1544" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r13" ulx="337" uly="862" lrx="1455" lry="892" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r9" ulx="283" uly="583" lrx="750" lry="609" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r22" ulx="45" uly="1240" lrx="206" lry="1261" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r37" ulx="289" uly="1659" lrx="443" lry="1684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r20" ulx="281" uly="1152" lrx="894" lry="1182" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r47" ulx="293" uly="1940" lrx="1147" lry="1970" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r28" ulx="283" uly="1382" lrx="644" lry="1411" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r23" ulx="43" uly="1271" lrx="191" lry="1291" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r35" ulx="287" uly="1557" lrx="1461" lry="1589" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r3" ulx="278" uly="364" lrx="1010" lry="393" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r31" ulx="1421" uly="1434" lrx="1454" lry="1453" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r44" ulx="47" uly="1886" lrx="200" lry="1904" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r48" ulx="1423" uly="1938" lrx="1461" lry="1961" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r10" ulx="281" uly="704" lrx="706" lry="732" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r18" ulx="285" uly="1098" lrx="1190" lry="1126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r50" ulx="345" uly="2038" lrx="767" lry="2069" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r39" ulx="289" uly="1711" lrx="650" lry="1739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r41" ulx="285" uly="1767" lrx="725" lry="1793" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r15" ulx="1156" uly="988" lrx="1459" lry="1016" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r1" ulx="337" uly="275" lrx="1457" lry="304" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r26" ulx="283" uly="1329" lrx="437" lry="1355" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r49" ulx="289" uly="1992" lrx="1284" lry="2022" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r43" ulx="50" uly="1855" lrx="150" lry="1873" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r24" ulx="339" uly="1229" lrx="1459" lry="1259" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r42" ulx="1425" uly="1763" lrx="1459" lry="1784" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r29" ulx="1399" uly="1381" lrx="1460" lry="1406" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r12" ulx="43" uly="875" lrx="177" lry="895" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r7" ulx="283" uly="487" lrx="1457" lry="517" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r38" ulx="1404" uly="1657" lrx="1456" lry="1676" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r45" ulx="343" uly="1840" lrx="1463" lry="1873" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r46" ulx="289" uly="1892" lrx="800" lry="1918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r33" ulx="43" uly="1561" lrx="202" lry="1578" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r17" ulx="1397" uly="1044" lrx="1456" lry="1065" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r52" ulx="287" uly="2092" lrx="1084" lry="2121" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r19" ulx="1398" uly="1096" lrx="1454" lry="1119" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r6" ulx="337" uly="446" lrx="1457" lry="474" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_136" uly="0" ulx="0" lry="2370" lrx="1602">
+			<graphic url="Abl_1981_1__S__0136.tif" width="1602px" height="2370px"/>
+			<zone xml:id="facs_136_r1" ulx="150" uly="260" lrx="527" lry="287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r18" ulx="143" uly="994" lrx="521" lry="1023" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r19" ulx="200" uly="1048" lrx="1309" lry="1080" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r20" ulx="140" uly="1090" lrx="1309" lry="1122" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r11" ulx="145" uly="598" lrx="1301" lry="634" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r9" ulx="1340" uly="606" lrx="1537" lry="626" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r41" ulx="137" uly="1934" lrx="1305" lry="1969" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r25" ulx="1332" uly="1415" lrx="1460" lry="1436" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r8" ulx="1339" uly="569" lrx="1483" lry="594" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r40" ulx="184" uly="1880" lrx="963" lry="1913" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r24" ulx="1332" uly="1384" lrx="1483" lry="1405" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r45" ulx="189" uly="2121" lrx="354" lry="2148" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r3" ulx="1341" uly="393" lrx="1497" lry="415" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r13" ulx="150" uly="789" lrx="415" lry="816" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r38" ulx="1331" uly="1894" lrx="1428" lry="1911" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r17" ulx="145" uly="948" lrx="1312" lry="982" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r14" ulx="1337" uly="873" lrx="1477" lry="897" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r5" ulx="148" uly="383" lrx="1316" lry="420" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r43" ulx="133" uly="2034" lrx="1301" lry="2068" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r30" ulx="138" uly="1471" lrx="934" lry="1504" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r42" ulx="189" uly="1982" lrx="308" lry="2006" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r6" ulx="151" uly="429" lrx="1314" lry="464" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r4" ulx="204" uly="341" lrx="1322" lry="375" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r32" ulx="197" uly="1569" lrx="1305" lry="1603" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r10" ulx="206" uly="552" lrx="1320" lry="588" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r39" ulx="1326" uly="1928" lrx="1453" lry="1947" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r2" ulx="1339" uly="356" lrx="1483" lry="380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r16" ulx="142" uly="902" lrx="1309" lry="937" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r26" ulx="1330" uly="1442" lrx="1468" lry="1466" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r22" ulx="140" uly="1259" lrx="508" lry="1285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r44" ulx="191" uly="2071" lrx="1300" lry="2108" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r27" ulx="196" uly="1340" lrx="1303" lry="1372" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r31" ulx="143" uly="1525" lrx="1303" lry="1559" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r37" ulx="188" uly="1800" lrx="684" lry="1830" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r29" ulx="139" uly="1427" lrx="1314" lry="1461" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r7" ulx="150" uly="475" lrx="920" lry="506" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r0" ulx="1269" uly="185" lrx="1318" lry="206" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r34" ulx="191" uly="1661" lrx="1293" lry="1693" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r36" ulx="137" uly="1755" lrx="1299" lry="1788" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r35" ulx="193" uly="1705" lrx="709" lry="1734" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r21" ulx="141" uly="1138" lrx="1086" lry="1169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r33" ulx="193" uly="1617" lrx="1303" lry="1649" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r28" ulx="141" uly="1386" lrx="1303" lry="1417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r15" ulx="206" uly="860" lrx="1320" lry="894" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r23" ulx="1332" uly="1350" lrx="1529" lry="1376" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r12" ulx="146" uly="706" lrx="577" lry="737" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_137" uly="0" ulx="0" lry="2368" lrx="1606">
+			<graphic url="Abl_1981_1__S__0137.tif" width="1606px" height="2368px"/>
+			<zone xml:id="facs_137_r38" ulx="64" uly="2024" lrx="269" lry="2043" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r20" ulx="350" uly="1146" lrx="1467" lry="1180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r40" ulx="64" uly="2088" lrx="139" lry="2105" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r17" ulx="348" uly="963" lrx="640" lry="988" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r35" ulx="360" uly="1857" lrx="524" lry="1882" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r33" ulx="359" uly="1748" lrx="1478" lry="1785" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r3" ulx="47" uly="446" lrx="221" lry="464" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r19" ulx="298" uly="1060" lrx="1468" lry="1124" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r39" ulx="63" uly="2055" lrx="244" lry="2075" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r34" ulx="358" uly="1794" lrx="1478" lry="1830" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r31" ulx="354" uly="1709" lrx="1477" lry="1740" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r11" ulx="287" uly="681" lrx="406" lry="705" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r43" ulx="306" uly="2028" lrx="1480" lry="2062" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r29" ulx="298" uly="1571" lrx="1477" lry="1631" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r37" ulx="66" uly="1990" lrx="223" lry="2009" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r44" ulx="308" uly="2072" lrx="1484" lry="2105" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r13" ulx="347" uly="779" lrx="481" lry="802" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r21" ulx="348" uly="1192" lrx="1466" lry="1227" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r42" ulx="308" uly="1982" lrx="1482" lry="2019" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r36" ulx="62" uly="1959" lrx="231" lry="1979" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r1" ulx="281" uly="266" lrx="1380" lry="321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r30" ulx="358" uly="1659" lrx="896" lry="1690" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r4" ulx="342" uly="389" lrx="1460" lry="425" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r26" ulx="298" uly="1423" lrx="1470" lry="1459" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r7" ulx="289" uly="531" lrx="1186" lry="562" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r16" ulx="350" uly="910" lrx="1467" lry="942" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r2" ulx="52" uly="414" lrx="106" lry="431" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r45" ulx="312" uly="2113" lrx="1480" lry="2149" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r0" ulx="281" uly="183" lrx="335" lry="206" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r23" ulx="354" uly="1281" lrx="1467" lry="1315" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r27" ulx="360" uly="1467" lrx="1473" lry="1500" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r22" ulx="354" uly="1238" lrx="1470" lry="1272" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r25" ulx="354" uly="1373" lrx="1042" lry="1404" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r15" ulx="350" uly="865" lrx="1466" lry="899" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r8" ulx="50" uly="639" lrx="168" lry="661" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r24" ulx="352" uly="1325" lrx="1468" lry="1361" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r18" ulx="298" uly="1008" lrx="1466" lry="1040" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r9" ulx="49" uly="671" lrx="219" lry="691" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r41" ulx="365" uly="1940" lrx="1478" lry="1973" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r28" ulx="357" uly="1521" lrx="625" lry="1548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r5" ulx="287" uly="439" lrx="1458" lry="472" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r10" ulx="346" uly="623" lrx="1466" lry="658" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r6" ulx="287" uly="481" lrx="1460" lry="516" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r12" ulx="289" uly="721" lrx="1460" lry="756" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r32" ulx="298" uly="1728" lrx="327" lry="1750" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r14" ulx="289" uly="819" lrx="1462" lry="853" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_138" uly="0" ulx="0" lry="2369" lrx="1605">
+			<graphic url="Abl_1981_1__S__0138.tif" width="1605px" height="2369px"/>
+			<zone xml:id="facs_138_r10" ulx="133" uly="614" lrx="917" lry="644" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r28" ulx="187" uly="1291" lrx="1298" lry="1321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r33" ulx="125" uly="1518" lrx="821" lry="1549" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r39" ulx="1323" uly="1846" lrx="1484" lry="1871" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r37" ulx="125" uly="1698" lrx="1298" lry="1730" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r19" ulx="127" uly="1058" lrx="612" lry="1086" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r42" ulx="125" uly="1887" lrx="739" lry="1915" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r30" ulx="1325" uly="1435" lrx="1503" lry="1463" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r4" ulx="1321" uly="433" lrx="1400" lry="454" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r47" ulx="122" uly="2116" lrx="1000" lry="2149" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r44" ulx="181" uly="1987" lrx="1304" lry="2014" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r12" ulx="1321" uly="839" lrx="1463" lry="865" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r24" ulx="1325" uly="1185" lrx="1471" lry="1206" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r46" ulx="125" uly="2073" lrx="1296" lry="2104" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r11" ulx="129" uly="758" lrx="502" lry="783" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r9" ulx="131" uly="572" lrx="1294" lry="599" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r3" ulx="1319" uly="397" lrx="1479" lry="451" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r25" ulx="183" uly="1148" lrx="1307" lry="1179" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r41" ulx="177" uly="1841" lrx="1303" lry="1872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r45" ulx="125" uly="2029" lrx="1296" lry="2060" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r34" ulx="1323" uly="1614" lrx="1470" lry="1641" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r22" ulx="1321" uly="1152" lrx="1482" lry="1177" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r31" ulx="183" uly="1429" lrx="1294" lry="1461" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r2" ulx="133" uly="302" lrx="831" lry="331" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r17" ulx="1329" uly="1052" lrx="1431" lry="1070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r38" ulx="126" uly="1750" lrx="258" lry="1772" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r20" ulx="635" uly="1060" lrx="760" lry="1087" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r16" ulx="1323" uly="1016" lrx="1542" lry="1040" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r13" ulx="183" uly="835" lrx="1306" lry="865" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r43" ulx="1325" uly="1987" lrx="1417" lry="2014" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r5" ulx="185" uly="393" lrx="1296" lry="424" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r8" ulx="131" uly="525" lrx="1303" lry="556" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r21" ulx="769" uly="1060" lrx="1148" lry="1087" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r32" ulx="131" uly="1475" lrx="1294" lry="1506" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r15" ulx="131" uly="929" lrx="557" lry="953" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r27" ulx="131" uly="1237" lrx="783" lry="1267" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r35" ulx="181" uly="1610" lrx="1300" lry="1641" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r36" ulx="124" uly="1656" lrx="1296" lry="1687" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r40" ulx="1327" uly="1879" lrx="1520" lry="1899" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r26" ulx="127" uly="1193" lrx="1304" lry="1224" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r18" ulx="185" uly="1014" lrx="1304" lry="1042" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r0" ulx="1250" uly="177" lrx="1294" lry="199" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r1" ulx="135" uly="256" lrx="1300" lry="285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r6" ulx="130" uly="437" lrx="1306" lry="467" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r7" ulx="132" uly="481" lrx="1300" lry="510" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r14" ulx="133" uly="881" lrx="1294" lry="910" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r29" ulx="128" uly="1337" lrx="758" lry="1365" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_139" uly="0" ulx="0" lry="2368" lrx="1610">
+			<graphic url="Abl_1981_1__S__0139.tif" width="1610px" height="2368px"/>
+			<zone xml:id="facs_139_r19" ulx="1257" uly="931" lrx="1476" lry="960" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r11" ulx="296" uly="662" lrx="1472" lry="692" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r26" ulx="297" uly="1108" lrx="412" lry="1133" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r7" ulx="361" uly="508" lrx="1476" lry="538" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r8" ulx="302" uly="556" lrx="1405" lry="583" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r0" ulx="298" uly="179" lrx="350" lry="200" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r24" ulx="1186" uly="1017" lrx="1475" lry="1047" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r6" ulx="302" uly="458" lrx="802" lry="484" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r40" ulx="302" uly="1871" lrx="785" lry="1901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r33" ulx="1136" uly="1354" lrx="1320" lry="1381" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r45" ulx="358" uly="2076" lrx="1482" lry="2105" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r37" ulx="300" uly="1730" lrx="375" lry="1758" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r21" ulx="379" uly="973" lrx="1459" lry="1003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r14" ulx="356" uly="775" lrx="1470" lry="803" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r43" ulx="299" uly="2007" lrx="446" lry="2035" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r10" ulx="356" uly="619" lrx="1474" lry="648" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r27" ulx="300" uly="1192" lrx="494" lry="1220" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r4" ulx="299" uly="366" lrx="1476" lry="396" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r25" ulx="300" uly="1063" lrx="1470" lry="1092" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r1" ulx="298" uly="258" lrx="852" lry="288" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r34" ulx="304" uly="1548" lrx="544" lry="1578" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r12" ulx="300" uly="708" lrx="788" lry="737" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r9" ulx="60" uly="621" lrx="223" lry="645" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r36" ulx="301" uly="1648" lrx="531" lry="1684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r17" ulx="55" uly="938" lrx="223" lry="957" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r46" ulx="298" uly="2119" lrx="1258" lry="2151" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r42" ulx="1280" uly="1963" lrx="1480" lry="1994" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r32" ulx="1138" uly="1307" lrx="1478" lry="1335" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r30" ulx="792" uly="1309" lrx="1036" lry="1335" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r41" ulx="362" uly="1959" lrx="1267" lry="1994" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r5" ulx="299" uly="410" lrx="1475" lry="441" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r38" ulx="394" uly="1728" lrx="732" lry="1757" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r39" ulx="304" uly="1815" lrx="1115" lry="1846" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r18" ulx="356" uly="927" lrx="1240" lry="958" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r44" ulx="451" uly="2009" lrx="855" lry="2037" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r20" ulx="302" uly="975" lrx="373" lry="1001" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r16" ulx="300" uly="867" lrx="1413" lry="895" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r13" ulx="56" uly="787" lrx="163" lry="807" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r22" ulx="300" uly="1015" lrx="533" lry="1044" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r15" ulx="298" uly="817" lrx="1470" lry="849" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r31" ulx="794" uly="1357" lrx="898" lry="1379" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r28" ulx="506" uly="1194" lrx="821" lry="1221" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r29" ulx="794" uly="1254" lrx="1315" lry="1283" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r35" ulx="299" uly="1596" lrx="909" lry="1632" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r23" ulx="540" uly="1017" lrx="1167" lry="1048" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r2" ulx="60" uly="327" lrx="258" lry="349" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_139_r3" ulx="358" uly="321" lrx="1461" lry="352" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="132" facs="#facs_133"/>
+			<p>
+				<lb facs="#facs_133_r6"/>Der Regierungsrat</p>
+			<p>
+				<lb facs="#facs_133_r7"/>gestützt auf die Verordnung des Bundesrates über die Begrenzung
+              der<lb facs="#facs_133_r8"/>Zahl der erwerbstätigen Ausländer vom <date when="1980-10-22">22. Oktober 1980</date></p>
+			<p>
+				<lb facs="#facs_133_r10"/>beschliesst:</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_133_r11"/>I. Allgemeine Bestimmungen</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_133_r12"/>Arbeitsmarkt<lb break="no" facs="#facs_133_r13"/>behörden</add>
+				</p>
+				<p>
+					<lb facs="#facs_133_r14"/>§ 1. Arbeitsmarktbehörde ist das kantonale Amt für
+                Industrie,<lb facs="#facs_133_r15"/>Gewerbe und Arbeit (KIGA).</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_133_r16"/>a) Zuständigkeit</add>
+				</p>
+				<p>
+					<lb facs="#facs_133_r17"/>Seine Obliegenheiten werden im Gebiet der Städte Zürich
+                und<lb facs="#facs_133_r18"/>Winterthur durch die entsprechenden städtischen
+              Arbeitsämter erfüllt.<lb facs="#facs_133_r19"/>Vorbehalten bleibt die Begutachtung von
+              Gesuchen um Ausnahmebe<lb break="no" facs="#facs_133_r20"/>willigungen in jenen
+              Bereichen, in denen nur einheitliche Kontingente<lb facs="#facs_133_r21"/>für den
+              ganzen Kanton bestehen (§ 6 Ziffern 2 und 3).</p>
+				<p>
+					<lb facs="#facs_133_r22"/>Zuständig ist das Amt, in dessen Gebiet der Arbeitgeber den
+                gröss<lb break="no" facs="#facs_133_r23"/>ten Teil seiner Arbeitskräfte beschäftigt.
+              Jeder Arbeitgeber wird mit<lb facs="#facs_133_r24"/>allen Betriebsstellen oder
+              Niederlassungen demselben Amt unterstellt.</p>
+				<p>
+					<lb facs="#facs_133_r25"/>Für Betriebe mit nicht standortgebundenem Schwerpunkt des
+                Perso<lb break="no" facs="#facs_133_r26"/>naleinsatzes ist dasjenige Amt zuständig,
+              in dessen Gebiet sich der<lb facs="#facs_133_r27"/>Firmensitz befindet.</p>
+				<p>
+					<lb facs="#facs_133_r28"/>In Zweifelsfällen entscheidet die
+              Volkswirtschaftsdirektion.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_133_r29"/>b) Aufgaben</add>
+				</p>
+				<p>
+					<lb facs="#facs_133_r30"/>§ 2. Die Arbeitsmarktbehörden begutachten zuhanden der
+                kanto<lb break="no" facs="#facs_133_r31"/>nalen Fremdenpolizei die Gesuche, die sich
+              auf erwerbstätige Ausländer<lb facs="#facs_133_r32"/>beziehen. Sie sind befugt, zur
+              beratenden Mitwirkung Sachverständige<lb facs="#facs_133_r33"/>beizuziehen.</p>
+				<p>
+					<lb facs="#facs_133_r34"/>Vorbehältlich besonderer bundesrechtlicher Bestimmungen sind
+                die<lb facs="#facs_133_r35"/>Entscheide und gutachtlichen Anträge der
+              Arbeitsmarktbehörden für<lb facs="#facs_133_r36"/>die Fremdenpolizei verbindlich.</p>
+				<p>
+					<lb facs="#facs_133_r37"/>Die Arbeitsmarktbehörden können für einzelne Gruppen von<lb facs="#facs_133_r38"/>arbeitsmarktlich unbedeutenden Gesuchen generelle Gutachten
+                zuhan<lb break="no" facs="#facs_133_r39"/>den der Fremdenpolizei abgeben.</p>
+				<pb n="133" facs="#facs_134"/>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_134_r1"/>Volks<lb break="no" facs="#facs_134_r2"/>wirtschafts<lb break="no" facs="#facs_134_r3"/>direktion</add>
+				</p>
+				<p>
+					<lb facs="#facs_134_r4"/>§ 3. Die Volkswirtschaftsdirektion überwacht den Vollzug.
+                Sie<lb facs="#facs_134_r5"/>kann Weisungen erlassen, insbesondere über die
+              Abgrenzung zwischen<lb facs="#facs_134_r6"/>den für die Kontingente massgebenden
+              Erwerbsbereichen, den Saison<lb break="no" facs="#facs_134_r7"/>charakter von
+              Betrieben, das Verfahren, den Beizug von Sachverständi<lb break="no" facs="#facs_134_r8"/>gen durch die Arbeitsmarktbehörden und über die Führung von
+                Stati<lb break="no" facs="#facs_134_r9"/>stiken.</p>
+				<p>
+					<lb facs="#facs_134_r10"/>Sie setzt die Branchen- und Branchenteilkontingente für
+                Saisonar<lb break="no" facs="#facs_134_r11"/>beitskräfte fest. Sie kann diese
+              Kontingente unvorhergesehenen zwin<lb break="no" facs="#facs_134_r12"/>genden
+              Bedürfnissen anpassen.</p>
+				<p>
+					<lb facs="#facs_134_r13"/>Sie entscheidet über den Einsatz von
+              Kontingentsreserven.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_134_r14"/>Kommissionen</add>
+				</p>
+				<p>
+					<lb facs="#facs_134_r15"/>§ 4. Der Regierungsrat wählt folgende Kommissionen:</p>
+				<p>
+					<lb facs="#facs_134_r16"/>1. Eine Fachkommission, welche zur beratenden Mitwirkung bei
+                der<lb facs="#facs_134_r17"/>arbeitsmarktlichen Begutachtung von Rekursen betreffend
+                Auslän<lb break="no" facs="#facs_134_r18"/>derbewilligungen beigezogen werden kann.
+              Sie besteht aus einem<lb facs="#facs_134_r19"/>Vertreter der Volkswirtschaftsdirektion
+              als Vorsitzendem und acht<lb facs="#facs_134_r20"/>Sachverständigen.</p>
+				<p>
+					<lb facs="#facs_134_r21"/>2. Eine Zuteilungskommission für das Gesundheits- und
+                Fürsorgewe<lb break="no" facs="#facs_134_r22"/>sen, welche dem KIGA Antrag stellt
+              über die arbeitsmarktliche<lb facs="#facs_134_r23"/>Begutachtung der Gesuche um
+              Ausnahmebewilligungen zu Lasten<lb facs="#facs_134_r24"/>des entsprechenden
+              Kontingentes. Sie besteht aus einem Vertreter<lb facs="#facs_134_r25"/>der
+              Gesundheitsdirektion als Vorsitzendem und je einem Vertreter<lb facs="#facs_134_r26"/>des Gesundheits- und Wirtschaftsamtes der Stadt Zürich, des Ver<lb break="no" facs="#facs_134_r27"/>eins Zürcher Krankenhäuser, der Sektion Zürich des Vereins
+                für<lb facs="#facs_134_r28"/>schweizerisches Heimwesen, der privaten
+              Krankenanstalten, der<lb facs="#facs_134_r29"/>Medizinalberufe sowie der
+              Arbeitnehmer.</p>
+				<p>
+					<lb facs="#facs_134_r30"/>3. Eine Zuteilungskommission für das Bildungswesen, welche
+                dem<lb facs="#facs_134_r31"/>KIGA Antrag stellt über die arbeitsmarktliche
+              Begutachtung der<lb facs="#facs_134_r32"/>Gesuche um Ausnahmebewilligungen zu Lasten
+              des entsprechenden<lb facs="#facs_134_r33"/>Kontingentes. Sie besteht aus einem
+              Vertreter der Erziehungsdirek<lb break="no" facs="#facs_134_r34"/>tion als
+              Vorsitzendem und je einem Vertreter des Sozialamtes der<lb facs="#facs_134_r35"/>Stadt
+              Zürich (Belange der Jugendheime) und der Privatschulen.</p>
+				<p>
+					<lb facs="#facs_134_r36"/>4. Eine Spezialkommission, welche zur beratenden Mitwirkung
+              bei der<lb facs="#facs_134_r37"/>Festsetzung und Änderung der Branchenkontingente für
+                Saisonar<lb break="no" facs="#facs_134_r38"/>beitskräfte sowie bei der Regelung von
+              damit zusammenhängenden<lb facs="#facs_134_r39"/>allgemeinen Fragen beigezogen wird.
+              Sie besteht aus einem Vertre<lb break="no" facs="#facs_134_r40"/>ter der
+              Volkswirtschaftsdirektion als Vorsitzendem, je einem Vertre<lb break="no" facs="#facs_134_r41"/>ter der Arbeitsämter Zürich und Winterthur und aus zwölf nach
+                dem<lb facs="#facs_134_r42"/>Grundsatz der Parität bestimmten Vertretern der von der
+                Saisonar<lb break="no" facs="#facs_134_r43"/>beiterregelung besonders betroffenen
+              Arbeitgeber- und Arbeitneh<lb break="no" facs="#facs_134_r44"/>merverbände.</p>
+				<pb n="134" facs="#facs_135"/>
+				<p>
+					<lb facs="#facs_135_r1"/>Die Kommissionen können für die Behandlung von einzelnen
+                Gesu<lb break="no" facs="#facs_135_r2"/>chen aus bestimmten Betriebs- oder
+              Berufsgruppen aussenstehende<lb facs="#facs_135_r3"/>Fachleute mit beratender Stimme
+              beiziehen.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_135_r4"/>Begutachtungs<lb break="no" facs="#facs_135_r5"/>tätigkeit</add>
+				</p>
+				<p>
+					<lb facs="#facs_135_r6"/>§ 5. Können dem Bundesrecht keine Regeln über die
+                arbeitsmarkt<lb break="no" facs="#facs_135_r7"/>liche Gutachtertätigkeit entnommen
+              werden, begutachten die Arbeits<lb break="no" facs="#facs_135_r8"/>marktbehörden die
+              Gesuche unter Berücksichtigung der öffentlichen<lb facs="#facs_135_r9"/>und der
+              privaten Interessen.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_135_r10"/>II. Kontingentsaufteilung</head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_135_r11"/>A. Jahresaufenthalter</head>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_135_r12"/>Grundsatz</add>
+					</p>
+					<p>
+						<lb facs="#facs_135_r13"/>§ 6. Das kantonale Kontingent für die Erteilung von
+                  Ausnahmebe<lb break="no" facs="#facs_135_r14"/>willigungen an Jahresaufenthalter
+                wird wie folgt aufgeteilt:</p>
+					<table>
+						<row>
+							<cell/>
+							<cell>
+								<lb facs="#facs_135_r15"/>Kontingentsplätze</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_135_r16"/>1. Allgemeines Kontingent</cell>
+							<cell>
+								<lb facs="#facs_135_r17"/>509</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_135_r18"/>2. Kontingent für das Gesundheits- und
+                    Fürsorgewesen</cell>
+							<cell>
+								<lb facs="#facs_135_r19"/>616</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_135_r20"/>3. Kontingent für das Bildungswesen</cell>
+							<cell>
+								<lb facs="#facs_135_r21"/>40</cell>
+						</row>
+					</table>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_135_r22"/>Allgemeines<lb facs="#facs_135_r23"/>Kontingent</add>
+					</p>
+					<p>
+						<lb facs="#facs_135_r24"/>§ 7. Das Allgemeine Kontingent wird wie folgt auf die
+                  drei<lb facs="#facs_135_r25"/>Arbeitsmarktregionen aufgeteilt
+                (Teilkontingente):</p>
+					<table>
+						<row>
+							<cell>
+								<lb facs="#facs_135_r26"/>1. KIGA</cell>
+							<cell>
+								<lb facs="#facs_135_r27"/>259</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_135_r28"/>2. Arbeitsamt Zürich</cell>
+							<cell>
+								<lb facs="#facs_135_r29"/>204</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_135_r30"/>3. Arbeitsamt Winterthur</cell>
+							<cell>
+								<lb facs="#facs_135_r31"/>46</cell>
+						</row>
+					</table>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_135_r32"/>Kurz<lb break="no" facs="#facs_135_r33"/>aufenthalter</add>
+					</p>
+					<p>
+						<lb facs="#facs_135_r34"/>§ 8. Das kantonale Kontingent für die Erteilung von
+                  Ausnahmebe<lb break="no" facs="#facs_135_r35"/>willigungen an Kurzaufenthalter
+                wird wie folgt auf die drei Arbeits<lb break="no" facs="#facs_135_r36"/>marktregionen aufgeteilt:</p>
+					<table>
+						<row>
+							<cell>
+								<lb facs="#facs_135_r37"/>1. KIGA</cell>
+							<cell>
+								<lb facs="#facs_135_r38"/>207</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_135_r39"/>2. Arbeitsamt Zürich</cell>
+							<cell>
+								<lb facs="#facs_135_r40"/>207</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_135_r41"/>3. Arbeitsamt Winterthur</cell>
+							<cell>
+								<lb facs="#facs_135_r42"/>79</cell>
+						</row>
+					</table>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_135_r43"/>Sonder<lb break="no" facs="#facs_135_r44"/>kontingente</add>
+					</p>
+					<p>
+						<lb facs="#facs_135_r45"/>§ 9. Aus den Teilkontingenten gemäss § 7 werden folgende
+                  Son<lb break="no" facs="#facs_135_r46"/>derkontingente ausgeschieden:</p>
+					<table>
+						<row>
+							<cell>
+								<lb facs="#facs_135_r47"/>1. Beim Teilkontingent KIGA für die
+                    Urproduktion</cell>
+							<cell>
+								<lb facs="#facs_135_r48"/>55</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_135_r49"/>2. Bei den Teilkontingenten KIGA und Arbeitsamt
+                      Zürich<lb facs="#facs_135_r50"/>für den privaten Haushalt</cell>
+							<cell>
+								<lb facs="#facs_135_r51"/>je 12</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_135_r52"/>3. Beim Teilkontingent Arbeitsamt Winterthur<lb facs="#facs_135_r53"/>für den privaten Haushalt</cell>
+							<cell>
+								<lb facs="#facs_135_r54"/>2</cell>
+						</row>
+					</table>
+				</div>
+				<pb n="135" facs="#facs_136"/>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_136_r1"/>B. Saisonarbeitskräfte</head>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_136_r2"/>Branchen<lb break="no" facs="#facs_136_r3"/>kontingente</add>
+					</p>
+					<p>
+						<lb facs="#facs_136_r4"/>§ 10. Das kantonale Jahreskontingent für die Einreisen von
+                  Saison<lb break="no" facs="#facs_136_r5"/>arbeitskräften wird nach Ausscheidung
+                einer kleinen Reserve auf die<lb facs="#facs_136_r6"/>vier Wirtschaftsgruppen
+                Urproduktion, Baugewerbe, Gastgewerbe und<lb facs="#facs_136_r7"/>übrige Betriebe
+                mit Saisoncharakter aufgeteilt.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_136_r8"/>Branchen<lb break="no" facs="#facs_136_r9"/>teilkontingente</add>
+					</p>
+					<p>
+						<lb facs="#facs_136_r10"/>§ 11. Die Branchenkontingente werden in Anlehnung an die
+                  Ver<lb break="no" facs="#facs_136_r11"/>hältnisse im Jahre 1980 je auf die drei
+                Arbeitsmarktregionen aufgeteilt.</p>
+				</div>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_136_r12"/>III. Bewilligungserteilung</head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_136_r13"/>A. Allgemeines</head>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_136_r14"/>Grundsatz</add>
+					</p>
+					<p>
+						<lb facs="#facs_136_r15"/>§ 12. Bei der Begutachtung der Gesuche sorgen die
+                  Arbeitsmarkt<lb break="no" facs="#facs_136_r16"/>behörden dafür, dass die
+                Kontingente, Teilkontingente, Branchenteil<lb break="no" facs="#facs_136_r17"/>kontingente und Sonderkontingente für die vorausbestimmte Kontin<lb break="no" facs="#facs_136_r18"/>gentsdauer ausreichen.</p>
+					<p>
+						<lb facs="#facs_136_r19"/>In diesem Rahmen ist vorbehältlich der nachstehenden
+                  Bestimmun<lb break="no" facs="#facs_136_r20"/>gen der Entscheid im Einzelfall nach
+                Ermessen zu treffen unter Abwä<lb break="no" facs="#facs_136_r21"/>gung der
+                öffentlichen gegenüber den privaten Interessen.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_136_r22"/>B. Jahresaufenthalter</head>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_136_r23"/>1. Allgemeines<lb facs="#facs_136_r24"/>Kontingent</add>
+					</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_136_r25"/>a) private<lb facs="#facs_136_r26"/>Haushalte</add>
+					</p>
+					<p>
+						<lb facs="#facs_136_r27"/>§ 13. Gesuche um Bewilligung des Stellenantritts im
+                  privaten<lb facs="#facs_136_r28"/>Haushalt zur ausschliesslichen Besorgung der
+                Haushaltarbeiten können<lb facs="#facs_136_r29"/>im Rahmen der Sonderkontingente
+                bewilligt werden, sofern der Haus<lb break="no" facs="#facs_136_r30"/>halt nicht
+                ohne Hilfe geführt werden kann, weil</p>
+					<p>
+						<lb facs="#facs_136_r31"/>1. die Hausfrau fehlt oder dauernd voll invalid ist, weil
+                sie wegen<lb facs="#facs_136_r32"/>Fehlens oder dauernder Vollinvalidität des
+                Ehemannes zur Existenz<lb break="no" facs="#facs_136_r33"/>sicherung der Familie
+                einer ausserhäuslichen Erwerbstätigkeit nach<lb break="no" facs="#facs_136_r34"/>gehen muss oder weil sie in einer Stellung von hervorragendem<lb facs="#facs_136_r35"/>öffentlichem Interesse tätig ist;</p>
+					<p>
+						<lb facs="#facs_136_r36"/>2. anderweitige schwerwiegende wirtschaftliche, soziale
+                oder medizini<lb break="no" facs="#facs_136_r37"/>sche Gründe vorhanden sind.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_136_r38"/>Voraus<lb break="no" facs="#facs_136_r39"/>setzungen</add>
+					</p>
+					<p>
+						<lb facs="#facs_136_r40"/>§ 14. Eine Bewilligung wird nur erteilt, wenn</p>
+					<p>
+						<lb facs="#facs_136_r41"/>1. der Umfang des Haushaltes der Anzahl seiner Mitglieder
+                  angemes<lb break="no" facs="#facs_136_r42"/>sen ist,</p>
+					<p>
+						<lb facs="#facs_136_r43"/>2. glaubhaft gemacht wird, dass der angestrebte Erfolg
+                nicht auch mit<lb facs="#facs_136_r44"/>Teilzeitarbeit (Spettfrau u. ä.) wenigstens
+                teilweise erreicht werden<lb facs="#facs_136_r45"/>kann, und</p>
+					<pb n="136" facs="#facs_137"/>
+					<p>
+						<lb facs="#facs_137_r1"/>3. der Gesuchsteller dem einheimischen Arbeitsmarkt eine
+                Haushalthilfe zu finden.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_137_r2"/>Ein<lb break="no" facs="#facs_137_r3"/>schränkungen</add>
+					</p>
+					<p>
+						<lb facs="#facs_137_r4"/>§ 15. Für Privathaushalte, in denen bereits Personal
+                beschäftigt ist,<lb facs="#facs_137_r5"/>werden keine Ausnahmebewilligungen erteilt.
+                Ausnahmen können<lb facs="#facs_137_r6"/>gemacht werden, wenn ein Familienmitglied
+                voll invalid ist und deshalb<lb facs="#facs_137_r7"/>im Haushalt eine Pflegekraft
+                beschäftigt werden muss.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_137_r8"/>b) übrige<lb facs="#facs_137_r9"/>Erwerbsarten</add>
+					</p>
+					<p>
+						<lb facs="#facs_137_r10"/>§ 16. In den übrigen Erwerbsarten können Bewilligungen
+                  erteilt<lb facs="#facs_137_r11"/>werden</p>
+					<p>
+						<lb facs="#facs_137_r12"/>a) zur Erhaltung von handwerklichen und gastgewerblichen
+                  Kleinbe<lb break="no" facs="#facs_137_r13"/>trieben;</p>
+					<p>
+						<lb facs="#facs_137_r14"/>b) zur Errichtung oder Erhaltung von Betrieben, die für
+                die Sicherstel<lb break="no" facs="#facs_137_r15"/>lung des elementaren
+                Lebensbedarfs der Bevölkerung notwendig<lb facs="#facs_137_r16"/>sind oder an denen
+                ein anderweitiges hervorragendes öffentliches<lb facs="#facs_137_r17"/>Interesse
+                besteht;</p>
+					<p>
+						<lb facs="#facs_137_r18"/>c) im Interesse einer zu fördernden regionalen
+                Wirtschaftsentwicklung;</p>
+					<p>
+						<lb facs="#facs_137_r19"/>d) zur Einstellung von Arbeitskräften zwecks
+                Aufrechterhaltung gehender Schichtarbeit oder für ausgeprägte Schmutz- oder
+                  Schwer<lb break="no" facs="#facs_137_r20"/>arbeit in Betriebsarten und -zweigen,
+                welche eine unerlässliche Stufe<lb facs="#facs_137_r21"/>in Fertigungsketten für
+                volkswirtschaftlich wertvolle Güter darstel<lb break="no" facs="#facs_137_r22"/>len,
+                sofern der Arbeitgeber trotz fortschrittlichen technischen Ein<lb break="no" facs="#facs_137_r23"/>richtungen und ebensolchen sozialen Anstellungsbedingungen
+                  derar<lb break="no" facs="#facs_137_r24"/>tige Arbeitskräfte im Inland nicht in
+                einem Mass findet, das für die<lb facs="#facs_137_r25"/>Beibehaltung der
+                Endproduktion genügt;</p>
+					<p>
+						<lb facs="#facs_137_r26"/>e) für Führungskräfte oder qualifizierte Fachleute, welche
+                für den<lb facs="#facs_137_r27"/>Betrieb unerlässlich und im Inland nicht in
+                genügender Anzahl<lb facs="#facs_137_r28"/>vorhanden sind;</p>
+					<p>
+						<lb facs="#facs_137_r29"/>f) wenn die Ablehnung des Gesuches cher Verhältnisse des
+                Arbeitgebers oder des Ausländers eine unzu<lb break="no" facs="#facs_137_r30"/>mutbare Härte bedeuten würde;</p>
+					<p>
+						<lb facs="#facs_137_r31"/>sofern einzelne der für die vorstehenden
+                  Ausnahmetatbestände<lb facs="#facs_137_r32"/>g.<lb facs="#facs_137_r33"/>massgeblichen Gesichtspunkte so zusammentreffen, dass sie in glei<lb break="no" facs="#facs_137_r34"/>cher Weise wie ein Ausnahmetatbestand selber für die
+                  Bewilligung<lb facs="#facs_137_r35"/>sprechen.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_137_r36"/>2. Besondere<lb facs="#facs_137_r37"/>Kontingente</add>
+					</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_137_r38"/>a) Gesundheits<lb break="no" facs="#facs_137_r39"/>und
+                    Fürsorge<lb break="no" facs="#facs_137_r40"/>wesen</add>
+					</p>
+					<p>
+						<lb facs="#facs_137_r41"/>§ 17. Das Kontingent für das Gesundheits- und
+                Fürsorgewesen ist<lb facs="#facs_137_r42"/>für die Gruppen Krankenhäuser für
+                Akutkranke, Krankenhäuser für<lb facs="#facs_137_r43"/>Chronischkranke, Altersheime
+                und Invalidenheime, Praxen und<lb facs="#facs_137_r44"/>Betriebe der Medizinalberufe
+                und -hilfsberufe in Anlehnung an die<lb facs="#facs_137_r45"/>Verhältnisse des
+                Vorjahres zu verwenden. Dabei ist der Bedarf an</p>
+					<pb n="137" facs="#facs_138"/>
+					<p>
+						<lb facs="#facs_138_r1"/>ausländischen Arbeitskräften für bevorstehende
+                Neueröffnungen oder<lb facs="#facs_138_r2"/>Betriebserweiterungen zu
+                berücksichtigen.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_138_r3"/>b) Bildungs-1<lb facs="#facs_138_r4"/>wesen</add>
+					</p>
+					<p>
+						<lb facs="#facs_138_r5"/>§ 18. Das Kontingent für das Bildungswesen ist für die
+                  Gruppen<lb facs="#facs_138_r6"/>Volksschule und Kindergärten, öffentliche
+                Mittelschulen und Berufs<lb break="no" facs="#facs_138_r7"/>schulen, Universität mit
+                Instituten, Heime, Privatschulen in Anlehnung<lb facs="#facs_138_r8"/>an die
+                Verhältnisse des Vorjahres zu verwenden. Dabei ist der Bedarf<lb facs="#facs_138_r9"/>an ausländischen Arbeitskräften für bevorstehende Neueröffnungen<lb facs="#facs_138_r10"/>oder Betriebserweiterungen zu berücksichtigen.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_138_r11"/>C. Saisonarbeitskräfte</head>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_138_r12"/>Grundsatz</add>
+					</p>
+					<p>
+						<lb facs="#facs_138_r13"/>§ 19. Die Branchenteilkontingente dürfen nur für Betriebe
+                  ver<lb break="no" facs="#facs_138_r14"/>wendet werden, denen aufgrund der
+                Ausführungsvorschriften Saison<lb break="no" facs="#facs_138_r15"/>charakter
+                zuerkannt wird.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_138_r16"/>Landwirtschafts<lb break="no" facs="#facs_138_r17"/>betriebe</add>
+					</p>
+					<p>
+						<lb facs="#facs_138_r18"/>§ 20. Reine Landwirtschaftsbetriebe gelten in der Regel
+                als Saison<lb break="no" facs="#facs_138_r19"/>betriebe mit Saisondauer vom <date when="--03-01">1. März</date> bis zum 30. November.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_138_r22"/>Betriebliche<lb facs="#facs_138_r24"/>Höchstzahl</add>
+					</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_138_r24"/>Höchstzahl</add>
+					</p>
+					<p>
+						<lb facs="#facs_138_r25"/>§ 21. Für jeden Betrieb wird eine Höchstzahl
+                  Einreisebewilligun<lb break="no" facs="#facs_138_r26"/>gen (Saisonarbeiterquote)
+                festgelegt, gegebenenfalls in Verbindung mit<lb facs="#facs_138_r27"/>der
+                Zuerkennung des Saisoncharakters.</p>
+					<p>
+						<lb facs="#facs_138_r28"/>Der Betrieb kann Gesuche um Einreisebewilligungen im
+                  Rahmen<lb facs="#facs_138_r29"/>seiner Saisonarbeiterquote einreichen.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_138_r30"/>Zuständigkeit</add>
+					</p>
+					<p>
+						<lb facs="#facs_138_r31"/>§ 22. Die Arbeitsmarktbehörden legen die
+                  Saisonarbeiterquoten<lb facs="#facs_138_r32"/>fest, im engeren Baugewerbe unter
+                Beizug von paritätischen Kommis<lb break="no" facs="#facs_138_r33"/>sionen jährlich
+                auf Beginn der Bausaison.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_138_r34"/>Bedeutung</add>
+					</p>
+					<p>
+						<lb facs="#facs_138_r35"/>§ 23. Die Saisonarbeiterquote vermittelt keinen Anspruch
+                  des<lb facs="#facs_138_r36"/>Betriebes auf eine entsprechende Anzahl von
+                Einreisebewilligungen pro<lb facs="#facs_138_r37"/>Saison; die Quote kann jederzeit
+                geänderten Verhältnissen angepasst<lb facs="#facs_138_r38"/>werden.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_138_r39"/>Behandlung<lb facs="#facs_138_r40"/>neuer Betriebe</add>
+					</p>
+					<p>
+						<lb facs="#facs_138_r41"/>§ 24. Neuen Betrieben werden in der Regel im
+                  Gründungsjahr<lb facs="#facs_138_r42"/>keine Saisonarbeiterquoten zugeteilt.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_138_r43"/>Verfall</add>
+					</p>
+					<p>
+						<lb facs="#facs_138_r44"/>§ 25. Die Arbeitsmarktbehörden können über
+                  Saisonarbeiterquo<lb break="no" facs="#facs_138_r45"/>ten verfügen, soweit die
+                zugeteilten Einreisebewilligungen nicht späte<lb break="no" facs="#facs_138_r46"/>stens zwei Monate nach Saisonbeginn oder nach Erteilung der Bewilli<lb break="no" facs="#facs_138_r47"/>gung durch gemeldete Arbeitskräfte ausgenützt sind.</p>
+				</div>
+			</div>
+			<pb n="138" facs="#facs_139"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_139_r1"/>IV. Verschiedene Bestimmungen</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_139_r2"/>Gesuchstellung</add>
+				</p>
+				<p>
+					<lb facs="#facs_139_r3"/>§ 26. Ausnahmegesuche für Jahresaufenthalter sowie Gesuche
+                um<lb facs="#facs_139_r4"/>Festsetzung der Saisonarbeiterquote oder um Anerkennung
+              als Saison<lb break="no" facs="#facs_139_r5"/>betrieb sind der zuständigen
+              Arbeitsmarktbehörde schriftlich auf beson<lb break="no" facs="#facs_139_r6"/>derem
+              Formular einzureichen.</p>
+				<p>
+					<lb facs="#facs_139_r7"/>Auf Gesuche wird erst eingetreten, wenn alle von der
+                Arbeitsmarkt<lb break="no" facs="#facs_139_r8"/>behörde angeforderten Auskünfte und
+              Belege lückenlos vorliegen.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_139_r9"/>Meldepflicht</add>
+				</p>
+				<p>
+					<lb facs="#facs_139_r10"/>§ 27. Die Arbeitsmarktbehörden können die Arbeitgeber ver<lb break="no" facs="#facs_139_r11"/>pflichten, die Arbeitsaufnahme durch
+              Saisonarbeitskräfte spätestens<lb facs="#facs_139_r12"/>innert fünf Tagen zu
+              melden.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_139_r13"/>Statistik</add>
+				</p>
+				<p>
+					<lb facs="#facs_139_r14"/>§ 28. Die Arbeitsmarktbehörden übermitteln der
+                Volkswirtschafts<lb break="no" facs="#facs_139_r15"/>direktion periodisch die zur
+              Überwachung des Vollzuges dieser Verord<lb break="no" facs="#facs_139_r16"/>nung
+              benötigten Akten. Sie erstellen die erforderlichen Statistiken.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_139_r17"/>Inkrafttreten</add>
+				</p>
+				<p>
+					<lb facs="#facs_139_r18"/>§ 29. Diese Verordnung tritt rückwirkend auf den <date when="1980-11-01">1. November<lb facs="#facs_139_r20"/>1980</date> in Kraft. Auf den
+              gleichen Zeitpunkt wird die Verordnung I vom<lb facs="#facs_139_r22"/><date when="1980-01-04">4. Januar 1980</date> zur Verordnung des Bundesrates vom <date when="1979-10-17">17. Oktober 1979</date><lb facs="#facs_139_r25"/>über die
+              Begrenzung der Zahl der erwerbstätigen Ausländer aufge<lb break="no" facs="#facs_139_r26"/>hoben.</p>
+				<p>
+					<lb facs="#facs_139_r27"/>Zürich, den <date when="1980-12-17">17. Dezember
+              1980</date></p>
+				<p>
+					<lb facs="#facs_139_r29"/>Im Namen des Regierungsrates</p>
+				<p>
+					<lb facs="#facs_139_r30"/>Der Präsident:<lb facs="#facs_139_r31"/>Stucki</p>
+				<p>
+					<lb facs="#facs_139_r32"/>Der Staatsschreiber:<lb facs="#facs_139_r33"/>Roggwiller</p>
+			</div>
+		</body></text></TEI>

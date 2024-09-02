@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Taxordnung für die Tierärzte (Änderung) (vom 4. Juni 1980)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-06-27">27.06.1980</date><ident>StAZH ABl 1980 (S. 707-710)</ident><idno>707–710</idno><idno type="issue">48</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131892"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_708" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0708.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_708_r7" ulx="120" uly="710" lrx="613" lry="744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r13" ulx="1302" uly="1062" lrx="1370" lry="1086" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r1" ulx="411" uly="250" lrx="1112" lry="293" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r17" ulx="141" uly="1243" lrx="923" lry="1276" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r12" ulx="208" uly="1060" lrx="531" lry="1088" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r8" ulx="683" uly="818" lrx="844" lry="848" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r6" ulx="1064" uly="660" lrx="1398" lry="691" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r21" ulx="1304" uly="1362" lrx="1375" lry="1387" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r22" ulx="141" uly="1431" lrx="722" lry="1462" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r4" ulx="687" uly="433" lrx="943" lry="468" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r38" ulx="208" uly="2243" lrx="1006" lry="2273" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r32" ulx="116" uly="1820" lrx="1402" lry="1853" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r29" ulx="1108" uly="1695" lrx="1162" lry="1726" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r15" ulx="210" uly="1179" lrx="334" lry="1205" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r27" ulx="143" uly="1645" lrx="962" lry="1676" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r14" ulx="137" uly="1125" lrx="902" lry="1157" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r0" ulx="1332" uly="156" lrx="1393" lry="181" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r16" ulx="1102" uly="1177" lrx="1377" lry="1203" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r24" ulx="208" uly="1531" lrx="976" lry="1560" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r30" ulx="1322" uly="1695" lrx="1393" lry="1721" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r3" ulx="579" uly="437" lrx="669" lry="471" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r20" ulx="141" uly="1362" lrx="854" lry="1393" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r19" ulx="1300" uly="1297" lrx="1372" lry="1321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r36" ulx="206" uly="2172" lrx="989" lry="2205" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r9" ulx="565" uly="904" lrx="943" lry="936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r25" ulx="206" uly="1579" lrx="917" lry="1610" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r37" ulx="1208" uly="2183" lrx="1259" lry="2204" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r10" ulx="1208" uly="956" lrx="1258" lry="977" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r5" ulx="204" uly="662" lrx="1031" lry="693" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r35" ulx="139" uly="2108" lrx="567" lry="2137" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r33" ulx="118" uly="1870" lrx="600" lry="1901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r40" ulx="1125" uly="2291" lrx="1375" lry="2318" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r31" ulx="204" uly="1770" lrx="1395" lry="1804" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r39" ulx="208" uly="2293" lrx="993" lry="2324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r26" ulx="1301" uly="1579" lrx="1375" lry="1603" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r23" ulx="212" uly="1481" lrx="679" lry="1509" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r11" ulx="145" uly="1006" lrx="954" lry="1041" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r28" ulx="204" uly="1691" lrx="1097" lry="1726" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r34" ulx="570" uly="2016" lrx="945" lry="2046" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r18" ulx="208" uly="1295" lrx="756" lry="1323" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_708_r2" ulx="622" uly="318" lrx="895" lry="359" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_709" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0709.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_709_r57" ulx="431" uly="2185" lrx="868" lry="2216" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r41" ulx="430" uly="1585" lrx="922" lry="1616" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r22" ulx="1543" uly="910" lrx="1600" lry="937" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r39" ulx="1328" uly="1420" lrx="1604" lry="1450" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r43" ulx="428" uly="1635" lrx="1270" lry="1667" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r16" ulx="1545" uly="762" lrx="1602" lry="790" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r10" ulx="427" uly="581" lrx="872" lry="614" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r27" ulx="1350" uly="1129" lrx="1602" lry="1154" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r23" ulx="429" uly="960" lrx="559" lry="985" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r15" ulx="431" uly="760" lrx="1002" lry="789" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r7" ulx="1354" uly="491" lrx="1627" lry="521" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r45" ulx="1354" uly="1691" lrx="1404" lry="1716" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r36" ulx="427" uly="1362" lrx="977" lry="1398" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r2" ulx="428" uly="304" lrx="1150" lry="339" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r19" ulx="433" uly="858" lrx="841" lry="887" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r30" ulx="1332" uly="1222" lrx="1479" lry="1256" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r6" ulx="427" uly="485" lrx="1206" lry="520" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r59" ulx="493" uly="2287" lrx="729" lry="2315" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r5" ulx="433" uly="427" lrx="1000" lry="459" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r0" ulx="345" uly="158" lrx="408" lry="183" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r24" ulx="1326" uly="960" lrx="1604" lry="989" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r37" ulx="1326" uly="1368" lrx="1606" lry="1402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r34" ulx="1522" uly="1274" lrx="1602" lry="1301" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r26" ulx="433" uly="1120" lrx="1022" lry="1153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r52" ulx="431" uly="1881" lrx="695" lry="1910" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r9" ulx="1358" uly="541" lrx="1636" lry="572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r3" ulx="429" uly="356" lrx="703" lry="385" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r42" ulx="1354" uly="1591" lrx="1604" lry="1619" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r60" ulx="1327" uly="2291" lrx="1602" lry="2318" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r54" ulx="343" uly="1945" lrx="860" lry="1978" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r1" ulx="1435" uly="272" lrx="1485" lry="292" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r40" ulx="360" uly="1514" lrx="804" lry="1546" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r46" ulx="1522" uly="1689" lrx="1602" lry="1717" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r4" ulx="1075" uly="356" lrx="1629" lry="388" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r18" ulx="1356" uly="816" lrx="1604" lry="846" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r11" ulx="1545" uly="589" lrx="1604" lry="617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r17" ulx="429" uly="812" lrx="527" lry="837" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r14" ulx="1545" uly="718" lrx="1606" lry="747" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r58" ulx="499" uly="2233" lrx="1166" lry="2267" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r51" ulx="1545" uly="1837" lrx="1606" lry="1868" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r25" ulx="364" uly="1052" lrx="875" lry="1081" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r55" ulx="343" uly="2012" lrx="772" lry="2043" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r28" ulx="432" uly="1170" lrx="1175" lry="1203" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r50" ulx="431" uly="1831" lrx="708" lry="1860" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r53" ulx="1547" uly="1879" lrx="1627" lry="1908" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r56" ulx="362" uly="2114" lrx="1043" lry="2149" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r47" ulx="427" uly="1733" lrx="914" lry="1762" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r33" ulx="1354" uly="1277" lrx="1479" lry="1306" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r31" ulx="1525" uly="1227" lrx="1602" lry="1253" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r35" ulx="430" uly="1314" lrx="1247" lry="1349" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r29" ulx="431" uly="1218" lrx="825" lry="1249" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r44" ulx="427" uly="1687" lrx="614" lry="1714" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r12" ulx="432" uly="654" lrx="795" lry="680" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r13" ulx="429" uly="712" lrx="537" lry="739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r38" ulx="428" uly="1412" lrx="1186" lry="1447" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r48" ulx="1351" uly="1737" lrx="1621" lry="1769" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r49" ulx="428" uly="1779" lrx="1270" lry="1811" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r21" ulx="427" uly="906" lrx="1256" lry="939" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r20" ulx="1543" uly="862" lrx="1602" lry="887" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r32" ulx="431" uly="1270" lrx="583" lry="1297" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_709_r8" ulx="434" uly="533" lrx="974" lry="565" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_710" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0710.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_710_r79" ulx="1233" uly="2216" lrx="1383" lry="2241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r41" ulx="1093" uly="1231" lrx="1133" lry="1256" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r59" ulx="1069" uly="1616" lrx="1177" lry="1643" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r5" ulx="1083" uly="404" lrx="1379" lry="432" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r42" ulx="1304" uly="1227" lrx="1372" lry="1253" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r13" ulx="1300" uly="597" lrx="1372" lry="621" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r33" ulx="1289" uly="1081" lrx="1360" lry="1106" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r57" ulx="281" uly="1556" lrx="614" lry="1585" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r28" ulx="270" uly="1039" lrx="537" lry="1066" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r18" ulx="277" uly="745" lrx="808" lry="776" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r32" ulx="1089" uly="1081" lrx="1164" lry="1107" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r15" ulx="279" uly="693" lrx="897" lry="727" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r2" ulx="281" uly="306" lrx="1002" lry="341" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r37" ulx="275" uly="1185" lrx="568" lry="1213" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r20" ulx="274" uly="891" lrx="418" lry="918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r56" ulx="1308" uly="1472" lrx="1381" lry="1498" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r71" ulx="129" uly="1897" lrx="554" lry="1927" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r11" ulx="272" uly="602" lrx="587" lry="630" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r48" ulx="277" uly="1383" lrx="379" lry="1408" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r14" ulx="277" uly="645" lrx="953" lry="678" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r9" ulx="1064" uly="549" lrx="1158" lry="573" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r67" ulx="1308" uly="1762" lrx="1383" lry="1787" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r51" ulx="277" uly="1433" lrx="393" lry="1457" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r16" ulx="1066" uly="695" lrx="1158" lry="721" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r50" ulx="1283" uly="1377" lrx="1356" lry="1400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r49" ulx="1089" uly="1379" lrx="1164" lry="1403" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r1" ulx="210" uly="237" lrx="650" lry="275" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r26" ulx="274" uly="989" lrx="591" lry="1017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r27" ulx="1322" uly="985" lrx="1379" lry="1011" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r7" ulx="270" uly="485" lrx="712" lry="520" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r25" ulx="1302" uly="933" lrx="1381" lry="959" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r63" ulx="272" uly="1720" lrx="422" lry="1746" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r72" ulx="150" uly="1991" lrx="1082" lry="2022" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r46" ulx="272" uly="1333" lrx="591" lry="1361" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r21" ulx="1065" uly="887" lrx="1162" lry="914" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r74" ulx="214" uly="2110" lrx="556" lry="2139" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r66" ulx="279" uly="1772" lrx="394" lry="1798" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r45" ulx="1307" uly="1277" lrx="1375" lry="1303" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r73" ulx="213" uly="2041" lrx="584" lry="2069" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r55" ulx="1093" uly="1477" lrx="1162" lry="1502" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r34" ulx="272" uly="1135" lrx="412" lry="1163" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r77" ulx="278" uly="2216" lrx="808" lry="2248" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r53" ulx="1308" uly="1427" lrx="1381" lry="1449" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r38" ulx="1091" uly="1179" lrx="1158" lry="1207" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r54" ulx="275" uly="1477" lrx="871" lry="1507" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r35" ulx="1108" uly="1131" lrx="1141" lry="1156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r81" ulx="1075" uly="2275" lrx="1241" lry="2303" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r76" ulx="1091" uly="2166" lrx="1383" lry="2193" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r43" ulx="276" uly="1281" lrx="933" lry="1313" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r60" ulx="1283" uly="1618" lrx="1381" lry="1642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r64" ulx="1068" uly="1714" lrx="1237" lry="1744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r29" ulx="1089" uly="1035" lrx="1152" lry="1062" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r12" ulx="1085" uly="595" lrx="1160" lry="622" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r36" ulx="1327" uly="1131" lrx="1377" lry="1155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r23" ulx="277" uly="935" lrx="650" lry="969" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r68" ulx="280" uly="1816" lrx="875" lry="1846" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r80" ulx="212" uly="2275" lrx="812" lry="2308" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r61" ulx="279" uly="1672" lrx="358" lry="1698" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r58" ulx="279" uly="1618" lrx="381" lry="1645" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r39" ulx="1306" uly="1179" lrx="1381" lry="1204" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r65" ulx="1282" uly="1714" lrx="1381" lry="1741" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r75" ulx="283" uly="2172" lrx="485" lry="2199" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r69" ulx="1069" uly="1814" lrx="1243" lry="1842" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r52" ulx="1087" uly="1422" lrx="1152" lry="1450" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r4" ulx="274" uly="408" lrx="791" lry="439" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r10" ulx="1285" uly="550" lrx="1389" lry="572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r8" ulx="272" uly="543" lrx="997" lry="578" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r82" ulx="1287" uly="2275" lrx="1387" lry="2298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r70" ulx="1283" uly="1814" lrx="1385" lry="1839" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r30" ulx="1303" uly="1031" lrx="1372" lry="1057" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r6" ulx="210" uly="489" lrx="250" lry="520" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r44" ulx="1089" uly="1279" lrx="1166" lry="1305" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r78" ulx="1091" uly="2214" lrx="1239" lry="2244" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r19" ulx="275" uly="827" lrx="627" lry="853" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r17" ulx="1279" uly="695" lrx="1375" lry="721" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r40" ulx="277" uly="1235" lrx="522" lry="1262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r47" ulx="1329" uly="1327" lrx="1381" lry="1352" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r22" ulx="1279" uly="887" lrx="1379" lry="911" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r24" ulx="1091" uly="937" lrx="1160" lry="962" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r3" ulx="275" uly="354" lrx="952" lry="389" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r0" ulx="1335" uly="139" lrx="1391" lry="163" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r62" ulx="1288" uly="1664" lrx="1372" lry="1689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_710_r31" ulx="274" uly="1085" lrx="677" lry="1116" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_711" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0711.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_711_r50" ulx="327" uly="1816" lrx="554" lry="1847" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r8" ulx="491" uly="462" lrx="658" lry="491" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r28" ulx="1361" uly="1054" lrx="1610" lry="1080" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r47" ulx="416" uly="1631" lrx="1615" lry="1667" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r3" ulx="489" uly="287" lrx="1172" lry="322" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r29" ulx="358" uly="1116" lrx="400" lry="1143" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r54" ulx="791" uly="2095" lrx="1098" lry="2123" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r19" ulx="1281" uly="681" lrx="1373" lry="707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r57" ulx="1245" uly="2160" lrx="1554" lry="2188" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r43" ulx="1289" uly="1504" lrx="1368" lry="1530" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r12" ulx="1279" uly="514" lrx="1377" lry="541" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r18" ulx="491" uly="675" lrx="829" lry="707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r9" ulx="1281" uly="468" lrx="1373" lry="493" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r53" ulx="877" uly="2037" lrx="1531" lry="2071" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r5" ulx="487" uly="410" lrx="797" lry="442" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r22" ulx="1302" uly="733" lrx="1385" lry="757" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r56" ulx="1187" uly="2100" lrx="1614" lry="2129" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r26" ulx="360" uly="1045" lrx="397" lry="1075" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r24" ulx="422" uly="804" lrx="858" lry="835" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r0" ulx="341" uly="143" lrx="404" lry="168" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r32" ulx="354" uly="1185" lrx="402" lry="1213" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r27" ulx="418" uly="1047" lrx="777" lry="1077" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r41" ulx="425" uly="1447" lrx="1224" lry="1481" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r38" ulx="360" uly="1347" lrx="404" lry="1380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r4" ulx="494" uly="335" lrx="696" lry="366" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r42" ulx="417" uly="1497" lrx="1220" lry="1533" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r52" ulx="658" uly="1929" lrx="897" lry="1958" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r15" ulx="1283" uly="564" lrx="1375" lry="591" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r31" ulx="1316" uly="1120" lrx="1591" lry="1150" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r1" ulx="1427" uly="247" lrx="1470" lry="268" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r45" ulx="1068" uly="1550" lrx="1372" lry="1580" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r23" ulx="1512" uly="733" lrx="1591" lry="758" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r39" ulx="416" uly="1347" lrx="1243" lry="1385" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r2" ulx="428" uly="289" lrx="464" lry="319" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r51" ulx="418" uly="1925" lrx="646" lry="1955" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r34" ulx="423" uly="1229" lrx="1237" lry="1265" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r46" ulx="1491" uly="1554" lrx="1587" lry="1582" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r48" ulx="335" uly="1681" lrx="918" lry="1713" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r40" ulx="426" uly="1397" lrx="1210" lry="1433" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r44" ulx="1514" uly="1504" lrx="1589" lry="1530" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r10" ulx="1497" uly="468" lrx="1593" lry="495" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r37" ulx="1512" uly="1287" lrx="1593" lry="1318" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r33" ulx="416" uly="1183" lrx="1270" lry="1218" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r17" ulx="425" uly="622" lrx="1058" lry="656" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r25" ulx="802" uly="950" lrx="1145" lry="979" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r7" ulx="1495" uly="422" lrx="1593" lry="446" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r6" ulx="1277" uly="420" lrx="1372" lry="446" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r20" ulx="1496" uly="683" lrx="1593" lry="709" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r13" ulx="1497" uly="518" lrx="1593" lry="542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r49" ulx="420" uly="1768" lrx="1614" lry="1805" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r55" ulx="858" uly="2158" lrx="1043" lry="2185" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r35" ulx="422" uly="1281" lrx="622" lry="1312" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r30" ulx="420" uly="1114" lrx="898" lry="1145" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r21" ulx="487" uly="722" lrx="937" lry="756" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r16" ulx="1496" uly="566" lrx="1593" lry="591" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r14" ulx="488" uly="560" lrx="606" lry="584" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r11" ulx="489" uly="510" lrx="597" lry="537" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_711_r36" ulx="1125" uly="1287" lrx="1277" lry="1316" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="707" facs="#facs_708"/>
+			<p>
+				<lb facs="#facs_708_r5"/>I. Die Taxordnung für die Tierärzte vom <date when="1974-02-27">27. Februar 1974</date><lb facs="#facs_708_r7"/>wird wie folgt geändert:</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_708_r8"/>B. Tarif</head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_708_r9"/>I. Grundleistungen</head>
+					<table>
+						<row>
+							<cell/>
+							<cell>
+								<lb facs="#facs_708_r10"/>Fr.</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_708_r11"/>1. Mündliche und schriftliche Beratung<lb facs="#facs_708_r12"/>je Viertelstunde</cell>
+							<cell>
+								<lb facs="#facs_708_r13"/>15 .-</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_708_r14"/>2. Konsulation mit Vorführung eines<lb facs="#facs_708_r15"/>Tieres</cell>
+							<cell>
+								<lb facs="#facs_708_r16"/>10 .- bis 20 .-</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_708_r17"/>3. Besuch am Wohnsitz des Tierarztes<lb facs="#facs_708_r18"/>oder im Umkreis von 7 km</cell>
+							<cell>
+								<lb facs="#facs_708_r19"/>20 .-</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_708_r20"/>4. Extrabesuch oder -konsultation</cell>
+							<cell>
+								<lb facs="#facs_708_r21"/>40 .-</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_708_r22"/>5. Besuch oder Konsultation<lb facs="#facs_708_r23"/>von 19.00 bis 07.00 Uhr,<lb facs="#facs_708_r24"/>Expressbesuch oder -konsultation und<lb facs="#facs_708_r25"/>Sonntagsbesuch oder -konsultation</cell>
+							<cell>
+								<lb facs="#facs_708_r26"/>60 .-</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_708_r27"/>6. Bei Entfernungen von mehr als 7 km,<lb facs="#facs_708_r28"/>zusätzliche Entschädigung vom 8. km an, je</cell>
+							<cell>
+								<lb facs="#facs_708_r29"/>km<lb facs="#facs_708_r30"/>1.50</cell>
+						</row>
+					</table>
+					<p>
+						<lb facs="#facs_708_r31"/>Unkosten und Zeitaufwand, welche durch ungünstige Weg<lb break="no" facs="#facs_708_r32"/>verhältnisse (Stadt, Berggebiet usw.) entstehen, können zusätz<lb break="no" facs="#facs_708_r33"/>lich verrechnet werden.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_708_r34"/>II. Extraleistungen</head>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_708_r35"/>1. Allgemeines</head>
+						<table>
+							<row>
+								<cell>
+									<lb facs="#facs_708_r36"/>Allgemeine klinische Untersuchungen:</cell>
+								<cell>
+									<lb facs="#facs_708_r37"/>Fr.</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_708_r38"/>Gross- und Kleintiere (Aufnahme in die<lb facs="#facs_708_r39"/>obligatorische Viehversicherung usw.)</cell>
+								<cell>
+									<lb facs="#facs_708_r40"/>6 .- bis 12 .-</cell>
+							</row>
+						</table>
+						<pb n="708" facs="#facs_709"/>
+						<p>
+							<lb facs="#facs_709_r1"/>Fr.<lb facs="#facs_709_r2"/>Begutachtung eines Tieres bei Kauf<lb facs="#facs_709_r3"/>oder Verkauf</p>
+						<p>
+							<lb facs="#facs_709_r4"/>1-5% des Verkaufspreises</p>
+						<p>
+							<lb facs="#facs_709_r5"/>Besondere Untersuchungen:</p>
+						<table>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r6"/>Rectale und vaginale Untersuchungen</cell>
+								<cell>
+									<lb facs="#facs_709_r7"/>6 .- bis 10 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r8"/>Trächtigkeitsuntersuchung</cell>
+								<cell>
+									<lb facs="#facs_709_r9"/>6 .- " 10 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r10"/>Schalm-Test pro Tier</cell>
+								<cell>
+									<lb facs="#facs_709_r11"/>4 .-</cell>
+							</row>
+						</table>
+						<p>
+							<lb facs="#facs_709_r12"/>Probeentnahmen:</p>
+						<table>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r13"/>Milch</cell>
+								<cell>
+									<lb facs="#facs_709_r14"/>4 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r15"/>Blut: Gross- und Kleintiere</cell>
+								<cell>
+									<lb facs="#facs_709_r16"/>5 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r17"/>Harn</cell>
+								<cell>
+									<lb facs="#facs_709_r18"/>5 .- " 10 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r19"/>Kot, Hautgeschabsel</cell>
+								<cell>
+									<lb facs="#facs_709_r20"/>5 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r21"/>Diagnostische Impfungen und Kontrolle</cell>
+								<cell>
+									<lb facs="#facs_709_r22"/>5 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r23"/>Samen</cell>
+								<cell>
+									<lb facs="#facs_709_r24"/>30 .- " 50 .-</cell>
+							</row>
+						</table>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_709_r25"/>2. Behandlungen:</head>
+						<table>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r26"/>Eingeben von Medikamenten</cell>
+								<cell>
+									<lb facs="#facs_709_r27"/>4 .- bis 8 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r28"/>Eingeben von Medikamenten mit der</cell>
+								<cell/>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r29"/>Nasenschlundsonde</cell>
+								<cell>
+									<lb facs="#facs_709_r30"/>15 .- "<lb facs="#facs_709_r31"/>25 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r32"/>Klistier</cell>
+								<cell>
+									<lb facs="#facs_709_r33"/>6 .- "<lb facs="#facs_709_r34"/>20 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r35"/>Fremdkörperentfernung aus Rachen und</cell>
+								<cell/>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r36"/>Maulhöhle (nicht operativ)</cell>
+								<cell>
+									<lb facs="#facs_709_r37"/>15 .- " 30 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r38"/>Fremdkörperentfernung aus Schlund</cell>
+								<cell>
+									<lb facs="#facs_709_r39"/>30 .- " 50 .-</cell>
+							</row>
+						</table>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_709_r40"/>3. Injektionen:</head>
+						<table>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r41"/>subcutan, intramuskulär</cell>
+								<cell>
+									<lb facs="#facs_709_r42"/>4 .- bis 8 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r43"/>intravenös (mit Infusion), intraperitoneal,</cell>
+								<cell/>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r44"/>subdural</cell>
+								<cell>
+									<lb facs="#facs_709_r45"/>6 .- "<lb facs="#facs_709_r46"/>10 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r47"/>Euterinfusion je Viertel</cell>
+								<cell>
+									<lb facs="#facs_709_r48"/>4 .- " 8 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r49"/>intramammäre Injektion via Zitzenkanal:</cell>
+								<cell/>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r50"/>Erster Viertel</cell>
+								<cell>
+									<lb facs="#facs_709_r51"/>4 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r52"/>jeder weitere</cell>
+								<cell>
+									<lb facs="#facs_709_r53"/>2 .-</cell>
+							</row>
+						</table>
+						<p>
+							<lb facs="#facs_709_r54"/>Ziffer 4 wird aufgehoben.<lb facs="#facs_709_r55"/>Ziffer 5 unverändert.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_709_r56"/>6. Operative Eingriffe:</head>
+						<table>
+							<row>
+								<cell>
+									<lb facs="#facs_709_r57"/>a) Kleinere Eingriffe<lb facs="#facs_709_r58"/>(Aderlass, Incision, kleine Wund<lb break="no" facs="#facs_709_r59"/>nähte usw.)</cell>
+								<cell>
+									<lb facs="#facs_709_r60"/>10 .- bis 30 .-</cell>
+							</row>
+						</table>
+						<pb n="709" facs="#facs_710"/>
+						<table>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r1"/>b) Grössere Eingriffe<lb facs="#facs_710_r2"/>(Reposition von Gelenken, Trepana<lb break="no" facs="#facs_710_r3"/>tion, grosse Wundnähte, Huf- und<lb facs="#facs_710_r4"/>Klauenoperationen usw.)</cell>
+								<cell>
+									<lb facs="#facs_710_r5"/>30 .- bis 200 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r6"/>c)<lb facs="#facs_710_r7"/>Spezielle Operationen</cell>
+								<cell/>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r8"/>Klauenamputation (ohne Material)</cell>
+								<cell>
+									<lb facs="#facs_710_r9"/>100 .- "<lb facs="#facs_710_r10"/>200 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r11"/>Zitzenoperation</cell>
+								<cell>
+									<lb facs="#facs_710_r12"/>10 .- "<lb facs="#facs_710_r13"/>20 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r14"/>Fremdkörperoperation beim Rind<lb facs="#facs_710_r15"/>(mit Anästhesie und Material)</cell>
+								<cell>
+									<lb facs="#facs_710_r16"/>200 .- "<lb facs="#facs_710_r17"/>300 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r18"/>Kastration (ohne Narkose)</cell>
+								<cell/>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r19"/>Männliche Tiere:</cell>
+								<cell/>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r20"/>Hengst</cell>
+								<cell>
+									<lb facs="#facs_710_r21"/>150 .- "<lb facs="#facs_710_r22"/>300 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r23"/>Stier, Kalb, blutig</cell>
+								<cell>
+									<lb facs="#facs_710_r24"/>15 .- "<lb facs="#facs_710_r25"/>25 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r26"/>mit Gummiring</cell>
+								<cell>
+									<lb facs="#facs_710_r27"/>5 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r28"/>mit Burdizzo</cell>
+								<cell>
+									<lb facs="#facs_710_r29"/>10 .- "<lb facs="#facs_710_r30"/>20 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r31"/>Eber, ausgewachsen</cell>
+								<cell>
+									<lb facs="#facs_710_r32"/>50 .- "<lb facs="#facs_710_r33"/>100 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r34"/>Ferkel</cell>
+								<cell>
+									<lb facs="#facs_710_r35"/>3 .- "<lb facs="#facs_710_r36"/>6 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r37"/>Kryptorchiden</cell>
+								<cell>
+									<lb facs="#facs_710_r38"/>25 .- "<lb facs="#facs_710_r39"/>80 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r40"/>Bruchferkel</cell>
+								<cell>
+									<lb facs="#facs_710_r41"/>15 .- "<lb facs="#facs_710_r42"/>30 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r43"/>Schaf- und Ziegenböcke, blutig</cell>
+								<cell>
+									<lb facs="#facs_710_r44"/>20 .- "<lb facs="#facs_710_r45"/>40 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r46"/>mit Gummiring</cell>
+								<cell>
+									<lb facs="#facs_710_r47"/>5 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r48"/>Rüde</cell>
+								<cell>
+									<lb facs="#facs_710_r49"/>80 .- "<lb facs="#facs_710_r50"/>150 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r51"/>Kater</cell>
+								<cell>
+									<lb facs="#facs_710_r52"/>20 .- "<lb facs="#facs_710_r53"/>30 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r54"/>Meerschweinchen, Kaninchen</cell>
+								<cell>
+									<lb facs="#facs_710_r55"/>20 .- "<lb facs="#facs_710_r56"/>30 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r57"/>Weibliche Tiere:</cell>
+								<cell/>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r58"/>Stute</cell>
+								<cell>
+									<lb facs="#facs_710_r59"/>350 .- "<lb facs="#facs_710_r60"/>600 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r61"/>Kuh</cell>
+								<cell>
+									<lb facs="#facs_710_r62"/>100 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r63"/>Hündin</cell>
+								<cell>
+									<lb facs="#facs_710_r64"/>200 .- "<lb facs="#facs_710_r65"/>300 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r66"/>Katze</cell>
+								<cell>
+									<lb facs="#facs_710_r67"/>60 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r68"/>Andere grössere Operationen</cell>
+								<cell>
+									<lb facs="#facs_710_r69"/>250 .- "<lb facs="#facs_710_r70"/>400 .-</cell>
+							</row>
+						</table>
+						<p>
+							<lb facs="#facs_710_r71"/>Ziffer 7 unverändert.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_710_r72"/>8. Geburtshilfe und Sterilitäts<lb break="no" facs="#facs_710_r73"/>behandlung:</head>
+						<table>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r74"/>a) Geburtshilfe:</cell>
+								<cell/>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r75"/>Grosstiere</cell>
+								<cell>
+									<lb facs="#facs_710_r76"/>40 .- bis 150 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r77"/>Schafe, Ziegen, Schweine</cell>
+								<cell>
+									<lb facs="#facs_710_r78"/>20 .- "<lb facs="#facs_710_r79"/> 100 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_710_r80"/>b) Geburt mit Embryotomie</cell>
+								<cell>
+									<lb facs="#facs_710_r81"/>140 .- "<lb facs="#facs_710_r82"/>250 .-</cell>
+							</row>
+						</table>
+						<pb n="710" facs="#facs_711"/>
+						<table>
+							<row>
+								<cell/>
+								<cell>
+									<lb facs="#facs_711_r1"/>Fr</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_711_r2"/>c)<lb facs="#facs_711_r3"/>Kaiserschnitt (mit Anästhesie und<lb facs="#facs_711_r4"/>Material):</cell>
+								<cell/>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_711_r5"/>Pferd und Kuh</cell>
+								<cell>
+									<lb facs="#facs_711_r6"/>300 .- "<lb facs="#facs_711_r7"/>400 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_711_r8"/>Schwein</cell>
+								<cell>
+									<lb facs="#facs_711_r9"/>150 .- "<lb facs="#facs_711_r10"/>250 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_711_r11"/>Hund</cell>
+								<cell>
+									<lb facs="#facs_711_r12"/>400 .- "<lb facs="#facs_711_r13"/>600 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_711_r14"/>Katze</cell>
+								<cell>
+									<lb facs="#facs_711_r15"/>150 .- "<lb facs="#facs_711_r16"/>350 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_711_r17"/>d) Uterusreposition, Grosstiere<lb facs="#facs_711_r18"/>(mit Anästhesie)</cell>
+								<cell>
+									<lb facs="#facs_711_r19"/>100 .- "<lb facs="#facs_711_r20"/>150 .-</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_711_r21"/>Schaf, Schwein, Ziege</cell>
+								<cell>
+									<lb facs="#facs_711_r22"/>25 .- "<lb facs="#facs_711_r23"/>50 .-</cell>
+							</row>
+						</table>
+						<p>
+							<lb facs="#facs_711_r24"/>lit. e-g unverändert.</p>
+					</div>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_711_r25"/>V. Verschiedenes</head>
+					<table>
+						<row>
+							<cell>
+								<lb facs="#facs_711_r26"/>1.</cell>
+							<cell>
+								<lb facs="#facs_711_r27"/>Porti und Telefon<lb facs="#facs_711_r28"/>Selbstkosten</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_711_r29"/>2.</cell>
+							<cell>
+								<lb facs="#facs_711_r30"/>Tierärztliche Zeugnisse<lb facs="#facs_711_r31"/>5 .- bis 15 .-</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_711_r32"/>3.</cell>
+							<cell>
+								<lb facs="#facs_711_r33"/>Gutachten, Atteste (Aktenstudium, Spesen<lb facs="#facs_711_r34"/>und Untersuchungskosten usw. nicht in<lb break="no" facs="#facs_711_r35"/>begriffen)<lb facs="#facs_711_r36"/>je Seite<lb facs="#facs_711_r37"/>50 .-</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_711_r38"/>4.</cell>
+							<cell>
+								<lb facs="#facs_711_r39"/>Für länger dauernde Beanspruchung des<lb facs="#facs_711_r40"/>Tierarztes, sofern nicht während dieser<lb facs="#facs_711_r41"/>Zeitspanne ausgeführte Extraleistungen<lb facs="#facs_711_r42"/>verrechnet werden, je Stunde bei Tag<lb facs="#facs_711_r43"/>55 .- "<lb facs="#facs_711_r44"/>75 .-</cell>
+						</row>
+						<row>
+							<cell/>
+							<cell>
+								<lb facs="#facs_711_r45"/>bei Nacht 70 .- "<lb facs="#facs_711_r46"/>120
+                    .-</cell>
+						</row>
+					</table>
+					<p>
+						<lb facs="#facs_711_r47"/>II. Diese Änderungen treten am Tag nach der Veröffentli<lb break="no" facs="#facs_711_r48"/>chung im Amtsblatt in Kraft.</p>
+					<p>
+						<lb facs="#facs_711_r49"/>III. Veröffentlichung im Amtsblatt und in der Gesetzes<lb break="no" facs="#facs_711_r50"/>sammlung.</p>
+					<p>
+						<lb facs="#facs_711_r51"/>Zürich, den <date when="1980-06-04">4. Juni 1980</date></p>
+					<p>
+						<lb facs="#facs_711_r53"/>Im Namen des Regierungsrates</p>
+					<p>
+						<lb facs="#facs_711_r54"/>Der Präsident:<lb facs="#facs_711_r55"/>Stucki</p>
+					<p>
+						<lb facs="#facs_711_r56"/>Der Staatsschreiber:<lb facs="#facs_711_r57"/>Roggwiller</p>
+				</div>
+			</div>
+		</body></text></TEI>

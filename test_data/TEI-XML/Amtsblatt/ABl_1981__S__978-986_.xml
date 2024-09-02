@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-03-15">15.03.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Kantonale Volksabstimmung vom 14. Juni
+              1981] 4. Kantonale Volksinitiative für
+              öffentliche Lehrwerkstätten</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-05-15">15.05.1981</date><ident>StAZH ABl 1981 (S. 978-986)</ident><idno>978–986</idno><idno type="issue">25</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132304"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_979" uly="0" ulx="0" lry="2369" lrx="1611">
+			<graphic url="Abl_1981_1__S__0979.tif" width="1611px" height="2369px"/>
+			<zone xml:id="facs_979_r29" ulx="268" uly="1921" lrx="1448" lry="1949" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r9" ulx="262" uly="891" lrx="462" lry="915" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r4" ulx="266" uly="579" lrx="504" lry="604" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r8" ulx="268" uly="766" lrx="427" lry="790" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r6" ulx="262" uly="677" lrx="1446" lry="705" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r7" ulx="266" uly="718" lrx="1444" lry="749" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r0" ulx="264" uly="168" lrx="320" lry="189" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r16" ulx="325" uly="1227" lrx="1452" lry="1255" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r27" ulx="263" uly="1795" lrx="1106" lry="1827" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r25" ulx="266" uly="1702" lrx="450" lry="1726" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r31" ulx="266" uly="2008" lrx="1448" lry="2038" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r21" ulx="264" uly="1485" lrx="1273" lry="1515" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r17" ulx="322" uly="1273" lrx="662" lry="1299" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r19" ulx="266" uly="1398" lrx="1444" lry="1424" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r33" ulx="266" uly="2106" lrx="527" lry="2130" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r15" ulx="325" uly="1183" lrx="1450" lry="1211" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r12" ulx="320" uly="1039" lrx="1444" lry="1069" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r28" ulx="323" uly="1875" lrx="1444" lry="1904" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r26" ulx="323" uly="1752" lrx="1444" lry="1780" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r10" ulx="318" uly="941" lrx="996" lry="971" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r5" ulx="320" uly="629" lrx="1444" lry="658" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r20" ulx="264" uly="1439" lrx="1448" lry="1469" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r3" ulx="266" uly="452" lrx="1244" lry="483" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r23" ulx="264" uly="1610" lrx="1448" lry="1638" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r18" ulx="325" uly="1350" lrx="1446" lry="1379" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r32" ulx="266" uly="2054" lrx="1446" lry="2082" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r22" ulx="320" uly="1566" lrx="1448" lry="1593" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r1" ulx="262" uly="252" lrx="302" lry="280" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r11" ulx="266" uly="995" lrx="1446" lry="1025" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r24" ulx="266" uly="1654" lrx="1447" lry="1684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r14" ulx="264" uly="1137" lrx="1446" lry="1167" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r13" ulx="322" uly="1081" lrx="1007" lry="1112" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r2" ulx="262" uly="306" lrx="1429" lry="337" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_979_r30" ulx="268" uly="1964" lrx="1450" lry="1994" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_980" uly="0" ulx="0" lry="2371" lrx="1604">
+			<graphic url="Abl_1981_1__S__0980.tif" width="1604px" height="2371px"/>
+			<zone xml:id="facs_980_r15" ulx="221" uly="975" lrx="882" lry="1004" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r38" ulx="156" uly="2056" lrx="590" lry="2081" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r22" ulx="216" uly="1314" lrx="1337" lry="1345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r3" ulx="169" uly="343" lrx="1341" lry="374" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r32" ulx="160" uly="1777" lrx="1338" lry="1806" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r30" ulx="215" uly="1687" lrx="1337" lry="1717" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r17" ulx="221" uly="1072" lrx="1061" lry="1102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r33" ulx="160" uly="1823" lrx="1199" lry="1851" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r7" ulx="171" uly="593" lrx="590" lry="623" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r6" ulx="166" uly="512" lrx="1049" lry="542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r23" ulx="219" uly="1358" lrx="736" lry="1388" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r28" ulx="218" uly="1589" lrx="1334" lry="1619" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r29" ulx="216" uly="1635" lrx="446" lry="1660" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r31" ulx="161" uly="1733" lrx="1334" lry="1761" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r10" ulx="168" uly="741" lrx="1339" lry="772" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r37" ulx="158" uly="2006" lrx="1332" lry="2038" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r35" ulx="156" uly="1920" lrx="1337" lry="1949" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r18" ulx="220" uly="1127" lrx="1337" lry="1156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r4" ulx="168" uly="391" lrx="713" lry="418" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r25" ulx="218" uly="1454" lrx="1334" lry="1485" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r40" ulx="152" uly="2152" lrx="1332" lry="2180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r11" ulx="225" uly="791" lrx="458" lry="817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r26" ulx="220" uly="1502" lrx="1337" lry="1531" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r2" ulx="170" uly="297" lrx="1341" lry="330" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r1" ulx="223" uly="254" lrx="1341" lry="285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r34" ulx="216" uly="1873" lrx="1332" lry="1904" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r14" ulx="223" uly="933" lrx="1337" lry="960" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r20" ulx="162" uly="1214" lrx="990" lry="1245" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r13" ulx="223" uly="887" lrx="1341" lry="917" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r36" ulx="158" uly="1964" lrx="1333" lry="1994" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r5" ulx="221" uly="468" lrx="1343" lry="498" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r9" ulx="163" uly="689" lrx="1268" lry="720" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r27" ulx="214" uly="1548" lrx="1334" lry="1576" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r8" ulx="225" uly="645" lrx="1339" lry="675" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r16" ulx="222" uly="1029" lrx="1337" lry="1058" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r12" ulx="222" uly="843" lrx="1326" lry="872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r21" ulx="160" uly="1268" lrx="1339" lry="1298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r39" ulx="212" uly="2104" lrx="1331" lry="2136" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r0" ulx="1281" uly="177" lrx="1339" lry="198" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r19" ulx="164" uly="1172" lrx="1337" lry="1201" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_980_r24" ulx="160" uly="1410" lrx="1334" lry="1440" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_981" uly="0" ulx="0" lry="2363" lrx="1611">
+			<graphic url="Abl_1981_1__S__0981.tif" width="1611px" height="2363px"/>
+			<zone xml:id="facs_981_r35" ulx="264" uly="1871" lrx="1446" lry="1901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r1" ulx="262" uly="256" lrx="1446" lry="284" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r24" ulx="327" uly="1331" lrx="1444" lry="1359" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r22" ulx="325" uly="1233" lrx="1310" lry="1263" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r12" ulx="320" uly="770" lrx="1427" lry="797" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r17" ulx="327" uly="1004" lrx="1050" lry="1032" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r21" ulx="323" uly="1187" lrx="1448" lry="1217" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r10" ulx="323" uly="670" lrx="1275" lry="700" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r4" ulx="266" uly="385" lrx="967" lry="415" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r8" ulx="264" uly="579" lrx="1444" lry="611" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r16" ulx="322" uly="956" lrx="1446" lry="986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r6" ulx="264" uly="485" lrx="1445" lry="515" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r23" ulx="324" uly="1283" lrx="1446" lry="1314" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r32" ulx="268" uly="1696" lrx="487" lry="1721" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r0" ulx="262" uly="172" lrx="310" lry="192" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r25" ulx="320" uly="1375" lrx="825" lry="1405" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r11" ulx="323" uly="727" lrx="1446" lry="754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r26" ulx="321" uly="1427" lrx="1446" lry="1457" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r38" ulx="268" uly="2006" lrx="1450" lry="2035" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r2" ulx="262" uly="298" lrx="1444" lry="327" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r39" ulx="264" uly="2052" lrx="1452" lry="2079" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r27" ulx="268" uly="1473" lrx="1446" lry="1501" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r28" ulx="268" uly="1516" lrx="1450" lry="1546" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r15" ulx="320" uly="912" lrx="1448" lry="942" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r13" ulx="264" uly="820" lrx="1444" lry="850" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r18" ulx="320" uly="1054" lrx="1446" lry="1082" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r34" ulx="322" uly="1827" lrx="1448" lry="1857" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r20" ulx="324" uly="1143" lrx="1448" lry="1172" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r30" ulx="264" uly="1606" lrx="1450" lry="1636" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r14" ulx="324" uly="866" lrx="1447" lry="898" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r40" ulx="268" uly="2096" lrx="1448" lry="2124" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r19" ulx="319" uly="1100" lrx="1447" lry="1128" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r5" ulx="323" uly="439" lrx="1444" lry="469" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r37" ulx="268" uly="1962" lrx="1453" lry="1991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r7" ulx="263" uly="529" lrx="1317" lry="559" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r3" ulx="264" uly="343" lrx="1447" lry="373" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r29" ulx="264" uly="1562" lrx="1448" lry="1592" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r9" ulx="325" uly="627" lrx="1444" lry="658" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r33" ulx="266" uly="1773" lrx="1037" lry="1803" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r31" ulx="266" uly="1652" lrx="1444" lry="1680" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_981_r36" ulx="266" uly="1917" lrx="1448" lry="1945" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_982" uly="0" ulx="0" lry="2367" lrx="1604">
+			<graphic url="Abl_1981_1__S__0982.tif" width="1604px" height="2367px"/>
+			<zone xml:id="facs_982_r5" ulx="166" uly="414" lrx="1337" lry="444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r15" ulx="844" uly="829" lrx="1121" lry="860" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r3" ulx="164" uly="325" lrx="1341" lry="353" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r23" ulx="162" uly="1460" lrx="1147" lry="1491" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r10" ulx="166" uly="635" lrx="1341" lry="665" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r31" ulx="160" uly="1841" lrx="1334" lry="1871" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r27" ulx="216" uly="1648" lrx="809" lry="1677" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r20" ulx="212" uly="1414" lrx="978" lry="1444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r17" ulx="164" uly="1168" lrx="654" lry="1198" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r14" ulx="223" uly="831" lrx="836" lry="861" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r28" ulx="160" uly="1698" lrx="1339" lry="1730" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r19" ulx="158" uly="1337" lrx="759" lry="1365" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r33" ulx="220" uly="1933" lrx="406" lry="1960" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r12" ulx="223" uly="733" lrx="1339" lry="763" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r21" ulx="997" uly="1414" lrx="1230" lry="1443" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r1" ulx="164" uly="237" lrx="1339" lry="265" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r13" ulx="164" uly="779" lrx="1334" lry="810" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r8" ulx="166" uly="548" lrx="1337" lry="576" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r34" ulx="221" uly="1983" lrx="1341" lry="2013" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r36" ulx="160" uly="2075" lrx="1090" lry="2103" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r11" ulx="166" uly="679" lrx="640" lry="708" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r4" ulx="171" uly="370" lrx="1341" lry="399" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r29" ulx="219" uly="1741" lrx="1334" lry="1772" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r2" ulx="166" uly="281" lrx="1341" lry="309" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r6" ulx="168" uly="458" lrx="1339" lry="490" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r35" ulx="158" uly="2029" lrx="1337" lry="2059" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r24" ulx="164" uly="1510" lrx="1339" lry="1543" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r32" ulx="216" uly="1887" lrx="1337" lry="1914" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r25" ulx="219" uly="1556" lrx="1337" lry="1588" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r16" ulx="156" uly="1087" lrx="1124" lry="1117" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r26" ulx="219" uly="1602" lrx="1335" lry="1633" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r30" ulx="216" uly="1789" lrx="584" lry="1818" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r7" ulx="166" uly="504" lrx="1341" lry="532" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r22" ulx="1238" uly="1414" lrx="1341" lry="1443" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r18" ulx="160" uly="1289" lrx="1180" lry="1320" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r9" ulx="166" uly="589" lrx="1340" lry="620" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_982_r0" ulx="1280" uly="152" lrx="1337" lry="173" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_983" uly="0" ulx="0" lry="2371" lrx="1611">
+			<graphic url="Abl_1981_1__S__0983.tif" width="1611px" height="2371px"/>
+			<zone xml:id="facs_983_r12" ulx="268" uly="735" lrx="1450" lry="763" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r0" ulx="269" uly="158" lrx="320" lry="178" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r27" ulx="268" uly="1472" lrx="1453" lry="1504" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r39" ulx="274" uly="2014" lrx="1450" lry="2045" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r9" ulx="264" uly="593" lrx="1377" lry="623" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r13" ulx="268" uly="781" lrx="1448" lry="808" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r19" ulx="325" uly="1077" lrx="556" lry="1104" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r25" ulx="268" uly="1383" lrx="1450" lry="1414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r36" ulx="272" uly="1883" lrx="1454" lry="1911" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r7" ulx="266" uly="506" lrx="1445" lry="533" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r11" ulx="266" uly="689" lrx="1453" lry="720" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r40" ulx="276" uly="2062" lrx="527" lry="2089" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r1" ulx="323" uly="237" lrx="1448" lry="265" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r30" ulx="274" uly="1606" lrx="1448" lry="1634" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r2" ulx="262" uly="281" lrx="1448" lry="311" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r33" ulx="327" uly="1750" lrx="1452" lry="1777" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r34" ulx="270" uly="1793" lrx="1455" lry="1823" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r24" ulx="327" uly="1339" lrx="1442" lry="1369" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r3" ulx="266" uly="327" lrx="1446" lry="355" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r6" ulx="270" uly="460" lrx="1446" lry="488" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r23" ulx="266" uly="1289" lrx="1096" lry="1315" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r17" ulx="266" uly="977" lrx="1275" lry="1004" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r21" ulx="274" uly="1177" lrx="1060" lry="1206" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r37" ulx="273" uly="1927" lrx="1450" lry="1956" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r10" ulx="327" uly="647" lrx="1449" lry="674" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r29" ulx="268" uly="1562" lrx="1450" lry="1589" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r32" ulx="268" uly="1698" lrx="1089" lry="1724" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r26" ulx="268" uly="1429" lrx="1453" lry="1457" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r35" ulx="274" uly="1837" lrx="1450" lry="1867" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r15" ulx="277" uly="877" lrx="1446" lry="905" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r16" ulx="327" uly="925" lrx="600" lry="951" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r22" ulx="266" uly="1239" lrx="327" lry="1259" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r38" ulx="270" uly="1970" lrx="1451" lry="2000" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r14" ulx="270" uly="829" lrx="410" lry="851" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r5" ulx="268" uly="416" lrx="687" lry="443" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r18" ulx="266" uly="1027" lrx="1455" lry="1056" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r20" ulx="268" uly="1127" lrx="1142" lry="1155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r8" ulx="267" uly="549" lrx="1448" lry="579" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r31" ulx="268" uly="1652" lrx="1448" lry="1680" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r28" ulx="270" uly="1518" lrx="1448" lry="1547" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_983_r4" ulx="266" uly="368" lrx="1446" lry="399" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_984" uly="0" ulx="0" lry="2371" lrx="1602">
+			<graphic url="Abl_1981_1__S__0984.tif" width="1602px" height="2371px"/>
+			<zone xml:id="facs_984_r30" ulx="149" uly="1716" lrx="1322" lry="1744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r13" ulx="153" uly="781" lrx="1327" lry="812" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r37" ulx="150" uly="2037" lrx="1320" lry="2065" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r27" ulx="208" uly="1539" lrx="546" lry="1566" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r22" ulx="207" uly="1306" lrx="1325" lry="1337" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r12" ulx="156" uly="735" lrx="1326" lry="767" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r26" ulx="206" uly="1495" lrx="1324" lry="1522" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r0" ulx="1268" uly="168" lrx="1326" lry="189" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r29" ulx="206" uly="1670" lrx="1324" lry="1699" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r20" ulx="152" uly="1210" lrx="675" lry="1238" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r35" ulx="148" uly="1948" lrx="1325" lry="1977" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r23" ulx="206" uly="1354" lrx="748" lry="1380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r31" ulx="147" uly="1762" lrx="1321" lry="1790" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r9" ulx="158" uly="604" lrx="1322" lry="633" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r32" ulx="149" uly="1806" lrx="1322" lry="1834" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r4" ulx="156" uly="383" lrx="1324" lry="412" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r34" ulx="200" uly="1902" lrx="1322" lry="1931" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r33" ulx="146" uly="1852" lrx="637" lry="1878" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r24" ulx="152" uly="1406" lrx="1324" lry="1434" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r36" ulx="146" uly="1991" lrx="1322" lry="2021" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r3" ulx="155" uly="339" lrx="1322" lry="367" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r18" ulx="153" uly="1120" lrx="1320" lry="1150" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r14" ulx="156" uly="825" lrx="1312" lry="856" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r25" ulx="208" uly="1448" lrx="1324" lry="1478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r8" ulx="154" uly="562" lrx="1326" lry="590" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r38" ulx="145" uly="2079" lrx="1324" lry="2108" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r7" ulx="154" uly="516" lrx="1326" lry="546" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r15" ulx="152" uly="872" lrx="746" lry="899" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r6" ulx="157" uly="470" lrx="1324" lry="500" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r19" ulx="151" uly="1164" lrx="1322" lry="1194" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r2" ulx="154" uly="293" lrx="1324" lry="321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r5" ulx="154" uly="427" lrx="1325" lry="458" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r16" ulx="156" uly="995" lrx="832" lry="1025" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r1" ulx="208" uly="252" lrx="1326" lry="278" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r28" ulx="154" uly="1620" lrx="665" lry="1646" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r21" ulx="152" uly="1262" lrx="1322" lry="1292" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r11" ulx="154" uly="693" lrx="1326" lry="723" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r10" ulx="156" uly="647" lrx="1326" lry="678" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_984_r17" ulx="208" uly="1075" lrx="1322" lry="1104" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_985" uly="0" ulx="0" lry="2359" lrx="1614">
+			<graphic url="Abl_1981_1__S__0985.tif" width="1614px" height="2359px"/>
+			<zone xml:id="facs_985_r8" ulx="269" uly="552" lrx="1447" lry="582" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r33" ulx="281" uly="1796" lrx="840" lry="1824" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r37" ulx="339" uly="1992" lrx="1461" lry="2022" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r22" ulx="267" uly="1217" lrx="1335" lry="1248" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r23" ulx="264" uly="1298" lrx="727" lry="1328" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r2" ulx="268" uly="285" lrx="1447" lry="315" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r36" ulx="289" uly="1946" lrx="1470" lry="1977" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r32" ulx="268" uly="1702" lrx="1090" lry="1736" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r10" ulx="272" uly="639" lrx="1451" lry="671" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r15" ulx="266" uly="879" lrx="990" lry="912" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r30" ulx="271" uly="1619" lrx="1447" lry="1651" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r29" ulx="271" uly="1575" lrx="1452" lry="1605" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r16" ulx="266" uly="937" lrx="1268" lry="966" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r14" ulx="271" uly="831" lrx="905" lry="858" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r27" ulx="271" uly="1485" lrx="1451" lry="1517" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r18" ulx="327" uly="1033" lrx="1103" lry="1062" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r17" ulx="266" uly="987" lrx="1449" lry="1017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r20" ulx="266" uly="1133" lrx="1447" lry="1160" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r19" ulx="324" uly="1085" lrx="1451" lry="1115" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r1" ulx="271" uly="239" lrx="1457" lry="269" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r9" ulx="269" uly="595" lrx="1447" lry="625" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r12" ulx="323" uly="739" lrx="1438" lry="769" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r38" ulx="337" uly="2035" lrx="1461" lry="2067" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r35" ulx="282" uly="1894" lrx="1091" lry="1924" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r4" ulx="268" uly="375" lrx="1449" lry="405" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r24" ulx="325" uly="1354" lrx="1447" lry="1383" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r11" ulx="271" uly="683" lrx="911" lry="713" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r0" ulx="274" uly="158" lrx="333" lry="179" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r5" ulx="266" uly="418" lrx="1451" lry="448" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r34" ulx="337" uly="1848" lrx="1463" lry="1879" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r6" ulx="271" uly="462" lrx="1455" lry="492" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r28" ulx="266" uly="1529" lrx="1447" lry="1559" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r13" ulx="266" uly="781" lrx="1451" lry="814" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r21" ulx="271" uly="1175" lrx="1447" lry="1205" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r3" ulx="273" uly="331" lrx="1449" lry="359" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r31" ulx="268" uly="1665" lrx="1445" lry="1694" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r25" ulx="270" uly="1398" lrx="1449" lry="1428" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r7" ulx="270" uly="504" lrx="1447" lry="537" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r39" ulx="337" uly="2081" lrx="1463" lry="2110" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_985_r26" ulx="269" uly="1442" lrx="1451" lry="1472" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_986" uly="0" ulx="0" lry="2371" lrx="1604">
+			<graphic url="Abl_1981_1__S__0986.tif" width="1604px" height="2371px"/>
+			<zone xml:id="facs_986_r3" ulx="208" uly="335" lrx="1324" lry="366" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r12" ulx="204" uly="737" lrx="905" lry="767" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r16" ulx="198" uly="927" lrx="1315" lry="955" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r25" ulx="198" uly="1331" lrx="1072" lry="1360" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r35" ulx="195" uly="1785" lrx="1301" lry="1817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r21" ulx="198" uly="1154" lrx="1318" lry="1185" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r1" ulx="206" uly="237" lrx="1320" lry="267" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r33" ulx="196" uly="1698" lrx="1311" lry="1727" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r28" ulx="196" uly="1466" lrx="1314" lry="1497" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r11" ulx="206" uly="687" lrx="1320" lry="722" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r19" ulx="202" uly="1056" lrx="1316" lry="1087" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r32" ulx="195" uly="1652" lrx="1316" lry="1683" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r2" ulx="202" uly="279" lrx="873" lry="311" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r18" ulx="197" uly="1008" lrx="1314" lry="1042" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r41" ulx="191" uly="2048" lrx="1118" lry="2081" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r15" ulx="202" uly="877" lrx="1318" lry="909" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r23" ulx="197" uly="1243" lrx="540" lry="1270" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r7" ulx="204" uly="514" lrx="1320" lry="545" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r34" ulx="196" uly="1739" lrx="1309" lry="1772" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r22" ulx="198" uly="1197" lrx="1313" lry="1227" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r24" ulx="198" uly="1287" lrx="1086" lry="1315" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r10" ulx="203" uly="645" lrx="1318" lry="678" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r17" ulx="200" uly="966" lrx="1316" lry="999" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r4" ulx="200" uly="381" lrx="1324" lry="412" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r5" ulx="206" uly="422" lrx="1316" lry="455" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r9" ulx="202" uly="604" lrx="1320" lry="635" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r6" ulx="207" uly="466" lrx="1318" lry="499" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r29" ulx="196" uly="1510" lrx="1318" lry="1542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r39" ulx="192" uly="1962" lrx="1313" lry="1993" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r31" ulx="193" uly="1606" lrx="1311" lry="1638" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r13" ulx="152" uly="787" lrx="1318" lry="819" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r36" ulx="196" uly="1829" lrx="1310" lry="1861" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r26" ulx="198" uly="1377" lrx="1234" lry="1406" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r0" ulx="1261" uly="158" lrx="1320" lry="180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r37" ulx="191" uly="1873" lrx="1309" lry="1905" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r20" ulx="197" uly="1100" lrx="1165" lry="1132" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r40" ulx="193" uly="2004" lrx="1309" lry="2036" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r14" ulx="202" uly="835" lrx="1320" lry="865" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r30" ulx="196" uly="1554" lrx="1276" lry="1585" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r8" ulx="206" uly="558" lrx="1318" lry="590" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r38" ulx="193" uly="1920" lrx="1310" lry="1950" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_986_r27" ulx="198" uly="1420" lrx="1311" lry="1451" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_987" uly="0" ulx="0" lry="2358" lrx="1613">
+			<graphic url="Abl_1981_1__S__0987.tif" width="1613px" height="2358px"/>
+			<zone xml:id="facs_987_r25" ulx="789" uly="1599" lrx="1066" lry="1626" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r5" ulx="348" uly="410" lrx="973" lry="439" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r31" ulx="299" uly="1916" lrx="1479" lry="1947" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r4" ulx="348" uly="360" lrx="1469" lry="392" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r28" ulx="300" uly="1774" lrx="1478" lry="1805" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r13" ulx="293" uly="1057" lrx="454" lry="1079" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r15" ulx="293" uly="1144" lrx="1459" lry="1177" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r34" ulx="304" uly="2057" lrx="1479" lry="2091" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r2" ulx="345" uly="273" lrx="1469" lry="305" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r6" ulx="343" uly="458" lrx="1471" lry="491" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r30" ulx="304" uly="1872" lrx="1478" lry="1903" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r9" ulx="382" uly="819" lrx="1386" lry="860" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r12" ulx="293" uly="1000" lrx="1472" lry="1033" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r7" ulx="292" uly="500" lrx="1473" lry="536" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r26" ulx="302" uly="1686" lrx="1482" lry="1718" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r29" ulx="302" uly="1820" lrx="1475" lry="1850" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r3" ulx="349" uly="316" lrx="1472" lry="348" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r20" ulx="293" uly="1332" lrx="854" lry="1363" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r36" ulx="602" uly="2105" lrx="779" lry="2134" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r37" ulx="787" uly="2105" lrx="1238" lry="2134" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r24" ulx="710" uly="1603" lrx="764" lry="1628" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r8" ulx="291" uly="548" lrx="1348" lry="582" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r35" ulx="304" uly="2105" lrx="596" lry="2134" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r32" ulx="304" uly="1963" lrx="681" lry="1993" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r18" ulx="298" uly="1238" lrx="1476" lry="1272" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r11" ulx="777" uly="913" lrx="1056" lry="943" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r1" ulx="287" uly="227" lrx="1472" lry="260" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r27" ulx="300" uly="1732" lrx="1480" lry="1765" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r10" ulx="696" uly="919" lrx="752" lry="945" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r33" ulx="302" uly="2011" lrx="1477" lry="2046" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r0" ulx="283" uly="150" lrx="339" lry="172" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r21" ulx="291" uly="1384" lrx="1473" lry="1414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r17" ulx="587" uly="1192" lrx="679" lry="1219" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r23" ulx="291" uly="1474" lrx="775" lry="1503" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r22" ulx="295" uly="1430" lrx="1471" lry="1458" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r16" ulx="291" uly="1192" lrx="581" lry="1221" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r14" ulx="293" uly="1096" lrx="1469" lry="1129" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_987_r19" ulx="293" uly="1284" lrx="1473" lry="1315" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="978" facs="#facs_979"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_979_r3"/>Gesetz zur Sicherung und Verbesserung der
+                Berufsbildung</head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_979_r4"/>Volksbegehren</head>
+					<p>
+						<lb facs="#facs_979_r5"/>Die Unterzeichneten, im Kanton Zürich Stimmberechtigten,
+                    stellen<lb facs="#facs_979_r6"/>gemäss Artikel 29 der Kantonsverfassung und dem
+                  Gesetz über das<lb facs="#facs_979_r7"/>Vorschlagsrecht des Volkes das Begehren um
+                  den Erlass des folgenden<lb facs="#facs_979_r8"/>Gesetzes:</p>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_979_r9"/>Initiativtext</head>
+						<p>
+							<lb facs="#facs_979_r10"/>§ 1. Der Kanton ergreift Massnahmen,</p>
+						<p>
+							<lb facs="#facs_979_r11"/>a) um allen Jugendlichen, die keine Lehrstelle ihrer
+                    Wahl finden,<lb facs="#facs_979_r12"/>insbesondere den bildungsmässig
+                    benachteiligten, eine vollwertige,<lb facs="#facs_979_r13"/>zukunftsoffene
+                    Berufsbildung zu sichern,</p>
+						<p>
+							<lb facs="#facs_979_r14"/>b) um jenen Erwachsenen Umschulungs- und
+                      Weiterbildungsmöglich<lb break="no" facs="#facs_979_r15"/>keiten zu bieten,
+                    deren Beruf bedroht ist oder deren Wiedereinglie<lb break="no" facs="#facs_979_r16"/>derung ins Berufsleben erschwert ist oder die sich in
+                    ihrem Beruf<lb facs="#facs_979_r17"/>weiterbilden wollen.</p>
+						<p>
+							<lb facs="#facs_979_r18"/>§ 2. Die Ausbildung ist besonders darauf ausgerichtet,
+                      Lehrlinge<lb facs="#facs_979_r19"/>und Erwachsene für ein breites berufliches
+                    Tätigkeitsfeld vorzubereiten<lb facs="#facs_979_r20"/>und ihnen nach Abschluss
+                    der Ausbildung den ständigen Erwerb neuer<lb facs="#facs_979_r21"/>beruflicher
+                    und allgemeiner Qualifikationen zu ermöglichen.</p>
+						<p>
+							<lb facs="#facs_979_r22"/>§ 3. Zu diesem Zweck errichtet und betreibt der Kanton
+                    in mehre<lb break="no" facs="#facs_979_r23"/>ren Ortschaften Lehrwerkstätten
+                    oder entsprechende Ausbildungsstät<lb break="no" facs="#facs_979_r24"/>ten,
+                    welche die Berufsausbildung in wichtigen Branchen und Berufen<lb facs="#facs_979_r25"/>vermitteln.</p>
+						<p>
+							<lb facs="#facs_979_r26"/>Er strebt die Zusammenarbeit mit bestehenden oder neu
+                      errichteten<lb facs="#facs_979_r27"/>kommunalen Einrichtungen der
+                    Berufsbildung an.</p>
+						<p>
+							<lb facs="#facs_979_r28"/>§ 4. Die Finanzierung der Lehrwerkstätten erfolgt
+                      grundsätzlich<lb facs="#facs_979_r29"/>durch den Kanton. Zur Finanzierung der
+                    Massnahmen gemäss §§ 1, 2<lb facs="#facs_979_r30"/>und 3 des Gesetzes wird ein
+                    Fonds eröffnet, dem in den ersten drei<lb facs="#facs_979_r31"/>Jahren je
+                    mindestens 20 Mio. Franken, in den folgenden Jahren je<lb facs="#facs_979_r32"/>mindestens 10 Mio. Franken zuzuweisen sind. Der Teuerung ist Rech<lb break="no" facs="#facs_979_r33"/>nung zu tragen.</p>
+						<pb n="979" facs="#facs_980"/>
+						<p>
+							<lb facs="#facs_980_r1"/>§ 5. Der Kantonsrat setzt die Zuweisungen in dem durch
+                      dieses<lb facs="#facs_980_r2"/>Gesetz umschriebenen Rahmen mit dem jährlichen
+                    Voranschlag fest.<lb facs="#facs_980_r3"/>Der Regierungsrat verfügt im Rahmen
+                    der gesetzlichen Zweckbestim<lb break="no" facs="#facs_980_r4"/>mung über die
+                    Mittel des Fonds.</p>
+						<p>
+							<lb facs="#facs_980_r5"/>§ 6. Dieses Gesetz tritt am Tag nach der
+                    Veröffentlichung des<lb facs="#facs_980_r6"/>Kantonsratsbeschlusses über die
+                    Erwahrung in Kraft.</p>
+						<div type="subtitle" n="4">
+							<head type="subtitle" n="4">
+								<lb facs="#facs_980_r7"/>Begründung zur Initiative</head>
+							<p>
+								<lb facs="#facs_980_r8"/>Das Recht auf freie Berufswahl scheint eine
+                      Selbstverständlichkeit.</p>
+							<p>
+								<lb facs="#facs_980_r9"/>Doch immer weniger Jugendliche können ihren Beruf
+                      frei wählen:</p>
+							<p>
+								<lb facs="#facs_980_r10"/>- Über Anzahl und Art der Lehrplätze bestimmen fast
+                      allein die<lb facs="#facs_980_r11"/>Unternehmer.</p>
+							<p>
+								<lb facs="#facs_980_r12"/>- Grossbetriebe nützen den Andrang auf ihre
+                      Lehrplätze aus, indem<lb facs="#facs_980_r13"/>sie «ihren Nachwuchs» nach
+                      eigenem Bedarf auswählen. Dabei<lb facs="#facs_980_r14"/>werden z. B. den
+                      Realschülern, Ausländern und Mädchen vielfach<lb facs="#facs_980_r15"/>nur
+                      betriebliche Kurzlehren angeboten.</p>
+							<p>
+								<lb facs="#facs_980_r16"/>- 70% aller weiblichen Lehrlinge sind auf nur 6
+                      anerkannte Berufsleh<lb break="no" facs="#facs_980_r17"/>ren verteilt. Für sie
+                      ist Berufswahl ein Fremdwort.</p>
+							<p>
+								<lb facs="#facs_980_r18"/>Behörden und Unternehmer erklären, die Anzahl der
+                        Lehrstellen<lb facs="#facs_980_r19"/>erhöht zu haben. Dies stimmt wohl. Aber
+                      die zahlenmässige Vermeh<lb break="no" facs="#facs_980_r20"/>rung erfolgte auf
+                      Kosten der Ausbildungsqualität:</p>
+							<p>
+								<lb facs="#facs_980_r21"/>- Die Kantonalbehörde erteilte allein im Jahre 1977
+                      296 «Ausnahme<lb break="no" facs="#facs_980_r22"/>bewilligungen», damit
+                      gewisse Betriebe mehr Lehrlinge anstellen<lb facs="#facs_980_r23"/>konnten als
+                      gesetzlich zulässig.</p>
+							<p>
+								<lb facs="#facs_980_r24"/>- Die Lehrstellen im Gastgewerbe, im Verkauf, in
+                      Bäckereien und<lb facs="#facs_980_r25"/>Coiffeurläden wachsen jährlich um
+                      Hunderte an. Gerade in diesen<lb facs="#facs_980_r26"/>Berufen können die
+                      Lehrlinge am besten als billige Arbeitskräfte<lb facs="#facs_980_r27"/>ausgenutzt werden, haben sie am wenigsten Berufsschulunterricht,<lb facs="#facs_980_r28"/>werden sie nach der Lehre in ihrem Beruf schwerlich
+                      nach einer<lb facs="#facs_980_r29"/>Stelle suchen.</p>
+							<p>
+								<lb facs="#facs_980_r30"/>Das Resultat: Die schlechtausgebildeten und
+                      angelernten Jugendli<lb break="no" facs="#facs_980_r31"/>chen sollen den Platz
+                      der entlassenen Ausländer übernehmen. Sie<lb facs="#facs_980_r32"/>müssen
+                      unter schlechten Arbeitsbedingungen schlechtbezahlte Jobs<lb facs="#facs_980_r33"/>annehmen und werden als Heer von Lohndrückern
+                      eingesetzt.</p>
+							<p>
+								<lb facs="#facs_980_r34"/>Entgegen dieser Entwicklung muss allen
+                      Schulabgängern, unabhän<lb break="no" facs="#facs_980_r35"/>gig von ihrem
+                      Geschlecht und ihrer Nationalitat eine freie Berufswahl<lb facs="#facs_980_r36"/>ermöglicht werden. Es müssen genügend
+                      Ausbildungsplätze in zukunfts<lb break="no" facs="#facs_980_r37"/>offenen
+                      Berufen bereitgestellt werden. Leistungsschwache Jugendliche<lb facs="#facs_980_r38"/>müssen gefördert werden.</p>
+							<p>
+								<lb facs="#facs_980_r39"/>Erwachsene, die wegen ihrer ungenügenden Ausbildung
+                        entlassen<lb facs="#facs_980_r40"/>werden, oder deren gelernte Berufe durch
+                      Rationalisierung und techno-</p>
+							<pb n="980" facs="#facs_981"/>
+							<p>
+								<lb facs="#facs_981_r1"/>logische Umwälzung bedeutungslos gemacht werden,
+                      müssen Gelegen<lb break="no" facs="#facs_981_r2"/>heit zu einer Umschulung
+                      erhalten. Aus- und Weiterbildung benötigen<lb facs="#facs_981_r3"/>auch jene
+                      Frauen, die nach langjähriger ausschliesslicher Arbeit in der<lb facs="#facs_981_r4"/>Familie ins Berufsleben einsteigen wollen.</p>
+							<p>
+								<lb facs="#facs_981_r5"/>Die Errichtung von öffentlichen Lehrwerkstätten durch
+                      den Kanton<lb facs="#facs_981_r6"/>soll dazu beitragen, der Verschlechterung
+                      der Berufsausbildung einen<lb facs="#facs_981_r7"/>Riegel zu schieben und
+                      folgende Verbesserungen zu erreichen:</p>
+							<p>
+								<lb facs="#facs_981_r8"/>- Öffentliche Lehrwerkstätten ermöglichen eine
+                      umfassendere Ausbil<lb break="no" facs="#facs_981_r9"/>dung als die
+                      herkömmliche, an den Betrieb gebundene Lehre. Die<lb facs="#facs_981_r10"/>wenigen Lehrwerkstätten in Zürich, Basel beweisen dies.</p>
+							<p>
+								<lb facs="#facs_981_r11"/>- In öffentlichen Lehrwerkstätten können Frauen
+                      endlich Berufe<lb facs="#facs_981_r12"/>erlernen, die heute ausschliesslich
+                      den Männern vorbehalten sind.</p>
+							<p>
+								<lb facs="#facs_981_r13"/>- Öffentliche Lehrwerkstätten bieten Lehrlingen,
+                      Eltern und Gewerk<lb break="no" facs="#facs_981_r14"/>schaften bessere
+                      Voraussetzungen, um sich gegen willkürliche Zulas<lb break="no" facs="#facs_981_r15"/>sungsbeschränkungen und für eine umfassende
+                      Berufsbildung einzu<lb break="no" facs="#facs_981_r16"/>setzen. In
+                      Kleinbetrieben dagegen sind die Lehrlinge meist völlig der<lb facs="#facs_981_r17"/>Verfügungsgewalt des Patrons unterworfen.</p>
+							<p>
+								<lb facs="#facs_981_r18"/>- Öffentliche Lehrwerkstätten schwächen das Monopol
+                      der Unterneh<lb break="no" facs="#facs_981_r19"/>mer über die Berufsbildung.
+                      Dies ist um so dringlicher, als die<lb facs="#facs_981_r20"/>Unternehmer und
+                      ihre Politiker bei jedem Vorschlag zur Verbesse<lb break="no" facs="#facs_981_r21"/>rung der Berufsbildung (z.B. Erweiterung des
+                        Berufsschulunter<lb break="no" facs="#facs_981_r22"/>richts) mit der
+                      Aufhebung von Ausbildungsplätzen drohen.</p>
+							<p>
+								<lb facs="#facs_981_r23"/>- Öffentliche Lehrwerkstätten können jenen
+                      Erwachsenen eine<lb facs="#facs_981_r24"/>Umschulung ermöglichen, denen diese
+                      wegen zeitlicher und finan<lb break="no" facs="#facs_981_r25"/>zieller Opfer
+                      verschlossen ist.</p>
+							<p>
+								<lb facs="#facs_981_r26"/>Die jährlichen Aufwendungen von mindestens 10 Mio.
+                      Franken (20<lb facs="#facs_981_r27"/>Mio. Franken während der ersten drei
+                      Jahre) für Bereitstellung und<lb facs="#facs_981_r28"/>Betrieb von
+                      Lehrwerkstätten sind voll gerechtfertigt. Denn die 2800<lb facs="#facs_981_r29"/>Steuerfranken, welche in der Stadt Zürich jährlich für
+                      einen Lehrling<lb facs="#facs_981_r30"/>aufgebracht werden, nehmen sich im
+                      Vergleich wie ein Almosen aus<lb facs="#facs_981_r31"/>gegenüber den Fr. 7500
+                      für einen Mittelschüler bzw. Fr. 22 000 für einen<lb facs="#facs_981_r32"/>Hochschüler.</p>
+						</div>
+						<div type="subtitle" n="4">
+							<head type="subtitle" n="4">
+								<lb facs="#facs_981_r33"/>Initiativkomitee für öffentliche
+                      Lehrwerkstätten</head>
+							<p>
+								<lb facs="#facs_981_r34"/>Fredy Aeberli, Präsident Typographia Zürich,
+                      Langgrütstrasse 176,<lb facs="#facs_981_r35"/>8047 Zürich; Elisabeth Braun,
+                      Lehrerin, Müllerwies 16, 8606 Greifen<lb break="no" facs="#facs_981_r36"/>see;
+                      Ernst Gallmann, Berufsschullehrer, Edelweissstrasse 7, 8953 Dieti<lb break="no" facs="#facs_981_r37"/>kon; Andreas Gross, Journalist,
+                      Ackerstrasse 47, 8005 Zürich; Andreas<lb facs="#facs_981_r38"/>Herczog, dipl.
+                      Architekt/Kantonsrat, Seestrasse 495, 8038 Zürich; Bri<lb break="no" facs="#facs_981_r39"/>gitte Landolt, Buchhändlerin, Gasometerstrasse 27,
+                      8005 Zürich; Ernst<lb facs="#facs_981_r40"/>Ledermann, Schüler,
+                      Müllackerstrasse 32, 8152 Glattbrugg; Emil Leh-</p>
+							<pb n="981" facs="#facs_982"/>
+							<p>
+								<lb facs="#facs_982_r1"/>mann, Dr. phil ., Neumarkt 15, 8001 Zürich; Felix
+                      Müller, Historiker,<lb facs="#facs_982_r2"/>Zentralstrasse 26, 8610 Uster;
+                      Ueli Neiger, Zeichner/Maurer, Haumes<lb break="no" facs="#facs_982_r3"/>serstrasse 14, 8038 Zürich; Helene Nünlist, Hauswirtschaftslehrerin,<lb facs="#facs_982_r4"/>Traugottstrasse 8, 8005 Zürich; Silvia Ramer,
+                        Psychologin/Gemeinderä<lb break="no" facs="#facs_982_r5"/>tin,
+                      Augustinergasse 22, 8001 Zürich; Roger Albert Roth, Sekretär<lb facs="#facs_982_r6"/>Typographia Zürich, Seeblickstrasse 10, 8038 Zürich;
+                      Astrid Schelling,<lb facs="#facs_982_r7"/>Hausfrau, Burgstrasse 40, 8610
+                      Uster; Eduard Ulli, Kaufm. Angestell<lb break="no" facs="#facs_982_r8"/>ter,
+                      Köchlistrasse 14, 8004 Zürich; Daniel Vischer, Parteisekretär<lb facs="#facs_982_r9"/>POCH, Feldblumenstrasse 20, 8048 Zürich; Werner Weber,
+                        Elektro<lb break="no" facs="#facs_982_r10"/>monteur, Steinackerweg 16, 8047
+                      Zürich; Heidi Weiss, Sekretärin,<lb facs="#facs_982_r11"/>Hohlstrasse 38, 8004
+                      Zürich.</p>
+							<p>
+								<lb facs="#facs_982_r12"/>Die Mehrheit der Mitglieder des Initiativkomitees
+                      beschliesst, die<lb facs="#facs_982_r13"/>Initiative zugunsten eines
+                      allfälligen Gegenvorschlages zurückzuziehen.</p>
+							<p>
+								<lb facs="#facs_982_r14"/>Beginn der Unterschriftensammlung: <date when="1978-10-06">6. Oktober 1978</date></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_982_r16"/>Stellungnahme des Kantonsrates und des
+                Regierungsrates</head>
+				<p>
+					<lb facs="#facs_982_r17"/>(Verfasst vom Regierungsrat)</p>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_982_r18"/>I. Die Stellung der Lehrwerkstätten im schweizerischen
+                  und im<lb facs="#facs_982_r19"/>zürcherischen Berufsbildungswesen.</head>
+					<p>
+						<lb facs="#facs_982_r20"/>Das Bundesgesetz über die Berufsbildung vom <date when="1978-04-19">19. April 1978</date> nennt<lb facs="#facs_982_r23"/>die
+                  folgenden drei Arten der beruflichen Grundausbildung:</p>
+					<p>
+						<lb facs="#facs_982_r24"/>a) die Berufslehre in einem privaten oder öffentlichen
+                  Betrieb mit<lb facs="#facs_982_r25"/>gleichzeitigem Besuch der Berufsschule, wobei
+                  die praktische Aus<lb break="no" facs="#facs_982_r26"/>bildung durch Kurse zur
+                  Aneignung grundlegender Fertigkeiten<lb facs="#facs_982_r27"/>(Einführungskurse)
+                  gefördert wird;</p>
+					<p>
+						<lb facs="#facs_982_r28"/>b) die Berufslehre in einer Lehrwerkstätte oder einer
+                  Schule für Gestal<lb break="no" facs="#facs_982_r29"/>tung, die neben der
+                  praktischen Ausbildung auch den beruflichen<lb facs="#facs_982_r30"/>Unterricht
+                  vermittelt;</p>
+					<p>
+						<lb facs="#facs_982_r31"/>c) die Ausbildung in einer öffentlichen oder privaten
+                    gemeinnützigen<lb facs="#facs_982_r32"/>Handelsmittelschule, die vom Bund
+                  anerkannte Abschlussprüfungen<lb facs="#facs_982_r33"/>durchführt.</p>
+					<p>
+						<lb facs="#facs_982_r34"/>Eine öffentliche Lehrwerkstätte im Sinne des
+                    Berufsbildungsgesetzes<lb facs="#facs_982_r35"/>ist demnach eine
+                  Ausbildungstätte, in der sowohl der praktische als auch<lb facs="#facs_982_r36"/>der theoretische Teil der Berufslehre vermittelt werden.</p>
+					<pb n="982" facs="#facs_983"/>
+					<p>
+						<lb facs="#facs_983_r1"/>Die heute bestehenden Lehrwerkstätten wurden mehrheitlich
+                  um die<lb facs="#facs_983_r2"/>Jahrhundertwende gegründet mit dem Ziel, eine Elite
+                  von Berufsleuten<lb facs="#facs_983_r3"/>heranzuziehen, um das Niveau von Handwerk
+                  und Industrie zu heben<lb facs="#facs_983_r4"/>und damit die internationale
+                  Konkurrenzfähigkeit der schweizerischen<lb facs="#facs_983_r5"/>Wirtschaft zu
+                  verbessern.</p>
+					<p>
+						<lb facs="#facs_983_r6"/>Ein grosser Teil der Lehrwerkstätten wird in Anlehnung an
+                  das französi<lb break="no" facs="#facs_983_r7"/>sche Berufsbildungssystem in der
+                  Westschweiz und im Kanton Bern<lb facs="#facs_983_r8"/>geführt, während in der
+                  übrigen Schweiz die in den deutschsprachigen<lb facs="#facs_983_r9"/>Ländern
+                  Europas übliche Betriebs- bzw. Meisterlehre vorherrscht.</p>
+					<p>
+						<lb facs="#facs_983_r10"/>1974 bestanden in der Schweiz Lehrwerkstätten für rund
+                  30 Berufe,<lb facs="#facs_983_r11"/>in denen 1982 Lehrlinge ausgebildet wurden.
+                  Dies entspricht 1,4% der<lb facs="#facs_983_r12"/>damals bestehenden
+                  Lehrverhältnisse. Das BIGA subventioniert heute<lb facs="#facs_983_r13"/>rund 50
+                  Lehrwerkstätten. Davon befinden sich fünf im Kanton Zürich,<lb facs="#facs_983_r14"/>nämlich:</p>
+					<p>
+						<lb facs="#facs_983_r15"/>- die Metallarbeiterschule Winterthur für
+                    Maschinenmechaniker,<lb facs="#facs_983_r16"/>Feinmechaniker,</p>
+					<p>
+						<lb facs="#facs_983_r17"/>- die Berufsschule II der Stadt Zürich für
+                  Möbelschreiner,</p>
+					<p>
+						<lb facs="#facs_983_r18"/>- die Kunstgewerbeschule der Stadt Zürich für die Berufe
+                    Fotograf<lb facs="#facs_983_r19"/>und Grafiker,</p>
+					<p>
+						<lb facs="#facs_983_r20"/>sowie für die Ausbildung von Damenschneiderinnen</p>
+					<p>
+						<lb facs="#facs_983_r21"/>- die Schweizerische Frauenfachschule Zürich</p>
+					<p>
+						<lb facs="#facs_983_r22"/>und</p>
+					<p>
+						<lb facs="#facs_983_r23"/>- die Berufs- und Frauenfachschule Winterthur.</p>
+					<p>
+						<lb facs="#facs_983_r24"/>Gesamthaft werden jährlich 110 Lehrlinge aufgenommen (1%
+                  der im<lb facs="#facs_983_r25"/>Kanton Zürich abgeschlossenen Lehrverträge). Die
+                  Mädchen, fast aus<lb break="no" facs="#facs_983_r26"/>schliesslich ehemalige
+                  Sekundar- und Mittelschülerinnen, sind überver<lb break="no" facs="#facs_983_r27"/>treten (50% gegenüber 38% in Betriebslehren). Auch bei den Burschen<lb facs="#facs_983_r28"/>sind die Sekundar- und Mittelschüler in der Überzahl. In
+                  der Metallar<lb break="no" facs="#facs_983_r29"/>beiterschule Winterthur und in
+                  der Lehrwerkstätte für Möbelschreiner<lb facs="#facs_983_r30"/>fehlen Mädchen.
+                  Dies ist auf das mangelnde Interesse der Mädchen an<lb facs="#facs_983_r31"/>dieser Ausbildung zurückzuführen, obwohl in diesen Berufen Frauen<lb facs="#facs_983_r32"/>auf dem Arbeitsmarkt durchaus Chancen hätten.</p>
+					<p>
+						<lb facs="#facs_983_r33"/>Neben den öffentlichen Lehrwerkstätten im Sinne des
+                    Berufsbil<lb break="no" facs="#facs_983_r34"/>dunggesetzes finden sich besonders
+                  in Grossbetrieben der Maschinenin<lb break="no" facs="#facs_983_r35"/>dustrie
+                  Werkstätten, in denen Lehrlinge von pädagogisch geschulten<lb facs="#facs_983_r36"/>Berufsleuten systematisch in die Grundfertigkeiten ihres Berufes einge<lb break="no" facs="#facs_983_r37"/>führt werden. Heute verbringen viele Lehrlinge
+                  bis zu einem Jahr in<lb facs="#facs_983_r38"/>solchen betriebsinternen
+                  Ausbildungswerkstätten, wo sie eine von den<lb facs="#facs_983_r39"/>Zufälligkeiten des täglichen Geschäftsgangs befreite Einführung in ihren<lb facs="#facs_983_r40"/>Beruf erhalten.</p>
+					<pb n="983" facs="#facs_984"/>
+					<p>
+						<lb facs="#facs_984_r1"/>Die Vorteile einer systematischen schulmässigen
+                  Einführung für<lb facs="#facs_984_r2"/>Lehrlinge in einer Lernphase haben
+                  verschiedene Berufsverbände ver<lb break="no" facs="#facs_984_r3"/>anlasst,
+                  ähnliche Werkstätten in Ausbildungszentren einzurichten, in<lb facs="#facs_984_r4"/>denen überbetriebliche Einführungskurse für ihre Lehrlinge zur Aneig<lb break="no" facs="#facs_984_r5"/>nung der grundlegenden Fertigkeiten durchgeführt
+                  werden. Im Kanton<lb facs="#facs_984_r6"/>Zürich besuchen heute schon über die
+                  Hälfte der gewerblich-industriel<lb break="no" facs="#facs_984_r7"/>len Lehrlinge
+                  mehrwöchige Einführungskurse. Damit ist eine gewisse<lb facs="#facs_984_r8"/>Annäherung zwischen dem System der reinen Betriebslehre und der<lb facs="#facs_984_r9"/>Ausbildung in Lehrwerkstätten vollzogen worden. Nach dem
+                    neuen<lb facs="#facs_984_r10"/>Berufsbildungsgesetz sind alle Berufsverbände
+                  verpflichtet, innert sie<lb break="no" facs="#facs_984_r11"/>ben Jahren solche
+                  Einführungskurse einzurichten. Der Besuch der<lb facs="#facs_984_r12"/>Kurse ist
+                  für alle Lehrlinge des Berufs obligtorisch, wobei Lehrlinge von<lb facs="#facs_984_r13"/>Betrieben, welche die grundlegenden Fertigkeiten in einer
+                    betriebsinter<lb break="no" facs="#facs_984_r14"/>nen Ausbildungswerkstätte oder
+                  in gleichwertiger Form vermitteln, vom<lb facs="#facs_984_r15"/>Kursbesuch befreit
+                  werden können.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_984_r16"/>II. Stellungnahme zum Initiativbegehren</head>
+					<p>
+						<lb facs="#facs_984_r17"/>Die Initiative verlangt, dass der Kanton in mehreren
+                    Ortschaften<lb facs="#facs_984_r18"/>Lehrwerkstätten oder entsprechende
+                  Ausbildungsstätten errichtet und<lb facs="#facs_984_r19"/>betreibt, welche die
+                  Berufsausbildung in wichtigen Branchen und Beru<lb break="no" facs="#facs_984_r20"/>fen vermitteln, mit den Zielen,</p>
+					<p>
+						<lb facs="#facs_984_r21"/>a) allen Jugendlichen, die keine Lehrstelle ihrer Wahl
+                  finden, insbeson<lb break="no" facs="#facs_984_r22"/>dere den bildungsmässig
+                  benachteiligten, eine vollwertige zukunfts<lb break="no" facs="#facs_984_r23"/>offene Berufsbildung zu sichern,</p>
+					<p>
+						<lb facs="#facs_984_r24"/>b) jenen Erwachsenen Umschulungs- und
+                    Weiterbildungsmöglichkei<lb break="no" facs="#facs_984_r25"/>ten zu bieten,
+                  deren Beruf bedroht ist oder deren Wiedereinglieder<lb facs="#facs_984_r26"/>rung
+                  ins Berufsleben erschwert ist oder die sich in ihrem Beruf<lb facs="#facs_984_r27"/>weiterbilden wollen.</p>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_984_r28"/>1. Berufliche Grundausbildung</head>
+						<p>
+							<lb facs="#facs_984_r29"/>Die Betriebslehre ist für die Verhältnisse im Kanton
+                    Zürich grund<lb break="no" facs="#facs_984_r30"/>sätzlich nach wie vor die
+                    zweckmässigste Form der beruflichen Grund<lb break="no" facs="#facs_984_r31"/>ausbildung. Sie ist praxisnah und vermittelt im Berufsalltag nebst fachli<lb break="no" facs="#facs_984_r32"/>cher auch menschliche und betriebliche
+                    Erfahrung, die eine Lehrwerk<lb break="no" facs="#facs_984_r33"/>stätte nicht zu
+                    bieten vermag.</p>
+						<p>
+							<lb facs="#facs_984_r34"/>Die Betriebslehre hat zudem den Vorteil, dass sie sehr
+                      dezentrali<lb break="no" facs="#facs_984_r35"/>siert durchgeführt werden kann,
+                    was angesichts der grossen Lehrlings<lb break="no" facs="#facs_984_r36"/>zahl in
+                    unserem Kanton von wesentlicher Bedeutung ist. Die Qualität<lb facs="#facs_984_r37"/>der Ausbildung in der Betriebslehre ist im allgemeinen
+                    gut und hält auch<lb facs="#facs_984_r38"/>internationalem Vergleich stand. In
+                    den Jahren der Rezession und der</p>
+						<pb n="984" facs="#facs_985"/>
+						<p>
+							<lb facs="#facs_985_r1"/>grossen Zahlen schulentlassener Jugendlicher erwies
+                    sich das System der<lb facs="#facs_985_r2"/>Betriebslehre bei der Aufnahme der
+                    Lehrstellensuchenden als elastisch.<lb facs="#facs_985_r3"/>Es wurde auch den
+                    Anforderungen des Arbeitsmarktes insofern<lb facs="#facs_985_r4"/>gerecht, als
+                    die Lehrabsolventen grösstenteils eine ihrer Ausbildung<lb facs="#facs_985_r5"/>entsprechende Tätigkeit fanden. Schliesslich belastet die Betriebslehre<lb facs="#facs_985_r6"/>die öffentliche Hand erheblich weniger als die Ausbildung
+                    in einer<lb facs="#facs_985_r7"/>Lehrwerkstätte. Die vorstehend aufgeführten
+                    fünf Lehrwerkstätten<lb facs="#facs_985_r8"/>belasten Kanton und Gemeinden
+                    jährlich mit rund 5,37 Mio. Franken.<lb facs="#facs_985_r9"/>Die Ausbildung
+                    eines Lehrlings in einer Betriebslehre kostet Bund,<lb facs="#facs_985_r10"/>Kanton und Gemeinden jährlich rund 2700 Franken, diejenige in einer<lb facs="#facs_985_r11"/>Lehrwerkstätte 6200 - 13 000 Franken.</p>
+						<p>
+							<lb facs="#facs_985_r12"/>Das neue Berufsbildungsgesetz hält daher mit gutem
+                    Grund am<lb facs="#facs_985_r13"/>Prinzip der Betriebslehre fest. Diese soll vor
+                    allem noch wirkungsvoller<lb facs="#facs_985_r14"/>und attraktiver gestaltet
+                    werden durch</p>
+						<p>
+							<lb facs="#facs_985_r15"/>- das Obligatorium der Einführungskurse</p>
+						<p>
+							<lb facs="#facs_985_r16"/>- das Obligatorium der Ausbildungskurse für
+                    Lehrmeister</p>
+						<p>
+							<lb facs="#facs_985_r17"/>- den Ausbau des freiwilligen Unterrichts an den
+                    Berufsschulen durch<lb facs="#facs_985_r18"/>Freifächer, Stützkurse und
+                    Berufsmittelschule.</p>
+						<p>
+							<lb facs="#facs_985_r19"/>Die berufliche Grundausbildung im Kanton Zürich kann
+                    und soll<lb facs="#facs_985_r20"/>grundsätzlich mit der Weiterentwicklung der
+                    Betriebslehre im Rahmen<lb facs="#facs_985_r21"/>des neuen Berufbildungsgesetzes
+                    und nicht mit der Schaffung öffentli<lb break="no" facs="#facs_985_r22"/>cher
+                    Lehrwerkstätten im Sinne der Initiative verbessert werden.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_985_r23"/>2. Berufliche Weiterbildung</head>
+						<p>
+							<lb facs="#facs_985_r24"/>Im Kanton Zürich besteht an den Berufsschulen sowie an
+                      weiteren<lb facs="#facs_985_r25"/>Bildungsstätten, wie z. B. an der
+                    Schweizerischen Technischen Fach<lb break="no" facs="#facs_985_r26"/>schule
+                    Winterthur, an der Schweizerischen Fachschule für Betriebsfach<lb break="no" facs="#facs_985_r27"/>leute, an der Höheren Wirtschafts- und
+                    Verwaltungsschule, an der<lb facs="#facs_985_r28"/>Schweizerischen Fachschule
+                    für den Detailhandel, an den Kurszentren<lb facs="#facs_985_r29"/>für
+                    ausländische Berufstätige usw ., die alle vom Staat finanziell geför<lb break="no" facs="#facs_985_r30"/>dert werden, ein breites
+                    Weiterbildungsangebot. Die Errichtung von<lb facs="#facs_985_r31"/>öffentlichen
+                    Lehrwerkstätten zur Erweiterung der Umschulungs- und<lb facs="#facs_985_r32"/>Weiterbildungsmöglichkeiten erübrigt sich daher.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_985_r33"/>3. Die Begründung der Initiative</head>
+						<p>
+							<lb facs="#facs_985_r34"/>Zu den Ausführungen der Initianten zur Begründung
+                    ihres Begeh<lb break="no" facs="#facs_985_r35"/>rens kann wie folgt Stellung
+                    genommen werden:</p>
+						<p>
+							<lb facs="#facs_985_r36"/>- Entgegen der Darstellung der Initianten ist für den
+                    grössten Teil der<lb facs="#facs_985_r37"/>Jugendlichen im Kanton Zürich die
+                    Berufswahlfreiheit insofern<lb facs="#facs_985_r38"/>gegeben, als
+                    unterschiedliche Eignungen berücksichtigt und realisti<lb break="no" facs="#facs_985_r39"/>sche Berufschancen auf Berufsfeldebene erfüllt werden
+                    können. Für</p>
+						<pb n="985" facs="#facs_986"/>
+						<p>
+							<lb facs="#facs_986_r1"/>einige Gruppen, z. B. für Mädchen aus Real- und
+                    Oberschulen, ist<lb facs="#facs_986_r2"/>die Berufswahl allerdings
+                    eingeschränkt.</p>
+						<p>
+							<lb facs="#facs_986_r3"/>- Es trifft zwar zu, dass in unserem
+                    Berufsbildungssystem über Art<lb facs="#facs_986_r4"/>und Anzahl der
+                    Ausbildungsplätze hauptsächlich die Arbeitgeber<lb facs="#facs_986_r5"/>bestimmen. Dies hat sich jedoch in den letzten Jahrzehnten bewährt,<lb facs="#facs_986_r6"/>denn die Zahl der Lehrstellen ist kontinuierlich
+                    gestiegen (Gesamt<lb break="no" facs="#facs_986_r7"/>bestand an
+                    Lehrverhältnissen: 1970 = 21 958; 1980 = 30 436). Die<lb facs="#facs_986_r8"/>Absolventen von Berufslehren haben im allgemeinen ohne grössere<lb facs="#facs_986_r9"/>Schwierigkeiten Arbeitsplätze gefunden. Eine Änderung
+                      dieser<lb facs="#facs_986_r10"/>Situation zeichnet sich nicht ab. Selbst in
+                    den schwierigen Jahren<lb facs="#facs_986_r11"/>1975 bis 1977 fanden die
+                    Lehrabgänger zum grössten Teil innert<lb facs="#facs_986_r12"/>weniger Monate
+                    eine zusagende Tätigkeit.</p>
+						<p>
+							<lb facs="#facs_986_r13"/>- Die Behauptung der Initianten, Grossbetriebe nützten
+                    den 'Andrang<lb facs="#facs_986_r14"/>auf ihre Lehrstellen aus, stimmt nicht.
+                    Gerade Grossbetriebe der<lb facs="#facs_986_r15"/>Maschinen- und Metallindustrie
+                    achten auf eine genügende Berück<lb break="no" facs="#facs_986_r16"/>sichtigung
+                    von Real- und Oberschülern. Schwierigkeiten entstehen<lb facs="#facs_986_r17"/>bei Ausländern, die die deutsche Sprache nicht oder nicht genügend<lb facs="#facs_986_r18"/>beherrschen. Sie können mit gezielten Massnahmen, wie
+                      beispiels<lb break="no" facs="#facs_986_r19"/>weise den von der Stadt Zürich
+                    durchgeführten und vom Staat<lb facs="#facs_986_r20"/>subventionierten
+                    Integrationskursen, aufgefangen werden.</p>
+						<p>
+							<lb facs="#facs_986_r21"/>- Die Konzentration eines grossen Teils der
+                    Lehrtöchter auf recht<lb facs="#facs_986_r22"/>wenige Lehrberufe ist eine
+                    Tatsache. Auf die fünf meistbesetzten<lb facs="#facs_986_r23"/>Lehrberufe
+                    entfallen</p>
+						<p>
+							<lb facs="#facs_986_r24"/>33% der Oberschüler und 77% der Oberschülerinnen</p>
+						<p>
+							<lb facs="#facs_986_r25"/>35% der Realschüler und 69% der Realschülerinnen</p>
+						<p>
+							<lb facs="#facs_986_r26"/>42% der Sekundarschüler und 71% der
+                    Sekundarschülerinnen.</p>
+						<p>
+							<lb facs="#facs_986_r27"/>Immerhin bietet die von fast 40% der Mädchen gewählte
+                      kaufmänni<lb break="no" facs="#facs_986_r28"/>sche Ausbildung (kaufmännische
+                    Angstellte Typ R und S und Büro<lb break="no" facs="#facs_986_r29"/>angestellte)
+                    eine sehr breite Grundausbildung als Vorbereitung auf<lb facs="#facs_986_r30"/>viele verschiedene Tätigkeiten und Weiterbildungsmöglichkeiten.</p>
+						<p>
+							<lb facs="#facs_986_r31"/>- Zum Vorwurf der Initianten, das Amt für
+                    Berufsbildung habe Aus<lb break="no" facs="#facs_986_r32"/>nahmebewilligungen
+                    erteilt, «damit gewisse Betriebe mehr Lehr<lb break="no" facs="#facs_986_r33"/>linge anstellen konnten als gesetzlich zulässig», ist festzuhalten, dass<lb facs="#facs_986_r34"/>das Amt für Berufsbildung gemäss Art. 15 Abs. 3 des
+                      Berufsbil<lb break="no" facs="#facs_986_r35"/>dungsgesetzes befugt ist, bei
+                    Mangel an geeigneten Lehrstellen im<lb facs="#facs_986_r36"/>Einzelfall die
+                    Höchstzahl der Lehrlinge vorübergehend zu erhöhen,<lb facs="#facs_986_r37"/>sofern dies die fachgemässe Ausbildung nicht beeinträchtigt. Da<lb facs="#facs_986_r38"/>diese Voraussetzung jeweils erfüllt war, hat das Amt für
+                      Berufsbil<lb break="no" facs="#facs_986_r39"/>dung die Ausnahmebewilligung zu
+                    Recht erteilt. Bei rund 26 000<lb facs="#facs_986_r40"/>Lehrverhältnissen im
+                    Kanton Zürich waren die 1977 erteilten rund<lb facs="#facs_986_r41"/>300
+                    Ausnahmebewilligungen durchaus zu verantworten.</p>
+						<pb n="986" facs="#facs_987"/>
+						<p>
+							<lb facs="#facs_987_r1"/>- Die Behauptung, dass die Lehrlingszahlen nur in
+                    Berufen mit gerin<lb break="no" facs="#facs_987_r2"/>gen Chancen auf dem
+                    Arbeitsmarkt wachsen würden, ist unzutref<lb break="no" facs="#facs_987_r3"/>fend. Auch Berufe mit gutem Stellenangebot wie beispielsweise<lb facs="#facs_987_r4"/>Kellner, Maler, Autolackierer und
+                    Detailhandelsangestellter weisen<lb facs="#facs_987_r5"/>stark wachsende
+                    Lehrlingszahlen auf.</p>
+						<p>
+							<lb facs="#facs_987_r6"/>Kantonsrat und Regierungsrat lehnen die Schaffung von
+                      öffentlichen<lb facs="#facs_987_r7"/>Lehrwerkstätten in der mit der Initiative
+                    verlangten Form ab. Sie<lb facs="#facs_987_r8"/>empfehlen den Stimmberechtigten,
+                    die Initiative abzulehnen.</p>
+					</div>
+				</div>
+			</div>
+		</body></text></TEI>

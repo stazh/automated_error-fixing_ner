@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-04-08">08.04.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>2445 Änderung der Statuten der Versicherungskasse für das Staatspersonal vom 8. März 1972 (vom 3. Juni 1981)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-08-07">07.08.1981</date><ident>StAZH ABl 1981 (S. 1157-1166)</ident><idno>1157–1166</idno><idno type="issue">33</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132369"/><note>Vorlagen-Nr. 2445</note></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_169" uly="0" ulx="0" lry="2371" lrx="1575">
+			<graphic url="Abl_1981_2__S__0169.tif" width="1575px" height="2371px"/>
+			<zone xml:id="facs_169_r22" ulx="135" uly="906" lrx="1304" lry="936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r40" ulx="135" uly="1814" lrx="1303" lry="1845" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r44" ulx="189" uly="2029" lrx="679" lry="2059" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r28" ulx="137" uly="1208" lrx="1306" lry="1238" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r1" ulx="414" uly="2229" lrx="660" lry="2254" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r10" ulx="137" uly="64" lrx="609" lry="93" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r7" ulx="229" uly="325" lrx="492" lry="358" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r42" ulx="137" uly="1902" lrx="1302" lry="1932" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r19" ulx="189" uly="775" lrx="1306" lry="804" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r14" ulx="136" uly="700" lrx="193" lry="722" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r4" ulx="137" uly="216" lrx="600" lry="251" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r11" ulx="622" uly="64" lrx="797" lry="90" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r35" ulx="137" uly="1556" lrx="1299" lry="1588" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r17" ulx="1316" uly="775" lrx="1441" lry="801" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r12" ulx="137" uly="527" lrx="628" lry="557" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r23" ulx="139" uly="950" lrx="1302" lry="980" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r41" ulx="135" uly="1856" lrx="1304" lry="1888" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r27" ulx="135" uly="1164" lrx="1304" lry="1196" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r0" ulx="137" uly="2231" lrx="408" lry="2256" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r2" ulx="1270" uly="2227" lrx="1302" lry="2246" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r38" ulx="187" uly="1727" lrx="1302" lry="1754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r36" ulx="139" uly="1600" lrx="1304" lry="1631" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r16" ulx="435" uly="695" lrx="882" lry="724" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r32" ulx="135" uly="1423" lrx="1302" lry="1453" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r15" ulx="210" uly="695" lrx="427" lry="724" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r8" ulx="138" uly="406" lrx="210" lry="433" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r24" ulx="135" uly="1006" lrx="220" lry="1027" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r6" ulx="135" uly="329" lrx="204" lry="359" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r29" ulx="134" uly="1254" lrx="1028" lry="1286" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r3" ulx="135" uly="156" lrx="227" lry="182" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r5" ulx="134" uly="272" lrx="1060" lry="304" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r13" ulx="224" uly="652" lrx="1306" lry="679" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r30" ulx="191" uly="1335" lrx="1303" lry="1365" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r21" ulx="133" uly="862" lrx="1297" lry="894" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r25" ulx="189" uly="1075" lrx="1304" lry="1105" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r34" ulx="137" uly="1512" lrx="1303" lry="1543" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r9" ulx="229" uly="400" lrx="441" lry="430" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r37" ulx="139" uly="1645" lrx="1298" lry="1676" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r43" ulx="137" uly="1950" lrx="877" lry="1977" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r20" ulx="133" uly="818" lrx="1311" lry="849" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r26" ulx="139" uly="1120" lrx="1304" lry="1149" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r39" ulx="137" uly="1768" lrx="1302" lry="1799" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r18" ulx="1322" uly="816" lrx="1488" lry="840" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r33" ulx="137" uly="1464" lrx="1304" lry="1496" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_169_r31" ulx="133" uly="1377" lrx="1304" lry="1409" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_170" uly="0" ulx="0" lry="2372" lrx="1580">
+			<graphic url="Abl_1981_2__S__0170.tif" width="1580px" height="2372px"/>
+			<zone xml:id="facs_170_r40" ulx="262" uly="2078" lrx="1440" lry="2112" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r30" ulx="262" uly="1634" lrx="1438" lry="1666" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r6" ulx="266" uly="443" lrx="677" lry="471" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r24" ulx="262" uly="1356" lrx="1438" lry="1390" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r27" ulx="264" uly="1494" lrx="547" lry="1522" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r23" ulx="266" uly="1315" lrx="1444" lry="1347" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r39" ulx="260" uly="2038" lrx="1436" lry="2067" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r34" ulx="262" uly="1813" lrx="1441" lry="1845" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r22" ulx="268" uly="1271" lrx="1438" lry="1303" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r8" ulx="921" uly="443" lrx="1438" lry="473" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r15" ulx="268" uly="852" lrx="434" lry="877" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r29" ulx="264" uly="1590" lrx="1425" lry="1622" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r38" ulx="262" uly="1990" lrx="1434" lry="2022" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r1" ulx="40" uly="233" lrx="185" lry="254" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r41" ulx="262" uly="2126" lrx="1044" lry="2155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r7" ulx="689" uly="441" lrx="912" lry="472" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r26" ulx="266" uly="1448" lrx="1440" lry="1479" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r37" ulx="262" uly="1946" lrx="1436" lry="1980" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r2" ulx="323" uly="229" lrx="1438" lry="259" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r25" ulx="264" uly="1404" lrx="1427" lry="1435" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r13" ulx="975" uly="610" lrx="1130" lry="641" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r17" ulx="273" uly="1013" lrx="558" lry="1037" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r35" ulx="260" uly="1859" lrx="1436" lry="1889" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r3" ulx="267" uly="273" lrx="1436" lry="304" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r28" ulx="321" uly="1546" lrx="1438" lry="1578" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r10" ulx="325" uly="562" lrx="1438" lry="597" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r5" ulx="339" uly="396" lrx="1442" lry="427" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r16" ulx="268" uly="931" lrx="875" lry="960" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r14" ulx="327" uly="689" lrx="1434" lry="721" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r36" ulx="262" uly="1903" lrx="1436" lry="1934" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r9" ulx="268" uly="485" lrx="516" lry="514" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r31" ulx="260" uly="1679" lrx="1438" lry="1710" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r32" ulx="262" uly="1723" lrx="1438" lry="1755" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r4" ulx="268" uly="318" lrx="815" lry="349" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r33" ulx="260" uly="1769" lrx="1440" lry="1800" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r12" ulx="731" uly="612" lrx="967" lry="641" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r20" ulx="266" uly="1179" lrx="1442" lry="1213" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r19" ulx="266" uly="1138" lrx="1442" lry="1169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r18" ulx="323" uly="1092" lrx="1444" lry="1124" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r0" ulx="268" uly="145" lrx="339" lry="168" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r11" ulx="268" uly="608" lrx="723" lry="640" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_170_r21" ulx="265" uly="1225" lrx="1444" lry="1257" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_171" uly="0" ulx="0" lry="2371" lrx="1577">
+			<graphic url="Abl_1981_2__S__0171.tif" width="1577px" height="2371px"/>
+			<zone xml:id="facs_171_r15" ulx="135" uly="966" lrx="1305" lry="995" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r18" ulx="135" uly="1097" lrx="1303" lry="1128" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r1" ulx="193" uly="231" lrx="1301" lry="258" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r12" ulx="136" uly="831" lrx="1297" lry="861" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r26" ulx="139" uly="1464" lrx="1303" lry="1493" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r5" ulx="137" uly="408" lrx="905" lry="438" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r6" ulx="137" uly="531" lrx="1060" lry="563" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r23" ulx="137" uly="1331" lrx="1307" lry="1360" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r24" ulx="135" uly="1375" lrx="1304" lry="1406" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r2" ulx="137" uly="272" lrx="1303" lry="304" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r4" ulx="137" uly="362" lrx="1304" lry="393" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r38" ulx="141" uly="2006" lrx="1308" lry="2036" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r10" ulx="137" uly="741" lrx="1303" lry="774" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r40" ulx="139" uly="2095" lrx="1309" lry="2127" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r25" ulx="141" uly="1416" lrx="1307" lry="1447" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r30" ulx="137" uly="1643" lrx="1308" lry="1672" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r3" ulx="137" uly="316" lrx="1302" lry="349" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r9" ulx="139" uly="700" lrx="1303" lry="729" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r22" ulx="198" uly="1287" lrx="1306" lry="1315" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r35" ulx="137" uly="1873" lrx="1306" lry="1903" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r34" ulx="137" uly="1829" lrx="1305" lry="1859" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r28" ulx="135" uly="1550" lrx="1307" lry="1581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r39" ulx="136" uly="2052" lrx="1305" lry="2082" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r7" ulx="191" uly="612" lrx="1303" lry="641" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r37" ulx="139" uly="1960" lrx="1312" lry="1991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r13" ulx="135" uly="879" lrx="1301" lry="908" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r21" ulx="137" uly="1235" lrx="594" lry="1263" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r17" ulx="139" uly="1054" lrx="1309" lry="1084" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r16" ulx="137" uly="1012" lrx="1295" lry="1041" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r36" ulx="139" uly="1916" lrx="1310" lry="1948" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r14" ulx="135" uly="920" lrx="1306" lry="951" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r29" ulx="139" uly="1595" lrx="1307" lry="1627" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r19" ulx="139" uly="1143" lrx="1305" lry="1174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r27" ulx="135" uly="1508" lrx="1306" lry="1537" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r11" ulx="135" uly="789" lrx="1303" lry="818" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r32" ulx="137" uly="1733" lrx="924" lry="1762" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r0" ulx="1228" uly="147" lrx="1301" lry="170" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r8" ulx="135" uly="658" lrx="1304" lry="686" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r33" ulx="196" uly="1785" lrx="1307" lry="1816" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r31" ulx="141" uly="1687" lrx="1304" lry="1716" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_171_r20" ulx="137" uly="1187" lrx="1303" lry="1216" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_172" uly="0" ulx="0" lry="2372" lrx="1581">
+			<graphic url="Abl_1981_2__S__0172.tif" width="1581px" height="2372px"/>
+			<zone xml:id="facs_172_r2" ulx="269" uly="266" lrx="1440" lry="300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r26" ulx="262" uly="1486" lrx="1443" lry="1513" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r17" ulx="260" uly="1067" lrx="569" lry="1093" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r28" ulx="264" uly="1573" lrx="1439" lry="1602" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r19" ulx="264" uly="1175" lrx="1439" lry="1203" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r10" ulx="264" uly="754" lrx="1439" lry="783" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r16" ulx="260" uly="1021" lrx="1439" lry="1049" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r27" ulx="262" uly="1529" lrx="1447" lry="1559" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r14" ulx="264" uly="931" lrx="1437" lry="962" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r38" ulx="266" uly="2044" lrx="1434" lry="2075" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r8" ulx="262" uly="666" lrx="1437" lry="696" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r36" ulx="262" uly="1957" lrx="1439" lry="1987" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r3" ulx="269" uly="312" lrx="1438" lry="343" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r34" ulx="319" uly="1869" lrx="1441" lry="1898" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r30" ulx="262" uly="1661" lrx="1433" lry="1691" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r20" ulx="264" uly="1217" lrx="1441" lry="1246" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r24" ulx="266" uly="1398" lrx="1443" lry="1426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r25" ulx="262" uly="1438" lrx="1439" lry="1470" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r1" ulx="268" uly="227" lrx="1444" lry="257" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r21" ulx="264" uly="1261" lrx="1443" lry="1290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r35" ulx="263" uly="1909" lrx="1441" lry="1942" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r5" ulx="262" uly="491" lrx="711" lry="523" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r0" ulx="266" uly="143" lrx="337" lry="164" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r37" ulx="264" uly="2001" lrx="1434" lry="2031" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r31" ulx="264" uly="1707" lrx="1443" lry="1736" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r33" ulx="262" uly="1798" lrx="815" lry="1826" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r13" ulx="262" uly="885" lrx="1439" lry="916" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r6" ulx="319" uly="573" lrx="1439" lry="606" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r7" ulx="260" uly="621" lrx="1434" lry="650" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r22" ulx="264" uly="1306" lrx="1443" lry="1336" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r32" ulx="269" uly="1750" lrx="1441" lry="1780" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r15" ulx="260" uly="975" lrx="1434" lry="1004" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r4" ulx="264" uly="366" lrx="400" lry="390" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r11" ulx="264" uly="794" lrx="1440" lry="827" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r9" ulx="264" uly="708" lrx="1441" lry="737" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r23" ulx="264" uly="1350" lrx="1444" lry="1379" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r18" ulx="323" uly="1131" lrx="1439" lry="1158" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r12" ulx="260" uly="842" lrx="1437" lry="872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r29" ulx="264" uly="1617" lrx="1443" lry="1648" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_172_r39" ulx="264" uly="2088" lrx="1437" lry="2120" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_173" uly="0" ulx="0" lry="2371" lrx="1576">
+			<graphic url="Abl_1981_2__S__0173.tif" width="1576px" height="2371px"/>
+			<zone xml:id="facs_173_r8" ulx="133" uly="668" lrx="1304" lry="699" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r32" ulx="131" uly="1752" lrx="1300" lry="1779" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r3" ulx="135" uly="331" lrx="1303" lry="358" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r17" ulx="130" uly="1077" lrx="1302" lry="1107" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r18" ulx="131" uly="1122" lrx="1298" lry="1152" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r37" ulx="129" uly="1975" lrx="1305" lry="2002" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r39" ulx="129" uly="2062" lrx="1301" lry="2091" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r25" ulx="132" uly="1437" lrx="1303" lry="1469" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r21" ulx="130" uly="1256" lrx="1298" lry="1286" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r38" ulx="129" uly="2014" lrx="1299" lry="2047" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r0" ulx="1233" uly="162" lrx="1302" lry="184" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r26" ulx="135" uly="1485" lrx="1300" lry="1513" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r30" ulx="133" uly="1660" lrx="1302" lry="1689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r34" ulx="129" uly="1837" lrx="1302" lry="1868" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r13" ulx="135" uly="893" lrx="1303" lry="921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r14" ulx="135" uly="937" lrx="1302" lry="965" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r20" ulx="133" uly="1210" lrx="1301" lry="1240" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r1" ulx="137" uly="243" lrx="1304" lry="271" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r12" ulx="133" uly="850" lrx="1304" lry="876" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r19" ulx="126" uly="1164" lrx="1296" lry="1196" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r5" ulx="137" uly="497" lrx="996" lry="529" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r35" ulx="131" uly="1883" lrx="1304" lry="1912" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r7" ulx="135" uly="622" lrx="1302" lry="653" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r10" ulx="137" uly="758" lrx="1302" lry="787" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r28" ulx="133" uly="1573" lrx="1304" lry="1600" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r27" ulx="133" uly="1527" lrx="1302" lry="1557" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r4" ulx="137" uly="372" lrx="573" lry="403" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r36" ulx="131" uly="1927" lrx="1304" lry="1956" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r24" ulx="131" uly="1395" lrx="1300" lry="1425" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r40" ulx="131" uly="2104" lrx="669" lry="2134" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r9" ulx="135" uly="714" lrx="1302" lry="742" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r23" ulx="191" uly="1348" lrx="1305" lry="1381" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r22" ulx="128" uly="1304" lrx="314" lry="1327" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r6" ulx="191" uly="577" lrx="1302" lry="607" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r15" ulx="131" uly="981" lrx="377" lry="1006" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r31" ulx="131" uly="1704" lrx="1304" lry="1734" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r33" ulx="129" uly="1793" lrx="1304" lry="1822" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r29" ulx="131" uly="1616" lrx="1302" lry="1645" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r11" ulx="136" uly="804" lrx="1302" lry="831" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r2" ulx="137" uly="283" lrx="1302" lry="313" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_173_r16" ulx="189" uly="1033" lrx="1300" lry="1063" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_174" uly="0" ulx="0" lry="2374" lrx="1581">
+			<graphic url="Abl_1981_2__S__0174.tif" width="1581px" height="2374px"/>
+			<zone xml:id="facs_174_r0" ulx="263" uly="158" lrx="336" lry="180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r20" ulx="262" uly="1260" lrx="1445" lry="1291" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r42" ulx="838" uly="2055" lrx="1449" lry="2085" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r10" ulx="262" uly="648" lrx="1074" lry="678" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r35" ulx="262" uly="1840" lrx="1447" lry="1870" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r23" ulx="871" uly="1304" lrx="1444" lry="1336" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r41" ulx="602" uly="2057" lrx="832" lry="2086" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r37" ulx="262" uly="1930" lrx="1126" lry="1961" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r39" ulx="1136" uly="2011" lrx="1447" lry="2039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r18" ulx="317" uly="1173" lrx="1441" lry="1201" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r31" ulx="269" uly="1659" lrx="1445" lry="1691" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r21" ulx="264" uly="1308" lrx="575" lry="1338" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r16" ulx="262" uly="1015" lrx="588" lry="1045" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r2" ulx="269" uly="283" lrx="1439" lry="312" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r28" ulx="264" uly="1529" lrx="1445" lry="1561" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r24" ulx="266" uly="1350" lrx="1443" lry="1379" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r7" ulx="269" uly="504" lrx="1442" lry="534" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r12" ulx="264" uly="746" lrx="1440" lry="775" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r25" ulx="261" uly="1398" lrx="1443" lry="1426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r14" ulx="269" uly="833" lrx="1443" lry="862" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r6" ulx="266" uly="458" lrx="1439" lry="490" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r32" ulx="264" uly="1706" lrx="1445" lry="1737" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r15" ulx="266" uly="879" lrx="1362" lry="910" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r5" ulx="266" uly="416" lrx="1430" lry="447" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r17" ulx="262" uly="1092" lrx="832" lry="1122" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r8" ulx="266" uly="552" lrx="604" lry="578" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r3" ulx="269" uly="327" lrx="1443" lry="359" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r36" ulx="266" uly="1884" lrx="1445" lry="1914" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r11" ulx="321" uly="700" lrx="1443" lry="729" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r40" ulx="266" uly="2057" lrx="586" lry="2086" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r27" ulx="264" uly="1484" lrx="1445" lry="1514" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r4" ulx="269" uly="371" lrx="1439" lry="402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r33" ulx="269" uly="1750" lrx="1447" lry="1779" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r29" ulx="264" uly="1571" lrx="1443" lry="1603" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r22" ulx="596" uly="1306" lrx="863" lry="1337" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r30" ulx="266" uly="1619" lrx="1447" lry="1648" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r34" ulx="266" uly="1794" lrx="1445" lry="1825" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r9" ulx="321" uly="602" lrx="1443" lry="632" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r26" ulx="265" uly="1440" lrx="1445" lry="1472" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r13" ulx="271" uly="789" lrx="1441" lry="819" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r38" ulx="327" uly="2011" lrx="1122" lry="2040" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r43" ulx="270" uly="2100" lrx="1447" lry="2131" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r1" ulx="323" uly="239" lrx="1439" lry="270" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_174_r19" ulx="262" uly="1215" lrx="1441" lry="1247" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_175" uly="0" ulx="0" lry="2370" lrx="1576">
+			<graphic url="Abl_1981_2__S__0175.tif" width="1576px" height="2370px"/>
+			<zone xml:id="facs_175_r19" ulx="877" uly="679" lrx="1303" lry="707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r22" ulx="137" uly="810" lrx="1302" lry="839" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r29" ulx="135" uly="1121" lrx="1298" lry="1150" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r14" ulx="139" uly="589" lrx="212" lry="616" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r26" ulx="135" uly="988" lrx="1304" lry="1017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r45" ulx="131" uly="1788" lrx="1302" lry="1818" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r25" ulx="137" uly="946" lrx="1302" lry="975" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r20" ulx="137" uly="721" lrx="1302" lry="751" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r17" ulx="137" uly="677" lrx="648" lry="706" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r2" ulx="710" uly="233" lrx="946" lry="262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r38" ulx="133" uly="1477" lrx="1304" lry="1506" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r11" ulx="533" uly="544" lrx="750" lry="574" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r31" ulx="133" uly="1211" lrx="1211" lry="1238" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r34" ulx="133" uly="1300" lrx="1300" lry="1328" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r33" ulx="133" uly="1254" lrx="1302" lry="1283" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r12" ulx="758" uly="544" lrx="1056" lry="574" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r18" ulx="665" uly="679" lrx="869" lry="707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r13" ulx="1075" uly="544" lrx="1303" lry="573" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r7" ulx="138" uly="408" lrx="1304" lry="440" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r15" ulx="218" uly="585" lrx="1292" lry="617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r32" ulx="1225" uly="1213" lrx="1302" lry="1239" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r42" ulx="132" uly="1655" lrx="1298" lry="1686" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r43" ulx="130" uly="1700" lrx="1299" lry="1731" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r10" ulx="138" uly="539" lrx="512" lry="573" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r30" ulx="137" uly="1163" lrx="1301" lry="1195" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r4" ulx="137" uly="277" lrx="1304" lry="306" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r44" ulx="130" uly="1742" lrx="1296" lry="1774" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r40" ulx="131" uly="1565" lrx="1298" lry="1597" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r46" ulx="131" uly="1836" lrx="1261" lry="1864" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r27" ulx="135" uly="1033" lrx="1304" lry="1061" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r37" ulx="133" uly="1434" lrx="1300" lry="1463" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r16" ulx="138" uly="631" lrx="1307" lry="662" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r36" ulx="131" uly="1390" lrx="1298" lry="1418" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r48" ulx="129" uly="1959" lrx="1300" lry="1988" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r6" ulx="139" uly="364" lrx="1305" lry="396" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r23" ulx="134" uly="852" lrx="1302" lry="884" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r47" ulx="183" uly="1913" lrx="1300" lry="1944" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r3" ulx="954" uly="233" lrx="1305" lry="262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r50" ulx="131" uly="2046" lrx="1300" lry="2077" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r5" ulx="136" uly="320" lrx="1307" lry="351" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r21" ulx="139" uly="764" lrx="1300" lry="795" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r8" ulx="135" uly="454" lrx="1307" lry="484" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r41" ulx="133" uly="1611" lrx="1298" lry="1640" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r1" ulx="135" uly="231" lrx="702" lry="261" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r24" ulx="135" uly="900" lrx="1302" lry="929" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r49" ulx="131" uly="2005" lrx="1300" lry="2034" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r35" ulx="133" uly="1344" lrx="1302" lry="1373" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r39" ulx="133" uly="1523" lrx="1300" lry="1552" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r28" ulx="135" uly="1077" lrx="1302" lry="1106" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r0" ulx="1229" uly="150" lrx="1301" lry="173" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r9" ulx="136" uly="500" lrx="1307" lry="529" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_175_r51" ulx="131" uly="2092" lrx="1303" lry="2121" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_176" uly="0" ulx="0" lry="2372" lrx="1582">
+			<graphic url="Abl_1981_2__S__0176.tif" width="1582px" height="2372px"/>
+			<zone xml:id="facs_176_r20" ulx="319" uly="1225" lrx="1442" lry="1254" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r23" ulx="268" uly="1379" lrx="681" lry="1407" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r13" ulx="323" uly="883" lrx="1440" lry="917" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r40" ulx="270" uly="2117" lrx="1448" lry="2146" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r12" ulx="325" uly="844" lrx="1442" lry="873" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r28" ulx="327" uly="1571" lrx="542" lry="1595" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r30" ulx="270" uly="1671" lrx="1448" lry="1702" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r24" ulx="702" uly="1377" lrx="915" lry="1405" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r2" ulx="266" uly="300" lrx="1440" lry="329" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r38" ulx="270" uly="2028" lrx="1448" lry="2058" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r1" ulx="268" uly="256" lrx="1438" lry="284" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r0" ulx="266" uly="170" lrx="339" lry="190" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r19" ulx="381" uly="1177" lrx="646" lry="1201" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r7" ulx="262" uly="614" lrx="479" lry="639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r39" ulx="273" uly="2071" lrx="1450" lry="2103" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r10" ulx="264" uly="789" lrx="677" lry="819" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r15" ulx="325" uly="985" lrx="1438" lry="1013" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r33" ulx="270" uly="1805" lrx="1446" lry="1834" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r21" ulx="381" uly="1271" lrx="1438" lry="1302" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r16" ulx="379" uly="1031" lrx="1327" lry="1059" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r3" ulx="270" uly="341" lrx="1440" lry="372" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r31" ulx="268" uly="1713" lrx="1444" lry="1745" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r6" ulx="267" uly="479" lrx="448" lry="505" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r9" ulx="264" uly="737" lrx="802" lry="765" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r17" ulx="325" uly="1081" lrx="1436" lry="1112" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r27" ulx="327" uly="1521" lrx="1442" lry="1549" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r4" ulx="268" uly="389" lrx="1442" lry="417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r11" ulx="698" uly="787" lrx="958" lry="817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r22" ulx="380" uly="1317" lrx="1051" lry="1345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r14" ulx="323" uly="933" lrx="1115" lry="961" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r5" ulx="264" uly="431" lrx="1442" lry="462" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r37" ulx="270" uly="1982" lrx="1444" lry="2014" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r18" ulx="383" uly="1127" lrx="1438" lry="1156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r35" ulx="268" uly="1894" lrx="1446" lry="1925" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r8" ulx="323" uly="692" lrx="1427" lry="722" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r25" ulx="327" uly="1429" lrx="1442" lry="1459" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r29" ulx="327" uly="1627" lrx="1431" lry="1657" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r34" ulx="268" uly="1850" lrx="1444" lry="1880" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r26" ulx="329" uly="1475" lrx="1440" lry="1506" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r36" ulx="270" uly="1938" lrx="1450" lry="1969" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_176_r32" ulx="268" uly="1763" lrx="1448" lry="1792" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_177" uly="0" ulx="0" lry="2370" lrx="1577">
+			<graphic url="Abl_1981_2__S__0177.tif" width="1577px" height="2370px"/>
+			<zone xml:id="facs_177_r14" ulx="131" uly="827" lrx="1299" lry="858" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r13" ulx="129" uly="781" lrx="1301" lry="812" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r37" ulx="139" uly="2005" lrx="1312" lry="2037" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r8" ulx="131" uly="558" lrx="1295" lry="590" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r39" ulx="139" uly="2094" lrx="1306" lry="2125" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r21" ulx="369" uly="1100" lrx="665" lry="1129" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r35" ulx="137" uly="1915" lrx="1309" lry="1950" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r15" ulx="129" uly="871" lrx="1187" lry="901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r24" ulx="131" uly="1188" lrx="1289" lry="1220" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r34" ulx="194" uly="1871" lrx="1311" lry="1903" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r6" ulx="185" uly="471" lrx="1296" lry="501" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r25" ulx="191" uly="1250" lrx="1304" lry="1282" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r17" ulx="133" uly="965" lrx="1304" lry="996" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r32" ulx="137" uly="1769" lrx="1308" lry="1801" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r19" ulx="131" uly="1054" lrx="1299" lry="1085" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r22" ulx="673" uly="1098" lrx="1299" lry="1127" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r27" ulx="133" uly="1473" lrx="538" lry="1502" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r20" ulx="129" uly="1104" lrx="358" lry="1132" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r1" ulx="123" uly="231" lrx="1298" lry="266" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r12" ulx="129" uly="733" lrx="1301" lry="767" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r30" ulx="129" uly="1682" lrx="1304" lry="1714" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r4" ulx="129" uly="364" lrx="1296" lry="396" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r23" ulx="133" uly="1142" lrx="1300" lry="1174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r26" ulx="133" uly="1302" lrx="456" lry="1331" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r33" ulx="133" uly="1819" lrx="857" lry="1848" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r0" ulx="1222" uly="152" lrx="1293" lry="174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r11" ulx="131" uly="692" lrx="1297" lry="723" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r31" ulx="135" uly="1725" lrx="1294" lry="1757" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r9" ulx="131" uly="602" lrx="1300" lry="634" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r18" ulx="133" uly="1008" lrx="1303" lry="1042" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r16" ulx="131" uly="921" lrx="1302" lry="950" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r2" ulx="129" uly="277" lrx="1293" lry="309" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r5" ulx="127" uly="414" lrx="686" lry="445" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r10" ulx="127" uly="644" lrx="1299" lry="677" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r3" ulx="127" uly="321" lrx="1284" lry="352" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r7" ulx="127" uly="512" lrx="1299" lry="546" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r28" ulx="132" uly="1552" lrx="1303" lry="1611" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r38" ulx="137" uly="2046" lrx="1311" lry="2081" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r36" ulx="137" uly="1961" lrx="1309" lry="1991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_177_r29" ulx="133" uly="1638" lrx="1303" lry="1668" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_178" uly="0" ulx="0" lry="2372" lrx="1580">
+			<graphic url="Abl_1981_2__S__0178.tif" width="1580px" height="2372px"/>
+			<zone xml:id="facs_178_r41" ulx="475" uly="2073" lrx="669" lry="2100" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r4" ulx="333" uly="371" lrx="1454" lry="404" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r16" ulx="690" uly="1017" lrx="1267" lry="1057" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r21" ulx="955" uly="1267" lrx="1190" lry="1297" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r31" ulx="268" uly="1692" lrx="1442" lry="1723" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r34" ulx="664" uly="1734" lrx="981" lry="1764" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r1" ulx="277" uly="227" lrx="1452" lry="261" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r25" ulx="271" uly="1396" lrx="1088" lry="1429" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r12" ulx="1114" uly="729" lrx="1291" lry="755" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r39" ulx="329" uly="1938" lrx="1090" lry="1968" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r24" ulx="271" uly="1352" lrx="1444" lry="1384" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r26" ulx="273" uly="1479" lrx="817" lry="1507" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r27" ulx="358" uly="1602" lrx="825" lry="1632" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r10" ulx="757" uly="725" lrx="951" lry="748" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r30" ulx="268" uly="1646" lrx="1444" lry="1677" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r20" ulx="473" uly="1265" lrx="935" lry="1295" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r17" ulx="272" uly="1067" lrx="819" lry="1100" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r7" ulx="479" uly="535" lrx="679" lry="562" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r42" ulx="1092" uly="2105" lrx="1444" lry="2130" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r28" ulx="848" uly="1604" lrx="1119" lry="1632" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r14" ulx="275" uly="1023" lrx="343" lry="1049" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r11" ulx="1113" uly="679" lrx="1447" lry="707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r23" ulx="272" uly="1308" lrx="1450" lry="1342" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r2" ulx="276" uly="273" lrx="1452" lry="306" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r15" ulx="364" uly="1017" lrx="681" lry="1050" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r18" ulx="272" uly="1219" lrx="1436" lry="1251" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r29" ulx="1127" uly="1607" lrx="1444" lry="1633" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r36" ulx="1246" uly="1738" lrx="1444" lry="1767" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r0" ulx="280" uly="147" lrx="350" lry="168" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r3" ulx="276" uly="316" lrx="873" lry="348" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r6" ulx="273" uly="533" lrx="473" lry="562" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r35" ulx="1000" uly="1736" lrx="1238" lry="1766" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r40" ulx="266" uly="2071" lrx="464" lry="2099" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r32" ulx="270" uly="1736" lrx="441" lry="1762" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r8" ulx="754" uly="627" lrx="1281" lry="656" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r9" ulx="758" uly="679" lrx="1000" lry="705" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r22" ulx="1196" uly="1269" lrx="1450" lry="1298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r43" ulx="1090" uly="2157" lrx="1262" lry="2180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r38" ulx="342" uly="1857" lrx="917" lry="1889" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r5" ulx="277" uly="414" lrx="919" lry="446" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r37" ulx="268" uly="1777" lrx="464" lry="1804" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r19" ulx="275" uly="1263" lrx="466" lry="1290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r13" ulx="276" uly="960" lrx="1121" lry="998" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_178_r33" ulx="460" uly="1736" lrx="658" lry="1764" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1157" facs="#facs_169"/>
+			<p>
+				<add place="above" type="remark">
+					<lb facs="#facs_169_r10"/>Antrag des <orgName n="ce0b2b5e-e2ee-41d4-8b2b-5ee2eea1d440">Regierungsrates</orgName> vom <date when="1981-06-03">3. Juni
+              1981</date></add>
+			</p>
+			<p>
+				<lb facs="#facs_169_r12"/>Der <orgName n="1dfe4780-c623-4bd6-be47-80c623cbd664">Regierungsrat</orgName> beschliesst:</p>
+			<p>
+				<lb facs="#facs_169_r13"/>I. Die Statuten der Versicherungskasse für das Staatspersonal<lb facs="#facs_169_r14"/>vom <date when="1972-03-08">8. März 1972</date> werden wie folgt
+          geändert:</p>
+			<p>
+				<add type="marginal" place="right">
+					<lb facs="#facs_169_r17"/>Kreis der<lb facs="#facs_169_r18"/>Versicherten</add>
+			</p>
+			<p>
+				<lb facs="#facs_169_r19"/>§ 2. Die Versicherung umfasst das gesamte im Dienst des
+            Staates<lb facs="#facs_169_r20"/>stehende Personal, in der Folge Angestellte oder
+          Versicherte genannt,<lb facs="#facs_169_r21"/>mit Einschluss der Mitglieder des
+          <orgName n="0bbc8e29-8a93-4276-bc8e-298a93627671">Regierungsrates</orgName>, des <orgName n="fc091d62-e6b5-42cd-891d-62e6b552cd1b">Obergerichtes</orgName>,<lb facs="#facs_169_r22"/>des <orgName n="5a7c7255-92dc-4366-bc72-5592dcf36687">Kassationsgerichtes</orgName> und
+          des <orgName n="9b25d72c-93a4-460d-a5d7-2c93a4760d5d">Verwaltungsgerichtes</orgName>, der Lehrer der<lb facs="#facs_169_r23"/>kantonalen Mittelschulen
+          sowie der Assistenzprofessoren der <orgName n="0fb70158-8e50-4885-b701-588e50788573">Univer<lb break="no" facs="#facs_169_r24"/>sität.</orgName>sität.</p>
+			<p>
+				<lb facs="#facs_169_r25"/>§ 15 Abs. 5. Bei freiwilligem vorzeitigem Rücktritt im Sinne von
+          § 32<lb facs="#facs_169_r26"/>Abs. 5 wird die nach Abs. 1 bis 3 berechnete versicherte
+            Besoldung<lb facs="#facs_169_r27"/>gekürzt. Die Kürzung beträgt für jeden Monat, um den
+          der Rücktritt<lb facs="#facs_169_r28"/>vorverlegt wird, 0,5 Prozent. Diese Kürzung
+          vermindert sich für jedes<lb facs="#facs_169_r29"/>volle effektive Beitragsjahr über 35 um
+          einen Fünftel.</p>
+			<p>
+				<lb facs="#facs_169_r30"/>§ 19 Abs. 1. Angestellte, die freiwillig aus dem Staatsdienst
+            und<lb facs="#facs_169_r31"/>zugleich aus der Versicherungskasse zurücktreten, haben
+          Anspruch auf<lb facs="#facs_169_r32"/>eine Austrittsentschädigung, die der Summe ihrer
+          persönlichen Beiträge<lb facs="#facs_169_r33"/>ohne Zins entspricht. Dazu kommt als
+          Freizügigkeitsleistung für jedes<lb facs="#facs_169_r34"/>über vier hinausgehende volle
+          Beitragsjahr ein Zuschlag von vier Pro<lb break="no" facs="#facs_169_r35"/>zent der vom
+          Angestellten geleisteten Beiträge gemäss §§ 62 und 63.<lb facs="#facs_169_r36"/>Auf den
+          wegen zu hohen Eintrittsalters geleisteten Nachzahlungen und<lb facs="#facs_169_r37"/>Einkaufsbeträgen gemäss §§ 11 und 13 wird kein Zuschlag ausgerichtet.</p>
+			<p>
+				<lb facs="#facs_169_r38"/>§ 32 Abs. 5. Versicherte können frühestens auf den ersten Tag
+            des<lb facs="#facs_169_r39"/>der Vollendung des 60. Altersjahres folgenden Monats,
+          Lehrer frühe<lb break="no" facs="#facs_169_r40"/>stens auf das der Vollendung des 60.
+          Altersjahres folgende Ende des<lb facs="#facs_169_r41"/>Schulsemesters freiwillig
+          zurücktreten und ab diesem Zeitpunkt eine<lb facs="#facs_169_r42"/>Altersrente beziehen.
+          Die Rücktrittserklärung ist dem Arbeitgeber min<lb break="no" facs="#facs_169_r43"/>destens drei Monate im voraus einzureichen.</p>
+			<p>
+				<lb facs="#facs_169_r44"/>§ 69 Abs. 7 wird aufgehoben.</p>
+			<pb n="1158" facs="#facs_170"/>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_170_r1"/>Verweisung</add>
+			</p>
+			<p>
+				<lb facs="#facs_170_r2"/>§ 72a. Die Bestimmungen der Statuten, deren Geltungsbereich<lb facs="#facs_170_r3"/>nicht auf die Vollversicherung beschränkt ist, finden für die
+            Sparversi<lb break="no" facs="#facs_170_r4"/>cherung sinngemäss Anwendung.</p>
+			<p>
+				<lb facs="#facs_170_r5"/>II. Der freiwillige Rücktritt gemäss § 32 Abs. 5 der Statuten
+            ist<lb facs="#facs_170_r6"/>erstmals möglich auf den <date when="1982-04-01">1. April
+            1982,</date> für Lehrer auf Ende des Schul<lb break="no" facs="#facs_170_r9"/>jahres
+          1981/82.</p>
+			<p>
+				<lb facs="#facs_170_r10"/>III. Diese Änderungen treten nach ihrer Genehmigung durch <orgName n="0838497f-b55b-4ac0-b849-7fb55b0ac0a4">den<lb facs="#facs_170_r11"/>Kantonsrat</orgName> mit Wirkung ab <date when="1982-01-01">1. Januar
+            1982</date> in Kraft.</p>
+			<p>
+				<lb facs="#facs_170_r14"/>IV. Veröffentlichung im Amtsblatt und in der
+          Gesetzessammlung.</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_170_r15"/>Weisung</head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_170_r16"/>A. Die flexible Alterspensionierung</head>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_170_r17"/>1. Das Bedürfnis</head>
+						<p>
+							<lb facs="#facs_170_r18"/>Seit einiger Zeit mehren sich die Begehren, welche die
+                  Einführung<lb facs="#facs_170_r19"/>des freiwilligen vorzeitigen Altersrücktritts
+                bezwecken und damit grund<lb break="no" facs="#facs_170_r20"/>sätzlich für jeden
+                Versicherten die Möglichkeit schaffen wollen, inner<lb break="no" facs="#facs_170_r21"/>halb eines Zeitraums von mehreren Jahren den Zeitpunkt für
+                  die<lb facs="#facs_170_r22"/>Alterspensionierung frei wählen zu können. Neben den
+                  <orgName n="4c55cd2d-c5d7-4da0-95cd-2dc5d7eda0eb">Vereinigten<lb facs="#facs_170_r23"/>Verbänden des Staatspersonals</orgName>, die in den
+                Verhandlungen mit der<lb facs="#facs_170_r24"/>Finanzdirektion wiederholt auf die
+                Dringlichkeit dieses Problems hinge<lb break="no" facs="#facs_170_r25"/>wiesen
+                haben, ersuchen auch einzelne Versicherte immer wieder um<lb facs="#facs_170_r26"/>vorzeitigen Rücktritt, wobei jedoch der Wunsch besteht, nicht als<lb facs="#facs_170_r27"/>invalid zu gelten.</p>
+						<p>
+							<lb facs="#facs_170_r28"/>Die starke Beanspruchung durch die berufliche Tätigkeit
+                führt dazu,<lb facs="#facs_170_r29"/>dass sich Versicherte häufig schon längere Zeit
+                vor der Altersgrenze am<lb facs="#facs_170_r30"/>Ende ihrer Leistungsfähigkeit und
+                mit den heutigen Arbeitsmethoden<lb facs="#facs_170_r31"/>nicht mehr vertraut
+                fühlen, aber medizinisch gesehen noch nicht invalid<lb facs="#facs_170_r32"/>sind.
+                Derartige Feststellungen werden praktisch bei allen Personalgrup<lb break="no" facs="#facs_170_r33"/>pen gemacht, und zwar bei Personen beiderlei Geschlechts.
+                Eine früh<lb break="no" facs="#facs_170_r34"/>zeitige körperliche oder geistige
+                Abnützung ist insbesondere bei Perso<lb break="no" facs="#facs_170_r35"/>nal mit
+                unregelmässiger Arbeitszeit (Schichtarbeit) und bei Lehrkräften<lb facs="#facs_170_r36"/>feststellbar. Die in solchen Fällen entstehenden beruflichen
+                  Schwierig<lb break="no" facs="#facs_170_r37"/>keiten sind in der Regel durch
+                Versetzung und Weiterbeschäftigung in<lb facs="#facs_170_r38"/>irgendeiner Form
+                nicht lösbar. Der Leistungsabfall lässt es daher auch<lb facs="#facs_170_r39"/>für
+                den Arbeitgeber als wünschbar erscheinen, den Versicherten auch<lb facs="#facs_170_r40"/>bei nicht eindeutig nachweisbarer Invalidität die Aufgabe
+                ihrer Tätigkeit<lb facs="#facs_170_r41"/>vor der ordentlichen Altersgrenze zu
+                erlauben.</p>
+						<pb n="1159" facs="#facs_171"/>
+						<p>
+							<lb facs="#facs_171_r1"/>Vorzeitige Rücktritte können das Angebot an freien
+                  Arbeitsplätzen<lb facs="#facs_171_r2"/>vergrössern und dadurch je nach Lage des
+                Arbeitsmarktes die Personal<lb break="no" facs="#facs_171_r3"/>beschaffung
+                erschweren oder das Angebot für Stellensuchende verbes<lb break="no" facs="#facs_171_r4"/>sern. Nach andernorts gemachten Erfahrungen treten allerdings
+                  verhält<lb break="no" facs="#facs_171_r5"/>nismässig wenige Versicherte freiwillig
+                zurück.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_171_r6"/>2. Die Regelung in andern Kantonen und bei der <orgName n="e737cc4b-fe29-4543-b7cc-4bfe2905432c">AHV</orgName></head>
+						<p>
+							<lb facs="#facs_171_r7"/>Die flexible Alterspensionierung ist heute bereits in 17
+                  Kantonen<lb facs="#facs_171_r8"/>realisiert worden, so u. a. in den Kantonen <placeName n="b6646846-c561-49f7-a468-46c56109f79a">Bern,
+              </placeName>  <placeName n="330732c9-8202-45aa-8732-c9820275aaac">Luzern</placeName>, <placeName n="7796bec2-62cd-460a-96be-c262cd960afc">Schaffhausen</placeName>,<lb facs="#facs_171_r9"/><placeName n="88849165-ca30-4500-8491-65ca30250049">Basel-Stadt</placeName>, <placeName n="1f19f0bf-9f6c-4268-99f0-bf9f6cf268d9">Baselland</placeName>, <placeName n="144127c2-0618-4706-8127-c20618670650">Waadt</placeName> und
+                <placeName n="72cb23a6-e742-4aa4-8b23-a6e7420aa48c">Genf</placeName>. Hingegen fehlt eine solche<lb facs="#facs_171_r10"/>Regelung bei den drei
+                Koordinationspartnern <orgName n="d48ecb6d-5512-4f40-8ecb-6d5512ff40c5">Bund</orgName>, Stadt <placeName n="776ed120-98b4-4df3-aed1-2098b4ddf31e">Zürich</placeName> und<lb facs="#facs_171_r11"/>Stadt
+                <placeName n="1597322a-3e3e-48d8-9732-2a3e3ec8d87c">Winterthur</placeName>. Sie steht beim <orgName n="88333827-d7fc-4d3c-b338-27d7fcdd3cad">Bund</orgName> überhaupt noch nicht zur Diskus<lb break="no" facs="#facs_171_r12"/>sion und wird voraussichtlich erst diskutiert, wenn sie bei
+                der AHV<lb facs="#facs_171_r13"/>verwirklicht wird. Allerdings können Frauen mit 35
+                  Beitragsjahren<lb facs="#facs_171_r14"/>schon heute früher zurücktreten. Bei der
+                Stadt <placeName n="b3b78771-e2fc-4ff3-b787-71e2fceff3e8">Zürich</placeName> ist eine Totalrevi<lb break="no" facs="#facs_171_r15"/>sion der
+                Statuten der Versicherungskasse im Gange, wobei voraussicht<lb break="no" facs="#facs_171_r16"/>lich lediglich bei den Männern eine Vorverschiebung des
+                Rücktritts um<lb facs="#facs_171_r17"/>drei Jahre, also auf das vollendete 62.
+                Altersjahr, angestrebt wird. Bei<lb facs="#facs_171_r18"/>der Stadt <placeName n="6079bbf8-a3e4-4cc5-b9bb-f8a3e4bcc5d4">Winterthur</placeName> ist
+                ein Begehren auf Einführung der flexiblen<lb facs="#facs_171_r19"/>Altersgrenze
+                eingereicht worden. Der in nächster Zeit noch nicht zu<lb facs="#facs_171_r20"/>erwartende Entscheid wird von der Entwicklung beim <orgName n="a5b675f4-f905-4ba7-b675-f4f9059ba7db">Kanton</orgName> und bei<lb facs="#facs_171_r21"/>der Stadt <placeName n="8b2b09b2-9203-4c51-ab09-b292033c51d2">Zürich</placeName> abhängen.</p>
+						<p>
+							<lb facs="#facs_171_r22"/>Der Altersrücktritt ist bei den Männern in der Regel auf
+                das vollen<lb break="no" facs="#facs_171_r23"/>dete 65. Altersjahr, bei den Frauen
+                hingegen bereits auf das 62. oder<lb facs="#facs_171_r24"/>sogar auf das 60.
+                Altersjahr festgesetzt. Während beim statutarischen<lb facs="#facs_171_r25"/>Rücktrittsalter teilweise Übereinstimmung besteht, sind hinsichtlich des<lb facs="#facs_171_r26"/>flexiblen Altersrücktritts sehr unterschiedliche Lösungen
+                  festzustellen.<lb facs="#facs_171_r27"/>Die Dauer der Vorverschiebung des
+                Rücktritts beträgt bei den Männern<lb facs="#facs_171_r28"/>zwei bis fünf Jahre,
+                ebenso bei den Frauen. Teilweise ist jedoch bei<lb facs="#facs_171_r29"/>Frauen gar
+                keine Vorverschiebung möglich. Durch die Kombination der<lb facs="#facs_171_r30"/>verschiedenen Möglichkeiten ergeben sich von Kasse zu Kasse grosse<lb facs="#facs_171_r31"/>Unterschiede hinsichtlich der getroffenen Lösung, die es
+                  verunmögli<lb break="no" facs="#facs_171_r32"/>chen, auf bevorzugte Regelungen zu
+                schliessen.</p>
+						<p>
+							<lb facs="#facs_171_r33"/>Bei der <orgName n="d46b7c1c-7336-472d-ab7c-1c7336d72d5d">Eidg</orgName>. <orgName n="b302fb1e-60ef-40e6-82fb-1e60ef80e690">Alters- und Hinterlassenenversicherung
+               </orgName> stellt die<lb facs="#facs_171_r34"/>flexible Altersgrenze eines der Probleme dar,
+                die im Zusammenhang<lb facs="#facs_171_r35"/>mit der vorgesehenen 10. AHV-Revision
+                eingehend geprüft werden.<lb facs="#facs_171_r36"/>Eine Lösung zeichnet sich aber
+                noch nicht ab. Die <orgName n="b615d1ef-77e1-437d-95d1-ef77e1d37d24">Beamtenversiche<lb break="no" facs="#facs_171_r37"/>rungskasse
+               </orgName> koordiniert ihre Leistungen grundsätzlich mit denjenigen <orgName n="aa2d01c7-f739-497b-ad01-c7f739d97bc7">der<lb facs="#facs_171_r38"/>AHV</orgName>. Die Einführung der flexiblen Altersgrenze vor deren Veranke<lb break="no" facs="#facs_171_r39"/>rung im AHV-Gesetz bedingt, dass die
+                <orgName n="33874149-f690-420f-8741-49f690020fa5">Beamtenversicherungskasse</orgName> von<lb facs="#facs_171_r40"/>diesem Konzept zumindest
+                vorübergehend etwas abrückt und die vorge-</p>
+						<pb n="1160" facs="#facs_172"/>
+						<p>
+							<lb facs="#facs_172_r1"/>sehene Regelung zu gegebener Zeit wenn nötig dem Ergebnis
+                  der<lb facs="#facs_172_r2"/>10. AHV-Revision sowie gegebenenfalls einem
+                Bundesgesetz über die<lb facs="#facs_172_r3"/>berufliche Alters -, Hinterlassenen-
+                und Invalidenvorsorge (2. Säule)<lb facs="#facs_172_r4"/>anpasst.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_172_r5"/>3. Finanzielle Erwägungen</head>
+						<p>
+							<lb facs="#facs_172_r6"/>Die Vorverlegung des Pensionierungszeitpunktes bewirkt eine
+                  Ver<lb break="no" facs="#facs_172_r7"/>längerung der Dauer des Rentenbezuges um
+                Monate oder Jahre und<lb facs="#facs_172_r8"/>ausserdem den Ausfall der
+                Beitragsleistungen während der gleichen<lb facs="#facs_172_r9"/>Dauer. Für die
+                <orgName n="9ead8b3f-0add-49b2-ad8b-3f0addb9b205">Beamtenversicherungskasse</orgName> entsteht somit eine ins<lb facs="#facs_172_r10"/>Gewicht
+                fallende Mehrbelastung, welche durch erhöhte Beiträge oder<lb facs="#facs_172_r11"/>herabgesetzte Versicherungsleistungen ausgeglichen werden muss. Eine<lb facs="#facs_172_r12"/>allgemeine Beitragserhöhung ist jedoch abzulehnen, da sie
+                  diejenigen<lb facs="#facs_172_r13"/>Versicherten, denen der vorzeitige Rücktritt
+                nicht möglich oder nicht<lb facs="#facs_172_r14"/>erwünscht ist, benachteiligt. Es
+                ist auch nicht gerechtfertigt, den Staat<lb facs="#facs_172_r15"/>oder die
+                <orgName n="1289ac52-f44c-4639-89ac-52f44ca639c9">Beamtenversicherungskasse</orgName> zusätzlich zu belasten. Die finan<lb break="no" facs="#facs_172_r16"/>ziellen Nachteile sind vielmehr von den vorzeitig
+                zurücktretenden Versi<lb break="no" facs="#facs_172_r17"/>cherten zu tragen.</p>
+						<p>
+							<lb facs="#facs_172_r18"/>Versicherte mit vorverschobenem Altersrücktritt erleiden
+                  einen<lb facs="#facs_172_r19"/>wesentlichen Einnahmenausfall, da Frauen bis zum
+                vollendeten 62. und<lb facs="#facs_172_r20"/>Männer bis zum 65. Altersjahr noch
+                keine AHV-Rente beziehen; sie<lb facs="#facs_172_r21"/>haben auch als
+                Nichterwerbstätige noch AHV-Beiträge zu leisten. Es ist<lb facs="#facs_172_r22"/>jedoch nicht möglich, anstelle der <orgName n="15922498-5189-466e-9224-985189b66ead">AHV</orgName> einen Zuschuss zu gewähren, da<lb facs="#facs_172_r23"/>für die Finanzierung aus Gründen der Gleichbehandlung aller
+                  Versi<lb break="no" facs="#facs_172_r24"/>cherten weder der <orgName n="87a918c2-0d72-446c-a918-c20d72b46cf3">Staat</orgName> noch die
+                <orgName n="4d1a12a5-3a6c-48ec-9a12-a53a6cb8ecb6">Beamtenversicherungskasse</orgName> aufkom<lb break="no" facs="#facs_172_r25"/>men können. Es
+                ist auch nicht empfehlenswert, die Altersrente vorüber<lb break="no" facs="#facs_172_r26"/>gehend zu erhöhen, da sie zum Ausgleich vom Beginn der
+                  AHV-Rente<lb facs="#facs_172_r27"/>an erheblich vermindert werden müsste. Hingegen
+                ist zu erwarten, dass<lb facs="#facs_172_r28"/>manche Versicherte, die vom
+                vorzeitigen Rücktritt Gebrauch machen<lb facs="#facs_172_r29"/>werden, sich einer
+                andern bezahlten, allenfalls reduzierten Tätigkeit<lb facs="#facs_172_r30"/>zuwenden
+                werden, die ihren Fähigkeiten und Neigungen in diesem<lb facs="#facs_172_r31"/>Zeitpunkt eher entspricht. Mit der aus einer solchen Tätigkeit erzielten<lb facs="#facs_172_r32"/>Entschädigung können die Einnahmenausfälle erheblich
+                  reduziert,<lb facs="#facs_172_r33"/>wenn nicht kompensiert werden.</p>
+						<p>
+							<lb facs="#facs_172_r34"/>Die Abklärungen haben ergeben, dass für den Ausgleich der
+                  Mehr<lb break="no" facs="#facs_172_r35"/>leistungen und Minderbeiträge als
+                gangbare Regelung eine dauernde<lb facs="#facs_172_r36"/>Herabsetzung der
+                Kassenleistungen in Betracht gezogen werden muss,<lb facs="#facs_172_r37"/>wie sie
+                auch bei andern Pensionskassen üblich ist. Jeder Monat, um den<lb facs="#facs_172_r38"/>der Rücktritt vorverlegt wird, erfordert nach
+                  versicherungstechnischen<lb facs="#facs_172_r39"/>Grundsätzen eine Kürzung um
+                0,7%. Im Einzelfall hängen die genauen</p>
+						<pb n="1161" facs="#facs_173"/>
+						<p>
+							<lb facs="#facs_173_r1"/>Werte vom Alter bzw. von der Dauer der Vorverschiebung ab.
+                Eine für<lb facs="#facs_173_r2"/>die Versicherten überblickbare und administrativ
+                einfache Lösung wird<lb facs="#facs_173_r3"/>erreicht, indem eine einheitliche
+                Kürzung in Prozenten der versicherten<lb facs="#facs_173_r4"/>Besoldung festgelegt
+                wird.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_173_r5"/>4. Die vorgesehene Regelung und ihre Auswirkung</head>
+						<p>
+							<lb facs="#facs_173_r6"/>Die Pensionskassen nehmen in der Regel jährliche Kürzungen
+                von 6<lb facs="#facs_173_r7"/>bis 8% vor. Die Unterschiede sind hauptsächlich auf
+                das Finanzierungs<lb break="no" facs="#facs_173_r8"/>system und den Deckungsgrad
+                zurückzuführen. Bei der <orgName n="03120588-2563-4ac5-9205-8825637ac53a">AHV</orgName> wäre bei<lb facs="#facs_173_r9"/>Einführung des
+                flexiblen Rücktrittsalters eine Herabsetzung der Lei<lb break="no" facs="#facs_173_r10"/>stungen um etwa 8 bis 10% zu erwarten. Für die
+                  <orgName n="0c70beaa-f92b-4ace-b0be-aaf92b3acefe">Beamtenversicherungs<lb break="no" facs="#facs_173_r11"/>kasse</orgName> wird eine im
+                Vergleich zu andern Pensionskassen eher niedrige<lb facs="#facs_173_r12"/>Kürzung
+                als angemessen erachtet, welche für den Versicherten bereits<lb facs="#facs_173_r13"/>ein gewisses Entgegenkommen darstellt, jedoch für die <orgName n="0f5f2d65-9b51-4434-9f2d-659b514434b3">Beamtenversi<lb break="no" facs="#facs_173_r14"/>cherungskasse</orgName> voraussichtlich keine zu beachtenden
+                finanziellen Verlu<lb break="no" facs="#facs_173_r15"/>ste verursacht.</p>
+						<p>
+							<lb facs="#facs_173_r16"/>Bei der <orgName n="828c21a3-539e-4e28-8c21-a3539e2e28c9">Beamtenversicherungskasse</orgName> wird nach 35
+                Beitragsjahren die<lb facs="#facs_173_r17"/>höchstmögliche Altersrente von 60%
+                ausgerichtet. Sie kann durch<lb facs="#facs_173_r18"/>zusätzliche Beitragsjahre
+                nicht weiter erhöht werden, obwohl sie nach<lb facs="#facs_173_r19"/>versicherungsmathematischen Grundsätzen weitgehend finanziert ist.<lb facs="#facs_173_r20"/>Es ist daher gerechtfertigt, ab 35 Beitragsjahren eine
+                  verminderte<lb facs="#facs_173_r21"/>Kürzung vorzusehen und nach 40 überhaupt auf
+                eine Kürzung zu<lb facs="#facs_173_r22"/>verzichten.</p>
+						<p>
+							<lb facs="#facs_173_r23"/>Aus der Einführung der flexiblen Altersgrenze sind in
+                  personalpoliti<lb break="no" facs="#facs_173_r24"/>scher Hinsicht keine Probleme
+                zu erwarten, die gegen einen vorzeitigen<lb facs="#facs_173_r25"/>freiwilligen
+                Rücktritt sprechen, da aufgrund der Erfahrungen in andern<lb facs="#facs_173_r26"/>Verwaltungen nur mit einer kleinen Zahl von vorzeitig zurücktretenden<lb facs="#facs_173_r27"/>Versicherten zu rechnen ist. Auch der Zeitpunkt des
+                  frühestmöglichen<lb facs="#facs_173_r28"/>Rücktritts spielt daher keine
+                entscheidende Rolle. Ausserdem wird <orgName n="0e21d7f8-7f51-41f0-a1d7-f87f5171f03e">die<lb facs="#facs_173_r29"/>Beamtenversicherungskasse</orgName> finanziell nicht stärker beeinflusst, ob nun<lb facs="#facs_173_r30"/>der freiwillige Rücktritt erst mit dem vollendeten 62. oder
+                bereits mit<lb facs="#facs_173_r31"/>dem 60. Altersjahr ermöglicht wird. Es wird
+                daher beantragt, auf die in<lb facs="#facs_173_r32"/>weiten Kreisen geforderte
+                Gleichbehandlung von Mann und Frau Rück<lb break="no" facs="#facs_173_r33"/>sicht zu
+                nehmen und den frühestmöglichen Rücktritt für alle Versicher<lb break="no" facs="#facs_173_r34"/>ten bereits auf das vollendete 60. Altersjahr festzusetzen.
+                Eine Lösung,<lb facs="#facs_173_r35"/>bei der beispielsweise nur Männer mit 62,
+                Frauen jedoch überhaupt<lb facs="#facs_173_r36"/>nicht vorzeitig zurücktreten
+                könnten, ist nicht zu empfehlen. Eine<lb facs="#facs_173_r37"/>Regelung, welche das
+                freiwillige Ausscheiden aus dem Amt frühestens<lb facs="#facs_173_r38"/>mit dem
+                vollendeten 60. Altersjahr gestattet, trägt dem durch körperli<lb break="no" facs="#facs_173_r39"/>che oder geistige Abnützung bedingten Bedürfnis für einen
+                  freiwilligen<lb facs="#facs_173_r40"/>Rücktritt am ehesten Rechnung.</p>
+						<pb n="1162" facs="#facs_174"/>
+						<p>
+							<lb facs="#facs_174_r1"/>Aufgrund dieser Überlegungen beantragt der <orgName n="a243a632-0917-427f-83a6-320917327f87">Regierungsrat,
+                </orgName>  männ<lb break="no" facs="#facs_174_r2"/>lichen und weiblichen Versicherten
+                frühestens mit dem vollendeten<lb facs="#facs_174_r3"/>60. Altersjahr den
+                vorzeitigen freiwilligen Rücktritt zu ermöglichen und<lb facs="#facs_174_r4"/>die
+                für die Berechnung der Rentenleistungen massgebende versicherte<lb facs="#facs_174_r5"/>Besoldung für jeden Monat, um den der Rücktritt vorverlegt
+                wird, um<lb facs="#facs_174_r6"/>0,5% zu kürzen. Diese Kürzung ist für jedes volle
+                Beitragsjahr über 35<lb facs="#facs_174_r7"/>um einen Fünftel zu vermindern, so dass
+                mit 40 Beitragsjahren die volle<lb facs="#facs_174_r8"/>Rente erreicht wird.</p>
+						<p>
+							<lb facs="#facs_174_r9"/>Der freiwillige vorzeitige Altersrücktritt gilt unter
+                  Berücksichtigung<lb facs="#facs_174_r10"/>von § 72 a der Statuten auch für
+                Sparversicherte.</p>
+						<p>
+							<lb facs="#facs_174_r11"/>Die Hochschullehrer sind der <orgName n="efe49b25-2b96-49bd-a49b-252b96c9bdaa">Beamtenversicherungskasse
+                 </orgName> nicht<lb facs="#facs_174_r12"/>angeschlossen. Sie erhalten bei der Pensionierung
+                infolge Alters und<lb facs="#facs_174_r13"/>Invalidität ein Ruhegehalt zu Lasten der
+                Staatskasse. Daneben bestehen<lb facs="#facs_174_r14"/>zwei Hinterbliebenenkassen.
+                Ob und inwieweit für die Hochschullehrer<lb facs="#facs_174_r15"/>eine analoge
+                Regelung getroffen werden kann, wird noch geprüft.</p>
+					</div>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_174_r16"/>B. Übrige Anträge</head>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_174_r17"/>Weitere Änderungen der Statuten</head>
+						<p>
+							<lb facs="#facs_174_r18"/>§ 2: Die Hochschullehrer sind wie erwähnt von der Aufnahme
+                in <orgName n="4ca9b1a3-33ac-4111-a9b1-a333ac6111f1">die<lb facs="#facs_174_r19"/>Beamtenversicherungskasse</orgName> ausgeschlossen. Sie haben
+                jedoch nach § 1<lb facs="#facs_174_r20"/>Abs. 3 des Verwaltungsreglementes der
+                <orgName n="7f3dea03-662a-4ff1-bdea-03662aaff1b6">Versicherungskasse für das<lb facs="#facs_174_r21"/>Staatspersonal</orgName> vom <date when="1972-08-23">23. August 1972</date> die Möglichkeit, weiterhin bei <orgName n="684aa132-a093-489b-8aa1-32a093989ba9">der<lb facs="#facs_174_r24"/>Beamtenversicherungskasse</orgName> versichert zu bleiben, wenn sie
+                dieser Kasse<lb facs="#facs_174_r25"/>schon vor ihrer Wahl angehört haben. Die
+                  <orgName n="5e19a4ee-efe3-41e4-99a4-eeefe3c1e485">Assistenzprofessoren-Ver<lb break="no" facs="#facs_174_r26"/>einigung</orgName> hat deshalb
+                der <orgName n="5d6616ce-f2d6-4ec2-a616-cef2d6eec2f2">Finanzdirektion</orgName> ein von der <orgName n="53f7577b-29c0-4d7b-b757-7b29c0dd7b6b">Erziehungsdirek<lb break="no" facs="#facs_174_r27"/>tion</orgName> befürwortetes Gesuch eingereicht, sämtlichen neugewählten Assi<lb break="no" facs="#facs_174_r28"/>stenzprofessoren die Aufnahme in die
+                <orgName n="b522b0f8-54f3-4570-a2b0-f854f36570f1">Beamtenversicherungskasse</orgName> zu<lb facs="#facs_174_r29"/>gestatten.
+                Assistenzprofessoren werden in der Regel spätestens nach<lb facs="#facs_174_r30"/>neunjähriger Amtsdauer zum Extraordinarius bzw. zum Ordinarius<lb facs="#facs_174_r31"/>gewählt oder nach auswärts berufen oder sie nehmen eine
+                  anderweitige<lb facs="#facs_174_r32"/>Tätigkeit auf. In solchen Fällen wird der
+                Übertritt von der <orgName n="4c3fc82a-1d24-439d-bfc8-2a1d24e39d59">Witwen -,<lb facs="#facs_174_r33"/>Waisen- und Pensionskasse</orgName> und
+                der <orgName n="b07dc6aa-8da1-4d76-bdc6-aa8da1dd7693">Witwen- und Waisenstiftung der<lb facs="#facs_174_r34"/>Hochschullehrer</orgName> in eine
+                andere Pensionskasse durch hohe Nachzahlun<lb break="no" facs="#facs_174_r35"/>gen
+                erschwert, weil beide Kassen bedingt durch ihre Struktur - der Staat<lb facs="#facs_174_r36"/>zahlt ein Ruhegehalt, die Kassen Hinterbliebenenleistungen -
+                  nur<lb facs="#facs_174_r37"/>geringe Freizügigkeitsleistungen ausrichten
+                können.</p>
+						<p>
+							<lb facs="#facs_174_r38"/>§ 19 Abs. 1: Aufgrund der Statutenänderung vom <date when="1976-12-08">8. Dezember 1976,</date><lb facs="#facs_174_r40"/>vom <orgName n="21159a60-9da4-4a02-959a-609da4aa029e">Kantonsrat
+               </orgName> am <date when="1977-03-21">21. März 1977</date> genehmigt, gewährt die <orgName n="0eae0c00-7d1e-4297-ae0c-007d1ea297f3">Beamtenver<lb break="no" facs="#facs_174_r43"/>sicherungskasse</orgName> beim Übertritt von Versicherten
+                zu privatwirtschaftli-</p>
+						<pb n="1163" facs="#facs_175"/>
+						<p>
+							<lb facs="#facs_175_r1"/>chen Personalvorsorgekassen seit <date when="1977-01-01">1.
+                  Januar 1977</date> Freizügigkeitsleistun<lb break="no" facs="#facs_175_r4"/>gen.
+                Sie bestehen aus einem Zuschlag von vier Prozent der vom Ange<lb break="no" facs="#facs_175_r5"/>stellten geleisteten ordentlichen Beiträge gemäss § 62 der
+                Statuten, der<lb facs="#facs_175_r6"/>für jedes volle Beitragsjahr über vier
+                ausgerichtet wird. Sie verursachen<lb facs="#facs_175_r7"/>der
+                <orgName n="796c45bd-a20b-4a00-ac45-bda20bca001d">Beamtenversicherungskasse</orgName> Mehrausgaben, die ursprünglich auf<lb facs="#facs_175_r8"/>jährlich zwei Millionen Franken geschätzt worden sind. Zur Deckung<lb facs="#facs_175_r9"/>der Mehrausgaben hat der <orgName n="7a0f7b59-cf78-407a-8f7b-59cf78707a2c">Regierungsrat</orgName> dem <orgName n="397d65fb-6dc8-4ccb-bd65-fb6dc8eccb4e">Kantonsrat
+               </orgName> aufgrund des<lb facs="#facs_175_r10"/>Postulats Nr. 1733 vom <date when="1977-04-04">4. April 1977</date> mit Beschluss vom <date when="1977-11-23">23. November<lb facs="#facs_175_r14"/>1977</date> beantragt, die Nachzahlungen für
+                neueintretende Versicherte um<lb facs="#facs_175_r16"/>10% zu erhöhen. Die
+                entsprechende Änderung von § 11 Abs. 1 der<lb facs="#facs_175_r17"/>Statuten ist vom
+                <orgName n="ca12591c-d4e6-404e-9259-1cd4e6704eda">Kantonsrat</orgName> am <date when="1978-03-06">6. März 1978</date> genehmigt worden. Durch<lb facs="#facs_175_r20"/>diese Statutenänderung sind die Nachzahlungen, welche bei
+                  Überschrei<lb break="no" facs="#facs_175_r21"/>tung des Eintrittsalters für jedes
+                darüber hinausgehende Jahr erhoben<lb facs="#facs_175_r22"/>werden, von 12% auf
+                13,2% erhöht worden. Die beantragte Änderung<lb facs="#facs_175_r23"/>von § 19 Abs.
+                1 bezweckt, den Freizügigkeitszuschlag nicht nur auf den<lb facs="#facs_175_r24"/>ordentlichen Beiträgen gemäss § 62, sondern auch auf den nach § 63 bei<lb facs="#facs_175_r25"/>Besoldungserhöhungen zu entrichtenden Beiträgen, d.h. auf
+                  den<lb facs="#facs_175_r26"/>Zusatzbeiträgen und den Monatsbetreffnissen, zu
+                gewähren, nicht aber<lb facs="#facs_175_r27"/>auf den wegen zu hohen Eintrittsalters
+                und für den Einkauf von Bei<lb break="no" facs="#facs_175_r28"/>tragsjahren
+                einbezahlten Beträgen. Diese Änderung bedeutet ein<lb facs="#facs_175_r29"/>Gleichziehen mit andern öffentlichen Kassen, insbesondere denjenigen<lb facs="#facs_175_r30"/>der Koordinationspartner <orgName n="b2d78010-f062-437a-9780-10f062c37aac">Bund</orgName> und Stadt <placeName n="932daffc-6472-452c-adaf-fc6472652c07">Zürich</placeName>, und bewirkt
+                  auch<lb facs="#facs_175_r31"/>eine Vereinfachung des Arbeitsablaufs beim Vollzug.
+                Im Jahre <date when="1979">1979</date><lb facs="#facs_175_r33"/>sind an
+                Freizügigkeitszuschlägen insgesamt rund Fr. 1 150 000 ausgerich<lb break="no" facs="#facs_175_r34"/>tet worden, währenddem sich die Mehreinnahmen durch die
+                  Erhöhung<lb facs="#facs_175_r35"/>der Nachzahlungen um 10% auf rund Fr. 1 600 000
+                belaufen haben. Die<lb facs="#facs_175_r36"/>beantragte Änderung verursacht
+                jährliche Mehraufwendungen von<lb facs="#facs_175_r37"/>schätzungsweise Fr. 350 000.
+                Der zu erwartende jährliche Gesamtbetrag<lb facs="#facs_175_r38"/>der
+                Freizügigkeitszuschläge beträgt somit rund Fr. 1 500 000 und liegt<lb facs="#facs_175_r39"/>nach wie vor im Rahmen der bei der Einführung des
+                  Zuschlages<lb facs="#facs_175_r40"/>geschätzten Aufwendungen. Diese Ausgabe hängt
+                von der Zahl der<lb facs="#facs_175_r41"/>Austretenden, ihrer Beitragsdauer und der
+                Höhe ihrer Beitragsleistun<lb break="no" facs="#facs_175_r42"/>gen ab und ist daher
+                Schwankungen unterworfen. Die finanzielle Trag<lb break="no" facs="#facs_175_r43"/>weite der Vorlage ist verhältnismässig gering, da sich die gesamten<lb facs="#facs_175_r44"/>Freizügigkeitszuschläge trotz der Erhöhung bisher nur auf
+                etwa ein<lb facs="#facs_175_r45"/>Prozent der Jahresausgaben belaufen. Die
+                Neuregelung steht auch mit<lb facs="#facs_175_r46"/>dem Freizügigkeitsgedanken im
+                Sinne von Art. 331 OR in Einklang.</p>
+						<p>
+							<lb facs="#facs_175_r47"/>§ 72 a: Für Sparversicherte besteht zurzeit die
+                Möglichkeit, Bestim<lb break="no" facs="#facs_175_r48"/>mungen aus der
+                Vollversicherung sinngemäss anzuwenden, lediglich in<lb facs="#facs_175_r49"/>bezug
+                auf die Verrechnung oder Begrenzung von Leistungen nach § 69<lb facs="#facs_175_r50"/>Abs. 7, nicht aber hinsichtlich der in den §§ 17 und 20 getroffenen<lb facs="#facs_175_r51"/>Regelungen über die freiwillige Versicherung und den
+                Wiedereintritt</p>
+						<pb n="1164" facs="#facs_176"/>
+						<p>
+							<lb facs="#facs_176_r1"/>von aus dem Staatsdienst ausgetretenen Personen. Die
+                beantragte Auf<lb break="no" facs="#facs_176_r2"/>hebung von § 69 Abs. 7 und der
+                Erlass eines neuen § 72 a bezwecken,<lb facs="#facs_176_r3"/>alle Bestimmungen,
+                deren Geltungsbereich nicht auf die Vollversiche<lb break="no" facs="#facs_176_r4"/>rung beschränkt ist, sinngemäss auch für Sparversicherte anwenden zu<lb facs="#facs_176_r5"/>können. Die Neuregelung trägt dem Gebot rechtsgleicher
+                  Behandlung<lb facs="#facs_176_r6"/>Rechnung.</p>
+					</div>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_176_r7"/>C. Postulate</head>
+					<p>
+						<lb facs="#facs_176_r8"/>Der <orgName n="5182e0de-52c1-4eb4-82e0-de52c10eb45c">Kantonsrat</orgName> hat dem <orgName n="f3373488-b4bb-46ef-b734-88b4bbe6ef7f">Regierungsrat</orgName> folgende Postulate
+                zum<lb facs="#facs_176_r9"/>Bericht und Antrag überwiesen:</p>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_176_r10"/>a) Postulat Nr. 1650 vom <date when="1976-02-09">9.
+                  Februar 1976</date></head>
+						<p>
+							<lb facs="#facs_176_r12"/>Der <orgName n="20e4e292-6f74-4fc2-a4e2-926f74bfc203">Regierungsrat</orgName> wird eingeladen - nicht zuletzt im
+                Hinblick auf<lb facs="#facs_176_r13"/>die Stellenbeschaffung für junge
+                Arbeitssuchende -, dem <orgName n="4f65f851-fed6-4e63-a5f8-51fed61e63d7">Kantonsrat<lb facs="#facs_176_r14"/>eine</orgName> Vorlage folgenden
+                Inhalts zu unterbreiten:</p>
+						<p>
+							<lb facs="#facs_176_r15"/>1. Dem Staats- und Gemeindepersonal wird eine freiwillige
+                  Pensio<lb break="no" facs="#facs_176_r16"/>nierung zwischen dem 60. und 65.
+                Altersjahr ermöglicht.</p>
+						<p>
+							<lb facs="#facs_176_r17"/>2. Die finanziellen Auswirkungen für den vorzeitig
+                  Pensionierten<lb facs="#facs_176_r18"/>einerseits und für die
+                <orgName n="f85aaefa-7359-4935-9aae-fa7359c9356d">Beamtenversicherungskasse</orgName> anderseits sind<lb facs="#facs_176_r19"/>aufzuschlüsseln.</p>
+						<p>
+							<lb facs="#facs_176_r20"/>3. Die Möglichkeit einer freiwilligen Nachzahlung der
+                  Versiche<lb break="no" facs="#facs_176_r21"/>rungsprämien eines vorzeitig in den
+                Ruhestand Getretenen bis zu<lb facs="#facs_176_r22"/>seiner Vollpensionierung ist
+                vorzusehen.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_176_r23"/>b) Postulat Nr. 1891 vom <date when="1979-05-28">28. Mai
+                  1979</date></head>
+						<p>
+							<lb facs="#facs_176_r25"/>Der <orgName n="1471f643-5de4-4838-b1f6-435de4183866">Regierungsrat</orgName> wird beauftragt, die Einführung der
+                  flexiblen<lb facs="#facs_176_r26"/>Alterspensionierung beim Staatspersonal an die
+                Hand zu nehmen<lb facs="#facs_176_r27"/>und dem <orgName n="df093e9c-3576-4f1b-893e-9c3576ff1be0">Kantonsrat</orgName> die dafür notwendigen
+                Gesetzesänderungen zu<lb facs="#facs_176_r28"/>unterbreiten.</p>
+						<p>
+							<lb facs="#facs_176_r29"/>Das Postulat Nr. 1650/1976 fordert die Möglichkeit, bei
+                  freiwilligem<lb facs="#facs_176_r30"/>vorzeitigem Rücktritt die Beiträge für die
+                Zeit bis zum Erreichen der<lb facs="#facs_176_r31"/>statutarischen Altersgrenze
+                nachzahlen zu können. Eine solche Bei<lb break="no" facs="#facs_176_r32"/>tragszahlung kann aber die Leistungsverminderung nur bis zu etwa<lb facs="#facs_176_r33"/>einem Fünftel beseitigen, da die ausfallenden Beiträge
+                höchstens in<lb facs="#facs_176_r34"/>diesem Ausmass Ursache der Rentenkürzung sind.
+                Es wäre auch<lb facs="#facs_176_r35"/>unzweckmässig, Leistungen zu gewähren und
+                dafür gleichzeitig noch<lb facs="#facs_176_r36"/>Beiträge zu erheben. Eine solche
+                Regelung würde zudem die finanziel<lb break="no" facs="#facs_176_r37"/>len Folgen,
+                die der Versicherte mit dem vorzeitigen Rücktritt auf sich<lb facs="#facs_176_r38"/>nimmt, noch verstärken. Die Kürzung der Rente muss im Zeitpunkt des<lb facs="#facs_176_r39"/>vorzeitigen Rücktritts festgelegt werden. Durch die
+                Weiterzahlung der<lb facs="#facs_176_r40"/>Beiträge nach dem Rücktritt würde die
+                ursprüngliche Berechnungs-</p>
+						<pb n="1165" facs="#facs_177"/>
+						<p>
+							<lb facs="#facs_177_r1"/>grundlage laufend verändert, d.h. die Möglichkeit
+                geschaffen, ohne<lb facs="#facs_177_r2"/>Fortbestand des Dienstverhältnisses die
+                Anrechnung von Beitragsjah<lb break="no" facs="#facs_177_r3"/>ren, allenfalls auch
+                über 35, zu erwirken. Die Beitragszahlung nach dem<lb facs="#facs_177_r4"/>Rücktritt
+                stellt eine versicherungstechnisch unbefriedigende Lösung<lb facs="#facs_177_r5"/>dar, die vermieden werden sollte.</p>
+						<p>
+							<lb facs="#facs_177_r6"/>Das Postulat verlangt weiter, die finanziellen
+                Auswirkungen, die sich<lb facs="#facs_177_r7"/>einerseits für den vorzeitig
+                Pensionierten und anderseits für die <orgName n="7a09a8a3-d7bb-49b6-89a8-a3d7bb99b650">Beam<lb break="no" facs="#facs_177_r8"/>tenversicherungskasse</orgName> ergeben, seien aufzuschlüsseln. Wie erwähnt,<lb facs="#facs_177_r9"/>müssen die finanziellen Folgen des vorzeitigen freiwilligen
+                  Rücktritts<lb facs="#facs_177_r10"/>vom Versicherten selbst getragen werden, weil
+                weder der <orgName n="93f530d0-e6ba-4b93-b530-d0e6baeb93a7">Staat</orgName> noch <orgName n="b408fe85-e73c-460b-88fe-85e73cb60b0f">die<lb facs="#facs_177_r11"/>Beamtenversicherungskasse</orgName> hiefür
+                zusätzliche Leistungen erbringen<lb facs="#facs_177_r12"/>können. Wie sich der
+                vorzeitige Rücktritt für den Versicherten finanziell<lb facs="#facs_177_r13"/>auswirkt, kann den bisherigen Ausführungen entnommen werden. Es ist<lb facs="#facs_177_r14"/>auch erneut zu erwähnen, dass für die
+                  Beamtenversicherungskasse<lb facs="#facs_177_r15"/>voraussichtlich keine spürbaren
+                finanziellen Verluste entstehen.</p>
+						<p>
+							<lb facs="#facs_177_r16"/>Das Postulat Nr. 1891/1979 beauftragt den <orgName n="18c0a77a-6362-4616-80a7-7a6362e6162b">Regierungsrat,
+              </orgName>  dem <orgName n="26d793e2-ab9a-498a-9793-e2ab9ac98a2a">Kantons<lb break="no" facs="#facs_177_r17"/>rat</orgName> für die Einführung der flexiblen
+                Alterspensionierung die notwendi<lb break="no" facs="#facs_177_r18"/>gen
+                Gesetzesänderungen zu unterbreiten. Gemäss § 9 des Gesetzes über<lb facs="#facs_177_r19"/>die <orgName n="908f2b7f-bcc2-48ca-8f2b-7fbcc2d8ca6e">Alters -, Invaliditäts- und Hinterbliebenenversicherung
+                des Staats<lb break="no" facs="#facs_177_r20"/>personals</orgName> vom <date when="1971-12-05">5. Dezember 1971</date> bestimmen die Statuten die Leistungen<lb facs="#facs_177_r23"/>der Versicherungskasse sowie die Beiträge des <orgName n="00f57c0b-f6dd-49e7-b57c-0bf6dd69e7e2">Staates</orgName> und
+                der Versi<lb break="no" facs="#facs_177_r24"/>cherten. Eine Änderung des Gesetzes
+                ist demgemäss nicht notwendig.</p>
+						<p>
+							<lb facs="#facs_177_r25"/>Der <orgName n="9074185c-4bc5-4cf0-b418-5c4bc50cf0de">Regierungsrat</orgName> beantragt deshalb, die beiden Postulate
+                als erle<lb break="no" facs="#facs_177_r26"/>digt abzuschreiben.</p>
+					</div>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_177_r27"/>D. Schlussbemerkungen</head>
+					<p>
+						<lb facs="#facs_177_r28"/>Durch die Einführung der flexiblen Personal die seit langem
+              geforderte Möglichkeit geboten, sich schon vor<lb facs="#facs_177_r29"/>der in den
+              Statuten der <orgName n="dc3aa3df-344e-4653-baa3-df344eb65397">Beamtenversicherungskasse</orgName> festgelegten Alters<lb break="no" facs="#facs_177_r30"/>grenze aus dem Berufsleben zurückzuziehen oder sich einer
+                beliebigen<lb facs="#facs_177_r31"/>anderen Beschäftigung zu widmen. Diese
+              Möglichkeit trägt dem<lb facs="#facs_177_r32"/>Umstand, dass die heutige Beanspruchung
+              durch die Berufstätigkeit<lb facs="#facs_177_r33"/>wesentlich grösser ist als früher,
+              Rechnung.</p>
+					<p>
+						<lb facs="#facs_177_r34"/>Die der <orgName n="80956a4c-ff7f-4ed1-956a-4cff7fded1a7">Finanzdirektion</orgName> beigegebene Verwaltungskommission
+                hat<lb facs="#facs_177_r35"/>der Vorlage zugestimmt. Sie wird auch, mit Ausnahme des
+              <orgName n="43c4b2f3-e2ff-407b-84b2-f3e2ff107bcd">VPOD</orgName>, der<lb facs="#facs_177_r36"/>die aus seiner Sicht hohen Rentenkürzungen nicht
+              akzeptieren kann,<lb facs="#facs_177_r37"/>von den Personalverbänden befürwortet,
+              ermöglicht die Vorlage doch,<lb facs="#facs_177_r38"/>ihrem Begehren entsprechend, den
+              freiwilligen Rücktritt bereits mit<lb facs="#facs_177_r39"/>dem vollendeten 60.
+              Altersjahr. Die Vorlage trägt auch in denjenigen</p>
+					<pb n="1166" facs="#facs_178"/>
+					<p>
+						<lb facs="#facs_178_r1"/>Fällen, in denen die Kürzung aufgrund der vollen
+              Beitragsjahre über 35<lb facs="#facs_178_r2"/>vermindert wird, dem von den Verbänden
+              geforderten Ansatz von<lb facs="#facs_178_r3"/>weniger als 6% pro Jahr Rechnung.</p>
+					<p>
+						<lb facs="#facs_178_r4"/>Der <orgName n="1242ca8f-ab48-451e-82ca-8fab48251e2e">Regierungsrat</orgName> beantragt dem <orgName n="aa1aae4b-b59f-4cda-9aae-4bb59fccdafb">Kantonsrat</orgName>, die vorgelegten
+                Än<lb break="no" facs="#facs_178_r5"/>derungen der Statuten zu genehmigen.</p>
+					<p>
+						<lb facs="#facs_178_r6"/><placeName n="2c0c5385-28c4-421e-8c53-8528c4121ee7">Zürich</placeName>, den <date when="1981-06-03">3. Juni 1981</date></p>
+					<p>
+						<lb facs="#facs_178_r8"/>Im Namen des <orgName n="359a4393-506e-44a0-9a43-93506eb4a054">Regierungsrates</orgName></p>
+					<p>
+						<lb facs="#facs_178_r9"/>Der Präsident:<lb facs="#facs_178_r10"/>Wiederkehr</p>
+					<p>
+						<lb facs="#facs_178_r11"/>Der Staatsschreiber:<lb facs="#facs_178_r12"/><persName n="989be891-01ba-4781-9be8-9101ba3781b0">Roggwiller</persName></p>
+				</div>
+			</div>
+		</body></text></TEI>

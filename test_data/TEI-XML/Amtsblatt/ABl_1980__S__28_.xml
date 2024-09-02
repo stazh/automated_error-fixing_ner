@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 23. Sitzung. Montag, 1. Oktober 1979, 14.30 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-01-11">11.01.1980</date><ident>StAZH ABl 1980 (S. 28)</ident><idno>28</idno><idno type="issue">2</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131694"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_29" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0029.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_29_r44" ulx="300" uly="2122" lrx="1575" lry="2156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r40" ulx="300" uly="1941" lrx="527" lry="1968" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r20" ulx="302" uly="1097" lrx="464" lry="1127" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r4" ulx="893" uly="443" lrx="1215" lry="477" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r17" ulx="306" uly="987" lrx="635" lry="1016" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r37" ulx="385" uly="1835" lrx="1577" lry="1870" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r38" ulx="297" uly="1887" lrx="664" lry="1918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r5" ulx="1225" uly="443" lrx="1424" lry="476" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r19" ulx="1372" uly="1052" lrx="1593" lry="1082" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r7" ulx="1443" uly="537" lrx="1595" lry="568" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r29" ulx="672" uly="1468" lrx="1591" lry="1502" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r21" ulx="472" uly="1095" lrx="1589" lry="1130" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r35" ulx="1443" uly="1729" lrx="1596" lry="1761" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r12" ulx="300" uly="745" lrx="465" lry="773" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r16" ulx="302" uly="935" lrx="1587" lry="969" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r42" ulx="298" uly="2070" lrx="577" lry="2103" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r11" ulx="386" uly="695" lrx="1595" lry="730" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r26" ulx="299" uly="1350" lrx="1391" lry="1383" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r47" ulx="300" uly="2275" lrx="566" lry="2307" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r48" ulx="591" uly="2279" lrx="1596" lry="2314" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r14" ulx="300" uly="887" lrx="527" lry="916" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r33" ulx="301" uly="1725" lrx="1181" lry="1760" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r43" ulx="607" uly="2072" lrx="1593" lry="2106" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r41" ulx="389" uly="2020" lrx="1572" lry="2058" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r36" ulx="301" uly="1772" lrx="1516" lry="1809" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r28" ulx="302" uly="1466" lrx="664" lry="1498" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r39" ulx="670" uly="1887" lrx="1595" lry="1921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r45" ulx="301" uly="2166" lrx="929" lry="2201" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r46" ulx="389" uly="2229" lrx="1575" lry="2262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r13" ulx="387" uly="835" lrx="1575" lry="871" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r27" ulx="389" uly="1418" lrx="1575" lry="1451" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r6" ulx="391" uly="535" lrx="1410" lry="567" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r31" ulx="391" uly="1587" lrx="616" lry="1615" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r24" ulx="304" uly="1302" lrx="550" lry="1331" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r30" ulx="300" uly="1522" lrx="527" lry="1550" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r10" ulx="304" uly="633" lrx="423" lry="661" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r15" ulx="537" uly="887" lrx="1592" lry="921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r1" ulx="389" uly="247" lrx="1591" lry="282" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r49" ulx="300" uly="2335" lrx="527" lry="2360" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r34" ulx="1206" uly="1729" lrx="1435" lry="1761" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r0" ulx="304" uly="154" lrx="345" lry="179" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r25" ulx="560" uly="1302" lrx="1593" lry="1334" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r2" ulx="300" uly="300" lrx="704" lry="329" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r8" ulx="306" uly="583" lrx="389" lry="611" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r9" ulx="407" uly="581" lrx="1594" lry="617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r18" ulx="387" uly="1050" lrx="1350" lry="1082" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r23" ulx="389" uly="1254" lrx="1577" lry="1287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r32" ulx="387" uly="1675" lrx="1591" lry="1710" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r3" ulx="475" uly="441" lrx="883" lry="475" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_29_r22" ulx="385" uly="1158" lrx="617" lry="1187" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="28" facs="#facs_29"/>
+			<p>
+				<lb facs="#facs_29_r6"/>6. Interpellation Anton Killias (CVP, Zürich) vom <date when="1979-05-21">21. Mai<lb facs="#facs_29_r8"/>1979</date> betreffend die Wirkung des Personalstopps (Beantwor<lb break="no" facs="#facs_29_r10"/>tung).</p>
+			<p>
+				<lb facs="#facs_29_r11"/>Fortsetzung der in der Morgensitzung beschlossenen Dis<lb break="no" facs="#facs_29_r12"/>kussion.</p>
+			<p>
+				<lb facs="#facs_29_r13"/>7. Interpellation Leo Lorenzo Fosco (CVP, Zürich) vom<lb facs="#facs_29_r14"/><date when="1979-07-02">2. Juli 1979</date> betreffend die Beteiligung der zürcherischen Schu<lb break="no" facs="#facs_29_r16"/>len an Aktionen und Wettbewerben verschiedener Institutionen<lb facs="#facs_29_r17"/>(Beantwortung).</p>
+			<p>
+				<lb facs="#facs_29_r18"/>Regierungsrat Dr. A. Gilgen beantwortet die am <date when="1979-09-03">3. Septem<lb break="no" facs="#facs_29_r20"/>ber 1979</date> begründete Interpellation namens des Regierungsrates.</p>
+			<p>
+				<lb facs="#facs_29_r22"/>Diskussion.</p>
+			<p>
+				<lb facs="#facs_29_r23"/>8. Interpellation Dr. Emanuel Hurwitz (SP, Zürich) vom<lb facs="#facs_29_r24"/><date when="1979-05-28">28. Mai 1979</date> betreffend die Leistungen der Krankenkassen für<lb facs="#facs_29_r26"/>psychotherapeutische Behandlungen (Beantwortung).</p>
+			<p>
+				<lb facs="#facs_29_r27"/>Regierungsrat Dr. P. Wiederkehr beantwortet die am<lb facs="#facs_29_r28"/><date when="1979-09-03">3. September 1979</date> begründete Interpellation namens des Regie<lb break="no" facs="#facs_29_r30"/>rungsrates.</p>
+			<p>
+				<lb facs="#facs_29_r31"/>Diskussion.</p>
+			<p>
+				<lb facs="#facs_29_r32"/>9. Interpellation Dr. Walter Diggelmann (FDP, Zürich) und<lb facs="#facs_29_r33"/>Prof. Dr. Walter Hess (FDP, Kilchberg) vom <date when="1979-07-02">2. Juli 1979</date> betref<lb break="no" facs="#facs_29_r36"/>fend die Betreuung der Chronischkranken (Beantwortung).</p>
+			<p>
+				<lb facs="#facs_29_r37"/>Regierungsrat Dr. P. Wiederkehr beantwortet die am<lb facs="#facs_29_r38"/><date when="1979-09-03">3. September 1979</date> begründete Interpellation namens des Regie<lb break="no" facs="#facs_29_r40"/>rungsrates.</p>
+			<p>
+				<lb facs="#facs_29_r41"/>10. Interpellation Erhard Szabel (FDP, Bassersdorf) vom<lb facs="#facs_29_r42"/><date when="1979-06-25">25. Juni 1979</date> betreffend die Einstellung einer Strafunter<lb break="no" facs="#facs_29_r44"/>suchung aufgrund eines psychiatrischen Gutachtens bei einem<lb facs="#facs_29_r45"/>Tötungsdelikt (Beantwortung).</p>
+			<p>
+				<lb facs="#facs_29_r46"/>Regierungsrat Dr. A. Bachmann beantwortet die am<lb facs="#facs_29_r47"/><date when="--09-03">3. September</date> begründete Interpellation namens des Regie<lb break="no" facs="#facs_29_r49"/>rungsrates.</p>
+		</body></text></TEI>

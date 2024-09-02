@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>2486 Beschluss des Kantonsrates über den Bau eines neuen Bezirksgefängnisses im Bezirk Zürich (vom ...)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-02-05">05.02.1982</date><ident>StAZH ABl 1982 (S. 127-137)</ident><idno>127–137</idno><idno type="issue">5</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132580"/><note>Vorlagen-Nr. 2486</note></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_128" uly="0" ulx="0" lry="2396" lrx="1583">
+			<graphic url="Abl_1982_1__S__0128.tif" width="1583px" height="2396px"/>
+			<zone xml:id="facs_128_r17" ulx="350" uly="1233" lrx="873" lry="1263" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r27" ulx="402" uly="1914" lrx="617" lry="1940" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r29" ulx="112" uly="1956" lrx="853" lry="1985" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r12" ulx="120" uly="1020" lrx="750" lry="1049" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r23" ulx="168" uly="1777" lrx="1283" lry="1808" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r32" ulx="1007" uly="1956" lrx="1086" lry="1983" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r8" ulx="118" uly="695" lrx="385" lry="719" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r14" ulx="120" uly="1145" lrx="1288" lry="1174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r4" ulx="116" uly="385" lrx="675" lry="414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r0" ulx="1226" uly="145" lrx="1279" lry="169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r36" ulx="114" uly="2091" lrx="748" lry="2119" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r13" ulx="196" uly="1100" lrx="1291" lry="1130" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r5" ulx="114" uly="435" lrx="1059" lry="469" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r34" ulx="114" uly="2000" lrx="1284" lry="2030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r30" ulx="865" uly="1956" lrx="938" lry="1983" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r26" ulx="115" uly="1916" lrx="383" lry="1942" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r28" ulx="625" uly="1908" lrx="1280" lry="1940" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r18" ulx="179" uly="1314" lrx="1282" lry="1343" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r20" ulx="113" uly="1541" lrx="279" lry="1566" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r2" ulx="609" uly="233" lrx="875" lry="259" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r22" ulx="112" uly="1698" lrx="392" lry="1728" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r1" ulx="116" uly="233" lrx="592" lry="260" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r35" ulx="110" uly="2043" lrx="1272" lry="2075" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r19" ulx="177" uly="1393" lrx="941" lry="1422" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r3" ulx="115" uly="318" lrx="207" lry="344" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r31" ulx="946" uly="1956" lrx="999" lry="1983" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r10" ulx="114" uly="854" lrx="298" lry="879" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r38" ulx="1107" uly="2089" lrx="1282" lry="2117" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r25" ulx="112" uly="1866" lrx="1284" lry="1897" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r9" ulx="120" uly="772" lrx="1084" lry="801" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r11" ulx="204" uly="972" lrx="1286" lry="1003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r37" ulx="767" uly="2091" lrx="1101" lry="2119" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r16" ulx="120" uly="1235" lrx="344" lry="1263" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r7" ulx="113" uly="570" lrx="188" lry="594" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r15" ulx="116" uly="1189" lrx="1289" lry="1218" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r33" ulx="1097" uly="1956" lrx="1286" lry="1983" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r6" ulx="114" uly="489" lrx="463" lry="519" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r21" ulx="108" uly="1618" lrx="656" lry="1649" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r24" ulx="110" uly="1823" lrx="1284" lry="1851" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_129" uly="0" ulx="0" lry="2401" lrx="1597">
+			<graphic url="Abl_1982_1__S__0129.tif" width="1597px" height="2401px"/>
+			<zone xml:id="facs_129_r23" ulx="300" uly="1160" lrx="1482" lry="1190" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r36" ulx="300" uly="1859" lrx="1478" lry="1889" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r1" ulx="299" uly="233" lrx="1476" lry="263" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r14" ulx="296" uly="760" lrx="1481" lry="788" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r12" ulx="296" uly="633" lrx="468" lry="662" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r40" ulx="298" uly="2038" lrx="1480" lry="2067" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r25" ulx="298" uly="1250" lrx="1476" lry="1279" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r28" ulx="298" uly="1500" lrx="615" lry="1525" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r17" ulx="299" uly="894" lrx="1476" lry="921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r4" ulx="360" uly="320" lrx="552" lry="351" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r34" ulx="296" uly="1771" lrx="1480" lry="1802" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r41" ulx="298" uly="2084" lrx="1478" lry="2113" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r31" ulx="298" uly="1638" lrx="1478" lry="1670" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r19" ulx="300" uly="979" lrx="1480" lry="1010" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r33" ulx="298" uly="1727" lrx="1478" lry="1756" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r22" ulx="302" uly="1112" lrx="1478" lry="1144" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r15" ulx="300" uly="804" lrx="1476" lry="832" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r21" ulx="300" uly="1071" lrx="1478" lry="1101" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r26" ulx="300" uly="1298" lrx="556" lry="1320" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r2" ulx="303" uly="277" lrx="1480" lry="309" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r5" ulx="558" uly="325" lrx="844" lry="354" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r13" ulx="355" uly="714" lrx="1478" lry="743" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r27" ulx="296" uly="1415" lrx="1012" lry="1447" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r20" ulx="300" uly="1025" lrx="1476" lry="1055" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r24" ulx="302" uly="1204" lrx="1478" lry="1233" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r35" ulx="298" uly="1815" lrx="1476" lry="1847" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r9" ulx="301" uly="420" lrx="1482" lry="454" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r16" ulx="300" uly="848" lrx="1482" lry="877" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r7" ulx="700" uly="375" lrx="913" lry="405" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r38" ulx="298" uly="1948" lrx="1476" lry="1979" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r18" ulx="300" uly="937" lrx="1467" lry="966" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r37" ulx="296" uly="1904" lrx="1479" lry="1935" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r10" ulx="300" uly="464" lrx="1467" lry="498" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r39" ulx="296" uly="1994" lrx="1478" lry="2023" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r29" ulx="354" uly="1550" lrx="1476" lry="1581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r30" ulx="298" uly="1592" lrx="1476" lry="1624" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r11" ulx="296" uly="510" lrx="514" lry="536" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r0" ulx="303" uly="152" lrx="358" lry="174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r6" ulx="358" uly="375" lrx="675" lry="404" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r32" ulx="297" uly="1681" lrx="1478" lry="1712" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r8" ulx="923" uly="377" lrx="1476" lry="409" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_129_r3" ulx="300" uly="325" lrx="339" lry="351" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_130" uly="0" ulx="0" lry="2402" lrx="1591">
+			<graphic url="Abl_1982_1__S__0130.tif" width="1591px" height="2402px"/>
+			<zone xml:id="facs_130_r25" ulx="119" uly="1407" lrx="1294" lry="1437" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r14" ulx="114" uly="873" lrx="1287" lry="904" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r31" ulx="123" uly="1672" lrx="1295" lry="1703" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r10" ulx="114" uly="694" lrx="1288" lry="724" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r0" ulx="1236" uly="156" lrx="1284" lry="177" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r4" ulx="118" uly="373" lrx="1290" lry="403" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r38" ulx="123" uly="2026" lrx="1294" lry="2058" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r26" ulx="120" uly="1449" lrx="1294" lry="1480" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r11" ulx="116" uly="740" lrx="1286" lry="769" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r35" ulx="123" uly="1889" lrx="726" lry="1918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r23" ulx="181" uly="1317" lrx="1294" lry="1348" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r34" ulx="123" uly="1807" lrx="595" lry="1838" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r16" ulx="116" uly="963" lrx="1286" lry="992" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r2" ulx="116" uly="283" lrx="1287" lry="313" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r9" ulx="173" uly="650" lrx="1288" lry="679" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r37" ulx="118" uly="1984" lrx="1294" lry="2013" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r3" ulx="118" uly="327" lrx="1289" lry="357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r21" ulx="114" uly="1188" lrx="811" lry="1214" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r12" ulx="115" uly="783" lrx="1288" lry="814" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r6" ulx="179" uly="467" lrx="1290" lry="498" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r5" ulx="118" uly="419" lrx="1130" lry="448" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r8" ulx="116" uly="600" lrx="915" lry="629" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r29" ulx="118" uly="1584" lrx="1294" lry="1613" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r36" ulx="177" uly="1939" lrx="1284" lry="1970" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r18" ulx="116" uly="1050" lrx="1287" lry="1082" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r28" ulx="120" uly="1540" lrx="1293" lry="1571" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r32" ulx="123" uly="1718" lrx="1293" lry="1748" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r15" ulx="116" uly="915" lrx="1292" lry="947" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r39" ulx="123" uly="2070" lrx="1290" lry="2102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r13" ulx="116" uly="827" lrx="1290" lry="858" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r19" ulx="114" uly="1094" lrx="1286" lry="1125" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r24" ulx="120" uly="1361" lrx="1294" lry="1393" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r30" ulx="120" uly="1628" lrx="1293" lry="1660" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r33" ulx="122" uly="1757" lrx="1296" lry="1790" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r22" ulx="120" uly="1267" lrx="652" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r40" ulx="120" uly="2114" lrx="1294" lry="2147" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r1" ulx="114" uly="237" lrx="1290" lry="269" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r20" ulx="118" uly="1140" lrx="1292" lry="1169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r7" ulx="119" uly="515" lrx="782" lry="545" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r27" ulx="118" uly="1492" lrx="1292" lry="1527" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_130_r17" ulx="116" uly="1007" lrx="1284" lry="1037" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_131" uly="0" ulx="0" lry="2402" lrx="1595">
+			<graphic url="Abl_1982_1__S__0131.tif" width="1595px" height="2402px"/>
+			<zone xml:id="facs_131_r27" ulx="296" uly="1424" lrx="1472" lry="1454" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r28" ulx="295" uly="1467" lrx="1186" lry="1496" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r17" ulx="729" uly="909" lrx="984" lry="939" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r40" ulx="291" uly="2024" lrx="1467" lry="2056" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r19" ulx="298" uly="952" lrx="1474" lry="984" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r6" ulx="356" uly="508" lrx="1474" lry="537" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r21" ulx="296" uly="1040" lrx="1474" lry="1070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r5" ulx="302" uly="456" lrx="867" lry="484" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r10" ulx="298" uly="721" lrx="774" lry="750" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r30" ulx="356" uly="1567" lrx="1476" lry="1597" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r31" ulx="353" uly="1611" lrx="1469" lry="1640" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r11" ulx="354" uly="773" lrx="1478" lry="805" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r14" ulx="379" uly="865" lrx="635" lry="892" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r26" ulx="298" uly="1378" lrx="1471" lry="1408" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r9" ulx="298" uly="640" lrx="1269" lry="670" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r15" ulx="646" uly="865" lrx="1471" lry="894" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r41" ulx="291" uly="2070" lrx="1311" lry="2102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r23" ulx="296" uly="1209" lrx="784" lry="1238" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r36" ulx="349" uly="1841" lrx="1471" lry="1871" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r35" ulx="350" uly="1797" lrx="1469" lry="1826" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r2" ulx="302" uly="279" lrx="1478" lry="311" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r22" ulx="298" uly="1084" lrx="1323" lry="1116" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r4" ulx="301" uly="371" lrx="569" lry="397" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r18" ulx="992" uly="911" lrx="1478" lry="940" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r33" ulx="346" uly="1707" lrx="1474" lry="1738" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r24" ulx="353" uly="1288" lrx="1474" lry="1321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r37" ulx="354" uly="1884" lrx="1457" lry="1915" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r8" ulx="298" uly="598" lrx="1478" lry="627" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r25" ulx="296" uly="1334" lrx="1474" lry="1364" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r38" ulx="351" uly="1928" lrx="1155" lry="1959" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r39" ulx="352" uly="1982" lrx="1469" lry="2013" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r34" ulx="351" uly="1751" lrx="1467" lry="1783" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r12" ulx="296" uly="819" lrx="1476" lry="849" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r3" ulx="304" uly="325" lrx="1478" lry="357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r32" ulx="355" uly="1651" lrx="1246" lry="1684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r0" ulx="302" uly="154" lrx="354" lry="176" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r7" ulx="302" uly="552" lrx="1476" lry="583" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r1" ulx="299" uly="235" lrx="1478" lry="268" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r20" ulx="299" uly="996" lrx="1474" lry="1028" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r29" ulx="293" uly="1520" lrx="1474" lry="1551" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r16" ulx="298" uly="911" lrx="715" lry="938" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_131_r13" ulx="300" uly="867" lrx="356" lry="892" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_132" uly="0" ulx="0" lry="2369" lrx="1562">
+			<graphic url="Abl_1982_1__S__0132.tif" width="1562px" height="2369px"/>
+			<zone xml:id="facs_132_r10" ulx="675" uly="1191" lrx="746" lry="1216" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r9" ulx="880" uly="1129" lrx="950" lry="1138" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r4" ulx="198" uly="827" lrx="211" lry="839" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r22" ulx="1134" uly="1427" lrx="1151" lry="1511" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r15" ulx="163" uly="1763" lrx="189" lry="1791" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r6" ulx="483" uly="1125" lrx="552" lry="1137" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r14" ulx="218" uly="1635" lrx="246" lry="1649" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r3" ulx="258" uly="800" lrx="275" lry="816" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r2" ulx="409" uly="322" lrx="744" lry="383" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r13" ulx="248" uly="1337" lrx="277" lry="1515" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r7" ulx="696" uly="1052" lrx="784" lry="1063" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r18" ulx="1203" uly="235" lrx="1217" lry="246" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r11" ulx="596" uly="1429" lrx="617" lry="1454" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r12" ulx="859" uly="1427" lrx="884" lry="1456" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r17" ulx="618" uly="1552" lrx="861" lry="1579" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r16" ulx="127" uly="1971" lrx="154" lry="1995" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r0" ulx="1231" uly="110" lrx="1278" lry="132" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r20" ulx="1187" uly="995" lrx="1229" lry="1008" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r8" ulx="937" uly="718" lrx="982" lry="732" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r1" ulx="158" uly="339" lrx="176" lry="354" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r21" ulx="1192" uly="1052" lrx="1222" lry="1265" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r5" ulx="487" uly="1089" lrx="546" lry="1102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_r19" ulx="1194" uly="772" lrx="1209" lry="788" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_132_f0" ulx="28" uly="162" lrx="1445" lry="1497" rendition="Figure"/>
+		</surface>
+		<surface xml:id="facs_133" uly="0" ulx="0" lry="1596" lrx="2402" rend="rotate(90deg)">
+			<graphic url="Abl_1982_1__S__0133.tif" width="2402px" height="1596px"/>
+			<zone xml:id="facs_133_r2" ulx="1407" uly="1212" lrx="1824" lry="1259" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r0" ulx="2220" uly="295" lrx="2256" lry="380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_r1" ulx="1315" uly="345" lrx="1328" lry="380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_133_f0" ulx="304" uly="138" lrx="2120" lry="2227" rendition="Figure"/>
+		</surface>
+		<surface xml:id="facs_134" uly="0" ulx="0" lry="2401" lrx="1589">
+			<graphic url="Abl_1982_1__S__0134.tif" width="1589px" height="2401px"/>
+			<zone xml:id="facs_134_r13" ulx="120" uly="844" lrx="1291" lry="878" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r35" ulx="178" uly="1954" lrx="1297" lry="1988" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r1" ulx="114" uly="239" lrx="573" lry="270" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r20" ulx="116" uly="1165" lrx="1292" lry="1198" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r22" ulx="125" uly="1254" lrx="1293" lry="1290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r12" ulx="116" uly="800" lrx="1292" lry="833" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r9" ulx="175" uly="671" lrx="1293" lry="701" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r5" ulx="118" uly="481" lrx="1290" lry="513" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r27" ulx="120" uly="1565" lrx="390" lry="1590" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r0" ulx="1229" uly="147" lrx="1281" lry="170" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r25" ulx="123" uly="1388" lrx="1297" lry="1421" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r31" ulx="125" uly="1769" lrx="1295" lry="1802" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r21" ulx="114" uly="1208" lrx="1298" lry="1243" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r29" ulx="120" uly="1679" lrx="1297" lry="1712" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r38" ulx="125" uly="2092" lrx="1297" lry="2125" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r10" ulx="116" uly="710" lrx="1290" lry="743" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r7" ulx="116" uly="571" lrx="1288" lry="604" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r33" ulx="121" uly="1861" lrx="1297" lry="1892" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r28" ulx="181" uly="1636" lrx="1295" lry="1669" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r37" ulx="127" uly="2042" lrx="1286" lry="2077" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r18" ulx="177" uly="1075" lrx="1290" lry="1108" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r11" ulx="118" uly="754" lrx="1293" lry="790" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r30" ulx="123" uly="1723" lrx="1296" lry="1756" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r34" ulx="123" uly="1911" lrx="419" lry="1937" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r32" ulx="123" uly="1813" lrx="1294" lry="1844" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r26" ulx="120" uly="1433" lrx="1253" lry="1464" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r17" ulx="116" uly="1027" lrx="616" lry="1059" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r3" ulx="170" uly="395" lrx="1289" lry="426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r14" ulx="118" uly="890" lrx="1293" lry="923" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r2" ulx="114" uly="318" lrx="289" lry="346" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r15" ulx="123" uly="935" lrx="1293" lry="968" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r16" ulx="120" uly="977" lrx="1289" lry="1010" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r19" ulx="118" uly="1121" lrx="1283" lry="1154" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r23" ulx="122" uly="1298" lrx="1295" lry="1334" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r6" ulx="118" uly="525" lrx="1289" lry="556" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r36" ulx="120" uly="2000" lrx="1299" lry="2032" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r4" ulx="116" uly="439" lrx="1287" lry="470" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r24" ulx="123" uly="1344" lrx="1294" lry="1377" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_134_r8" ulx="116" uly="623" lrx="446" lry="650" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_135" uly="0" ulx="0" lry="2401" lrx="1597">
+			<graphic url="Abl_1982_1__S__0135.tif" width="1597px" height="2401px"/>
+			<zone xml:id="facs_135_r22" ulx="306" uly="1165" lrx="1482" lry="1194" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r39" ulx="302" uly="1929" lrx="1476" lry="1957" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r25" ulx="296" uly="1298" lrx="1483" lry="1328" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r17" ulx="304" uly="937" lrx="1480" lry="968" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r38" ulx="304" uly="1884" lrx="1478" lry="1914" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r23" ulx="302" uly="1210" lrx="1480" lry="1238" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r32" ulx="303" uly="1609" lrx="1478" lry="1639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r20" ulx="362" uly="1075" lrx="1484" lry="1107" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r1" ulx="304" uly="227" lrx="1482" lry="257" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r0" ulx="310" uly="145" lrx="356" lry="168" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r29" ulx="302" uly="1475" lrx="1476" lry="1506" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r6" ulx="308" uly="450" lrx="1480" lry="477" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r16" ulx="302" uly="896" lrx="1476" lry="922" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r41" ulx="300" uly="2019" lrx="798" lry="2045" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r10" ulx="306" uly="629" lrx="1480" lry="655" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r13" ulx="304" uly="758" lrx="1482" lry="789" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r34" ulx="304" uly="1698" lrx="1480" lry="1726" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r8" ulx="306" uly="537" lrx="1482" lry="566" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r9" ulx="306" uly="581" lrx="1482" lry="611" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r5" ulx="306" uly="406" lrx="1482" lry="434" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r21" ulx="302" uly="1121" lrx="1482" lry="1150" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r12" ulx="308" uly="716" lrx="1488" lry="744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r37" ulx="302" uly="1838" lrx="1478" lry="1870" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r40" ulx="302" uly="1975" lrx="1480" lry="2003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r19" ulx="302" uly="1033" lrx="500" lry="1058" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r28" ulx="303" uly="1429" lrx="1478" lry="1461" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r18" ulx="304" uly="981" lrx="1482" lry="1012" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r15" ulx="306" uly="848" lrx="1476" lry="877" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r31" ulx="302" uly="1565" lrx="1480" lry="1595" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r2" ulx="308" uly="268" lrx="1478" lry="299" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r30" ulx="303" uly="1519" lrx="1478" lry="1549" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r33" ulx="299" uly="1652" lrx="1476" lry="1684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r36" ulx="356" uly="1796" lrx="1478" lry="1825" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r27" ulx="299" uly="1386" lrx="1483" lry="1417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r35" ulx="302" uly="1740" lrx="1061" lry="1772" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r26" ulx="302" uly="1342" lrx="1476" lry="1372" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r14" ulx="304" uly="806" lrx="1482" lry="834" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r7" ulx="304" uly="493" lrx="1478" lry="521" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r4" ulx="306" uly="360" lrx="1478" lry="389" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r11" ulx="305" uly="669" lrx="1485" lry="699" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r3" ulx="307" uly="312" lrx="1484" lry="344" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_135_r24" ulx="304" uly="1252" lrx="1482" lry="1281" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_136" uly="0" ulx="0" lry="2401" lrx="1591">
+			<graphic url="Abl_1982_1__S__0136.tif" width="1591px" height="2401px"/>
+			<zone xml:id="facs_136_r44" ulx="177" uly="1990" lrx="886" lry="2020" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r39" ulx="114" uly="1709" lrx="617" lry="1739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r25" ulx="1048" uly="1202" lrx="1286" lry="1227" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r42" ulx="116" uly="1898" lrx="488" lry="1929" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r21" ulx="114" uly="1108" lrx="826" lry="1139" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r15" ulx="112" uly="960" lrx="427" lry="988" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r38" ulx="110" uly="1581" lrx="1280" lry="1616" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r12" ulx="110" uly="821" lrx="1280" lry="855" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r37" ulx="170" uly="1536" lrx="1289" lry="1569" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r19" ulx="108" uly="1056" lrx="671" lry="1089" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r35" ulx="1050" uly="1417" lrx="1284" lry="1442" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r1" ulx="162" uly="216" lrx="1279" lry="248" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r20" ulx="1046" uly="1052" lrx="1282" lry="1077" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r34" ulx="116" uly="1427" lrx="314" lry="1452" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r45" ulx="1065" uly="1988" lrx="1289" lry="2014" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r10" ulx="168" uly="733" lrx="1281" lry="764" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r2" ulx="106" uly="260" lrx="1278" lry="293" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r8" ulx="108" uly="537" lrx="254" lry="562" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r32" ulx="116" uly="1371" lrx="442" lry="1399" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r36" ulx="1050" uly="1469" lrx="1285" lry="1494" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r31" ulx="1160" uly="1308" lrx="1282" lry="1332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r13" ulx="108" uly="864" lrx="1283" lry="896" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r0" ulx="1219" uly="135" lrx="1274" lry="157" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r7" ulx="106" uly="481" lrx="1281" lry="515" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r29" ulx="114" uly="1319" lrx="388" lry="1344" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r43" ulx="175" uly="1950" lrx="644" lry="1979" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r28" ulx="1158" uly="1256" lrx="1282" lry="1278" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r17" ulx="673" uly="954" lrx="1176" lry="986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r27" ulx="1050" uly="1258" lrx="1092" lry="1279" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r26" ulx="118" uly="1263" lrx="298" lry="1290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r33" ulx="1057" uly="1363" lrx="1284" lry="1387" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r41" ulx="116" uly="1836" lrx="582" lry="1865" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r30" ulx="1050" uly="1313" lrx="1092" lry="1333" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r23" ulx="1050" uly="1150" lrx="1283" lry="1173" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r22" ulx="116" uly="1156" lrx="504" lry="1184" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r18" ulx="114" uly="1008" lrx="916" lry="1041" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r6" ulx="110" uly="437" lrx="1276" lry="472" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r24" ulx="112" uly="1210" lrx="477" lry="1237" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r5" ulx="108" uly="393" lrx="1276" lry="425" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r11" ulx="110" uly="771" lrx="1282" lry="807" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r4" ulx="108" uly="348" lrx="1281" lry="381" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r16" ulx="446" uly="958" lrx="665" lry="987" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r9" ulx="110" uly="660" lrx="341" lry="685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r40" ulx="171" uly="1781" lrx="1287" lry="1815" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r3" ulx="106" uly="304" lrx="1276" lry="337" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r14" ulx="112" uly="908" lrx="1286" lry="941" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_f0" ulx="55" uly="1880" lrx="1444" lry="2028" rendition="Figure"/>
+		</surface>
+		<surface xml:id="facs_137" uly="0" ulx="0" lry="2402" lrx="1596">
+			<graphic url="Abl_1982_1__S__0137.tif" width="1596px" height="2402px"/>
+			<zone xml:id="facs_137_r44" ulx="304" uly="1542" lrx="1481" lry="1572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r41" ulx="304" uly="1407" lrx="1483" lry="1437" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r54" ulx="304" uly="1984" lrx="1483" lry="2015" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r36" ulx="1258" uly="1071" lrx="1479" lry="1098" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r40" ulx="304" uly="1365" lrx="1479" lry="1394" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r12" ulx="368" uly="781" lrx="866" lry="809" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r48" ulx="306" uly="1720" lrx="1486" lry="1749" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r52" ulx="302" uly="1897" lrx="1483" lry="1927" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r26" ulx="960" uly="619" lrx="973" lry="633" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r25" ulx="1006" uly="567" lrx="1165" lry="592" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r20" ulx="972" uly="406" lrx="989" lry="420" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r28" ulx="1256" uly="610" lrx="1482" lry="635" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r34" ulx="1256" uly="963" lrx="1478" lry="986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r9" ulx="366" uly="608" lrx="753" lry="639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r0" ulx="304" uly="131" lrx="358" lry="153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r6" ulx="364" uly="452" lrx="768" lry="477" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r45" ulx="306" uly="1586" lrx="1485" lry="1615" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r17" ulx="304" uly="1013" lrx="593" lry="1043" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r13" ulx="364" uly="825" lrx="725" lry="853" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r24" ulx="958" uly="575" lrx="973" lry="590" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r33" ulx="1054" uly="963" lrx="1160" lry="985" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r38" ulx="362" uly="1278" lrx="1477" lry="1305" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r21" ulx="1037" uly="398" lrx="1162" lry="421" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r7" ulx="306" uly="512" lrx="745" lry="542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r10" ulx="306" uly="665" lrx="602" lry="692" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r27" ulx="1038" uly="610" lrx="1164" lry="637" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r5" ulx="360" uly="398" lrx="783" lry="425" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r42" ulx="301" uly="1453" lrx="1483" lry="1482" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r15" ulx="364" uly="917" lrx="779" lry="945" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r4" ulx="368" uly="354" lrx="731" lry="379" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r18" ulx="302" uly="1073" lrx="756" lry="1102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r32" ulx="1039" uly="873" lrx="1159" lry="897" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r31" ulx="1008" uly="825" lrx="1162" lry="849" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r51" ulx="304" uly="1853" lrx="1481" lry="1882" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r19" ulx="954" uly="310" lrx="1162" lry="334" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r16" ulx="360" uly="963" lrx="627" lry="990" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r11" ulx="304" uly="727" lrx="558" lry="756" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r2" ulx="362" uly="262" lrx="1025" lry="293" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r35" ulx="1254" uly="1013" lrx="1480" lry="1039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r53" ulx="304" uly="1941" lrx="1483" lry="1970" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r30" ulx="1077" uly="781" lrx="1162" lry="802" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r49" ulx="300" uly="1763" lrx="1471" lry="1793" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r14" ulx="360" uly="871" lrx="760" lry="899" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r39" ulx="304" uly="1321" lrx="1484" lry="1351" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r1" ulx="306" uly="212" lrx="775" lry="240" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r55" ulx="306" uly="2030" lrx="1261" lry="2059" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r22" ulx="1255" uly="450" lrx="1315" lry="473" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r47" ulx="304" uly="1676" lrx="1483" lry="1705" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r50" ulx="303" uly="1807" lrx="1485" lry="1839" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r29" ulx="1258" uly="663" lrx="1482" lry="687" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r3" ulx="362" uly="308" lrx="745" lry="336" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r43" ulx="302" uly="1499" lrx="1483" lry="1528" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r37" ulx="303" uly="1196" lrx="691" lry="1224" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r23" ulx="1356" uly="450" lrx="1479" lry="473" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r8" ulx="364" uly="567" lrx="745" lry="594" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_r46" ulx="306" uly="1632" lrx="1485" lry="1661" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_137_f0" ulx="269" uly="184" lrx="1528" lry="820" rendition="Figure"/>
+		</surface>
+		<surface xml:id="facs_138" uly="0" ulx="0" lry="2397" lrx="1588">
+			<graphic url="Abl_1982_1__S__0138.tif" width="1588px" height="2397px"/>
+			<zone xml:id="facs_138_r15" ulx="104" uly="1067" lrx="693" lry="1101" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r5" ulx="585" uly="473" lrx="1104" lry="502" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r7" ulx="589" uly="573" lrx="781" lry="596" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r22" ulx="102" uly="1642" lrx="1280" lry="1668" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r23" ulx="102" uly="1684" lrx="433" lry="1711" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r19" ulx="101" uly="1431" lrx="283" lry="1455" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r10" ulx="104" uly="812" lrx="633" lry="839" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r27" ulx="110" uly="2038" lrx="1275" lry="2064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r1" ulx="162" uly="206" lrx="1276" lry="236" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r9" ulx="945" uly="571" lrx="1125" lry="598" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r4" ulx="310" uly="385" lrx="610" lry="411" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r16" ulx="102" uly="1150" lrx="177" lry="1174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r8" ulx="946" uly="527" lrx="1273" lry="553" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r25" ulx="104" uly="1967" lrx="1275" lry="1992" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r3" ulx="104" uly="385" lrx="300" lry="413" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r12" ulx="104" uly="898" lrx="225" lry="927" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r21" ulx="101" uly="1596" lrx="1264" lry="1624" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r18" ulx="104" uly="1346" lrx="1064" lry="1378" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r26" ulx="106" uly="2003" lrx="1277" lry="2027" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r14" ulx="104" uly="1013" lrx="1239" lry="1047" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r20" ulx="191" uly="1550" lrx="1273" lry="1581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r6" ulx="585" uly="529" lrx="831" lry="552" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r0" ulx="1219" uly="122" lrx="1273" lry="143" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r13" ulx="106" uly="962" lrx="741" lry="994" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r17" ulx="106" uly="1271" lrx="370" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r11" ulx="650" uly="812" lrx="882" lry="837" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r24" ulx="162" uly="1932" lrx="1273" lry="1957" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r2" ulx="104" uly="260" lrx="331" lry="281" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_138_r28" ulx="106" uly="2076" lrx="575" lry="2100" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="127" facs="#facs_128"/>
+			<p>
+				<lb facs="#facs_128_r8"/>Der Kantonsrat,</p>
+			<p>
+				<lb facs="#facs_128_r9"/>nach Einsichtnahme in einen Antrag des Regierungsrates,</p>
+			<p>
+				<lb facs="#facs_128_r10"/>beschliesst:</p>
+			<p>
+				<lb facs="#facs_128_r11"/>I. Für den Bau eines neuen Bezirksgefängnisses in Zürich wird<lb facs="#facs_128_r12"/>ein Kredit von Fr. 28 800 000 bewilligt.</p>
+			<p>
+				<lb facs="#facs_128_r13"/>II. Die Kreditsumme erhöht oder ermässigt sich um den Betrag,<lb facs="#facs_128_r14"/>der sich durch eine allfällige Bauverteuerung oder Bauverbilligung
+            in<lb facs="#facs_128_r15"/>der Zeit zwischen der Aufstellung der Kostenschätzung
+            (Preisstand<lb facs="#facs_128_r16"/><date when="1981-04-01">1. April 1981)</date> und
+          der Bauausführung ergibt.</p>
+			<p>
+				<lb facs="#facs_128_r18"/>III. Dieser Beschluss untersteht dem obligatorischen
+          Referendum.</p>
+			<p>
+				<lb facs="#facs_128_r19"/>IV. Veröffentlichung im Amtsblatt, Textteil.</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_128_r20"/>Weisung</head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_128_r21"/>I. Das heutige Bezirksgefängnis</head>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_128_r22"/>1. Vorgeschichte</head>
+						<p>
+							<lb facs="#facs_128_r23"/>Das Bezirksgefängnis Zürich liegt innerhalb der Bauten des
+                  Bezirks<lb break="no" facs="#facs_128_r24"/>gebäudes im Strassenviereck
+                Badener-/Anker-/Stauffacher- und Rot<lb break="no" facs="#facs_128_r25"/>wandstrasse. Es wurde aufgrund einer Kreditbewilligung in der Volks<lb break="no" facs="#facs_128_r26"/>abstimmung vom <date when="1914-03-01">1. März 1914</date>
+                zusammen mit dem heutigen Bezirksge<lb break="no" facs="#facs_128_r29"/>bäude durch
+                die Stadt Zürich in den Jahren <date when="1914">1914</date> bis <date when="1916">1916</date> erstellt und<lb facs="#facs_128_r34"/>ersetzte das damals an der
+                Selnaustrasse 9 gelegene alte Untersuchungs<lb break="no" facs="#facs_128_r35"/>gefängnis. Die Stadt Zürich erfüllte damit die Verpflichtung gemäss dem<lb facs="#facs_128_r36"/>Gesetz über die Bezirkshauptorte vom <date when="1904-11-27">27. November 1904,</date> die für die</p>
+						<pb n="128" facs="#facs_129"/>
+						<p>
+							<lb facs="#facs_129_r1"/>Bezirksbehörden erforderlichen Räumlichkeiten und
+                  «hinreichenden<lb facs="#facs_129_r2"/>Gefängnislokalitäten» zur Verfügung zu
+                stellen. Das Gebäude konnte<lb facs="#facs_129_r3"/>am <date when="1916-05-01">1.
+                  Mai 1916</date> bezogen werden.</p>
+						<p>
+							<lb facs="#facs_129_r6"/>Mit Beschluss vom <date when="1939-06-05">5. Juni
+                  1939</date> bewilligte der Kantonsrat einen<lb facs="#facs_129_r9"/>Kredit von Fr.
+                3 280976 für den Erwerb des gesamten Gebäudekomple<lb break="no" facs="#facs_129_r10"/>xes. Seither stehen Bezirksgebäude und Bezirksgefängnis im
+                  Eigentum<lb facs="#facs_129_r11"/>des Kantons.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_129_r12"/>2. Anlage</head>
+						<p>
+							<lb facs="#facs_129_r13"/>Der T-förmige Bau liegt im Gebäudeteil, der von der
+                  Bezirksanwalt<lb break="no" facs="#facs_129_r14"/>schaft besetzt ist und wird von
+                der Kanzleistrasse her erschlossen. Der<lb facs="#facs_129_r15"/>Grundriss ist so
+                gewählt, dass von der Kanzleistrasse aus keine Zellen<lb facs="#facs_129_r16"/>sichtbar sind; diese sind auf die beiden Höfe orientiert. Auf drei<lb facs="#facs_129_r17"/>Geschosse verteilt sind 113 Einerzellen zu 8,35 bis 8,6 m2
+                und 4 Mehr<lb break="no" facs="#facs_129_r18"/>fachzellen, insgesamt maximal 129
+                Plätze. Ausserdem befinden sich im<lb facs="#facs_129_r19"/>Gebäude die
+                erforderlichen Räume für Verwaltungsbüros, Küche, Vor<lb break="no" facs="#facs_129_r20"/>ratshaltung, Wäscherei und Lingerie sowie eine
+                  Gefängnisbibliothek.<lb facs="#facs_129_r21"/>Behandlungszimmer für ärztliche und
+                zahnärztliche Versorgung muss<lb break="no" facs="#facs_129_r22"/>ten nachträglich,
+                teils behelfsmässig, eingebaut werden. Ursprünglich<lb facs="#facs_129_r23"/>war nur
+                eine Besuchszelle eingebaut, was ungenügend war, weshalb das<lb facs="#facs_129_r24"/>Angebot an Besuchsräumen in mehreren Etappen, zuletzt unter Verle<lb break="no" facs="#facs_129_r25"/>gung der Verwalterwohnung in einen anderen Gebäudeteil,
+                  erweitert<lb facs="#facs_129_r26"/>werden musste.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_129_r27"/>3. Das Bezirksgefängnis genügt nicht mehr</head>
+						<div type="subtitle" n="4">
+							<head type="subtitle" n="4">
+								<lb facs="#facs_129_r28"/>a) Grundsätzliches</head>
+							<p>
+								<lb facs="#facs_129_r29"/>Das Bezirksgefängnis dient zurzeit ausschliesslich dem
+                  Vollzug von<lb facs="#facs_129_r30"/>Untersuchungs- und Sicherheitshaft. Nach § 49
+                  der Strafprozessordnung<lb facs="#facs_129_r31"/>darf Untersuchungshaft über einen
+                  Angeschuldigten verhängt werden,<lb facs="#facs_129_r32"/>wenn er einerseits eines
+                  Verbrechens oder Vergehens dringend verdäch<lb break="no" facs="#facs_129_r33"/>tig ist und anderseits die Gefahr vorliegt, er werde sich der Untersu<lb break="no" facs="#facs_129_r34"/>chung oder der Strafe durch Flucht entziehen
+                  (Fluchtgefahr) und/oder<lb facs="#facs_129_r35"/>wenn zu befürchten ist, der
+                  Angeschuldigte werde durch Anstiftung zu<lb facs="#facs_129_r36"/>falschem Zeugnis
+                  oder auf andere Weise die Spuren der Straftat verwi<lb break="no" facs="#facs_129_r37"/>schen (Kollusions- oder Verdunkelungsgefahr).
+                  Untersuchungshaft wird<lb facs="#facs_129_r38"/>somit stets wegen eines
+                  Verbrechens oder Vergehens verhängt, für<lb facs="#facs_129_r39"/>welches er noch
+                  nicht rechtskräftig verurteilt worden ist und dessen er<lb facs="#facs_129_r40"/>oft nicht einmal rechtsgenügend überführt ist. Aus diesem Grunde ist<lb facs="#facs_129_r41"/>der Angeschuldigte nach allgemein anerkannten
+                  Rechtsgrundsätzen, die</p>
+							<pb n="129" facs="#facs_130"/>
+							<p>
+								<lb facs="#facs_130_r1"/>auch in der durch die Schweiz mitunterzeichneten
+                  Europäischen Men<lb break="no" facs="#facs_130_r2"/>schenrechtskonvention
+                  Niederschlag gefunden haben, bis zur rechts<lb break="no" facs="#facs_130_r3"/>kräftigen Verurteilung als nichtschuldig zu behandeln. Das bedeutet,<lb facs="#facs_130_r4"/>dass seine persönliche Freiheit nicht mehr beschränkt
+                  werden darf, als es<lb facs="#facs_130_r5"/>der Untersuchungszweck und die
+                  Anstaltsordnung erfordern.</p>
+							<p>
+								<lb facs="#facs_130_r6"/>Ausser dem täglichen Spaziergang bietet das
+                  Bezirksgefängnis keine<lb facs="#facs_130_r7"/>Möglichkeit zur
+                  Gemeinschaftsaktivität.</p>
+						</div>
+						<div type="subtitle" n="4">
+							<head type="subtitle" n="4">
+								<lb facs="#facs_130_r8"/>b) Der Bau ist veraltet und sanierungsbedürftig</head>
+							<p>
+								<lb facs="#facs_130_r9"/>Die 113 Einzelzellen weisen durchwegs weniger als 10 m2
+                  auf, was<lb facs="#facs_130_r10"/>heute sowohl im Gefängniswesen wie auch beim
+                  Wohnungsbau als<lb facs="#facs_130_r11"/>Mindestmass für Räume gilt, welche dem
+                  dauernden Aufenthalt dienen.<lb facs="#facs_130_r12"/>Sie sind aber nicht nur eng,
+                  sondern auch ungenügend belichtet und<lb facs="#facs_130_r13"/>belüftet, indem nur
+                  ein relativ kleines, hoch angebrachtes Fenster Licht<lb facs="#facs_130_r14"/>und
+                  Luft bringt. Die Heizung ist derart veraltet, dass an kalten Winter<lb break="no" facs="#facs_130_r15"/>tagen nur noch eine Raumtemperatur von 16 ℃ erreicht wird.
+                    Die<lb facs="#facs_130_r16"/>elektrischen Installationen sind durchwegs
+                  erneuerungsbedürftig, und<lb facs="#facs_130_r17"/>Zellenruf sowie Alarmanlage
+                  fehlen völlig. Das Verpflegungssystem, zu<lb facs="#facs_130_r18"/>dem der Bau
+                  zwingt, ist primitiv und vermag den heutigen Ansprüchen<lb facs="#facs_130_r19"/>an Hygiene kaum mehr zu genügen. Abgesehen von dem vor einigen<lb facs="#facs_130_r20"/>Jahren sanierten Eingangsbereich fehlen
+                  Sicherheitseinrichtungen, was<lb facs="#facs_130_r21"/>das Personal erhöhten
+                  Gefahren aussetzt.</p>
+						</div>
+						<div type="subtitle" n="4">
+							<head type="subtitle" n="4">
+								<lb facs="#facs_130_r22"/>c) Keine Räume für Betreuung</head>
+							<p>
+								<lb facs="#facs_130_r23"/>Auch während der Untersuchungshaft benötigt der
+                    Gefangene<lb facs="#facs_130_r24"/>Betreuung durch Ärzte, Sozialarbeiter und
+                  Geistliche. Diese Betreuung<lb facs="#facs_130_r25"/>gewinnt immer mehr an
+                  Bedeutung, zumal der Anteil an Gefangenen,<lb facs="#facs_130_r26"/>die durch
+                  Drogenkonsum oder in anderer Weise gesundheitlich und<lb facs="#facs_130_r27"/>psychisch geschädigt sind, stets ansteigt. Ausser einem behelfsmässigen<lb facs="#facs_130_r28"/>Arztzimmer und einem in den Lichthof eingeplanten
+                    Zahnarztzimmer<lb facs="#facs_130_r29"/>stehen indessen keine Räume zur
+                  Verfügung, in welchen Therapien und<lb facs="#facs_130_r30"/>Besprechungen
+                  durchgeführt werden könnten. Diese müssen behelfs<lb break="no" facs="#facs_130_r31"/>mässig in der Zelle, in Besuchszimmern oder sonstwie in
+                  für andere<lb facs="#facs_130_r32"/>Zwecke benützten Räumen durchgeführt werden,
+                  was für Betreuer und<lb facs="#facs_130_r33"/>Betreute erhebliche Belastungen mit
+                  sich bringt und den Erfolg der<lb facs="#facs_130_r34"/>Bemühungen in Frage
+                  stellt.</p>
+						</div>
+						<div type="subtitle" n="4">
+							<head type="subtitle" n="4">
+								<lb facs="#facs_130_r35"/>d) Das Bezirksgefängnis ist zu klein</head>
+							<p>
+								<lb facs="#facs_130_r36"/>Abgesehen von wenigen, kurzen Zeiträumen ist das
+                  Gefängnis im<lb facs="#facs_130_r37"/>Jahresschnitt so belegt, dass die
+                  Raumreserve für Notfälle meist unter<lb facs="#facs_130_r38"/>dem noch
+                  verantwortbaren Minimum liegt. Bereits 1971 musste daher<lb facs="#facs_130_r39"/>das ehemalige Frauenhaus der Strafanstalt Regensdorf mit 35 Plätzen<lb facs="#facs_130_r40"/>für Untersuchungs- und Sicherheitsgefangene aus dem Bezirk
+                  Zürich</p>
+							<pb n="130" facs="#facs_131"/>
+							<p>
+								<lb facs="#facs_131_r1"/>beansprucht werden, welche Möglichkeit spätestens mit dem
+                    geplanten<lb facs="#facs_131_r2"/>Neubau in Regensdorf wegfällt. Ausserdem
+                  müssen Gefangene, sobald<lb facs="#facs_131_r3"/>die Untersuchung einen gewissen
+                  Stand erreicht hat, in Landgefängnisse<lb facs="#facs_131_r4"/>verlegt werden.</p>
+						</div>
+						<div type="subtitle" n="4">
+							<head type="subtitle" n="4">
+								<lb facs="#facs_131_r5"/>e) Räume für das Personal fehlen</head>
+							<p>
+								<lb facs="#facs_131_r6"/>Für das Aufsichtspersonal, das in Schichten zu arbeiten
+                  hat, fehlen<lb facs="#facs_131_r7"/>Aufenthalts -, Ess- und Garderobenräume.
+                  Ebenso fehlen für eine drin<lb break="no" facs="#facs_131_r8"/>gend notwendige
+                  Pikettmannschaft Schlafräume. Damit sind die Ar<lb break="no" facs="#facs_131_r9"/>beitsbedingungen nahe an der Grenze des Unzumutbaren.</p>
+						</div>
+						<div type="subtitle" n="4">
+							<head type="subtitle" n="4">
+								<lb facs="#facs_131_r10"/>f) Abhilfe durch Sanierung?</head>
+							<p>
+								<lb facs="#facs_131_r11"/>Es wurde eingehend abgeklärt, ob die Zustände durch
+                    Sanierung<lb facs="#facs_131_r12"/>und Aufstockung verbessert werden könnten.
+                  Nach einer Projektstudie<lb facs="#facs_131_r13"/>vom <date when="1975-08-01">1.
+                    August 1975</date> wäre diese Variante auf Fr. 15 500 000 zu stehen<lb facs="#facs_131_r16"/>gekommen (Kostenstand <date when="1981-04-01">1. April
+                    1981).</date> Abgesehen von erheblichen,<lb facs="#facs_131_r19"/>noch
+                  ungelösten statischen Problemen würde diese Lösung zwar eine<lb facs="#facs_131_r20"/>Verbesserung der Infrastruktur und 24 neue Plätze bringen,
+                    jedoch<lb facs="#facs_131_r21"/>keine Gemeinschaftsräume und keine Räume für das
+                  Personal. Aus<lb facs="#facs_131_r22"/>diesen Gründen musste diese Variante
+                  fallengelassen werden.</p>
+						</div>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_131_r23"/>4. Standort für einen Neubau</head>
+						<p>
+							<lb facs="#facs_131_r24"/>Der Standort des heutigen Bezirksgefängnisses ist ideal.
+                Der Weg<lb facs="#facs_131_r25"/>zum Bezirksanwalt und zum Gericht kann durch
+                hausinterne Verbin<lb break="no" facs="#facs_131_r26"/>dungen einfach, kurz und ohne
+                unverhältnismässige Sicherheitsrisiken<lb facs="#facs_131_r27"/>zurückgelegt werden.
+                Müsste ein anderer Standort gewählt werden,<lb facs="#facs_131_r28"/>würden sich
+                organisatorisch zwei Varianten anbieten:</p>
+						<p>
+							<lb facs="#facs_131_r29"/>- Entweder müssen die Gefangenen der Bezirksanwaltschaft
+                  vorge<lb break="no" facs="#facs_131_r30"/>führt werden, was neben der -
+                aufwendigen - Schaffung materieller<lb facs="#facs_131_r31"/>und personeller
+                Transportkapazitäten erhebliche Sicherheits -,<lb facs="#facs_131_r32"/>Flucht- und
+                Kollusionsrisiken mit sich bringen würde;</p>
+						<p>
+							<lb facs="#facs_131_r33"/>- oder der Untersuchungsrichter hätte sich zum Gefangenen
+                zur Ein<lb break="no" facs="#facs_131_r34"/>vernahme zu begeben: Dann müsste das
+                Bauvolumen des Untersu<lb break="no" facs="#facs_131_r35"/>chungsgefängnisses um
+                eine grössere Anzahl von Einvernahmeräu<lb break="no" facs="#facs_131_r36"/>men
+                erweitert werden, die Zeitverluste für Untersuchungsrichter<lb facs="#facs_131_r37"/>und Sekretäre wären erheblich, und die Amtsstelle stünde vor einem<lb facs="#facs_131_r38"/>kaum mehr zu bewältigenden Führungsproblem.</p>
+						<p>
+							<lb facs="#facs_131_r39"/>Da ein anderer Standort für einen Neubau, der die
+                  genannten<lb facs="#facs_131_r40"/>Nachteile nicht aufweist, nicht gefunden werden
+                konnte, musste ein<lb facs="#facs_131_r41"/>Neubau am bisherigen Standort in
+                Betracht gezogen werden.</p>
+						<pb n="131" facs="#facs_132"/>
+						<figure facs="#facs_132_f0"/>
+						<pb n="132" facs="#facs_133"/>
+						<figure facs="#facs_133_f0"/>
+					</div>
+				</div>
+				<pb n="133" facs="#facs_134"/>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_134_r1"/>II. Der geplante Ersatzbau</head>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_134_r2"/>1. Projekt</head>
+						<p>
+							<lb facs="#facs_134_r3"/>Den Anforderungen eines zeitgemässen
+                  Untersuchungshaftvollzuges<lb facs="#facs_134_r4"/>kann nur im Rahmen der
+                vorgeschlagenen Überbauung entsprochen<lb facs="#facs_134_r5"/>werden. Insbesondere
+                wäre die Forderung nach einer Mindestfläche der<lb facs="#facs_134_r6"/>Zellen von
+                10 m2 mit einem Umbau nicht realisierbar. Dass eine Verle<lb break="no" facs="#facs_134_r7"/>gung nicht in Frage kommt, geht aus den Ausführungen in Ab<lb break="no" facs="#facs_134_r8"/>schnitt I. 4. hervor.</p>
+						<p>
+							<lb facs="#facs_134_r9"/>Für die Planung des neuen Bezirksgefängnisses wurde an
+                  sechs<lb facs="#facs_134_r10"/>Architekten ein Projektauftrag erteilt. Das zur
+                Weiterbearbeitung und<lb facs="#facs_134_r11"/>Ausführung empfohlene Projekt stammt
+                von der Theo Hotz AG, Archi<lb break="no" facs="#facs_134_r12"/>tekten und Planer,
+                Zürich. Es berücksichtigt in bester Weise die<lb facs="#facs_134_r13"/>Ansprüche,
+                die an ein Gefängnis gestellt werden müssen. Der zukünf<lb break="no" facs="#facs_134_r14"/>tige Ersatzbau kommt an die Stelle des heutigen
+                Bezirksgefängnisses in<lb facs="#facs_134_r15"/>den Hof des Bezirksgebäudes zu
+                stehen. Ein formal eigenständiger,<lb facs="#facs_134_r16"/>unkonventioneller
+                Gebäudekomplex gliedert sich frei in das denkmal<lb break="no" facs="#facs_134_r17"/>schutzwürdige Baugeviert ein.</p>
+						<p>
+							<lb facs="#facs_134_r18"/>Der Altbau kann ohne Nachteil abgebrochen werden. Während
+                  der<lb facs="#facs_134_r19"/>Bauzeit sind insgesamt 60 Gefangene
+                (Halbgefangenschaft) bis zum<lb facs="#facs_134_r20"/>Bezug des Neubaues in zuvor
+                bereitgestellten provisorischen Unterkünf<lb break="no" facs="#facs_134_r21"/>ten
+                auf dem Areal in der Strafanstalt Regensdorf, ausserhalb der<lb facs="#facs_134_r22"/>Gefängnismauer unterzubringen, so dass die heute in andern Gefängnis<lb break="no" facs="#facs_134_r23"/>sen für Halbgefangenschaft reservierten Plätze für
+                  Untersuchungsgefan<lb break="no" facs="#facs_134_r24"/>gene aus dem
+                Bezirksgefängnis Zürich zur Verfügung stehen. Ausser<lb break="no" facs="#facs_134_r25"/>dem muss das alte Bezirksgefängnis Pfäffikon erneut als
+                  Kompensation<lb facs="#facs_134_r26"/>der während der Bauzeit ausfallenden Zellen
+                herangezogen werden.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_134_r27"/>2. Baubeschrieb</head>
+						<p>
+							<lb facs="#facs_134_r28"/>Das achtgeschossige Gebäude wird organisatorisch und
+                baulich in<lb facs="#facs_134_r29"/>einen halbkreisförmigen Zellentrakt und einen
+                gegen den Hof des<lb facs="#facs_134_r30"/>Bezirksgebäudes gerichteten
+                trapezförmigen Diensttrakt unterteilt. Auf<lb facs="#facs_134_r31"/>der im mittleren
+                Gebäudebereich liegenden Achse der beiden ineinan<lb break="no" facs="#facs_134_r32"/>derreichenden Trakte befinden sich die internen Geschosszugänge zwi<lb break="no" facs="#facs_134_r33"/>schen Dienst- und Zellentrakt sowie die zentrale
+                  Vertikalerschliessung<lb facs="#facs_134_r34"/>des Zellentraktes.</p>
+						<p>
+							<lb facs="#facs_134_r35"/>Vom Hof des Bezirksgebäudes wird das Gefängnis über den
+                  Dienst<lb break="no" facs="#facs_134_r36"/>trakt erreicht. Im Erdgeschoss dieses
+                Gebäudeteiles liegt die Eingangs<lb break="no" facs="#facs_134_r37"/>anlage mit der
+                Aufsichtszentrale und der Personenaufnahme. Eine dem<lb facs="#facs_134_r38"/>Baukörper vorgelagerte Fahrzeugschleuse nimmt die Gefangenentrans-</p>
+						<pb n="134" facs="#facs_135"/>
+						<p>
+							<lb facs="#facs_135_r1"/>porte und den Warenverkehr auf. Von hier aus gelangt der
+                  Gefangene<lb facs="#facs_135_r2"/>in die Eintrittsabteilung, bestehend aus einem
+                Aufnahmebüro und den<lb facs="#facs_135_r3"/>Wartezimmern. Der Fussgängerdurchgang
+                ist so gestaltet, dass die<lb facs="#facs_135_r4"/>Trennung des Personenverkehrs von
+                der Aufsichtszentrale aus erfolgt.<lb facs="#facs_135_r5"/>Das Personal gelangt
+                geradewegs zur vertikalen Geschosserschliessung<lb facs="#facs_135_r6"/>des
+                Diensttraktes. Die Besucher erreichen über den Kontrollraum den<lb facs="#facs_135_r7"/>im ersten Obergeschoss liegenden Warteraum mit den
+                  anschliessenden<lb facs="#facs_135_r8"/>Besucherzimmern. Jedes weitere Geschoss
+                beherbergt eine selbständige<lb facs="#facs_135_r9"/>Betriebsgruppe. Der
+                Betreuungsdienst besteht aus den Zimmern für<lb facs="#facs_135_r10"/>Pfarrer,
+                Psychiater, Arzt und Zahnarzt sowie Schirmbild, Labor und<lb facs="#facs_135_r11"/>Therapie. Die Verwaltungsabteilung umfasst Räumlichkeiten für zwölf<lb facs="#facs_135_r12"/>Arbeitsplätze und ein Sitzungszimmer. Die
+                Personalunterkünfte als<lb facs="#facs_135_r13"/>weitere Gruppe enthalten einen
+                geräumigen Aufenthalts- und Verpfle<lb break="no" facs="#facs_135_r14"/>gungsraum
+                sowie getrennte Garderoben für das weibliche und das<lb facs="#facs_135_r15"/>männliche Personal. Im obersten Geschoss befindet sich neben den<lb facs="#facs_135_r16"/>technischen Anlagen die Wäscherei. Weitere Räumlichkeiten
+                wie Effek<lb break="no" facs="#facs_135_r17"/>tenlager, Heizung, aber auch der
+                Küchenbetrieb und die Bibliothek, die<lb facs="#facs_135_r18"/>gegen den
+                Gefängnishof gut belichtet sind, liegen in den beiden Unter<lb break="no" facs="#facs_135_r19"/>geschossen.</p>
+						<p>
+							<lb facs="#facs_135_r20"/>Dem Zellentrakt sind zwei Spazierhöfe vorgelagert, die
+                  gegenüber<lb facs="#facs_135_r21"/>dem Hof des Bezirksgebäudes um ein Geschoss
+                tiefer liegen. Der<lb facs="#facs_135_r22"/>Baukörper weist neben dem untersten
+                Geschoss für den Zivilschutz<lb facs="#facs_135_r23"/>sieben einheitliche
+                Zellengeschosse auf. Insgesamt können die 138<lb facs="#facs_135_r24"/>Einzelzellen
+                und 14 Dreierzellen 180 Insassen aufnehmen. Davon ste<lb break="no" facs="#facs_135_r25"/>hen 26 Plätze für die Frauenabteilung im obersten Geschoss
+                zur Verfü<lb break="no" facs="#facs_135_r26"/>gung. Jedes der halbkreisförmigen
+                Zellengeschosse ist in drei Gruppen<lb facs="#facs_135_r27"/>unterteilt. Im
+                mittleren Sektor liegt die Gruppe mit acht Einzelzellen für<lb facs="#facs_135_r28"/>Kollusionsgefährdete (Einzelhaft); gegenüber heute 113 stehen somit<lb facs="#facs_135_r29"/>nur noch 56 Zellen für strikte Einzelhaft zur Verfügung. Die
+                  beiden<lb facs="#facs_135_r30"/>äusseren Sektoren mit je sechs Einzelzellen und
+                einer Dreierzelle sind<lb facs="#facs_135_r31"/>als Raumgruppen konzipiert. Zu jeder
+                Raumgruppe gehören ein Auf<lb break="no" facs="#facs_135_r32"/>enthalts- und ein
+                Arbeitsraum, die den Insassen in ihrer eingeschränkten<lb facs="#facs_135_r33"/>Umgebung mehr Platz und grössere Abwechslungsmöglichkeiten geben.<lb facs="#facs_135_r34"/>Auf dem Dach sind zwei weitere kleinere Spazierhöfe für
+                  weibliche<lb facs="#facs_135_r35"/>Insassen und Einzelinhaftierte
+                untergebracht.</p>
+						<p>
+							<lb facs="#facs_135_r36"/>Das Gefängnis erfordert besondere Sicherheitsvorkehrungen,
+                  denen<lb facs="#facs_135_r37"/>die bauliche Gestaltung Rechnung trägt. Die strikte
+                Trennung zwischen<lb facs="#facs_135_r38"/>den Verwaltungs- und Insassenbereichen,
+                aber auch die Aufteilung in<lb facs="#facs_135_r39"/>verschiedene Zellengruppen
+                erleichtern einerseits die Überwachungs<lb break="no" facs="#facs_135_r40"/>aufgaben
+                der Angestellten; anderseits werden unerwünschte Kontakte<lb facs="#facs_135_r41"/>unter den Insassen erschwert.</p>
+						<pb n="135" facs="#facs_136"/>
+						<p>
+							<lb facs="#facs_136_r1"/>Dem Projekt liegt, bedingt durch den Verwendungszweck und
+                  die<lb facs="#facs_136_r2"/>gestellten Ansprüche an die thermischen Isolationen,
+                eine konventio<lb break="no" facs="#facs_136_r3"/>nelle Massivbauweise mit
+                Stahlbetondecken und einer zweischaligen<lb facs="#facs_136_r4"/>Fassadenkonstruktion mit optimaler Wärmedämmung zugrunde. Die<lb facs="#facs_136_r5"/>Innenwände werden je nach den spezifischen Anforderungen in
+                  Stahlbe<lb break="no" facs="#facs_136_r6"/>ton, Mauerwerk oder in leichter
+                Konstruktion erstellt. Für die Energie<lb break="no" facs="#facs_136_r7"/>versorgung
+                liegt ein Heizkonzept vor, das die Nutzung der Wärmeabluft<lb facs="#facs_136_r8"/>vorsieht.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_136_r9"/>3. Die Kosten</head>
+						<p>
+							<lb facs="#facs_136_r10"/>Die Kosten wurden aufgrund von Schätzungen und teils von
+                  detail<lb break="no" facs="#facs_136_r11"/>lierten Berechnungen einzelner
+                Arbeitsgattungen ermittelt. Zum Ver<lb break="no" facs="#facs_136_r12"/>gleich
+                liegen ebenfalls Erfahrungswerte von ähnlichen Bauten vor,<lb facs="#facs_136_r13"/>insbesondere konnte die Abrechnung des im Herbst 1979 fertiggestell<lb break="no" facs="#facs_136_r14"/>ten Bezirksgefängnisses Pfäffikon herangezogen werden.
+                Bezogen auf<lb facs="#facs_136_r15"/>den Preisstand vom <date when="1981-04-01">1.
+                  April 1981</date> ergeben sich folgende Kosten:</p>
+						<table>
+							<row>
+								<cell>
+									<lb facs="#facs_136_r18"/>Vorbereitungsarbeiten (Anpassungen, Abbruch,<lb facs="#facs_136_r19"/>prov. Unterkünfte in Regensdorf)</cell>
+								<cell>
+									<lb facs="#facs_136_r20"/>Fr. 4 090 000</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_136_r21"/>Gebäude (massgebend für die Berechnung<lb facs="#facs_136_r22"/>des Kubikmeterpreises)</cell>
+								<cell>
+									<lb facs="#facs_136_r23"/>Fr. 17 660 000</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_136_r24"/>Betriebseinrichtungen</cell>
+								<cell>
+									<lb facs="#facs_136_r25"/>Fr. 3 000 000</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_136_r26"/>Umgebung</cell>
+								<cell>
+									<lb facs="#facs_136_r27"/>Fr. 530 000</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_136_r29"/>Baunebenkosten</cell>
+								<cell>
+									<lb facs="#facs_136_r30"/>Fr. 350 000</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_136_r32"/>Unvorhergesehenes</cell>
+								<cell>
+									<lb facs="#facs_136_r33"/>Fr. 1 310 000</cell>
+							</row>
+							<row>
+								<cell>
+									<lb facs="#facs_136_r34"/>Ausstattung</cell>
+								<cell>
+									<lb facs="#facs_136_r35"/>Fr. 1 860 000</cell>
+							</row>
+							<row>
+								<cell/>
+								<cell>
+									<lb facs="#facs_136_r36"/>Fr. 28 800 000</cell>
+							</row>
+						</table>
+						<p>
+							<lb facs="#facs_136_r37"/>Die reinen Gebäudekosten, berechnet nach den Normen des
+                  SIA,<lb facs="#facs_136_r38"/>ergeben einen Preis pro Kubikmeter umbauten Raumes
+                von Fr. 584 .-.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_136_r39"/>4. Ermittlung der Folgekosten</head>
+						<p>
+							<lb facs="#facs_136_r40"/>Die Ermittlung der jährlichen Folgekosten gemäss
+                kantonalen Richt<lb break="no" facs="#facs_136_r41"/>linien ergibt folgendes
+                Bild:</p>
+						<figure facs="#facs_136_f0"/>
+						<pb n="136" facs="#facs_137"/>
+						<figure facs="#facs_137_f0"/>
+					</div>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_137_r37"/>III. Schlussfolgerungen</head>
+					<p>
+						<lb facs="#facs_137_r38"/>Der vorgesehene Umbau erfüllt alle Voraussetzungen, um
+                einen<lb facs="#facs_137_r39"/>nach heutigen Anschauungen angemessenen Vollzug der
+                Untersu<lb break="no" facs="#facs_137_r40"/>chungs- und Sicherheitshaft zu
+              gewährleisten. Das Konzept ist so flexi<lb break="no" facs="#facs_137_r41"/>bel, dass
+              ohne weiteres - soweit Platz vorhanden - auch kurzfristige<lb facs="#facs_137_r42"/>Freiheitsstrafen oder gar Halbfreiheit und Halbgefangenschaft vollzo<lb break="no" facs="#facs_137_r43"/>gen werden könnten. Die darin vorgesehenen Werkstätten
+              erlauben es<lb facs="#facs_137_r44"/>auch, anstelle der eher einfachen und eintönigen
+              Zellenarbeit interes<lb break="no" facs="#facs_137_r45"/>santere Arbeiten anzubieten,
+              die voraussichtlich auch von den grund<lb break="no" facs="#facs_137_r46"/>sätzlich
+              nicht zur Arbeit verpflichteten Untersuchungsgefangenen lieber<lb facs="#facs_137_r47"/>und öfter angenommen werden. Die Aufenthaltszonen erlauben es auch<lb facs="#facs_137_r48"/>- zusammen mit den Werkstätten -, die in den letzten Jahren
+                zuneh<lb break="no" facs="#facs_137_r49"/>mend kritisierte Isolation aufzuheben oder
+              zumindest zu mildern, indem<lb facs="#facs_137_r50"/>sinnvolle Arbeit und
+              Freizeitgestaltung ermöglicht und gefördert wer<lb break="no" facs="#facs_137_r51"/>den können. Auch die je länger je nötiger werdenden Betreuungsdien<lb break="no" facs="#facs_137_r52"/>ste finden Arbeitsbedingungen vor, die als Grundvoraussetzung
+                für<lb facs="#facs_137_r53"/>einen sinnvollen Einsatz bezeichnet werden müssen.
+              Schliesslich können<lb facs="#facs_137_r54"/>mit dem Neubau dem Personal jene
+              Arbeitsbedingungen offeriert wer<lb break="no" facs="#facs_137_r55"/>den, welche für
+              eine gedeihliche Arbeit erforderlich sind.</p>
+					<pb n="137" facs="#facs_138"/>
+					<p>
+						<lb facs="#facs_138_r1"/>Der Regierungsrat ersucht den Kantonsrat, dem
+                Kreditbegehren<lb facs="#facs_138_r2"/>zuzustimmen.</p>
+					<p>
+						<lb facs="#facs_138_r3"/>Zürich, den <date when="1981-12-09">9. Dezember
+              1981</date></p>
+					<p>
+						<lb facs="#facs_138_r5"/>Im Namen des Regierungsrates</p>
+					<p>
+						<lb facs="#facs_138_r6"/>Der Präsident:<lb facs="#facs_138_r7"/>Wiederkehr</p>
+					<p>
+						<lb facs="#facs_138_r8"/>Der Staatsschreiber:<lb facs="#facs_138_r9"/>Roggwiller</p>
+					<p>
+						<lb facs="#facs_138_r10"/>Antrag der Finanzkommission* vom <date when="1982-01-21">21.
+                Januar 1982</date></p>
+				</div>
+			</div>
+		</body></text></TEI>

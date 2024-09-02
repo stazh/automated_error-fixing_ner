@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-04-08">08.04.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Besoldungsänderungen mit Wirkung ab 1. Juli 1981</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-08-14">14.08.1981</date><ident>StAZH ABl 1981 (S. 1191-1194)</ident><idno>1191–1194</idno><idno type="issue">34</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132380"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_203" uly="0" ulx="0" lry="2370" lrx="1576">
+			<graphic url="Abl_1981_2__S__0203.tif" width="1576px" height="2370px"/>
+			<zone xml:id="facs_203_r73" ulx="1115" uly="1730" lrx="1232" lry="1755" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r24" ulx="804" uly="1021" lrx="936" lry="1044" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r8" ulx="715" uly="431" lrx="900" lry="460" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r48" ulx="800" uly="1375" lrx="925" lry="1400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r83" ulx="108" uly="1907" lrx="143" lry="1930" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r20" ulx="780" uly="981" lrx="815" lry="999" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r59" ulx="112" uly="1550" lrx="148" lry="1571" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r45" ulx="800" uly="1334" lrx="919" lry="1356" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r26" ulx="130" uly="1067" lrx="152" lry="1086" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r78" ulx="798" uly="1821" lrx="927" lry="1845" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r84" ulx="796" uly="1905" lrx="913" lry="1930" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r86" ulx="110" uly="1953" lrx="145" lry="1975" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r67" ulx="1119" uly="1644" lrx="1240" lry="1666" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r71" ulx="110" uly="1730" lrx="148" lry="1752" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r10" ulx="114" uly="477" lrx="314" lry="505" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r18" ulx="116" uly="946" lrx="197" lry="964" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r28" ulx="1117" uly="1067" lrx="1250" lry="1089" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r75" ulx="800" uly="1777" lrx="909" lry="1800" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r80" ulx="108" uly="1863" lrx="148" lry="1888" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r0" ulx="1214" uly="148" lrx="1286" lry="171" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r85" ulx="1098" uly="1911" lrx="1219" lry="1933" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r61" ulx="1119" uly="1557" lrx="1234" lry="1579" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r65" ulx="112" uly="1642" lrx="145" lry="1664" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r12" ulx="587" uly="475" lrx="1282" lry="504" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r43" ulx="1117" uly="1288" lrx="1219" lry="1310" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r15" ulx="119" uly="635" lrx="949" lry="664" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r88" ulx="1098" uly="1955" lrx="1234" lry="1977" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r29" ulx="130" uly="1110" lrx="148" lry="1130" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r82" ulx="1098" uly="1863" lrx="1248" lry="1888" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r21" ulx="1098" uly="946" lrx="1271" lry="965" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r7" ulx="114" uly="431" lrx="706" lry="460" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r56" ulx="112" uly="1509" lrx="148" lry="1529" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r68" ulx="114" uly="1686" lrx="148" lry="1708" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r70" ulx="1117" uly="1688" lrx="1252" lry="1711" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r1" ulx="114" uly="231" lrx="585" lry="264" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r38" ulx="131" uly="1246" lrx="148" lry="1264" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r79" ulx="1101" uly="1819" lrx="1236" lry="1846" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r49" ulx="1117" uly="1375" lrx="1248" lry="1400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r36" ulx="800" uly="1198" lrx="915" lry="1220" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r64" ulx="1117" uly="1598" lrx="1236" lry="1622" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r32" ulx="131" uly="1158" lrx="148" lry="1175" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r27" ulx="800" uly="1065" lrx="936" lry="1088" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r81" ulx="796" uly="1865" lrx="931" lry="1889" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r42" ulx="800" uly="1286" lrx="913" lry="1309" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r52" ulx="1119" uly="1421" lrx="1232" lry="1445" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r23" ulx="137" uly="1023" lrx="152" lry="1042" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r16" ulx="112" uly="781" lrx="919" lry="812" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r46" ulx="1117" uly="1332" lrx="1227" lry="1355" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r40" ulx="1121" uly="1242" lrx="1238" lry="1268" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r11" ulx="333" uly="477" lrx="579" lry="505" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r51" ulx="802" uly="1421" lrx="923" lry="1445" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r34" ulx="1119" uly="1154" lrx="1221" lry="1176" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r2" ulx="118" uly="283" lrx="439" lry="318" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r50" ulx="118" uly="1423" lrx="145" lry="1443" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r6" ulx="658" uly="387" lrx="1288" lry="415" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r31" ulx="1119" uly="1111" lrx="1232" lry="1133" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r4" ulx="116" uly="387" lrx="412" lry="414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r9" ulx="908" uly="431" lrx="1286" lry="460" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r58" ulx="1117" uly="1509" lrx="1234" lry="1532" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r5" ulx="434" uly="385" lrx="650" lry="414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r72" ulx="798" uly="1730" lrx="923" lry="1755" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r14" ulx="118" uly="562" lrx="779" lry="593" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r62" ulx="114" uly="1598" lrx="150" lry="1620" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r74" ulx="112" uly="1775" lrx="145" lry="1799" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r63" ulx="798" uly="1598" lrx="931" lry="1623" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r66" ulx="800" uly="1642" lrx="912" lry="1666" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r57" ulx="802" uly="1507" lrx="927" lry="1533" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r76" ulx="1100" uly="1778" lrx="1236" lry="1800" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r47" ulx="129" uly="1377" lrx="145" lry="1397" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r54" ulx="800" uly="1465" lrx="929" lry="1490" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r25" ulx="1117" uly="1021" lrx="1252" lry="1044" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r13" ulx="118" uly="516" lrx="1288" lry="548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r30" ulx="800" uly="1111" lrx="913" lry="1133" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r60" ulx="798" uly="1554" lrx="925" lry="1578" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r69" ulx="798" uly="1686" lrx="929" lry="1711" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r33" ulx="798" uly="1152" lrx="915" lry="1177" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r39" ulx="802" uly="1244" lrx="917" lry="1267" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r87" ulx="779" uly="1955" lrx="921" lry="1977" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r22" ulx="1096" uly="979" lrx="1134" lry="997" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r37" ulx="1121" uly="1198" lrx="1220" lry="1220" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r41" ulx="135" uly="1290" lrx="152" lry="1308" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r17" ulx="120" uly="846" lrx="745" lry="875" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r19" ulx="782" uly="944" lrx="966" lry="965" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r3" ulx="450" uly="281" lrx="693" lry="316" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r44" ulx="129" uly="1334" lrx="148" lry="1353" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r77" ulx="110" uly="1819" lrx="145" lry="1843" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r35" ulx="131" uly="1202" lrx="148" lry="1220" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r55" ulx="1119" uly="1465" lrx="1240" lry="1490" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_203_r53" ulx="114" uly="1461" lrx="145" lry="1484" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_204" uly="0" ulx="0" lry="2373" lrx="1581">
+			<graphic url="Abl_1981_2__S__0204.tif" width="1581px" height="2373px"/>
+			<zone xml:id="facs_204_r75" ulx="1301" uly="1595" lrx="1416" lry="1622" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r18" ulx="953" uly="568" lrx="1065" lry="593" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r59" ulx="285" uly="1193" lrx="325" lry="1217" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r37" ulx="1274" uly="835" lrx="1387" lry="859" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r64" ulx="1274" uly="1235" lrx="1409" lry="1259" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r57" ulx="957" uly="1145" lrx="1069" lry="1172" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r52" ulx="1274" uly="1058" lrx="1387" lry="1081" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r83" ulx="287" uly="1783" lrx="442" lry="1806" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r36" ulx="953" uly="835" lrx="1078" lry="860" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r6" ulx="1273" uly="360" lrx="1442" lry="379" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r61" ulx="1276" uly="1191" lrx="1378" lry="1213" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r9" ulx="953" uly="439" lrx="1086" lry="463" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r89" ulx="291" uly="1870" lrx="519" lry="1894" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r78" ulx="511" uly="1691" lrx="811" lry="1720" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r24" ulx="953" uly="662" lrx="1080" lry="684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r91" ulx="1295" uly="1862" lrx="1437" lry="1887" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r20" ulx="299" uly="618" lrx="321" lry="639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r35" ulx="302" uly="843" lrx="321" lry="863" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r56" ulx="287" uly="1150" lrx="323" lry="1175" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r80" ulx="289" uly="1741" lrx="396" lry="1762" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r62" ulx="292" uly="1243" lrx="319" lry="1263" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r63" ulx="957" uly="1235" lrx="1072" lry="1260" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r3" ulx="283" uly="364" lrx="365" lry="384" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r50" ulx="287" uly="1062" lrx="325" lry="1086" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r26" ulx="302" uly="712" lrx="321" lry="731" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r22" ulx="1274" uly="612" lrx="1384" lry="636" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r27" ulx="951" uly="704" lrx="1090" lry="729" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r49" ulx="1278" uly="1014" lrx="1391" lry="1038" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r77" ulx="1299" uly="1643" lrx="1434" lry="1666" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r21" ulx="953" uly="614" lrx="1076" lry="638" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r12" ulx="946" uly="481" lrx="1088" lry="506" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r33" ulx="953" uly="793" lrx="1088" lry="817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r13" ulx="1268" uly="481" lrx="1405" lry="504" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r0" ulx="278" uly="147" lrx="351" lry="171" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r95" ulx="1297" uly="1950" lrx="1441" lry="1976" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r19" ulx="1272" uly="568" lrx="1378" lry="592" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r44" ulx="287" uly="975" lrx="321" lry="997" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r28" ulx="1274" uly="702" lrx="1401" lry="727" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r85" ulx="1299" uly="1777" lrx="1434" lry="1799" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r25" ulx="1274" uly="658" lrx="1399" lry="681" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r70" ulx="1278" uly="1514" lrx="1311" lry="1532" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r60" ulx="957" uly="1193" lrx="1061" lry="1215" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r94" ulx="982" uly="1954" lrx="1115" lry="1979" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r4" ulx="950" uly="360" lrx="1136" lry="381" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r46" ulx="1276" uly="970" lrx="1378" lry="993" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r30" ulx="955" uly="747" lrx="1065" lry="771" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r53" ulx="285" uly="1106" lrx="323" lry="1128" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r32" ulx="302" uly="802" lrx="322" lry="822" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r58" ulx="1276" uly="1150" lrx="1392" lry="1173" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r81" ulx="980" uly="1731" lrx="1084" lry="1757" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r71" ulx="289" uly="1558" lrx="471" lry="1587" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r45" ulx="955" uly="970" lrx="1088" lry="994" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r42" ulx="953" uly="927" lrx="1074" lry="950" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r48" ulx="953" uly="1014" lrx="1076" lry="1039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r67" ulx="957" uly="1481" lrx="1143" lry="1500" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r84" ulx="980" uly="1779" lrx="1113" lry="1802" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r73" ulx="1299" uly="1554" lrx="1432" lry="1576" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r55" ulx="1278" uly="1102" lrx="1395" lry="1125" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r92" ulx="294" uly="1914" lrx="519" lry="1939" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r93" ulx="292" uly="1958" lrx="704" lry="1986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r38" ulx="285" uly="887" lrx="317" lry="906" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r7" ulx="1274" uly="397" lrx="1309" lry="415" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r88" ulx="1299" uly="1820" lrx="1434" lry="1844" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r69" ulx="1278" uly="1477" lrx="1451" lry="1497" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r1" ulx="283" uly="231" lrx="1139" lry="261" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r23" ulx="304" uly="666" lrx="321" lry="687" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r17" ulx="302" uly="577" lrx="321" lry="596" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r40" ulx="1272" uly="879" lrx="1376" lry="902" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r79" ulx="1299" uly="1685" lrx="1418" lry="1709" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r8" ulx="285" uly="445" lrx="304" lry="466" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r43" ulx="1276" uly="927" lrx="1378" lry="949" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r66" ulx="287" uly="1487" lrx="402" lry="1505" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r47" ulx="285" uly="1018" lrx="323" lry="1040" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r16" ulx="1272" uly="522" lrx="1395" lry="547" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r87" ulx="982" uly="1822" lrx="1097" lry="1846" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r65" ulx="284" uly="1412" lrx="1262" lry="1444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r2" ulx="281" uly="293" lrx="623" lry="324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r82" ulx="1301" uly="1731" lrx="1437" lry="1754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r31" ulx="1274" uly="745" lrx="1399" lry="770" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r14" ulx="302" uly="531" lrx="321" lry="552" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r39" ulx="953" uly="883" lrx="1080" lry="905" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r72" ulx="504" uly="1558" lrx="704" lry="1587" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r86" ulx="292" uly="1827" lrx="444" lry="1852" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r29" ulx="302" uly="754" lrx="321" lry="775" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r15" ulx="953" uly="527" lrx="1074" lry="549" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r41" ulx="287" uly="931" lrx="321" lry="952" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r10" ulx="1270" uly="435" lrx="1405" lry="460" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r51" ulx="953" uly="1060" lrx="1059" lry="1084" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r74" ulx="508" uly="1602" lrx="700" lry="1629" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r5" ulx="953" uly="400" lrx="986" lry="418" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r76" ulx="510" uly="1645" lrx="702" lry="1672" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r11" ulx="302" uly="489" lrx="317" lry="507" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r34" ulx="1274" uly="791" lrx="1389" lry="815" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r54" ulx="957" uly="1104" lrx="1061" lry="1126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r90" ulx="980" uly="1868" lrx="1113" lry="1892" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_204_r68" ulx="959" uly="1518" lrx="996" lry="1535" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_205" uly="0" ulx="0" lry="2372" lrx="1578">
+			<graphic url="Abl_1981_2__S__0205.tif" width="1578px" height="2372px"/>
+			<zone xml:id="facs_205_r26" ulx="1098" uly="631" lrx="1242" lry="656" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r75" ulx="859" uly="1921" lrx="977" lry="1946" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r32" ulx="783" uly="929" lrx="963" lry="947" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r64" ulx="321" uly="1886" lrx="358" lry="1902" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r25" ulx="798" uly="633" lrx="905" lry="657" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r35" ulx="1100" uly="962" lrx="1138" lry="979" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r13" ulx="798" uly="456" lrx="929" lry="480" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r20" ulx="1101" uly="543" lrx="1225" lry="567" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r43" ulx="802" uly="1090" lrx="938" lry="1115" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r2" ulx="112" uly="277" lrx="564" lry="304" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r41" ulx="1098" uly="1046" lrx="1219" lry="1067" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r81" ulx="1098" uly="1967" lrx="1225" lry="1991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r73" ulx="321" uly="1923" lrx="458" lry="1948" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r31" ulx="110" uly="929" lrx="229" lry="949" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r86" ulx="1096" uly="2013" lrx="1227" lry="2035" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r51" ulx="112" uly="1413" lrx="239" lry="1438" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r56" ulx="1117" uly="1459" lrx="1250" lry="1481" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r83" ulx="321" uly="2013" lrx="456" lry="2037" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r63" ulx="318" uly="1850" lrx="508" lry="1870" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r60" ulx="106" uly="1680" lrx="757" lry="1711" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r79" ulx="573" uly="1967" lrx="710" lry="1991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r65" ulx="578" uly="1848" lrx="748" lry="1868" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r50" ulx="1096" uly="1373" lrx="1138" lry="1391" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r36" ulx="112" uly="998" lrx="512" lry="1026" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r37" ulx="783" uly="1000" lrx="933" lry="1024" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r61" ulx="108" uly="1744" lrx="323" lry="1770" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r47" ulx="782" uly="1338" lrx="965" lry="1357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r84" ulx="577" uly="2013" lrx="712" lry="2037" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r14" ulx="1117" uly="454" lrx="1236" lry="477" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r1" ulx="114" uly="233" lrx="411" lry="258" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r62" ulx="320" uly="1811" lrx="557" lry="1833" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r28" ulx="779" uly="677" lrx="929" lry="702" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r52" ulx="802" uly="1415" lrx="938" lry="1438" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r72" ulx="106" uly="1923" lrx="235" lry="1948" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r48" ulx="781" uly="1375" lrx="817" lry="1393" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r68" ulx="845" uly="1846" lrx="1027" lry="1867" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r49" ulx="1099" uly="1338" lrx="1267" lry="1357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r10" ulx="800" uly="410" lrx="927" lry="436" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r9" ulx="112" uly="410" lrx="264" lry="436" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r59" ulx="1102" uly="1504" lrx="1252" lry="1527" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r76" ulx="1096" uly="1923" lrx="1227" lry="1946" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r66" ulx="576" uly="1886" lrx="621" lry="1904" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r21" ulx="112" uly="589" lrx="218" lry="613" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r18" ulx="112" uly="546" lrx="304" lry="569" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r27" ulx="109" uly="679" lrx="227" lry="703" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r30" ulx="110" uly="860" lrx="1040" lry="887" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r46" ulx="112" uly="1338" lrx="226" lry="1358" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r24" ulx="114" uly="633" lrx="360" lry="658" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r3" ulx="110" uly="325" lrx="519" lry="350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r15" ulx="114" uly="502" lrx="335" lry="524" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r57" ulx="110" uly="1502" lrx="243" lry="1527" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r39" ulx="112" uly="1044" lrx="617" lry="1071" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r5" ulx="1121" uly="321" lrx="1244" lry="345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r40" ulx="796" uly="1044" lrx="917" lry="1069" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r44" ulx="1101" uly="1090" lrx="1250" lry="1113" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r53" ulx="1121" uly="1415" lrx="1224" lry="1437" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r11" ulx="1119" uly="410" lrx="1250" lry="435" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r19" ulx="800" uly="544" lrx="902" lry="568" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r58" ulx="800" uly="1500" lrx="935" lry="1525" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r6" ulx="112" uly="364" lrx="293" lry="389" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r23" ulx="1102" uly="589" lrx="1238" lry="613" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r78" ulx="321" uly="1969" lrx="433" lry="1991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r38" ulx="1101" uly="1000" lrx="1248" lry="1022" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r71" ulx="1094" uly="1886" lrx="1131" lry="1902" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r74" ulx="579" uly="1923" lrx="710" lry="1947" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r85" ulx="850" uly="2013" lrx="977" lry="2035" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r17" ulx="1115" uly="498" lrx="1219" lry="521" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r7" ulx="800" uly="368" lrx="933" lry="392" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r77" ulx="104" uly="1969" lrx="235" lry="1993" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r34" ulx="1097" uly="927" lrx="1267" lry="945" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r0" ulx="1210" uly="150" lrx="1283" lry="172" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r42" ulx="114" uly="1092" lrx="458" lry="1119" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r82" ulx="108" uly="2013" lrx="237" lry="2038" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r16" ulx="798" uly="502" lrx="906" lry="524" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r8" ulx="1115" uly="368" lrx="1219" lry="389" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r70" ulx="1094" uly="1850" lrx="1262" lry="1868" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r80" ulx="844" uly="1967" lrx="977" lry="1991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r22" ulx="800" uly="587" lrx="909" lry="612" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r12" ulx="110" uly="458" lrx="264" lry="480" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r33" ulx="781" uly="962" lrx="819" lry="979" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r29" ulx="1098" uly="677" lrx="1240" lry="700" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r4" ulx="798" uly="320" lrx="933" lry="345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r69" ulx="846" uly="1886" lrx="881" lry="1902" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r54" ulx="112" uly="1456" lrx="241" lry="1481" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r55" ulx="802" uly="1459" lrx="935" lry="1482" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r67" ulx="845" uly="1809" lrx="1076" lry="1831" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_205_r45" ulx="114" uly="1269" lrx="1173" lry="1298" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_206" uly="0" ulx="0" lry="2371" lrx="1580">
+			<graphic url="Abl_1981_2__S__0206.tif" width="1580px" height="2371px"/>
+			<zone xml:id="facs_206_r32" ulx="756" uly="743" lrx="929" lry="763" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r10" ulx="1272" uly="341" lrx="1445" lry="361" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r57" ulx="1027" uly="1233" lrx="1061" lry="1254" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r5" ulx="758" uly="345" lrx="929" lry="363" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r35" ulx="1023" uly="741" lrx="1208" lry="761" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r67" ulx="289" uly="1545" lrx="1113" lry="1573" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r49" ulx="287" uly="906" lrx="416" lry="931" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r6" ulx="753" uly="377" lrx="796" lry="395" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r22" ulx="283" uly="508" lrx="416" lry="531" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r61" ulx="1027" uly="1275" lrx="1156" lry="1298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r41" ulx="760" uly="818" lrx="860" lry="841" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r24" ulx="758" uly="508" lrx="890" lry="531" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r70" ulx="1025" uly="1650" lrx="1067" lry="1668" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r52" ulx="1025" uly="906" lrx="1129" lry="928" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r36" ulx="1023" uly="777" lrx="1065" lry="796" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r14" ulx="754" uly="416" lrx="892" lry="441" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r15" ulx="1025" uly="418" lrx="1152" lry="442" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r51" ulx="760" uly="908" lrx="860" lry="930" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r55" ulx="289" uly="1152" lrx="706" lry="1181" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r48" ulx="1275" uly="862" lrx="1380" lry="886" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r28" ulx="287" uly="643" lrx="529" lry="670" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r42" ulx="1026" uly="816" lrx="1129" lry="838" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r3" ulx="499" uly="345" lrx="685" lry="365" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r23" ulx="502" uly="510" lrx="635" lry="532" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r65" ulx="1275" uly="1318" lrx="1392" lry="1341" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r56" ulx="1021" uly="1200" lrx="1206" lry="1219" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r69" ulx="1275" uly="1612" lrx="1450" lry="1632" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r30" ulx="498" uly="743" lrx="687" lry="764" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r72" ulx="1029" uly="1689" lrx="1163" lry="1710" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r18" ulx="502" uly="464" lrx="637" lry="488" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r62" ulx="1275" uly="1275" lrx="1411" lry="1300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r7" ulx="1022" uly="306" lrx="1256" lry="327" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r31" ulx="502" uly="779" lrx="537" lry="797" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r27" ulx="287" uly="597" lrx="921" lry="622" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r64" ulx="1021" uly="1318" lrx="1130" lry="1342" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r40" ulx="502" uly="820" lrx="604" lry="843" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r43" ulx="1275" uly="816" lrx="1379" lry="838" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r12" ulx="289" uly="420" lrx="414" lry="444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r59" ulx="1275" uly="1235" lrx="1309" lry="1253" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r13" ulx="502" uly="418" lrx="635" lry="443" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r47" ulx="1025" uly="860" lrx="1129" lry="884" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r46" ulx="759" uly="860" lrx="865" lry="886" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r9" ulx="1024" uly="377" lrx="1067" lry="395" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r26" ulx="1275" uly="504" lrx="1413" lry="529" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r53" ulx="1279" uly="904" lrx="1361" lry="926" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r19" ulx="754" uly="464" lrx="892" lry="486" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r0" ulx="280" uly="156" lrx="355" lry="179" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r37" ulx="1276" uly="741" lrx="1447" lry="759" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r50" ulx="507" uly="906" lrx="623" lry="929" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r21" ulx="1277" uly="458" lrx="1406" lry="483" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r45" ulx="502" uly="862" lrx="623" lry="886" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r44" ulx="283" uly="862" lrx="414" lry="887" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r60" ulx="285" uly="1277" lrx="416" lry="1302" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r71" ulx="1279" uly="1650" lrx="1317" lry="1666" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r58" ulx="1272" uly="1202" lrx="1445" lry="1220" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r34" ulx="1025" uly="706" lrx="1258" lry="727" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r8" ulx="1024" uly="343" lrx="1208" lry="363" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r29" ulx="499" uly="708" lrx="735" lry="727" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r25" ulx="1027" uly="506" lrx="1158" lry="529" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r39" ulx="283" uly="816" lrx="418" lry="843" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r66" ulx="289" uly="1502" lrx="1396" lry="1528" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r54" ulx="287" uly="1089" lrx="896" lry="1117" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r73" ulx="1279" uly="1685" lrx="1413" lry="1710" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r38" ulx="1275" uly="777" lrx="1311" lry="793" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r20" ulx="1029" uly="462" lrx="1127" lry="483" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r17" ulx="285" uly="462" lrx="416" lry="487" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r68" ulx="1024" uly="1612" lrx="1213" lry="1632" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r63" ulx="283" uly="1318" lrx="416" lry="1345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r4" ulx="500" uly="381" lrx="541" lry="399" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r33" ulx="755" uly="779" lrx="799" lry="795" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r1" ulx="285" uly="241" lrx="571" lry="265" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r11" ulx="1273" uly="375" lrx="1315" lry="393" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r2" ulx="499" uly="310" lrx="737" lry="329" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_206_r16" ulx="1277" uly="416" lrx="1411" lry="440" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1191" facs="#facs_203"/>
+			<p>
+				<lb facs="#facs_203_r4"/>Mit Beschluss vom <date when="1981-06-10">10. Juni 1981</date>
+          hat der Regierungsrat die Ausrichtung<lb facs="#facs_203_r7"/>einer Teuerungszulage von
+          3,5% ab <date when="1981-07-01">1. Juli 1981</date> auf der Jahresgrundbe<lb break="no" facs="#facs_203_r10"/>soldung vom <date when="1981-01-01">1. Januar 1981</date> an das
+          Staatspersonal bewilligt. Die Teue<lb break="no" facs="#facs_203_r13"/>rungszulage wird in
+          die ab diesem Zeitpunkt gültige verordnungsge<lb break="no" facs="#facs_203_r14"/>mässe
+          Jahresgrundbesoldung eingebaut.</p>
+			<p>
+				<lb facs="#facs_203_r15"/>Die neuen Grundbesoldungen betragen demnach:</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_203_r16"/>I. Grundbesoldungen nach Beamtenverordnung</head>
+				<p>
+					<lb facs="#facs_203_r17"/>(Beamte und Verwaltungsangestellte)</p>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r18"/>Klasse</cell>
+						<cell>
+							<lb facs="#facs_203_r19"/>Mindestbetrag<lb facs="#facs_203_r20"/>Fr.</cell>
+						<cell>
+							<lb facs="#facs_203_r21"/>Höchstbetrag<lb facs="#facs_203_r22"/>Fr.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r23"/>1</cell>
+						<cell>
+							<lb facs="#facs_203_r24"/>28 136 .-</cell>
+						<cell>
+							<lb facs="#facs_203_r25"/>34 616 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r26"/>2</cell>
+						<cell>
+							<lb facs="#facs_203_r27"/>29 890 .-</cell>
+						<cell>
+							<lb facs="#facs_203_r28"/>37 274 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r29"/>3</cell>
+						<cell>
+							<lb facs="#facs_203_r30"/>31 699.-</cell>
+						<cell>
+							<lb facs="#facs_203_r31"/>39 963.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r32"/>4</cell>
+						<cell>
+							<lb facs="#facs_203_r33"/>33 622.-</cell>
+						<cell>
+							<lb facs="#facs_203_r34"/>42 798.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r35"/>5</cell>
+						<cell>
+							<lb facs="#facs_203_r36"/>35 544.-</cell>
+						<cell>
+							<lb facs="#facs_203_r37"/>45 640.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r38"/>6</cell>
+						<cell>
+							<lb facs="#facs_203_r39"/>37 583.-</cell>
+						<cell>
+							<lb facs="#facs_203_r40"/>48 575 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r41"/>7</cell>
+						<cell>
+							<lb facs="#facs_203_r42"/>39 618.-</cell>
+						<cell>
+							<lb facs="#facs_203_r43"/>51 538.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r44"/>8</cell>
+						<cell>
+							<lb facs="#facs_203_r45"/>41 744.-</cell>
+						<cell>
+							<lb facs="#facs_203_r46"/>54 464.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r47"/>9</cell>
+						<cell>
+							<lb facs="#facs_203_r48"/>44 232 .-</cell>
+						<cell>
+							<lb facs="#facs_203_r49"/>57 840 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r50"/>10</cell>
+						<cell>
+							<lb facs="#facs_203_r51"/>46 949 .-</cell>
+						<cell>
+							<lb facs="#facs_203_r52"/>61 485.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r53"/>11</cell>
+						<cell>
+							<lb facs="#facs_203_r54"/>49 889 .-</cell>
+						<cell>
+							<lb facs="#facs_203_r55"/>65 321 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r56"/>12</cell>
+						<cell>
+							<lb facs="#facs_203_r57"/>53 057 .-</cell>
+						<cell>
+							<lb facs="#facs_203_r58"/>69 385.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r59"/>13</cell>
+						<cell>
+							<lb facs="#facs_203_r60"/>56 562 .-</cell>
+						<cell>
+							<lb facs="#facs_203_r61"/>73 786.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r62"/>14</cell>
+						<cell>
+							<lb facs="#facs_203_r63"/>60 409 .-</cell>
+						<cell>
+							<lb facs="#facs_203_r64"/>78 545.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r65"/>15</cell>
+						<cell>
+							<lb facs="#facs_203_r66"/>64 593.-</cell>
+						<cell>
+							<lb facs="#facs_203_r67"/>83 657 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r68"/>16</cell>
+						<cell>
+							<lb facs="#facs_203_r69"/>69 117 .-</cell>
+						<cell>
+							<lb facs="#facs_203_r70"/>89 069 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r71"/>17</cell>
+						<cell>
+							<lb facs="#facs_203_r72"/>73 076 .-</cell>
+						<cell>
+							<lb facs="#facs_203_r73"/>94 836.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r74"/>18</cell>
+						<cell>
+							<lb facs="#facs_203_r75"/>77 488.-</cell>
+						<cell>
+							<lb facs="#facs_203_r76"/>101 064 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r77"/>19</cell>
+						<cell>
+							<lb facs="#facs_203_r78"/>82 464 .-</cell>
+						<cell>
+							<lb facs="#facs_203_r79"/>107 856.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r80"/>20</cell>
+						<cell>
+							<lb facs="#facs_203_r81"/>89 025 .-</cell>
+						<cell>
+							<lb facs="#facs_203_r82"/>115 329 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r83"/>21</cell>
+						<cell>
+							<lb facs="#facs_203_r84"/>95 475.-</cell>
+						<cell>
+							<lb facs="#facs_203_r85"/>123 571.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_203_r86"/>22</cell>
+						<cell>
+							<lb facs="#facs_203_r87"/>102 824.-</cell>
+						<cell>
+							<lb facs="#facs_203_r88"/>132 736.-</cell>
+					</row>
+				</table>
+			</div>
+			<pb n="1192" facs="#facs_204"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_204_r1"/>II. Grundbesoldungen nach Angestelltenreglement</head>
+				<p>
+					<lb facs="#facs_204_r2"/>(Betriebsangestellte)</p>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r3"/>Klasse</cell>
+						<cell>
+							<lb facs="#facs_204_r4"/>Mindestbetrag<lb facs="#facs_204_r5"/>Fr</cell>
+						<cell>
+							<lb facs="#facs_204_r6"/>Höchstbetrag<lb facs="#facs_204_r7"/>Fr.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r8"/>A</cell>
+						<cell>
+							<lb facs="#facs_204_r9"/>20 820 .-</cell>
+						<cell>
+							<lb facs="#facs_204_r10"/>24 044 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r11"/>1</cell>
+						<cell>
+							<lb facs="#facs_204_r12"/>21 953 .-</cell>
+						<cell>
+							<lb facs="#facs_204_r13"/>25 625 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r14"/>2</cell>
+						<cell>
+							<lb facs="#facs_204_r15"/>23 082.-</cell>
+						<cell>
+							<lb facs="#facs_204_r16"/>27 210 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r17"/>3</cell>
+						<cell>
+							<lb facs="#facs_204_r18"/>24 213.-</cell>
+						<cell>
+							<lb facs="#facs_204_r19"/>28 773.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r20"/>4</cell>
+						<cell>
+							<lb facs="#facs_204_r21"/>25 345 .-</cell>
+						<cell>
+							<lb facs="#facs_204_r22"/>30 353.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r23"/>5</cell>
+						<cell>
+							<lb facs="#facs_204_r24"/>26 497 .-</cell>
+						<cell>
+							<lb facs="#facs_204_r25"/>32 057 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r26"/>6</cell>
+						<cell>
+							<lb facs="#facs_204_r27"/>27 651 .-</cell>
+						<cell>
+							<lb facs="#facs_204_r28"/>33 755 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r29"/>7</cell>
+						<cell>
+							<lb facs="#facs_204_r30"/>28 805.-</cell>
+						<cell>
+							<lb facs="#facs_204_r31"/>35 461 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r32"/>8</cell>
+						<cell>
+							<lb facs="#facs_204_r33"/>30 070 .-</cell>
+						<cell>
+							<lb facs="#facs_204_r34"/>37 270.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r35"/>9</cell>
+						<cell>
+							<lb facs="#facs_204_r36"/>31 474 .-</cell>
+						<cell>
+							<lb facs="#facs_204_r37"/>39 314.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r38"/>10</cell>
+						<cell>
+							<lb facs="#facs_204_r39"/>32 900 .-</cell>
+						<cell>
+							<lb facs="#facs_204_r40"/>41 468.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r41"/>11</cell>
+						<cell>
+							<lb facs="#facs_204_r42"/>34 326 .-</cell>
+						<cell>
+							<lb facs="#facs_204_r43"/>43 598.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r44"/>12</cell>
+						<cell>
+							<lb facs="#facs_204_r45"/>35 783 .-</cell>
+						<cell>
+							<lb facs="#facs_204_r46"/>46 135.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r47"/>13</cell>
+						<cell>
+							<lb facs="#facs_204_r48"/>37 539 .-</cell>
+						<cell>
+							<lb facs="#facs_204_r49"/>48 811.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r50"/>14</cell>
+						<cell>
+							<lb facs="#facs_204_r51"/>39 618.-</cell>
+						<cell>
+							<lb facs="#facs_204_r52"/>51 538.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r53"/>15</cell>
+						<cell>
+							<lb facs="#facs_204_r54"/>41 744.-</cell>
+						<cell>
+							<lb facs="#facs_204_r55"/>54 464.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r56"/>16</cell>
+						<cell>
+							<lb facs="#facs_204_r57"/>44 232.-</cell>
+						<cell>
+							<lb facs="#facs_204_r58"/>57 840.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r59"/>17</cell>
+						<cell>
+							<lb facs="#facs_204_r60"/>46 949.-</cell>
+						<cell>
+							<lb facs="#facs_204_r61"/>61 485.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r62"/>18</cell>
+						<cell>
+							<lb facs="#facs_204_r63"/>49 889.-</cell>
+						<cell>
+							<lb facs="#facs_204_r64"/>65 321 .-</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_204_r65"/>III. Grundbesoldungen der Angehörigen des Polizeikorps</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r66"/>Funktion</cell>
+						<cell/>
+						<cell>
+							<lb facs="#facs_204_r67"/>Mindestbetrag<lb facs="#facs_204_r68"/>Fr.</cell>
+						<cell>
+							<lb facs="#facs_204_r69"/>Höchstbetrag<lb facs="#facs_204_r70"/>Fr.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r71"/>Aspiranten</cell>
+						<cell>
+							<lb facs="#facs_204_r72"/>20-22jährig</cell>
+						<cell/>
+						<cell>
+							<lb facs="#facs_204_r73"/>38 186 .-</cell>
+					</row>
+					<row>
+						<cell/>
+						<cell>
+							<lb facs="#facs_204_r74"/>23-24jährig</cell>
+						<cell/>
+						<cell>
+							<lb facs="#facs_204_r75"/>39 881.-</cell>
+					</row>
+					<row>
+						<cell/>
+						<cell>
+							<lb facs="#facs_204_r76"/>25-26jährig</cell>
+						<cell/>
+						<cell>
+							<lb facs="#facs_204_r77"/>41 578 .-</cell>
+					</row>
+					<row>
+						<cell/>
+						<cell>
+							<lb facs="#facs_204_r78"/>27jährig und älter</cell>
+						<cell/>
+						<cell>
+							<lb facs="#facs_204_r79"/>43 275.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r80"/>Soldat</cell>
+						<cell/>
+						<cell>
+							<lb facs="#facs_204_r81"/>43 275.-</cell>
+						<cell>
+							<lb facs="#facs_204_r82"/>52 923 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r83"/>Gefreiter</cell>
+						<cell/>
+						<cell>
+							<lb facs="#facs_204_r84"/>44 349 .-</cell>
+						<cell>
+							<lb facs="#facs_204_r85"/>53 997 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r86"/>Korporal</cell>
+						<cell/>
+						<cell>
+							<lb facs="#facs_204_r87"/>45 878.-</cell>
+						<cell>
+							<lb facs="#facs_204_r88"/>55 526 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r89"/>Wachtmeister</cell>
+						<cell/>
+						<cell>
+							<lb facs="#facs_204_r90"/>48 139 .-</cell>
+						<cell>
+							<lb facs="#facs_204_r91"/>57 787 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_204_r92"/>Wachtmeister<lb facs="#facs_204_r93"/>mit besondern
+                Aufgaben</cell>
+						<cell/>
+						<cell>
+							<lb facs="#facs_204_r94"/>50 774 .-</cell>
+						<cell>
+							<lb facs="#facs_204_r95"/>60 774 .-</cell>
+					</row>
+				</table>
+				<pb n="1193" facs="#facs_205"/>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r1"/>Wachtmeister mit<lb facs="#facs_205_r2"/>besondern Aufgaben
+                  unter<lb facs="#facs_205_r3"/>erhöhter Verantwortung</cell>
+						<cell>
+							<lb facs="#facs_205_r4"/>53 319 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r5"/>64 223 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r6"/>Feldweibel</cell>
+						<cell>
+							<lb facs="#facs_205_r7"/>56 147 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r8"/>67 963.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r9"/>Adjutant</cell>
+						<cell>
+							<lb facs="#facs_205_r10"/>59 313 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r11"/>72 041 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r12"/>Leutnant</cell>
+						<cell>
+							<lb facs="#facs_205_r13"/>60 409 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r14"/>78 545 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r15"/>Oberleutnant</cell>
+						<cell>
+							<lb facs="#facs_205_r16"/>69 117.-</cell>
+						<cell>
+							<lb facs="#facs_205_r17"/>89 069.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r18"/>Hauptmann</cell>
+						<cell>
+							<lb facs="#facs_205_r19"/>77 488.-</cell>
+						<cell>
+							<lb facs="#facs_205_r20"/>101 064.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r21"/>Major</cell>
+						<cell>
+							<lb facs="#facs_205_r22"/>82 464.-</cell>
+						<cell>
+							<lb facs="#facs_205_r23"/>107 856 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r24"/>Oberstleutnant</cell>
+						<cell>
+							<lb facs="#facs_205_r25"/>95 475.-</cell>
+						<cell>
+							<lb facs="#facs_205_r26"/>123 571 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r27"/>Oberst</cell>
+						<cell>
+							<lb facs="#facs_205_r28"/>102 824 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r29"/>132 736 .-</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_205_r30"/>IV. Grundbesoldungen der Professoren der Universität</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r31"/>Funktion</cell>
+						<cell>
+							<lb facs="#facs_205_r32"/>Mindestbetrag<lb facs="#facs_205_r33"/>Fr.</cell>
+						<cell>
+							<lb facs="#facs_205_r34"/>Höchstbetrag<lb facs="#facs_205_r35"/>Fr.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r36"/>Ordentliche Professoren</cell>
+						<cell>
+							<lb facs="#facs_205_r37"/>102 824 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r38"/>132 736 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r39"/>Ausserordentliche Professoren</cell>
+						<cell>
+							<lb facs="#facs_205_r40"/>85 745.</cell>
+						<cell>
+							<lb facs="#facs_205_r41"/>111 585</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r42"/>Assistenzprofessoren</cell>
+						<cell>
+							<lb facs="#facs_205_r43"/>77 485 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r44"/>101 037 .-</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_205_r45"/>V. Grundbesoldungen der Lehrer der kantonalen
+            Mittelschulen</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r46"/>Funktion</cell>
+						<cell>
+							<lb facs="#facs_205_r47"/>Mindestbetrag<lb facs="#facs_205_r48"/>Fr.</cell>
+						<cell>
+							<lb facs="#facs_205_r49"/>Höchstbetrag<lb facs="#facs_205_r50"/>Fr.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r51"/>1. Stufe</cell>
+						<cell>
+							<lb facs="#facs_205_r52"/>65 725 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r53"/>84 789.-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r54"/>2. Stufe</cell>
+						<cell>
+							<lb facs="#facs_205_r55"/>86 829 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r56"/>92 949 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r57"/>3. Stufe</cell>
+						<cell>
+							<lb facs="#facs_205_r58"/>94 989 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r59"/>101 109 .-</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_205_r60"/>VI. Besoldungen der Volksschullehrer</head>
+				<p>
+					<lb facs="#facs_205_r61"/>Primarlehrer</p>
+				<table>
+					<row>
+						<cell/>
+						<cell>
+							<lb facs="#facs_205_r62"/>Grundbesoldung<lb facs="#facs_205_r63"/>Mindestbetrag<lb facs="#facs_205_r64"/>Fr.</cell>
+						<cell>
+							<lb facs="#facs_205_r65"/>Höchstbetrag<lb facs="#facs_205_r66"/>Fr.</cell>
+						<cell>
+							<lb facs="#facs_205_r67"/>Gemeindezulage<lb facs="#facs_205_r68"/>Mindestbetrag<lb facs="#facs_205_r69"/>Fr.</cell>
+						<cell>
+							<lb facs="#facs_205_r70"/>Höchstbetrag<lb facs="#facs_205_r71"/>Fr.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r72"/>1. Stufe</cell>
+						<cell>
+							<lb facs="#facs_205_r73"/>34 279 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r74"/>42 903 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r75"/>9 393 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r76"/>17 129 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r77"/>2. Stufe</cell>
+						<cell>
+							<lb facs="#facs_205_r78"/>44 153.-</cell>
+						<cell>
+							<lb facs="#facs_205_r79"/>47 903 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r80"/>17 476 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r81"/>18 517 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_205_r82"/>3. Stufe</cell>
+						<cell>
+							<lb facs="#facs_205_r83"/>49 153 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r84"/>52 903 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r85"/>18 864 .-</cell>
+						<cell>
+							<lb facs="#facs_205_r86"/>19 905 .-</cell>
+					</row>
+				</table>
+				<pb n="1194" facs="#facs_206"/>
+				<p>
+					<lb facs="#facs_206_r1"/>Oberstufenlehrer</p>
+				<table>
+					<row>
+						<cell/>
+						<cell>
+							<lb facs="#facs_206_r2"/>Grundbesoldung<lb facs="#facs_206_r3"/>Mindestbetrag<lb facs="#facs_206_r4"/>Fr.</cell>
+						<cell>
+							<lb facs="#facs_206_r5"/>Höchstbetrag<lb facs="#facs_206_r6"/>Fr.</cell>
+						<cell>
+							<lb facs="#facs_206_r7"/>Gemeindezulage<lb facs="#facs_206_r8"/>Mindestbetrag<lb facs="#facs_206_r9"/>Fr.</cell>
+						<cell>
+							<lb facs="#facs_206_r10"/>Höchstbetrag<lb facs="#facs_206_r11"/>Fr.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_206_r12"/>1. Stufe</cell>
+						<cell>
+							<lb facs="#facs_206_r13"/>41 292 .-</cell>
+						<cell>
+							<lb facs="#facs_206_r14"/>52 196 .-</cell>
+						<cell>
+							<lb facs="#facs_206_r15"/>11 430 .-</cell>
+						<cell>
+							<lb facs="#facs_206_r16"/>18 718 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_206_r17"/>2. Stufe</cell>
+						<cell>
+							<lb facs="#facs_206_r18"/>53 446 .-</cell>
+						<cell>
+							<lb facs="#facs_206_r19"/>57 196 .-</cell>
+						<cell>
+							<lb facs="#facs_206_r20"/>19 065.-</cell>
+						<cell>
+							<lb facs="#facs_206_r21"/>20 106 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_206_r22"/>3. Stufe</cell>
+						<cell>
+							<lb facs="#facs_206_r23"/>58 446 .-</cell>
+						<cell>
+							<lb facs="#facs_206_r24"/>62 196 .-</cell>
+						<cell>
+							<lb facs="#facs_206_r25"/>20 453 .-</cell>
+						<cell>
+							<lb facs="#facs_206_r26"/>21 494 .-</cell>
+					</row>
+				</table>
+				<p>
+					<lb facs="#facs_206_r27"/>Arbeits- und Haushaltungslehrerinnen<lb facs="#facs_206_r28"/>(Jahresstunde)</p>
+				<table>
+					<row>
+						<cell/>
+						<cell>
+							<lb facs="#facs_206_r29"/>Grundbesoldung<lb facs="#facs_206_r30"/>Mindestbetrag<lb facs="#facs_206_r31"/>Fr.</cell>
+						<cell>
+							<lb facs="#facs_206_r32"/>Höchstbetrag<lb facs="#facs_206_r33"/>Fr.</cell>
+						<cell>
+							<lb facs="#facs_206_r34"/>Gemeindezulage<lb facs="#facs_206_r35"/>Mindestbetrag<lb facs="#facs_206_r36"/>Fr.</cell>
+						<cell>
+							<lb facs="#facs_206_r37"/>Höchstbetrag<lb facs="#facs_206_r38"/>Fr.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_206_r39"/>1. Stufe</cell>
+						<cell>
+							<lb facs="#facs_206_r40"/>1120 .-</cell>
+						<cell>
+							<lb facs="#facs_206_r41"/>1500 .-</cell>
+						<cell>
+							<lb facs="#facs_206_r42"/>285.20</cell>
+						<cell>
+							<lb facs="#facs_206_r43"/>533.20</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_206_r44"/>2. Stufe</cell>
+						<cell>
+							<lb facs="#facs_206_r45"/>1535.50</cell>
+						<cell>
+							<lb facs="#facs_206_r46"/>1642 .-</cell>
+						<cell>
+							<lb facs="#facs_206_r47"/>559.80</cell>
+						<cell>
+							<lb facs="#facs_206_r48"/>639.60</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_206_r49"/>3. Stufe</cell>
+						<cell>
+							<lb facs="#facs_206_r50"/>1677.50</cell>
+						<cell>
+							<lb facs="#facs_206_r51"/>1784 .-</cell>
+						<cell>
+							<lb facs="#facs_206_r52"/>666.20</cell>
+						<cell>
+							<lb facs="#facs_206_r53"/>746 .-</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_206_r54"/>VII. Grundbesoldungen der Pfarrer</head>
+				<p>
+					<lb facs="#facs_206_r55"/>(ohne Gemeindezulagen)</p>
+				<table>
+					<row>
+						<cell/>
+						<cell>
+							<lb facs="#facs_206_r56"/>Mindestbetrag<lb facs="#facs_206_r57"/>Fr.</cell>
+						<cell>
+							<lb facs="#facs_206_r58"/>Höchstbetrag<lb facs="#facs_206_r59"/>Fr.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_206_r60"/>1. Stufe</cell>
+						<cell>
+							<lb facs="#facs_206_r61"/>42 880 .-</cell>
+						<cell>
+							<lb facs="#facs_206_r62"/>53 792 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_206_r63"/>2. Stufe</cell>
+						<cell>
+							<lb facs="#facs_206_r64"/>55 383.-</cell>
+						<cell>
+							<lb facs="#facs_206_r65"/>63 338.-</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_206_r66"/>VIII. Grundbesoldungen der Assistenzärzte sowie der
+              Assistenten<lb facs="#facs_206_r67"/>an den Instituten und Seminarien der
+            Universität</head>
+				<p>
+					<lb facs="#facs_206_r68"/>Mindestbetrag</p>
+				<p>
+					<lb facs="#facs_206_r69"/>Höchstbetrag<lb facs="#facs_206_r70"/>Fr.</p>
+				<p>
+					<lb facs="#facs_206_r71"/>Fr.<lb facs="#facs_206_r72"/>40 839 .-</p>
+				<p>
+					<lb facs="#facs_206_r73"/>61 905 .-</p>
+			</div>
+		</body></text></TEI>

@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-03-15">15.03.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Verordnung über das Verfahren der
+              Psychiatrischen Gerichtskommission (vom 28. Januar 1981)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-02-27">27.02.1981</date><ident>StAZH ABl 1981 (S. 301-304)</ident><idno>301–304</idno><idno type="issue">8</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132200"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_302" uly="0" ulx="0" lry="2369" lrx="1596">
+			<graphic url="Abl_1981_1__S__0302.tif" width="1596px" height="2369px"/>
+			<zone xml:id="facs_302_r28" ulx="107" uly="1408" lrx="1281" lry="1437" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r35" ulx="1301" uly="1750" lrx="1406" lry="1769" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r18" ulx="1304" uly="1106" lrx="1362" lry="1130" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r21" ulx="1308" uly="1231" lrx="1381" lry="1255" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r29" ulx="107" uly="1450" lrx="1277" lry="1482" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r32" ulx="105" uly="1598" lrx="249" lry="1621" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r13" ulx="172" uly="837" lrx="1281" lry="871" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r4" ulx="114" uly="422" lrx="187" lry="448" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r19" ulx="170" uly="1098" lrx="1289" lry="1127" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r38" ulx="106" uly="1764" lrx="1273" lry="1794" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r37" ulx="107" uly="1714" lrx="1283" lry="1747" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r2" ulx="120" uly="289" lrx="891" lry="326" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r23" ulx="1308" uly="1295" lrx="1443" lry="1317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r7" ulx="116" uly="570" lrx="1285" lry="600" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r44" ulx="1301" uly="2064" lrx="1420" lry="2091" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r26" ulx="106" uly="1310" lrx="664" lry="1338" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r11" ulx="116" uly="770" lrx="647" lry="803" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r31" ulx="164" uly="1548" lrx="1277" lry="1578" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r3" ulx="116" uly="345" lrx="522" lry="375" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r39" ulx="104" uly="1812" lrx="243" lry="1835" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r12" ulx="1310" uly="848" lrx="1420" lry="874" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r36" ulx="160" uly="1673" lrx="1279" lry="1705" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r33" ulx="1304" uly="1685" lrx="1337" lry="1709" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r10" ulx="118" uly="685" lrx="297" lry="710" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r27" ulx="166" uly="1360" lrx="1275" lry="1394" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r22" ulx="1312" uly="1268" lrx="1341" lry="1287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r8" ulx="114" uly="610" lrx="552" lry="642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r40" ulx="1301" uly="1898" lrx="1495" lry="1921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r16" ulx="112" uly="972" lrx="1281" lry="1003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r1" ulx="120" uly="239" lrx="362" lry="269" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r20" ulx="110" uly="1143" lrx="193" lry="1167" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r15" ulx="112" uly="927" lrx="1278" lry="959" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r17" ulx="110" uly="1014" lrx="766" lry="1046" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r43" ulx="100" uly="1975" lrx="320" lry="2004" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r25" ulx="108" uly="1266" lrx="1279" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r41" ulx="160" uly="1885" lrx="1273" lry="1917" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r45" ulx="160" uly="2056" lrx="1283" lry="2088" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r6" ulx="118" uly="495" lrx="427" lry="523" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r30" ulx="108" uly="1496" lrx="497" lry="1524" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r46" ulx="101" uly="2100" lrx="1004" lry="2132" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r9" ulx="568" uly="614" lrx="800" lry="644" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r0" ulx="1235" uly="156" lrx="1292" lry="178" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r24" ulx="168" uly="1220" lrx="1268" lry="1251" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r14" ulx="114" uly="881" lrx="1283" lry="916" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r42" ulx="104" uly="1929" lrx="1275" lry="1963" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r5" ulx="208" uly="422" lrx="489" lry="451" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_302_r34" ulx="1304" uly="1721" lrx="1468" lry="1740" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_303" uly="0" ulx="0" lry="2368" lrx="1604">
+			<graphic url="Abl_1981_1__S__0303.tif" width="1604px" height="2368px"/>
+			<zone xml:id="facs_303_r39" ulx="68" uly="2046" lrx="250" lry="2065" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r43" ulx="367" uly="1971" lrx="1485" lry="2003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r16" ulx="303" uly="971" lrx="1475" lry="1001" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r17" ulx="306" uly="1015" lrx="1478" lry="1044" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r30" ulx="373" uly="1611" lrx="1487" lry="1642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r8" ulx="308" uly="635" lrx="542" lry="661" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r2" ulx="302" uly="287" lrx="1466" lry="318" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r32" ulx="313" uly="1700" lrx="1489" lry="1730" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r35" ulx="317" uly="1842" lrx="1492" lry="1872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r1" ulx="359" uly="243" lrx="1475" lry="274" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r42" ulx="70" uly="2136" lrx="212" lry="2156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r26" ulx="365" uly="1415" lrx="1483" lry="1445" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r37" ulx="72" uly="1980" lrx="233" lry="2000" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r21" ulx="308" uly="1200" lrx="1481" lry="1231" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r9" ulx="64" uly="702" lrx="200" lry="722" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r25" ulx="68" uly="1429" lrx="185" lry="1448" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r22" ulx="310" uly="1244" lrx="1483" lry="1275" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r24" ulx="310" uly="1342" lrx="440" lry="1366" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r33" ulx="312" uly="1748" lrx="1414" lry="1775" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r28" ulx="308" uly="1550" lrx="567" lry="1579" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r44" ulx="310" uly="2019" lrx="1485" lry="2046" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r15" ulx="360" uly="927" lrx="1477" lry="955" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r11" ulx="306" uly="733" lrx="1480" lry="763" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r41" ulx="68" uly="2105" lrx="279" lry="2126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r46" ulx="310" uly="2105" lrx="1484" lry="2136" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r7" ulx="304" uly="575" lrx="800" lry="600" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r31" ulx="312" uly="1657" lrx="1489" lry="1685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r19" ulx="365" uly="1108" lrx="1478" lry="1141" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r34" ulx="375" uly="1798" lrx="1485" lry="1828" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r45" ulx="310" uly="2063" lrx="1472" lry="2093" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r40" ulx="73" uly="2076" lrx="235" lry="2094" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r23" ulx="306" uly="1290" lrx="1481" lry="1321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r0" ulx="300" uly="162" lrx="356" lry="183" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r29" ulx="70" uly="1623" lrx="292" lry="1643" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r5" ulx="302" uly="431" lrx="1474" lry="461" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r20" ulx="306" uly="1156" lrx="1481" lry="1187" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r36" ulx="314" uly="1888" lrx="1488" lry="1916" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r10" ulx="360" uly="689" lrx="1476" lry="719" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r3" ulx="302" uly="337" lrx="546" lry="364" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r18" ulx="306" uly="1063" lrx="573" lry="1089" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r4" ulx="362" uly="387" lrx="1473" lry="417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r13" ulx="304" uly="869" lrx="795" lry="898" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r38" ulx="73" uly="2015" lrx="246" lry="2034" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r12" ulx="305" uly="779" lrx="1111" lry="809" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r14" ulx="66" uly="938" lrx="196" lry="956" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r6" ulx="304" uly="487" lrx="459" lry="507" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_303_r27" ulx="306" uly="1463" lrx="584" lry="1490" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_304" uly="0" ulx="0" lry="2369" lrx="1597">
+			<graphic url="Abl_1981_1__S__0304.tif" width="1597px" height="2369px"/>
+			<zone xml:id="facs_304_r33" ulx="129" uly="1581" lrx="806" lry="1610" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r45" ulx="131" uly="2058" lrx="1300" lry="2086" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r12" ulx="135" uly="747" lrx="998" lry="778" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r38" ulx="129" uly="1818" lrx="1300" lry="1848" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r46" ulx="131" uly="2102" lrx="1292" lry="2131" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r44" ulx="185" uly="2012" lrx="1309" lry="2040" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r11" ulx="133" uly="704" lrx="1298" lry="733" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r21" ulx="1329" uly="1135" lrx="1428" lry="1156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r30" ulx="130" uly="1433" lrx="617" lry="1465" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r26" ulx="1334" uly="1331" lrx="1538" lry="1353" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r4" ulx="135" uly="383" lrx="609" lry="412" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r32" ulx="131" uly="1533" lrx="1299" lry="1564" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r13" ulx="191" uly="800" lrx="1299" lry="830" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r3" ulx="193" uly="335" lrx="1303" lry="366" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r35" ulx="127" uly="1677" lrx="848" lry="1706" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r19" ulx="134" uly="991" lrx="1163" lry="1021" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r22" ulx="186" uly="1098" lrx="1309" lry="1126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r29" ulx="189" uly="1391" lrx="1301" lry="1422" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r40" ulx="133" uly="1908" lrx="940" lry="1936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r23" ulx="135" uly="1139" lrx="1301" lry="1170" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r34" ulx="187" uly="1631" lrx="1300" lry="1662" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r14" ulx="133" uly="848" lrx="882" lry="876" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r41" ulx="1325" uly="2018" lrx="1503" lry="2040" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r15" ulx="1329" uly="952" lrx="1515" lry="973" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r10" ulx="135" uly="658" lrx="1300" lry="689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r20" ulx="1330" uly="1102" lrx="1365" lry="1123" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r2" ulx="138" uly="283" lrx="698" lry="312" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r27" ulx="187" uly="1295" lrx="1307" lry="1324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r18" ulx="191" uly="945" lrx="1311" lry="974" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r25" ulx="1328" uly="1300" lrx="1365" lry="1322" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r6" ulx="189" uly="475" lrx="1307" lry="501" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r43" ulx="1330" uly="2083" lrx="1461" lry="2103" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r39" ulx="131" uly="1862" lrx="1300" lry="1892" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r0" ulx="1249" uly="152" lrx="1305" lry="174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r5" ulx="1332" uly="477" lrx="1451" lry="502" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r24" ulx="132" uly="1189" lrx="335" lry="1216" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r7" ulx="134" uly="516" lrx="1299" lry="546" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r16" ulx="1338" uly="985" lrx="1355" lry="1003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r9" ulx="187" uly="614" lrx="1299" lry="642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r37" ulx="127" uly="1773" lrx="1295" lry="1804" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r1" ulx="137" uly="239" lrx="1292" lry="269" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r28" ulx="133" uly="1339" lrx="369" lry="1369" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r17" ulx="1338" uly="1016" lrx="1468" lry="1037" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r36" ulx="187" uly="1731" lrx="1298" lry="1759" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r8" ulx="135" uly="564" lrx="560" lry="592" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r42" ulx="1334" uly="2056" lrx="1361" lry="2073" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_304_r31" ulx="187" uly="1489" lrx="1298" lry="1520" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_305" uly="0" ulx="0" lry="2368" lrx="1605">
+			<graphic url="Abl_1981_1__S__0305.tif" width="1605px" height="2368px"/>
+			<zone xml:id="facs_305_r20" ulx="337" uly="971" lrx="1450" lry="1001" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r10" ulx="281" uly="625" lrx="1452" lry="656" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r25" ulx="281" uly="1186" lrx="800" lry="1212" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r9" ulx="339" uly="581" lrx="1454" lry="609" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r41" ulx="283" uly="1938" lrx="480" lry="1966" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r17" ulx="279" uly="892" lrx="1253" lry="920" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r36" ulx="39" uly="1775" lrx="225" lry="1795" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r5" ulx="337" uly="393" lrx="1453" lry="425" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r19" ulx="39" uly="1013" lrx="133" lry="1030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r11" ulx="283" uly="671" lrx="1085" lry="698" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r33" ulx="280" uly="1550" lrx="1457" lry="1581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r14" ulx="337" uly="750" lrx="1457" lry="778" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r16" ulx="337" uly="848" lrx="1450" lry="876" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r42" ulx="489" uly="1938" lrx="752" lry="1966" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r28" ulx="50" uly="1419" lrx="203" lry="1436" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r7" ulx="281" uly="483" lrx="1452" lry="513" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r27" ulx="281" uly="1331" lrx="650" lry="1357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r47" ulx="1129" uly="2099" lrx="1313" lry="2127" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r21" ulx="281" uly="1019" lrx="887" lry="1046" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r43" ulx="762" uly="2001" lrx="1279" lry="2029" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r24" ulx="281" uly="1140" lrx="1452" lry="1169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r35" ulx="279" uly="1686" lrx="603" lry="1714" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r1" ulx="283" uly="233" lrx="1453" lry="264" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r22" ulx="41" uly="1104" lrx="151" lry="1124" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r38" ulx="279" uly="1813" lrx="712" lry="1838" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r2" ulx="282" uly="279" lrx="1455" lry="310" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r31" ulx="280" uly="1454" lrx="1090" lry="1484" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r45" ulx="755" uly="2097" lrx="860" lry="2122" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r44" ulx="760" uly="2055" lrx="1000" lry="2080" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r4" ulx="39" uly="402" lrx="135" lry="422" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r34" ulx="281" uly="1600" lrx="489" lry="1624" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r39" ulx="722" uly="1811" lrx="969" lry="1839" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r0" ulx="279" uly="147" lrx="338" lry="169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r26" ulx="339" uly="1236" lrx="1161" lry="1267" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r6" ulx="283" uly="439" lrx="1452" lry="469" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r12" ulx="43" uly="756" lrx="231" lry="777" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r3" ulx="283" uly="325" lrx="1183" lry="353" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r8" ulx="279" uly="533" lrx="389" lry="554" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r23" ulx="339" uly="1096" lrx="1457" lry="1126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r46" ulx="1128" uly="2053" lrx="1467" lry="2080" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r15" ulx="281" uly="796" lrx="704" lry="821" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r32" ulx="339" uly="1502" lrx="1455" lry="1536" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r40" ulx="971" uly="1809" lrx="1119" lry="1840" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r13" ulx="41" uly="787" lrx="223" lry="809" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r18" ulx="41" uly="979" lrx="218" lry="999" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r37" ulx="339" uly="1765" lrx="1454" lry="1795" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r29" ulx="47" uly="1452" lrx="128" lry="1472" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_305_r30" ulx="337" uly="1409" lrx="1454" lry="1438" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="301" facs="#facs_302"/>
+			<p>
+				<lb facs="#facs_302_r6"/>Der Regierungsrat,</p>
+			<p>
+				<lb facs="#facs_302_r7"/>gestützt auf § 117k Abs. 2 des Einführungsgesetzes zum
+              Schweizeri<lb break="no" facs="#facs_302_r8"/>schen Zivilgesetzbuch vom <date when="1911-04-02">2. April 1911,</date></p>
+			<p>
+				<lb facs="#facs_302_r10"/>beschliesst:</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_302_r11"/>A. Allgemeine Bestimmungen</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_302_r12"/>Aufgabe</add>
+				</p>
+				<p>
+					<lb facs="#facs_302_r13"/>§ 1. Die Psychiatrische Gerichtskommission entscheidet im
+                Sinne<lb facs="#facs_302_r14"/>der Bestimmungen über die fürsorgerische
+              Freiheitsentziehung als letzte<lb facs="#facs_302_r15"/>kantonale Instanz über die
+              Einweisung, Ablehnung des Entlassungsge<lb break="no" facs="#facs_302_r16"/>suches,
+              Zurückbehaltung oder Rückversetzung einer Person in eine<lb facs="#facs_302_r17"/>Anstalt (§ 117k Abs. 1 EG zum ZGB).</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_302_r18"/>Sitz</add>
+				</p>
+				<p>
+					<lb facs="#facs_302_r19"/>§ 2. Die Psychiatrische Gerichtskommission hat ihren Sitz in
+                Zü<lb break="no" facs="#facs_302_r20"/>rich.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_302_r21"/>Wahl</add>
+				</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_302_r22"/>A.<lb facs="#facs_302_r23"/>Mitglieder</add>
+				</p>
+				<p>
+					<lb facs="#facs_302_r24"/>§ 3. Die Psychiatrische Gerichtskommission besteht aus
+                einem<lb facs="#facs_302_r25"/>rechtskundigen Vorsitzenden, Ärzten, Fachärzten für
+              Psychiatrie und<lb facs="#facs_302_r26"/>weiteren fachkundigen Personen.</p>
+				<p>
+					<lb facs="#facs_302_r27"/>Die Mitglieder, der Vorsitzende der Psychiatrischen
+                Gerichtskom<lb break="no" facs="#facs_302_r28"/>mission und dessen Stellvertreter
+              werden auf Antrag der Direktion der<lb facs="#facs_302_r29"/>Justiz durch den
+              Regierungsrat auf seine Amtsdauer gewählt (§ 117i<lb facs="#facs_302_r30"/>Abs. 2 EG
+              zum ZGB).</p>
+				<p>
+					<lb facs="#facs_302_r31"/>Für die Wählbarkeit gilt das Gesetz über die Wahlen und
+                Abstim<lb break="no" facs="#facs_302_r32"/>mungen.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_302_r33"/>B.<lb facs="#facs_302_r34"/>Sekretär und<lb facs="#facs_302_r35"/>Kanzlei</add>
+				</p>
+				<p>
+					<lb facs="#facs_302_r36"/>§ 4. Die Sekretäre und das Kanzleipersonal werden auf Antrag
+                des<lb facs="#facs_302_r37"/>Vorsitzenden der Psychiatrischen Gerichtskommission
+              nach den Bestim<lb break="no" facs="#facs_302_r38"/>mungen des Angestelltenreglements
+              durch die Direktion der Justiz<lb facs="#facs_302_r39"/>ernannt.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_302_r40"/>Entschädigung</add>
+				</p>
+				<p>
+					<lb facs="#facs_302_r41"/>§ 5. Die Entschädigung des Vorsitzenden, seiner
+              Stellvertreter und<lb facs="#facs_302_r42"/>der Mitglieder der Psychiatrischen
+              Gerichtskommission legt der Regie<lb break="no" facs="#facs_302_r43"/>rungsrat
+              fest.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_302_r44"/>Aufsicht</add>
+				</p>
+				<p>
+					<lb facs="#facs_302_r45"/>§ 6. Die Psychiatrische Gerichtskommission ist in ihrer
+                Rechtsspre<lb break="no" facs="#facs_302_r46"/>chung unabhängig und an keine
+              Weisungen gebunden.</p>
+				<pb n="302" facs="#facs_303"/>
+				<p>
+					<lb facs="#facs_303_r1"/>Die Aufsicht über den Geschäftsgang der Psychiatrischen
+                Gerichts<lb break="no" facs="#facs_303_r2"/>kommission obliegt der Direktion der
+              Justiz, die Oberaufsicht dem<lb facs="#facs_303_r3"/>Regierungsrat.</p>
+				<p>
+					<lb facs="#facs_303_r4"/>Die Psychiatrische Gerichtskommission hat Ende Jahr der
+                Direktion<lb facs="#facs_303_r5"/>der Justiz zuhanden des Regierungsrates Bericht
+              über ihre Tätigkeit zu<lb facs="#facs_303_r6"/>erstatten.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_303_r7"/>B. Verfahrensbestimmungen</head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_303_r8"/>I. Grundsatz</head>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_303_r9"/>Grundsatz</add>
+					</p>
+					<p>
+						<lb facs="#facs_303_r10"/>§ 7. Soweit diese Verordnung nichts anderes bestimmt,
+                richtet sich<lb facs="#facs_303_r11"/>das Verfahren nach den Vorschriften des
+                Schweizerischen Zivilgesetz<lb break="no" facs="#facs_303_r12"/>buches und des
+                Verwaltungsrechtspflegegesetzes.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_303_r13"/>II. Besetzung und Ausstand</head>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_303_r14"/>Besetzung</add>
+					</p>
+					<p>
+						<lb facs="#facs_303_r15"/>§ 8. An einem Endentscheid der Psychiatrischen
+                  Gerichtskommis<lb break="no" facs="#facs_303_r16"/>sion wirken der Vorsitzende und
+                zwei weitere Mitglieder, von denen<lb facs="#facs_303_r17"/>mindestens eines
+                Facharzt für Psychiatrie sein muss, mit (§ 117i Abs. 2<lb facs="#facs_303_r18"/>EG
+                zum ZGB).</p>
+					<p>
+						<lb facs="#facs_303_r19"/>Bei Fehlen einer Verfahrensvoraussetzung, bei Rückzug des
+                  Begeh<lb break="no" facs="#facs_303_r20"/>rens, bei Anerkennung oder
+                Gegenstandslosigkeit kann der Vorsitzende<lb facs="#facs_303_r21"/>die Abschreibung
+                des Verfahrens verfügen. Erhebt eine Partei innert<lb facs="#facs_303_r22"/>10 Tagen
+                von der schriftlichen Mitteilung an Einsprache, entscheidet die<lb facs="#facs_303_r23"/>Psychiatrische Gerichtskommission; die Einsprache soll kurz
+                  begründet<lb facs="#facs_303_r24"/>werden.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_303_r25"/>Ausstand</add>
+					</p>
+					<p>
+						<lb facs="#facs_303_r26"/>§ 9. Für den Ausstand gelten die Bestimmungen des
+                  Gerichtsver<lb break="no" facs="#facs_303_r27"/>fassungsgesetzes.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_303_r28"/>III. Verfahren</head>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_303_r29"/>Schriftenwechsel</add>
+					</p>
+					<p>
+						<lb facs="#facs_303_r30"/>§ 10. Nach Eingang eines schriftlichen Begehrens um
+                  gerichtliche<lb facs="#facs_303_r31"/>Beurteilung zieht der Vorsitzende der
+                Psychiatrischen Gerichtskommis<lb break="no" facs="#facs_303_r32"/>sion die Akten
+                bei und veranlasst nötigenfalls deren Ergänzung, insbe<lb break="no" facs="#facs_303_r33"/>sondere unter Ansetzung einer kurzen Frist eine
+                Vernehmlassung.</p>
+					<p>
+						<lb facs="#facs_303_r34"/>Ein allfällig weiterer Schriftenwechsel oder eine
+                mündliche Verhand<lb break="no" facs="#facs_303_r35"/>lung findet nur statt, wenn
+                der Anspruch auf rechtliches Gehör es erfor<lb break="no" facs="#facs_303_r36"/>dert
+                oder die Feststellung des Sachverhaltes wesentlich erleichtert wird.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_303_r37"/>Vorsorgliche<lb facs="#facs_303_r38"/>Massnahmen,<lb facs="#facs_303_r39"/>aufschiebende<lb facs="#facs_303_r40"/>Wirkung und<lb facs="#facs_303_r41"/>Bestellung eines<lb facs="#facs_303_r42"/>Beistandes</add>
+					</p>
+					<p>
+						<lb facs="#facs_303_r43"/>§ 11. Unmittelbar nach Erhalt der Akten entscheidet der
+                  Vorsit<lb break="no" facs="#facs_303_r44"/>zende über Anträge betreffend
+                vorsorgliche Massnahmen, über Gesu<lb break="no" facs="#facs_303_r45"/>che um
+                Erteilung der aufschiebenden Wirkung eines Begehrens um<lb facs="#facs_303_r46"/>gerichtliche Beurteilung gemäss Art. 397e Ziffer 4 ZGB sowie von</p>
+					<pb n="303" facs="#facs_304"/>
+					<p>
+						<lb facs="#facs_304_r1"/>Amtes wegen allenfalls über die Bestellung eines
+                Rechtsbeistandes im<lb facs="#facs_304_r2"/>Sinne von Art. 397f Abs. 2 ZGB.</p>
+					<p>
+						<lb facs="#facs_304_r3"/>In dringenden Fällen können diese Entscheide in einem
+                  früheren<lb facs="#facs_304_r4"/>Zeitpunkt getroffen werden.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_304_r5"/>Referent</add>
+					</p>
+					<p>
+						<lb facs="#facs_304_r6"/>§ 12. Der Vorsitzende bezeichnet den Referenten und den
+                  Korre<lb break="no" facs="#facs_304_r7"/>ferenten. Er trägt dabei der fachlichen
+                Eignung und der Geschäftslast<lb facs="#facs_304_r8"/>der Mitglieder Rechnung.</p>
+					<p>
+						<lb facs="#facs_304_r9"/>Der Referent stellt nach Anhörung der betroffenen Person<lb facs="#facs_304_r10"/>(Art. 397f Abs. 3 ZGB) und nach allfälliger weiterer
+                Abklärung des<lb facs="#facs_304_r11"/>Sachverhaltes einen schriftlich begründeten
+                Antrag auf Einweisung,<lb facs="#facs_304_r12"/>Zurückbehaltung, Rückversetzung oder
+                Entlassung.</p>
+					<p>
+						<lb facs="#facs_304_r13"/>Er kann Referentenaudienzen, selbständig Augenscheine und
+                  son<lb break="no" facs="#facs_304_r14"/>stige Untersuchungshandlungen
+                durchführen.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_304_r15"/>Untersuchung</add>
+					</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_304_r16"/>A<lb facs="#facs_304_r17"/>Allgemein</add>
+					</p>
+					<p>
+						<lb facs="#facs_304_r18"/>§ 13. Die Psychiatrische Gerichtskommission untersucht den
+                  Sach<lb break="no" facs="#facs_304_r19"/>verhalt im Sinne von § 7 des
+                Verwaltungsrechtspflegegesetzes.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_304_r20"/>B.<lb facs="#facs_304_r21"/>Zeugen</add>
+					</p>
+					<p>
+						<lb facs="#facs_304_r22"/>§ 14. Der Psychiatrischen Gerichtskommission steht das
+                Recht zur<lb facs="#facs_304_r23"/>förmlichen Zeugeneinvernahme im Sinn der §§ 157
+                ff der Zivilprozess<lb break="no" facs="#facs_304_r24"/>ordnung zu.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_304_r25"/>C.<lb facs="#facs_304_r26"/>Sachverständige</add>
+					</p>
+					<p>
+						<lb facs="#facs_304_r27"/>§ 15. Die Psychiatrische Gerichtskommission kann
+                  Sachverstän<lb break="no" facs="#facs_304_r28"/>dige zuziehen.</p>
+					<p>
+						<lb facs="#facs_304_r29"/>Dem Sachverständigen wird seine Aufgabe schriftlich oder
+                in münd<lb break="no" facs="#facs_304_r30"/>licher Verhandlung erläutert.</p>
+					<p>
+						<lb facs="#facs_304_r31"/>Den am Verfahren Beteiligten kann Gelegenheit gegeben
+                  werden,<lb facs="#facs_304_r32"/>sich zur Fragestellung an den Sachverständigen zu
+                äussern und Ände<lb break="no" facs="#facs_304_r33"/>rungs- oder Ergänzungsfragen zu
+                stellen.</p>
+					<p>
+						<lb facs="#facs_304_r34"/>Dem Sachverständigen werden die zur Erfüllung seines
+                  Auftrages<lb facs="#facs_304_r35"/>notwendigen Akten zur Verfügung gestellt.</p>
+					<p>
+						<lb facs="#facs_304_r36"/>Der Sachverständige hat nach bestem Wissen und Gewissen
+                  zu<lb facs="#facs_304_r37"/>amten und ist zur Verschwiegenheit verpflichtet. Auf
+                diese Pflichten<lb facs="#facs_304_r38"/>wird er bei der Ernennung aufmerksam
+                gemacht, unter Hinweis auf die<lb facs="#facs_304_r39"/>strafrechtlichen Folgen
+                eines wissentlich unrichtigen Gutachtens und der<lb facs="#facs_304_r40"/>Verletzung
+                des Amts- sowie Berufsgeheimnisses.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_304_r41"/>Entscheidung</add>
+					</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_304_r42"/>A.<lb facs="#facs_304_r43"/>Allgemein</add>
+					</p>
+					<p>
+						<lb facs="#facs_304_r44"/>§ 16. Die Entscheide der Psychiatrischen
+                Gerichtskommission kön<lb break="no" facs="#facs_304_r45"/>nen bei Einstimmigkeit
+                gestützt auf den schriftlichen Antrag und die<lb facs="#facs_304_r46"/>Begründung
+                des Referenten auf dem Zirkulationsweg getroffen werden.</p>
+					<pb n="304" facs="#facs_305"/>
+					<p>
+						<lb facs="#facs_305_r1"/>Auf Verlangen eines Mitgliedes der Psychiatrischen
+                  Gerichtskommis<lb break="no" facs="#facs_305_r2"/>sion oder wenn ein Gegenantrag
+                zu demjenigen des Referenten gestellt<lb facs="#facs_305_r3"/>wird, ist vom
+                Vorsitzenden eine Sitzung einzuberufen.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_305_r4"/>Sitzung</add>
+					</p>
+					<p>
+						<lb facs="#facs_305_r5"/>§ 17. In der Sitzung ergehen die Entscheide der
+                  Psychiatrischen<lb facs="#facs_305_r6"/>Gerichtskommission nach mündlicher
+                Beratung. Es steht der Psychiatri<lb break="no" facs="#facs_305_r7"/>schen
+                Gerichtskommission frei, vorerst weitere Erhebungen zu veran<lb break="no" facs="#facs_305_r8"/>lassen.</p>
+					<p>
+						<lb facs="#facs_305_r9"/>Die Mitglieder der Psychiatrischen Gerichtskommission sind
+                  ver<lb break="no" facs="#facs_305_r10"/>pflichtet, bei allen Abstimmungen ihre
+                Stimme abzugeben. Massgebend<lb facs="#facs_305_r11"/>für den Entscheid ist die
+                Mehrheit der Stimmen.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_305_r12"/>Ausschluss der<lb facs="#facs_305_r13"/>Öffentlichkeit</add>
+					</p>
+					<p>
+						<lb facs="#facs_305_r14"/>§ 18. Die Verhandlungen vor der Psychiatrischen
+                  Gerichtskommis<lb break="no" facs="#facs_305_r15"/>sion sind nicht öffentlich.</p>
+					<p>
+						<lb facs="#facs_305_r16"/>Die Beratungen der Psychiatrischen Gerichtskommission
+                  finden<lb facs="#facs_305_r17"/>unter Ausschluss der Parteien und der
+                Öffentlichkeit statt.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_305_r18"/>Form der Ent<lb break="no" facs="#facs_305_r19"/>scheide</add>
+					</p>
+					<p>
+						<lb facs="#facs_305_r20"/>§ 19. Die Form der Entscheide richtet sich nach den
+                  Bestimmun<lb break="no" facs="#facs_305_r21"/>gen des
+                Gerichtsverfassungsgesetzes.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_305_r22"/>Sekretär</add>
+					</p>
+					<p>
+						<lb facs="#facs_305_r23"/>§ 20. Der Sekretär besorgt im Auftrag des Vorsitzenden die
+                  erfor<lb break="no" facs="#facs_305_r24"/>derlichen Verfügungen, Beschlüsse,
+                Anordnungen sowie Protokolle und<lb facs="#facs_305_r25"/>überwacht die
+                Kanzleiarbeiten.</p>
+					<p>
+						<lb facs="#facs_305_r26"/>Er hat an den Verhandlungen beratende Stimme.</p>
+				</div>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_305_r27"/>C. Verfahrenskosten</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_305_r28"/>Verfahrens<lb break="no" facs="#facs_305_r29"/>kosten</add>
+				</p>
+				<p>
+					<lb facs="#facs_305_r30"/>§ 21. Für das Verfahren vor der Psychiatrischen
+                Gerichtskommis<lb break="no" facs="#facs_305_r31"/>sion werden in der Regel keine
+              Kosten erhoben.</p>
+				<p>
+					<lb facs="#facs_305_r32"/>Bei mutwilliger Einleitung oder Führung eines Verfahrens
+                können<lb facs="#facs_305_r33"/>indessen in Anwendung des
+              Gerichtsverfassungsgesetzes Kosten aufer<lb break="no" facs="#facs_305_r34"/>legt
+              werden.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_305_r35"/>D. Inkraftsetzung</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_305_r36"/>Inkraftsetzung</add>
+				</p>
+				<p>
+					<lb facs="#facs_305_r37"/>§ 22. Diese Verordnung tritt nach der Veröffentlichung im
+                Amts<lb break="no" facs="#facs_305_r38"/>blatt rückwirkend auf den <date when="1981-01-01">1. Januar 1981</date> in Kraft.</p>
+				<p>
+					<lb facs="#facs_305_r41"/>Zürich, den <date when="1981-01-28">28. Januar
+              1981</date></p>
+				<p>
+					<lb facs="#facs_305_r43"/>Im Namen des Regierungsrates</p>
+				<p>
+					<lb facs="#facs_305_r44"/>Der Präsident:<lb facs="#facs_305_r45"/>Stucki</p>
+				<p>
+					<lb facs="#facs_305_r46"/>Der Staatsschreiber:<lb facs="#facs_305_r47"/>Roggwiller</p>
+			</div>
+		</body></text></TEI>

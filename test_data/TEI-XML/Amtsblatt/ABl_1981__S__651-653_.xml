@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-03-15">15.03.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Gegenvorschlag der Kommissionsminderheit zur Kantonalzürcher Volksinitiative über die Mitwirkung des
+            Volkes bei der Bewilligung von Parkhäusern</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-04-24">24.04.1981</date><ident>StAZH ABl 1981 (S. 651-653)</ident><idno>651–653</idno><idno type="issue">18</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132267"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_652" uly="0" ulx="0" lry="2370" lrx="1595">
+			<graphic url="Abl_1981_1__S__0652.tif" width="1595px" height="2370px"/>
+			<zone xml:id="facs_652_r10" ulx="158" uly="735" lrx="1323" lry="765" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r4" ulx="157" uly="352" lrx="1326" lry="384" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r12" ulx="158" uly="823" lrx="1322" lry="852" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r24" ulx="160" uly="1621" lrx="352" lry="1651" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r5" ulx="156" uly="396" lrx="1323" lry="428" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r32" ulx="1363" uly="2138" lrx="1456" lry="2156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r9" ulx="158" uly="687" lrx="1326" lry="720" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r0" ulx="1269" uly="135" lrx="1323" lry="157" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r11" ulx="157" uly="779" lrx="1326" lry="810" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r28" ulx="158" uly="1909" lrx="1164" lry="1941" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r30" ulx="1365" uly="2071" lrx="1458" lry="2091" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r31" ulx="1367" uly="2103" lrx="1511" lry="2120" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r20" ulx="158" uly="1302" lrx="386" lry="1329" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r6" ulx="158" uly="450" lrx="312" lry="474" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r19" ulx="216" uly="1250" lrx="1330" lry="1282" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r3" ulx="214" uly="310" lrx="1324" lry="341" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r35" ulx="156" uly="2121" lrx="1328" lry="2154" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r29" ulx="1359" uly="2036" lrx="1528" lry="2058" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r17" ulx="158" uly="1048" lrx="552" lry="1076" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r16" ulx="158" uly="1002" lrx="1324" lry="1032" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r13" ulx="160" uly="869" lrx="1326" lry="898" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r18" ulx="158" uly="1175" lrx="446" lry="1203" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r27" ulx="158" uly="1788" lrx="715" lry="1817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r25" ulx="161" uly="1698" lrx="899" lry="1731" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r34" ulx="156" uly="2080" lrx="1326" lry="2111" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r22" ulx="836" uly="1346" lrx="1168" lry="1378" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r26" ulx="160" uly="1740" lrx="1319" lry="1772" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r8" ulx="218" uly="648" lrx="1323" lry="676" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r14" ulx="156" uly="912" lrx="1328" lry="943" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r33" ulx="212" uly="2036" lrx="1332" lry="2065" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r21" ulx="214" uly="1350" lrx="827" lry="1381" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r23" ulx="160" uly="1569" lrx="1314" lry="1603" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r7" ulx="156" uly="573" lrx="439" lry="598" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r15" ulx="158" uly="954" lrx="1328" lry="986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r1" ulx="162" uly="216" lrx="1328" lry="247" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_652_r2" ulx="158" uly="262" lrx="903" lry="292" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_653" uly="0" ulx="0" lry="2370" lrx="1599">
+			<graphic url="Abl_1981_1__S__0653.tif" width="1599px" height="2370px"/>
+			<zone xml:id="facs_653_r51" ulx="34" uly="2142" lrx="181" lry="2161" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r46" ulx="266" uly="1990" lrx="536" lry="2015" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r24" ulx="268" uly="1154" lrx="1444" lry="1185" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r31" ulx="32" uly="1427" lrx="113" lry="1447" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r41" ulx="323" uly="1744" lrx="1444" lry="1777" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r35" ulx="458" uly="1490" lrx="675" lry="1511" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r26" ulx="268" uly="1244" lrx="756" lry="1272" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r2" ulx="271" uly="254" lrx="1448" lry="286" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r11" ulx="329" uly="662" lrx="1446" lry="695" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r29" ulx="325" uly="1325" lrx="677" lry="1351" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r5" ulx="273" uly="396" lrx="1446" lry="428" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r13" ulx="271" uly="754" lrx="1447" lry="785" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r48" ulx="35" uly="2080" lrx="118" lry="2097" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r42" ulx="264" uly="1790" lrx="1446" lry="1820" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r22" ulx="323" uly="1065" lrx="1446" lry="1097" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r14" ulx="266" uly="800" lrx="1444" lry="829" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r43" ulx="264" uly="1832" lrx="1445" lry="1864" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r52" ulx="34" uly="2169" lrx="102" lry="2188" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r9" ulx="271" uly="569" lrx="1446" lry="599" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r37" ulx="29" uly="1619" lrx="126" lry="1639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r45" ulx="266" uly="1938" lrx="538" lry="1962" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r18" ulx="269" uly="985" lrx="419" lry="1012" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r23" ulx="273" uly="1108" lrx="1446" lry="1139" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r54" ulx="262" uly="2161" lrx="1447" lry="2195" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r10" ulx="268" uly="619" lrx="419" lry="640" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r17" ulx="271" uly="942" lrx="1448" lry="973" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r3" ulx="271" uly="304" lrx="423" lry="326" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r15" ulx="268" uly="844" lrx="1232" lry="875" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r32" ulx="33" uly="1490" lrx="187" lry="1510" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r19" ulx="33" uly="1071" lrx="214" lry="1092" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r7" ulx="33" uly="529" lrx="210" lry="551" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r25" ulx="272" uly="1198" lrx="1448" lry="1229" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r33" ulx="32" uly="1525" lrx="114" lry="1542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r4" ulx="329" uly="350" lrx="1446" lry="382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r1" ulx="273" uly="210" lrx="1450" lry="242" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r21" ulx="33" uly="1133" lrx="160" lry="1153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r6" ulx="271" uly="437" lrx="1052" lry="470" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r53" ulx="318" uly="2121" lrx="1443" lry="2152" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r20" ulx="31" uly="1104" lrx="138" lry="1124" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r44" ulx="266" uly="1884" lrx="562" lry="1911" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r39" ulx="28" uly="1696" lrx="199" lry="1717" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r36" ulx="33" uly="1554" lrx="127" lry="1571" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r28" ulx="32" uly="1361" lrx="187" lry="1380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r34" ulx="319" uly="1480" lrx="432" lry="1506" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r38" ulx="321" uly="1611" lrx="675" lry="1637" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r8" ulx="329" uly="521" lrx="1450" lry="554" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r12" ulx="268" uly="714" lrx="1446" lry="741" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r30" ulx="33" uly="1390" lrx="208" lry="1410" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r40" ulx="321" uly="1692" lrx="833" lry="1719" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r0" ulx="272" uly="131" lrx="326" lry="151" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r49" ulx="323" uly="2040" lrx="648" lry="2067" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r47" ulx="37" uly="2048" lrx="178" lry="2067" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r50" ulx="37" uly="2109" lrx="168" lry="2127" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r16" ulx="327" uly="896" lrx="1446" lry="928" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_653_r27" ulx="33" uly="1327" lrx="191" lry="1348" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_654" uly="0" ulx="0" lry="2370" lrx="1596">
+			<graphic url="Abl_1981_1__S__0654.tif" width="1596px" height="2370px"/>
+			<zone xml:id="facs_654_r1" ulx="147" uly="218" lrx="1311" lry="251" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r21" ulx="201" uly="1100" lrx="1315" lry="1131" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r10" ulx="150" uly="650" lrx="585" lry="677" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r30" ulx="208" uly="1529" lrx="1012" lry="1562" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r38" ulx="629" uly="1998" lrx="1073" lry="2025" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r5" ulx="206" uly="412" lrx="533" lry="439" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r8" ulx="145" uly="556" lrx="1315" lry="587" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r6" ulx="206" uly="464" lrx="529" lry="491" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r29" ulx="204" uly="1479" lrx="1316" lry="1512" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r18" ulx="206" uly="963" lrx="478" lry="993" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r34" ulx="206" uly="1732" lrx="327" lry="1754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r28" ulx="208" uly="1438" lrx="1302" lry="1469" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r15" ulx="147" uly="815" lrx="1312" lry="847" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r25" ulx="150" uly="1296" lrx="1312" lry="1330" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r13" ulx="204" uly="729" lrx="1312" lry="757" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r27" ulx="150" uly="1394" lrx="1314" lry="1425" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r35" ulx="206" uly="1778" lrx="533" lry="1806" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r36" ulx="147" uly="1913" lrx="343" lry="1938" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r16" ulx="150" uly="865" lrx="516" lry="893" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r11" ulx="1331" uly="731" lrx="1535" lry="755" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r40" ulx="633" uly="2096" lrx="791" lry="2123" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r7" ulx="206" uly="512" lrx="1312" lry="542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r26" ulx="152" uly="1346" lrx="746" lry="1373" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r12" ulx="1335" uly="769" lrx="1473" lry="793" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r3" ulx="147" uly="308" lrx="1310" lry="339" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r33" ulx="150" uly="1675" lrx="1317" lry="1709" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r31" ulx="147" uly="1577" lrx="1318" lry="1611" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r22" ulx="202" uly="1148" lrx="313" lry="1173" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r39" ulx="631" uly="2055" lrx="868" lry="2079" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r17" ulx="145" uly="915" lrx="1315" lry="945" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r9" ulx="147" uly="604" lrx="1310" lry="632" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r32" ulx="206" uly="1630" lrx="689" lry="1656" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r24" ulx="208" uly="1250" lrx="1314" lry="1280" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r23" ulx="206" uly="1202" lrx="531" lry="1229" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r37" ulx="352" uly="1911" lrx="591" lry="1938" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r20" ulx="206" uly="1058" lrx="1316" lry="1086" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r41" ulx="1088" uly="2053" lrx="1316" lry="2077" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r0" ulx="1258" uly="141" lrx="1307" lry="162" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r2" ulx="152" uly="264" lrx="1313" lry="295" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r19" ulx="147" uly="1013" lrx="1313" lry="1043" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r42" ulx="1089" uly="2098" lrx="1232" lry="2120" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r14" ulx="145" uly="769" lrx="1312" lry="801" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_654_r4" ulx="147" uly="354" lrx="1075" lry="385" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="651" facs="#facs_652"/>
+			<p>
+				<lb facs="#facs_652_r28"/>Das Planungs- und Baugesetz (PBG) ist wie folgt zu ändern:</p>
+			<p>
+				<add type="marginal" place="right">
+					<lb facs="#facs_652_r29"/>Parkierungs<lb break="no" facs="#facs_652_r30"/>anlagen<lb facs="#facs_652_r31"/>Ausschluss<lb break="no" facs="#facs_652_r32"/>gebiete</add>
+			</p>
+			<p>
+				<lb facs="#facs_652_r33"/>§ 78a. Die Bau- und Zonenordnung kann für ganze Zonen oder<lb facs="#facs_652_r34"/>gebietsweise Parkierungsanlagen für vierrädrige Fahrzeuge auf
+              einen<lb facs="#facs_652_r35"/>näher zu bestimmenden Eigenbedarf oder auf eine
+            höchstzulässige Zahl</p>
+			<pb n="652" facs="#facs_653"/>
+			<p>
+				<lb facs="#facs_653_r1"/>von Abstellplätzen beschränken; sie kann in diesen Gebieten
+              allgemein<lb facs="#facs_653_r2"/>oder bis zu einer bestimmten Grösse auch private
+              Gemeinschaftsanlagen<lb facs="#facs_653_r3"/>zulassen.</p>
+			<p>
+				<lb facs="#facs_653_r4"/>In solchen Gebieten sind, soweit nicht das Fehlen von
+              Abstellplätzen<lb facs="#facs_653_r5"/>auf die behördliche Aufhebung privater
+              Parkierungsmöglichkeiten<lb facs="#facs_653_r6"/>zurückzuführen ist, Ersatzabgaben zu
+            erheben.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_653_r7"/>Parkraumplan</add>
+			</p>
+			<p>
+				<lb facs="#facs_653_r8"/>§ 78b. Mit den Ausschlussgebieten für Parkierungsanlagen ist
+              der<lb facs="#facs_653_r9"/>Parkraumplan gemäss den Bestimmungen über die
+            Ersatzabgaben fest<lb break="no" facs="#facs_653_r10"/>zusetzen.</p>
+			<p>
+				<lb facs="#facs_653_r11"/>Der Plan hat inbesondere auch Aufschluss über die
+              Parkierungsanla<lb break="no" facs="#facs_653_r12"/>gen zu geben, mit denen die
+            Gemeinde angemessenen und zweckmässi<lb break="no" facs="#facs_653_r13"/>gen Ersatz für
+            die nach einer Durchschnittsrechnung ausfallenden<lb facs="#facs_653_r14"/>Pflichtparkplätze im Ausschlussgebiet schafft. Solche Anlagen können<lb facs="#facs_653_r15"/>auch innerhalb des Ausschlussgebiets vorgesehen werden.</p>
+			<p>
+				<lb facs="#facs_653_r16"/>Mit der Festsetzung des Plans gelten die entsprechenden
+              Ausgaben,<lb facs="#facs_653_r17"/>soweit sie mit Mitteln aus dem Parkierungsfonds
+            finanziert werden, als<lb facs="#facs_653_r18"/>bewilligt.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_653_r19"/>III. Zuständig<lb break="no" facs="#facs_653_r20"/>keit
+                und<lb facs="#facs_653_r21"/>Verfahren</add>
+			</p>
+			<p>
+				<lb facs="#facs_653_r22"/>§ 78c. Setzt die Gemeinde Ausschlussgebiete fest, gelten auch
+              für<lb facs="#facs_653_r23"/>die Verordnungen über die Zahl der Abstellplätze und über
+            die Erhe<lb break="no" facs="#facs_653_r24"/>bung von Ersatzabgaben sowie für den
+            Parkraumplan hinsichtlich<lb facs="#facs_653_r25"/>Zuständigkeit, Verfahren und
+            Genehmigung die Bestimmungen über<lb facs="#facs_653_r26"/>die Bau- und
+            Zonenordnung.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_653_r27"/>E. Fahrzeug<lb break="no" facs="#facs_653_r28"/>abstellplätze</add>
+			</p>
+			<p>
+				<lb facs="#facs_653_r29"/>§ 242. unverändert.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_653_r30"/>I. Erstellungs<lb break="no" facs="#facs_653_r31"/>pflicht</add>
+			</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_653_r32"/>II. Anforde<lb break="no" facs="#facs_653_r33"/>rungen</add>
+			</p>
+			<p>
+				<lb facs="#facs_653_r34"/>§ 243.<lb facs="#facs_653_r35"/>unverändert.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_653_r36"/>1. Zahl</add>
+			</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_653_r37"/>2. Lage</add>
+			</p>
+			<p>
+				<lb facs="#facs_653_r38"/>§ 244. unverändert.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_653_r39"/>3. Gestaltung</add>
+			</p>
+			<p>
+				<lb facs="#facs_653_r40"/>§ 245. Absatz 1 unverändert.</p>
+			<p>
+				<lb facs="#facs_653_r41"/>Die Schaffung privater Gemeinschaftsanlagen und die
+              Beteiligung<lb facs="#facs_653_r42"/>hieran sowie an öffentlichen Anlagen kann von der
+            örtlichen Baube<lb break="no" facs="#facs_653_r43"/>hörde im baurechtlichen
+            Bewilligungsverfahren verfügt und näher<lb facs="#facs_653_r44"/>geordnet werden,</p>
+			<p>
+				<lb facs="#facs_653_r45"/>a) unverändert;</p>
+			<p>
+				<lb facs="#facs_653_r46"/>b) unverändert.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_653_r47"/>III. Ersatz<lb break="no" facs="#facs_653_r48"/>abgabe</add>
+			</p>
+			<p>
+				<lb facs="#facs_653_r49"/>Abs. 3 unverändert.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_653_r50"/>1. Voraus<lb break="no" facs="#facs_653_r51"/>setzung und<lb facs="#facs_653_r52"/>Höhe</add>
+			</p>
+			<p>
+				<lb facs="#facs_653_r53"/>§ 246. Ist die Beteiligung an einer Gemeinschaftsanlage
+              innert<lb facs="#facs_653_r54"/>nützlicher Frist nicht möglich, kann vom
+            Grundeigentümer, der kraft</p>
+			<pb n="653" facs="#facs_654"/>
+			<p>
+				<lb facs="#facs_654_r1"/>behördlicher Feststellung keine oder nur eine herabgesetzte
+            Zahl eige<lb break="no" facs="#facs_654_r2"/>ner Abstellplätze schaffen muss oder darf,
+            eine angemessene Abgabe<lb facs="#facs_654_r3"/>erhoben werden; vorbehalten bleibt die
+            Erhebungspflicht bei der Fest<lb break="no" facs="#facs_654_r4"/>setzung von
+            Ausschlussgebieten für Parkierungsanlagen.</p>
+			<p>
+				<lb facs="#facs_654_r5"/>Abs. 2 unverändert.</p>
+			<p>
+				<lb facs="#facs_654_r6"/>Abs. 3 unverändert.</p>
+			<p>
+				<lb facs="#facs_654_r7"/>Die Gemeinden regeln die Einführung der Abgabepflicht und
+              die<lb facs="#facs_654_r8"/>Einzelheiten durch Verordnung; Streitigkeiten über die
+              Abgabepflicht<lb facs="#facs_654_r9"/>werden im Verfahren nach dem Gesetz betreffend
+            die Abtretung von<lb facs="#facs_654_r10"/>Privatrechten entschieden.</p>
+			<p>
+				<add type="marginal" place="right">
+					<lb facs="#facs_654_r11"/>2. Pflichten der<lb facs="#facs_654_r12"/>Gemeinde</add>
+			</p>
+			<p>
+				<lb facs="#facs_654_r13"/>§ 247. Die Gemeinden haben die Abgaben in einen Fonds zu<lb facs="#facs_654_r14"/>legen, dem auch andere zweckgebundene Mittel für die Schaffung
+              von<lb facs="#facs_654_r15"/>Parkierungsanlagen zugewiesen werden können. Der Fonds
+            darf nur<lb facs="#facs_654_r16"/>verwendet werden für</p>
+			<p>
+				<lb facs="#facs_654_r17"/>a) Parkierungsanlagen, mit denen Ersatz für
+              Ausschlussgebiete<lb facs="#facs_654_r18"/>geschaffen wird;</p>
+			<p>
+				<lb facs="#facs_654_r19"/>b) Parkierungsanlagen, die in nützlicher Entfernung von
+              einzelnen<lb facs="#facs_654_r20"/>belasteten Grundstücken oder im Bereich eines von
+            diesen aus gut<lb facs="#facs_654_r21"/>erreichbaren und leistungsfähigen öffentlichen
+              Verkehrsmittels<lb facs="#facs_654_r22"/>liegen.</p>
+			<p>
+				<lb facs="#facs_654_r23"/>Abs. 2 unverändert.</p>
+			<p>
+				<lb facs="#facs_654_r24"/>Gemeinden, die einen Fonds bilden, sind verpflichtet, eine
+              Park<lb break="no" facs="#facs_654_r25"/>raumplanung durchzuführen und laufend den
+            Verhältnissen anzupassen.<lb facs="#facs_654_r26"/>Diese hat Aufschluss zu geben
+            über</p>
+			<p>
+				<lb facs="#facs_654_r27"/>a) den Standort und die Grössenordnung der
+              Parkierungsanlagen,<lb facs="#facs_654_r28"/>deren Bau und Betrieb die Gemeinde
+            bestimmt und die einem<lb facs="#facs_654_r29"/>unbestimmten Personenkreis offenstehen
+            oder an denen eine Betei<lb break="no" facs="#facs_654_r30"/>ligung privater
+            Grundeigentümer vorgesehen ist;</p>
+			<p>
+				<lb facs="#facs_654_r31"/>b) die ungefähren Erstellungskosten, für welche
+            voraussichtlich die<lb facs="#facs_654_r32"/>Gemeinde aufkommen muss;</p>
+			<p>
+				<lb facs="#facs_654_r33"/>c) den in Aussicht genommenen Termin für den Bau und die
+              Inbetrieb<lb break="no" facs="#facs_654_r34"/>nahme.</p>
+			<p>
+				<lb facs="#facs_654_r35"/>Abs. 4 unverändert.</p>
+			<p>
+				<lb facs="#facs_654_r36"/>Zürich, den <date when="1981-03-30">30. März 1981</date></p>
+			<p>
+				<lb facs="#facs_654_r38"/>In Namen der Kommission</p>
+			<p>
+				<lb facs="#facs_654_r39"/>Der Präsident:<lb facs="#facs_654_r40"/>W. Haegi</p>
+			<p>
+				<lb facs="#facs_654_r41"/>Der Sekretär:<lb facs="#facs_654_r42"/>H. Kuhn</p>
+		</body></text></TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 50. Sitzung. Montag, 17. März 1980, 9.15 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-06-06">06.06.1980</date><ident>StAZH ABl 1980 (S. 672, Eintrag 1)</ident><idno>672</idno><idno type="issue">44</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131877"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_673" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0673.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_673_r11" ulx="319" uly="806" lrx="920" lry="841" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r22" ulx="397" uly="1420" lrx="813" lry="1450" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r32" ulx="298" uly="2264" lrx="631" lry="2298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r23" ulx="398" uly="1500" lrx="1591" lry="1542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r5" ulx="406" uly="475" lrx="1606" lry="514" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r17" ulx="317" uly="1216" lrx="1589" lry="1257" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r20" ulx="715" uly="1270" lrx="1539" lry="1307" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r25" ulx="395" uly="1627" lrx="1592" lry="1669" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r28" ulx="760" uly="2066" lrx="831" lry="2094" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r9" ulx="316" uly="689" lrx="708" lry="721" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r24" ulx="312" uly="1550" lrx="596" lry="1582" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r19" ulx="414" uly="1268" lrx="708" lry="1301" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r27" ulx="406" uly="1970" lrx="1489" lry="2017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r14" ulx="316" uly="1004" lrx="906" lry="1040" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r10" ulx="402" uly="756" lrx="1604" lry="799" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r2" ulx="518" uly="341" lrx="933" lry="376" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r15" ulx="407" uly="1074" lrx="1377" lry="1117" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r8" ulx="407" uly="639" lrx="1608" lry="681" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r31" ulx="301" uly="2218" lrx="1587" lry="2259" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r3" ulx="941" uly="347" lrx="1220" lry="381" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r4" ulx="1229" uly="350" lrx="1406" lry="382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r33" ulx="641" uly="2270" lrx="829" lry="2301" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r21" ulx="400" uly="1339" lrx="634" lry="1367" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r1" ulx="511" uly="235" lrx="1414" lry="278" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r7" ulx="325" uly="566" lrx="1047" lry="607" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r12" ulx="402" uly="908" lrx="1597" lry="950" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r18" ulx="313" uly="1268" lrx="383" lry="1298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r30" ulx="394" uly="2166" lrx="1591" lry="2205" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r6" ulx="320" uly="522" lrx="1600" lry="564" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r16" ulx="408" uly="1170" lrx="1593" lry="1212" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r13" ulx="313" uly="958" lrx="1598" lry="999" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r26" ulx="311" uly="1672" lrx="684" lry="1703" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r0" ulx="327" uly="135" lrx="396" lry="162" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r29" ulx="856" uly="2062" lrx="1129" lry="2094" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_673_r34" ulx="838" uly="2270" lrx="1483" lry="2307" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="672" facs="#facs_673"/>
+			<p>
+				<lb facs="#facs_673_r5"/>2. Eintritt von zwei neuen Ratsmitgliedern für die zurück<lb break="no" facs="#facs_673_r6"/>getretenen Mitglieder Dr. Christoph Blocher (SVP, Meilen) und<lb facs="#facs_673_r7"/>Heinz Allenspach (FDP, Fällanden).</p>
+			<p>
+				<lb facs="#facs_673_r8"/>Ernst Gadola, Bauunternehmer, Haldensteig 12, 8708 Män<lb break="no" facs="#facs_673_r9"/>nedorf, ist gewählt.</p>
+			<p>
+				<lb facs="#facs_673_r10"/>Heinrich Hofacker, Dipl. Ing. ETH/SIA, Im Leisibühl 15,<lb facs="#facs_673_r11"/>8044 Gockhausen, ist gewählt.</p>
+			<p>
+				<lb facs="#facs_673_r12"/>3. Wahl eines Mitgliedes und des Präsidenten der Ge<lb break="no" facs="#facs_673_r13"/>schäftsprüfungskommission für den zurückgetretenen Heinz<lb facs="#facs_673_r14"/>Allenspach (FDP, Fällanden).</p>
+			<p>
+				<lb facs="#facs_673_r15"/>Gertrud Erismann-Peyer, Küsnacht, ist gewählt.</p>
+			<p>
+				<lb facs="#facs_673_r16"/>4. Gerichtsverfassungsgesetz, Zivilprozessordnung, An<lb break="no" facs="#facs_673_r17"/>waltsgesetz (Änderung) (Antrag der Redaktionskommission<lb facs="#facs_673_r18"/>vom <date when="1980-03-10">10. März 1980,</date> Redaktionslesung und Verabschiedung).</p>
+			<p>
+				<lb facs="#facs_673_r21"/>Diskussion.</p>
+			<p>
+				<lb facs="#facs_673_r22"/>Schlussabstimmung.</p>
+			<p>
+				<lb facs="#facs_673_r23"/>Mit 122 : 3 Stimmen stimmt der Rat der bereinigten Vor<lb break="no" facs="#facs_673_r24"/>lage 2308 b zu.</p>
+			<p>
+				<lb facs="#facs_673_r25"/>Die Vorlage geht an den Regierungsrat zur Ansetzung der<lb facs="#facs_673_r26"/>Volksabstimmung.</p>
+		</body></text></TEI>

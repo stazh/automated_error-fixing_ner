@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Kantonale Volksabstimmung vom 26.
+            September 1982] 2504 Vollziehungsverordnung zum Gesetz über die direkten Steuern (Änderung) (vom 23. Juni
+              1982)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-08-20">20.08.1982</date><ident>StAZH ABl 1982 (S. 842-851)</ident><idno>842–851</idno><idno type="issue">33</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132759"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_154" uly="0" ulx="0" lry="2333" lrx="1611">
+			<graphic url="Abl_1982_2__S__0154.tif" width="1611px" height="2333px"/>
+			<zone xml:id="facs_154_r6" ulx="325" uly="537" lrx="566" lry="569" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r21" ulx="291" uly="1305" lrx="1410" lry="1338" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r35" ulx="231" uly="2020" lrx="1413" lry="2049" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r12" ulx="452" uly="781" lrx="783" lry="812" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r23" ulx="287" uly="1430" lrx="1413" lry="1461" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r8" ulx="725" uly="206" lrx="929" lry="233" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r32" ulx="231" uly="1836" lrx="1348" lry="1869" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r11" ulx="231" uly="781" lrx="433" lry="809" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r3" ulx="227" uly="412" lrx="1004" lry="445" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r34" ulx="289" uly="1972" lrx="1413" lry="2002" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r36" ulx="228" uly="2059" lrx="1408" lry="2092" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r30" ulx="227" uly="1749" lrx="1410" lry="1780" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r4" ulx="233" uly="458" lrx="464" lry="497" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r24" ulx="229" uly="1476" lrx="1410" lry="1507" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r10" ulx="323" uly="736" lrx="1411" lry="767" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r20" ulx="233" uly="1261" lrx="1414" lry="1293" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r25" ulx="233" uly="1521" lrx="619" lry="1549" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r29" ulx="233" uly="1703" lrx="1413" lry="1736" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r18" ulx="293" uly="1161" lrx="1413" lry="1194" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r0" ulx="230" uly="118" lrx="283" lry="143" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r15" ulx="289" uly="986" lrx="900" lry="1014" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r5" ulx="233" uly="539" lrx="306" lry="570" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r28" ulx="233" uly="1659" lrx="1413" lry="1691" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r14" ulx="232" uly="902" lrx="1046" lry="937" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r7" ulx="235" uly="206" lrx="710" lry="235" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r26" ulx="287" uly="1569" lrx="1412" lry="1603" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r19" ulx="291" uly="1211" lrx="448" lry="1237" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r1" ulx="230" uly="289" lrx="323" lry="317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r13" ulx="791" uly="783" lrx="1192" lry="814" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r27" ulx="230" uly="1617" lrx="1410" lry="1648" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r16" ulx="233" uly="1067" lrx="539" lry="1094" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r31" ulx="231" uly="1795" lrx="1410" lry="1825" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r22" ulx="292" uly="1348" lrx="508" lry="1376" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r9" ulx="231" uly="637" lrx="725" lry="669" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r2" ulx="235" uly="358" lrx="725" lry="391" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r33" ulx="289" uly="1891" lrx="623" lry="1921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_154_r17" ulx="233" uly="1117" lrx="1413" lry="1150" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_155" uly="0" ulx="0" lry="2332" lrx="1604">
+			<graphic url="Abl_1982_2__S__0155.tif" width="1604px" height="2332px"/>
+			<zone xml:id="facs_155_r12" ulx="196" uly="796" lrx="732" lry="824" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r33" ulx="196" uly="1952" lrx="1369" lry="1982" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r8" ulx="254" uly="606" lrx="1368" lry="637" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r1" ulx="201" uly="204" lrx="1370" lry="237" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r4" ulx="254" uly="387" lrx="654" lry="413" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r31" ulx="191" uly="1854" lrx="863" lry="1881" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r34" ulx="196" uly="1994" lrx="1370" lry="2027" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r30" ulx="254" uly="1806" lrx="1369" lry="1836" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r32" ulx="254" uly="1906" lrx="1368" lry="1936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r10" ulx="197" uly="696" lrx="1274" lry="726" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r27" ulx="193" uly="1619" lrx="1322" lry="1650" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r5" ulx="256" uly="439" lrx="1370" lry="466" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r9" ulx="199" uly="654" lrx="1364" lry="683" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r23" ulx="252" uly="1396" lrx="1370" lry="1429" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r7" ulx="196" uly="529" lrx="1197" lry="558" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r29" ulx="252" uly="1754" lrx="778" lry="1783" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r18" ulx="198" uly="1131" lrx="1374" lry="1163" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r35" ulx="193" uly="2036" lrx="763" lry="2070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r6" ulx="199" uly="483" lrx="1371" lry="512" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r3" ulx="258" uly="308" lrx="588" lry="332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r11" ulx="258" uly="748" lrx="1359" lry="779" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r13" ulx="252" uly="873" lrx="1369" lry="903" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r20" ulx="198" uly="1221" lrx="1370" lry="1251" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r0" ulx="1308" uly="120" lrx="1360" lry="143" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r22" ulx="250" uly="1346" lrx="671" lry="1374" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r15" ulx="254" uly="1000" lrx="1369" lry="1030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r25" ulx="256" uly="1496" lrx="588" lry="1523" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r2" ulx="200" uly="254" lrx="450" lry="280" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r24" ulx="198" uly="1442" lrx="1333" lry="1472" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r16" ulx="198" uly="1044" lrx="1370" lry="1074" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r28" ulx="254" uly="1675" lrx="590" lry="1702" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r26" ulx="254" uly="1577" lrx="1366" lry="1606" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r14" ulx="196" uly="921" lrx="1137" lry="951" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r21" ulx="196" uly="1264" lrx="1193" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r17" ulx="197" uly="1085" lrx="1368" lry="1118" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_155_r19" ulx="197" uly="1175" lrx="1366" lry="1206" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_156" uly="0" ulx="0" lry="2333" lrx="1610">
+			<graphic url="Abl_1982_2__S__0156.tif" width="1610px" height="2333px"/>
+			<zone xml:id="facs_156_r0" ulx="239" uly="127" lrx="296" lry="150" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r9" ulx="1042" uly="487" lrx="1226" lry="516" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r13" ulx="669" uly="529" lrx="825" lry="558" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r11" ulx="237" uly="527" lrx="469" lry="556" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r34" ulx="289" uly="1588" lrx="1109" lry="1618" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r35" ulx="231" uly="1636" lrx="1416" lry="1671" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r42" ulx="671" uly="1951" lrx="915" lry="1981" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r23" ulx="235" uly="1009" lrx="727" lry="1039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r41" ulx="231" uly="1951" lrx="650" lry="1980" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r39" ulx="296" uly="1828" lrx="629" lry="1855" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r18" ulx="289" uly="779" lrx="711" lry="807" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r12" ulx="475" uly="529" lrx="663" lry="558" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r14" ulx="834" uly="531" lrx="1418" lry="561" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r28" ulx="233" uly="1305" lrx="409" lry="1333" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r16" ulx="235" uly="619" lrx="385" lry="646" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r31" ulx="235" uly="1453" lrx="1416" lry="1484" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r17" ulx="294" uly="696" lrx="665" lry="726" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r37" ulx="291" uly="1728" lrx="1416" lry="1760" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r21" ulx="237" uly="921" lrx="1420" lry="951" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r26" ulx="233" uly="1215" lrx="1413" lry="1244" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r27" ulx="233" uly="1259" lrx="1413" lry="1289" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r44" ulx="294" uly="2028" lrx="1111" lry="2061" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r33" ulx="296" uly="1544" lrx="1416" lry="1573" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r7" ulx="709" uly="483" lrx="836" lry="515" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r22" ulx="233" uly="963" lrx="1416" lry="996" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r36" ulx="294" uly="1684" lrx="1416" lry="1716" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r25" ulx="294" uly="1169" lrx="1414" lry="1199" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r6" ulx="291" uly="481" lrx="692" lry="513" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r30" ulx="291" uly="1403" lrx="1259" lry="1433" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r10" ulx="1234" uly="489" lrx="1405" lry="517" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r38" ulx="291" uly="1772" lrx="639" lry="1800" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r19" ulx="293" uly="831" lrx="1416" lry="862" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r24" ulx="289" uly="1086" lrx="669" lry="1117" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r43" ulx="923" uly="1951" lrx="1071" lry="1981" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r8" ulx="844" uly="487" lrx="1034" lry="516" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r5" ulx="294" uly="404" lrx="813" lry="434" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r40" ulx="308" uly="1907" lrx="1416" lry="1939" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r3" ulx="235" uly="306" lrx="1420" lry="338" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r4" ulx="237" uly="352" lrx="819" lry="382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r1" ulx="291" uly="208" lrx="821" lry="238" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r2" ulx="295" uly="260" lrx="1418" lry="293" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r20" ulx="233" uly="879" lrx="1418" lry="907" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r15" ulx="237" uly="573" lrx="1420" lry="606" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r29" ulx="235" uly="1357" lrx="1416" lry="1387" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_156_r32" ulx="294" uly="1496" lrx="1413" lry="1530" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_157" uly="0" ulx="0" lry="2333" lrx="1604">
+			<graphic url="Abl_1982_2__S__0157.tif" width="1604px" height="2333px"/>
+			<zone xml:id="facs_157_r26" ulx="179" uly="1624" lrx="1349" lry="1655" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r13" ulx="181" uly="1100" lrx="333" lry="1132" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r3" ulx="183" uly="366" lrx="632" lry="394" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r24" ulx="181" uly="1538" lrx="1351" lry="1567" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r14" ulx="237" uly="1184" lrx="882" lry="1212" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r6" ulx="179" uly="544" lrx="579" lry="572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r5" ulx="239" uly="498" lrx="1362" lry="528" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r31" ulx="230" uly="1901" lrx="1353" lry="1931" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r33" ulx="175" uly="1991" lrx="1353" lry="2021" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r17" ulx="179" uly="1225" lrx="1357" lry="1257" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r25" ulx="181" uly="1582" lrx="1351" lry="1612" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r15" ulx="901" uly="1184" lrx="1136" lry="1212" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r10" ulx="233" uly="879" lrx="1355" lry="911" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r2" ulx="181" uly="285" lrx="782" lry="315" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r21" ulx="181" uly="1403" lrx="1355" lry="1433" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r0" ulx="1295" uly="125" lrx="1353" lry="148" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r34" ulx="175" uly="2036" lrx="1351" lry="2067" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r8" ulx="181" uly="750" lrx="436" lry="777" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r7" ulx="179" uly="667" lrx="646" lry="695" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r1" ulx="181" uly="204" lrx="338" lry="232" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r19" ulx="181" uly="1315" lrx="1358" lry="1347" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r32" ulx="175" uly="1947" lrx="1353" lry="1977" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r12" ulx="174" uly="1048" lrx="1078" lry="1080" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r23" ulx="181" uly="1492" lrx="1355" lry="1524" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r9" ulx="183" uly="800" lrx="602" lry="832" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r29" ulx="176" uly="1759" lrx="1351" lry="1791" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r28" ulx="175" uly="1713" lrx="1353" lry="1745" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r16" ulx="1143" uly="1184" lrx="1353" lry="1212" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r18" ulx="181" uly="1271" lrx="1343" lry="1300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r22" ulx="177" uly="1446" lrx="1355" lry="1478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r11" ulx="183" uly="925" lrx="579" lry="955" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r30" ulx="177" uly="1805" lrx="823" lry="1834" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r27" ulx="179" uly="1670" lrx="1353" lry="1702" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r20" ulx="175" uly="1359" lrx="1356" lry="1389" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_157_r4" ulx="185" uly="416" lrx="393" lry="448" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_158" uly="0" ulx="0" lry="2334" lrx="1609">
+			<graphic url="Abl_1982_2__S__0158.tif" width="1609px" height="2334px"/>
+			<zone xml:id="facs_158_r25" ulx="250" uly="1223" lrx="1430" lry="1256" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r0" ulx="248" uly="131" lrx="304" lry="152" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r5" ulx="248" uly="473" lrx="1146" lry="500" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r4" ulx="250" uly="348" lrx="1157" lry="376" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r10" ulx="252" uly="737" lrx="1425" lry="766" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r20" ulx="250" uly="1094" lrx="637" lry="1124" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r12" ulx="254" uly="823" lrx="1431" lry="856" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r9" ulx="248" uly="693" lrx="1429" lry="724" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r15" ulx="252" uly="958" lrx="1432" lry="990" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r8" ulx="248" uly="648" lrx="1427" lry="679" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r14" ulx="250" uly="914" lrx="1429" lry="946" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r1" ulx="250" uly="212" lrx="1427" lry="242" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r26" ulx="248" uly="1273" lrx="371" lry="1299" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r19" ulx="250" uly="1048" lrx="1429" lry="1079" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r28" ulx="247" uly="1475" lrx="729" lry="1505" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r23" ulx="250" uly="1135" lrx="1427" lry="1165" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r29" ulx="250" uly="1527" lrx="421" lry="1559" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r27" ulx="248" uly="1396" lrx="669" lry="1424" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r24" ulx="250" uly="1179" lrx="1429" lry="1211" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r31" ulx="250" uly="1652" lrx="1429" lry="1682" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r39" ulx="252" uly="2008" lrx="996" lry="2039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r36" ulx="250" uly="1873" lrx="1434" lry="1906" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r38" ulx="254" uly="1963" lrx="1432" lry="1994" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r6" ulx="251" uly="523" lrx="402" lry="553" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r33" ulx="252" uly="1742" lrx="1433" lry="1772" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r21" ulx="660" uly="1091" lrx="1032" lry="1123" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r3" ulx="252" uly="302" lrx="1427" lry="332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r34" ulx="252" uly="1785" lrx="1430" lry="1817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r13" ulx="250" uly="871" lrx="1427" lry="901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r37" ulx="250" uly="1919" lrx="1433" lry="1950" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r22" ulx="1040" uly="1091" lrx="1432" lry="1122" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r17" ulx="573" uly="1004" lrx="802" lry="1034" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r18" ulx="810" uly="1002" lrx="1429" lry="1032" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r11" ulx="249" uly="781" lrx="1417" lry="813" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r32" ulx="245" uly="1696" lrx="1429" lry="1726" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r2" ulx="250" uly="256" lrx="1425" lry="287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r30" ulx="312" uly="1606" lrx="1421" lry="1638" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r16" ulx="250" uly="1006" lrx="548" lry="1036" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r7" ulx="308" uly="602" lrx="1429" lry="632" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_158_r35" ulx="249" uly="1829" lrx="1434" lry="1861" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_159" uly="0" ulx="0" lry="2330" lrx="1605">
+			<graphic url="Abl_1982_2__S__0159.tif" width="1605px" height="2330px"/>
+			<zone xml:id="facs_159_r14" ulx="173" uly="744" lrx="1348" lry="774" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r38" ulx="166" uly="2017" lrx="1342" lry="2046" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r33" ulx="231" uly="1786" lrx="1344" lry="1814" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r4" ulx="175" uly="287" lrx="1348" lry="320" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r24" ulx="166" uly="1312" lrx="1029" lry="1343" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r7" ulx="175" uly="423" lrx="1350" lry="454" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r30" ulx="165" uly="1604" lrx="1341" lry="1637" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r10" ulx="173" uly="556" lrx="1342" lry="588" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r20" ulx="166" uly="1092" lrx="771" lry="1122" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r37" ulx="225" uly="1969" lrx="1344" lry="1999" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r39" ulx="166" uly="2061" lrx="1340" lry="2089" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r9" ulx="173" uly="514" lrx="1346" lry="543" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r17" ulx="175" uly="877" lrx="1344" lry="907" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r34" ulx="164" uly="1825" lrx="1329" lry="1858" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r21" ulx="173" uly="1144" lrx="486" lry="1175" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r36" ulx="168" uly="1917" lrx="708" lry="1946" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r12" ulx="172" uly="654" lrx="1346" lry="685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r15" ulx="175" uly="785" lrx="1348" lry="818" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r25" ulx="1048" uly="1312" lrx="1265" lry="1341" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r11" ulx="233" uly="610" lrx="1346" lry="640" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r27" ulx="173" uly="1356" lrx="1342" lry="1388" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r5" ulx="175" uly="337" lrx="1344" lry="367" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r1" ulx="231" uly="202" lrx="1083" lry="230" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r8" ulx="175" uly="468" lrx="1344" lry="500" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r0" ulx="1286" uly="118" lrx="1336" lry="141" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r22" ulx="227" uly="1225" lrx="1340" lry="1254" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r3" ulx="181" uly="245" lrx="1346" lry="276" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r29" ulx="168" uly="1525" lrx="1108" lry="1558" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r23" ulx="172" uly="1267" lrx="1342" lry="1298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r26" ulx="1271" uly="1312" lrx="1342" lry="1341" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r2" ulx="1113" uly="202" lrx="1348" lry="232" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r18" ulx="176" uly="919" lrx="1346" lry="952" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r19" ulx="175" uly="967" lrx="452" lry="995" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r13" ulx="175" uly="698" lrx="1344" lry="731" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r35" ulx="168" uly="1873" lrx="1340" lry="1902" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r28" ulx="168" uly="1402" lrx="637" lry="1432" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r6" ulx="174" uly="379" lrx="1346" lry="409" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r32" ulx="173" uly="1704" lrx="343" lry="1734" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r31" ulx="166" uly="1652" lrx="362" lry="1678" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_159_r16" ulx="173" uly="831" lrx="1346" lry="863" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_160" uly="0" ulx="0" lry="2335" lrx="1608">
+			<graphic url="Abl_1982_2__S__0160.tif" width="1608px" height="2335px"/>
+			<zone xml:id="facs_160_r0" ulx="246" uly="129" lrx="303" lry="152" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r12" ulx="239" uly="619" lrx="1424" lry="647" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r14" ulx="300" uly="715" lrx="1426" lry="743" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r29" ulx="306" uly="1511" lrx="1426" lry="1544" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r13" ulx="244" uly="665" lrx="638" lry="692" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r15" ulx="241" uly="758" lrx="1424" lry="789" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r5" ulx="953" uly="343" lrx="1197" lry="374" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r39" ulx="248" uly="1965" lrx="1426" lry="1998" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r23" ulx="250" uly="1240" lrx="1418" lry="1270" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r8" ulx="246" uly="429" lrx="1199" lry="462" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r19" ulx="250" uly="1023" lrx="421" lry="1056" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r26" ulx="246" uly="1373" lrx="1430" lry="1405" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r30" ulx="250" uly="1559" lrx="1430" lry="1589" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r41" ulx="252" uly="2055" lrx="1428" lry="2085" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r6" ulx="1205" uly="343" lrx="1420" lry="372" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r35" ulx="250" uly="1790" lrx="1428" lry="1822" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r33" ulx="252" uly="1692" lrx="800" lry="1721" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r16" ulx="239" uly="802" lrx="1424" lry="834" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r31" ulx="250" uly="1605" lrx="1428" lry="1634" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r20" ulx="306" uly="1105" lrx="1432" lry="1136" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r18" ulx="244" uly="971" lrx="1112" lry="1004" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r22" ulx="248" uly="1194" lrx="1428" lry="1224" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r4" ulx="246" uly="343" lrx="930" lry="374" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r28" ulx="250" uly="1463" lrx="494" lry="1490" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r34" ulx="306" uly="1744" lrx="1428" lry="1775" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r37" ulx="248" uly="1880" lrx="1432" lry="1909" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r9" ulx="300" uly="485" lrx="1424" lry="515" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r2" ulx="241" uly="256" lrx="1422" lry="285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r36" ulx="248" uly="1834" lrx="1432" lry="1867" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r21" ulx="246" uly="1152" lrx="1428" lry="1183" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r38" ulx="248" uly="1924" lrx="1426" lry="1954" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r3" ulx="241" uly="298" lrx="1422" lry="329" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r25" ulx="246" uly="1328" lrx="1426" lry="1359" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r10" ulx="241" uly="529" lrx="1428" lry="559" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r11" ulx="239" uly="573" lrx="1425" lry="604" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r27" ulx="248" uly="1417" lrx="1426" lry="1447" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r7" ulx="246" uly="387" lrx="1426" lry="417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r24" ulx="250" uly="1284" lrx="1425" lry="1315" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r17" ulx="240" uly="856" lrx="450" lry="879" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r32" ulx="249" uly="1644" lrx="1428" lry="1676" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r1" ulx="244" uly="210" lrx="1422" lry="240" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_160_r40" ulx="250" uly="2009" lrx="1428" lry="2041" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_161" uly="0" ulx="0" lry="2331" lrx="1603">
+			<graphic url="Abl_1982_2__S__0161.tif" width="1603px" height="2331px"/>
+			<zone xml:id="facs_161_r15" ulx="171" uly="954" lrx="266" lry="983" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r7" ulx="234" uly="598" lrx="1349" lry="631" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r32" ulx="171" uly="1903" lrx="1350" lry="1936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r31" ulx="175" uly="1859" lrx="1353" lry="1891" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r23" ulx="458" uly="1382" lrx="1348" lry="1412" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r16" ulx="175" uly="1080" lrx="950" lry="1108" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r26" ulx="179" uly="1603" lrx="346" lry="1634" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r1" ulx="178" uly="208" lrx="1351" lry="241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r0" ulx="1284" uly="125" lrx="1341" lry="148" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r5" ulx="179" uly="469" lrx="327" lry="493" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r20" ulx="175" uly="1336" lrx="1350" lry="1368" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r17" ulx="175" uly="1159" lrx="798" lry="1187" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r22" ulx="250" uly="1382" lrx="450" lry="1412" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r10" ulx="177" uly="731" lrx="1338" lry="761" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r28" ulx="175" uly="1728" lrx="1346" lry="1758" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r9" ulx="174" uly="688" lrx="1346" lry="718" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r34" ulx="175" uly="1995" lrx="1349" lry="2025" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r11" ulx="177" uly="777" lrx="1354" lry="806" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r6" ulx="177" uly="519" lrx="369" lry="552" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r30" ulx="172" uly="1818" lrx="1344" lry="1849" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r14" ulx="173" uly="906" lrx="1348" lry="938" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r24" ulx="179" uly="1430" lrx="333" lry="1456" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r3" ulx="179" uly="296" lrx="1348" lry="329" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r19" ulx="231" uly="1292" lrx="1348" lry="1322" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r29" ulx="176" uly="1770" lrx="1349" lry="1803" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r36" ulx="173" uly="2084" lrx="1346" lry="2113" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r21" ulx="173" uly="1384" lrx="233" lry="1410" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r27" ulx="231" uly="1684" lrx="1349" lry="1713" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r25" ulx="170" uly="1551" lrx="842" lry="1579" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r8" ulx="175" uly="644" lrx="1348" lry="674" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r18" ulx="177" uly="1215" lrx="350" lry="1245" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r13" ulx="174" uly="867" lrx="1347" lry="897" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r12" ulx="175" uly="821" lrx="1350" lry="851" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r35" ulx="175" uly="2039" lrx="1348" lry="2070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r2" ulx="177" uly="254" lrx="1349" lry="284" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r4" ulx="177" uly="344" lrx="423" lry="371" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_161_r33" ulx="175" uly="1951" lrx="1349" lry="1981" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_162" uly="0" ulx="0" lry="2333" lrx="1611">
+			<graphic url="Abl_1982_2__S__0162.tif" width="1611px" height="2333px"/>
+			<zone xml:id="facs_162_r17" ulx="243" uly="956" lrx="1161" lry="988" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r41" ulx="241" uly="2011" lrx="1423" lry="2043" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r31" ulx="239" uly="1638" lrx="1425" lry="1670" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r21" ulx="243" uly="1257" lrx="1423" lry="1288" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r29" ulx="299" uly="1540" lrx="1421" lry="1572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r3" ulx="242" uly="296" lrx="1425" lry="329" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r23" ulx="1258" uly="1300" lrx="1335" lry="1332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r9" ulx="241" uly="569" lrx="393" lry="595" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r10" ulx="240" uly="685" lrx="737" lry="717" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r42" ulx="243" uly="2057" lrx="1425" lry="2089" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r24" ulx="1344" uly="1300" lrx="1423" lry="1332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r7" ulx="243" uly="475" lrx="1425" lry="505" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r37" ulx="241" uly="1826" lrx="1425" lry="1856" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r32" ulx="300" uly="1686" lrx="1428" lry="1716" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r25" ulx="241" uly="1348" lrx="496" lry="1376" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r14" ulx="964" uly="821" lrx="1423" lry="851" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r5" ulx="245" uly="385" lrx="1423" lry="417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r40" ulx="302" uly="1968" lrx="1425" lry="1998" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r4" ulx="245" uly="341" lrx="1427" lry="373" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r35" ulx="518" uly="1782" lrx="596" lry="1812" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r18" ulx="243" uly="1077" lrx="1022" lry="1110" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r8" ulx="248" uly="519" lrx="1423" lry="550" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r34" ulx="300" uly="1780" lrx="512" lry="1810" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r22" ulx="241" uly="1300" lrx="1250" lry="1334" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r6" ulx="243" uly="427" lrx="1428" lry="461" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r2" ulx="243" uly="254" lrx="1421" lry="284" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r0" ulx="244" uly="125" lrx="300" lry="148" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r11" ulx="243" uly="740" lrx="416" lry="771" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r1" ulx="240" uly="210" lrx="1425" lry="240" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r30" ulx="298" uly="1590" lrx="440" lry="1615" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r13" ulx="741" uly="823" lrx="954" lry="852" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r33" ulx="300" uly="1730" lrx="1337" lry="1762" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r39" ulx="239" uly="1918" lrx="677" lry="1948" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r16" ulx="241" uly="911" lrx="1423" lry="942" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r27" ulx="299" uly="1444" lrx="692" lry="1475" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r26" ulx="241" uly="1401" lrx="1426" lry="1432" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r38" ulx="243" uly="1870" lrx="1423" lry="1901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r28" ulx="241" uly="1496" lrx="1425" lry="1528" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r15" ulx="243" uly="865" lrx="1423" lry="898" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r19" ulx="241" uly="1134" lrx="410" lry="1164" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r20" ulx="298" uly="1213" lrx="1425" lry="1245" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r12" ulx="300" uly="821" lrx="716" lry="851" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_162_r36" ulx="602" uly="1782" lrx="1423" lry="1812" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_163" uly="0" ulx="0" lry="2332" lrx="1604">
+			<graphic url="Abl_1982_2__S__0163.tif" width="1604px" height="2332px"/>
+			<zone xml:id="facs_163_r47" ulx="671" uly="2061" lrx="915" lry="2089" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r6" ulx="396" uly="458" lrx="616" lry="485" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r40" ulx="744" uly="1679" lrx="1359" lry="1706" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r23" ulx="951" uly="1252" lrx="1163" lry="1281" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r24" ulx="1172" uly="1252" lrx="1360" lry="1281" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r13" ulx="189" uly="919" lrx="264" lry="949" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r10" ulx="670" uly="573" lrx="921" lry="633" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r20" ulx="189" uly="1204" lrx="488" lry="1234" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r30" ulx="264" uly="1462" lrx="1358" lry="1494" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r49" ulx="1032" uly="2063" lrx="1364" lry="2088" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r21" ulx="496" uly="1206" lrx="1360" lry="1236" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r45" ulx="394" uly="1942" lrx="663" lry="1973" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r7" ulx="675" uly="518" lrx="1193" lry="550" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r46" ulx="669" uly="2006" lrx="1193" lry="2036" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r28" ulx="189" uly="1385" lrx="394" lry="1413" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r17" ulx="189" uly="1162" lrx="1095" lry="1191" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r2" ulx="191" uly="256" lrx="700" lry="285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r44" ulx="185" uly="1944" lrx="381" lry="1973" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r35" ulx="619" uly="1554" lrx="832" lry="1583" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r25" ulx="191" uly="1294" lrx="1362" lry="1324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r48" ulx="668" uly="2106" lrx="778" lry="2134" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r15" ulx="189" uly="1019" lrx="682" lry="1049" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r11" ulx="188" uly="781" lrx="809" lry="821" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r50" ulx="1029" uly="2108" lrx="1212" lry="2136" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r3" ulx="248" uly="325" lrx="1364" lry="356" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r4" ulx="187" uly="370" lrx="1157" lry="403" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r16" ulx="279" uly="1117" lrx="1362" lry="1148" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r36" ulx="840" uly="1554" lrx="1030" lry="1583" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r33" ulx="492" uly="1508" lrx="1364" lry="1538" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r8" ulx="946" uly="573" lrx="1362" lry="601" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r22" ulx="189" uly="1250" lrx="944" lry="1280" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r19" ulx="1293" uly="1165" lrx="1361" lry="1192" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r26" ulx="187" uly="1340" lrx="1241" lry="1371" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r39" ulx="454" uly="1679" lrx="736" lry="1706" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r38" ulx="183" uly="1679" lrx="446" lry="1706" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r14" ulx="281" uly="919" lrx="567" lry="949" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r12" ulx="191" uly="839" lrx="1142" lry="875" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r37" ulx="246" uly="1631" lrx="1357" lry="1661" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r34" ulx="187" uly="1554" lrx="613" lry="1581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r0" ulx="1305" uly="127" lrx="1351" lry="150" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r9" ulx="951" uly="616" lrx="1072" lry="642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r27" ulx="1249" uly="1340" lrx="1362" lry="1371" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r32" ulx="335" uly="1510" lrx="483" lry="1539" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r5" ulx="191" uly="458" lrx="385" lry="487" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r42" ulx="185" uly="1777" lrx="310" lry="1800" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r18" ulx="1101" uly="1162" lrx="1286" lry="1191" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r41" ulx="185" uly="1723" lrx="1359" lry="1752" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r29" ulx="402" uly="1387" lrx="798" lry="1415" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r43" ulx="248" uly="1844" lrx="1017" lry="1875" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r1" ulx="187" uly="210" lrx="1359" lry="241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_163_r31" ulx="187" uly="1512" lrx="327" lry="1538" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="842" facs="#facs_154"/>
+			<p>
+				<add place="above" type="remark">
+					<lb facs="#facs_154_r7"/>Antrag des Regierungsrates vom <date when="1982-06-23">23.
+                Juni 1982</date></add>
+			</p>
+			<p>
+				<lb facs="#facs_154_r9"/>Der Regierungsrat beschliesst:</p>
+			<p>
+				<lb facs="#facs_154_r10"/>I. Die Vollziehungsverordnung zum Gesetz über die direkten<lb facs="#facs_154_r11"/>Steuern vom <date when="1951-11-26">26. November 1951</date>
+            wird wie folgt geändert:</p>
+			<p>
+				<lb facs="#facs_154_r14"/>Titel: Vollziehungsverordnung zum Steuergesetz</p>
+			<p>
+				<lb facs="#facs_154_r15"/>§ 2. Die Amtsdauer bestimmt sich:</p>
+			<p>
+				<lb facs="#facs_154_r16"/>lit. a unverändert;</p>
+			<p>
+				<lb facs="#facs_154_r17"/>b) für die vom Regierungsrat gewählten Mitglieder und
+              Ersatzmitglie<lb break="no" facs="#facs_154_r18"/>der nach den für Mitglieder
+            staatlicher Behörden geltenden Vor<lb break="no" facs="#facs_154_r19"/>schriften;</p>
+			<p>
+				<lb facs="#facs_154_r20"/>c) für die von der Gemeinde gewählten Mitglieder und
+              Ersatzmitglie<lb break="no" facs="#facs_154_r21"/>der nach den für Mitglieder von
+            Gemeindebehörden geltenden<lb facs="#facs_154_r22"/>Vorschriften.</p>
+			<p>
+				<lb facs="#facs_154_r23"/>§ 3. Bestellt der Regierungsrat auf Antrag zweier Gemeinden
+              eine<lb facs="#facs_154_r24"/>gemeinsame Steuerkommission, so wählt jede Gemeinde je
+            ein Mitglied<lb facs="#facs_154_r25"/>und ein Ersatzmitglied.</p>
+			<p>
+				<lb facs="#facs_154_r26"/>Wird für drei oder mehr Gemeinden auf deren Antrag eine
+              gemein<lb break="no" facs="#facs_154_r27"/>same Steuerkommission bestellt, so bilden
+            die Gemeinden zur Wahl<lb facs="#facs_154_r28"/>ihrer Mitglieder und Ersatzmitglieder
+            einen Wahlkreis. Die Mitglieder<lb facs="#facs_154_r29"/>dürfen nicht in der gleichen
+            Gemeinde wohnhaft sein; die Ersatzmitglie<lb break="no" facs="#facs_154_r30"/>der dürfen
+            ebenfalls nicht in der gleichen Gemeinde wohnhaft sein. Die<lb facs="#facs_154_r31"/>Ersatzmitglieder sind in erster Linie aus den Gemeinden zu wählen, in<lb facs="#facs_154_r32"/>denen keine Mitglieder wohnen. Die Wahl erfolgt durch die
+            Urne.</p>
+			<p>
+				<lb facs="#facs_154_r33"/>Abs. 3 unverändert.</p>
+			<p>
+				<lb facs="#facs_154_r34"/>§ 4. Die Steuerkommission kann verhandeln und beschliessen,<lb facs="#facs_154_r35"/>wenn ausser dem Vorsitzenden mindestens ein vom Regierungsrat<lb facs="#facs_154_r36"/>gewähltes Mitglied oder Ersatzmitglied und ein von der
+            politischen</p>
+			<pb n="843" facs="#facs_155"/>
+			<p>
+				<lb facs="#facs_155_r1"/>Gemeinde oder vom Wahlkreis gewähltes Mitglied oder
+              Ersatzmitglied<lb facs="#facs_155_r2"/>anwesend sind.</p>
+			<p>
+				<lb facs="#facs_155_r3"/>Abs. 2 unverändert.</p>
+			<p>
+				<lb facs="#facs_155_r4"/>§ 5 Abs 1. unverändert.<lb facs="#facs_155_r5"/>Er wählt für
+            die Dauer von zwei Jahren einen Präsidenten als<lb facs="#facs_155_r6"/>Geschäftsleiter
+            sowie dessen Stellvertreter. Dem Geschäftsleiter unter<lb break="no" facs="#facs_155_r7"/>steht das den Rekurskommissionen gemeinsame Sekretariat.</p>
+			<p>
+				<lb facs="#facs_155_r8"/>§ 7. Die Rekurskommission kann verhandeln und beschliessen,<lb facs="#facs_155_r9"/>wenn ausser dem Präsidenten oder Vizepräsidenten als
+              Vorsitzenden<lb facs="#facs_155_r10"/>mindestens drei Mitglieder oder Ersatzmitglieder
+            anwesend sind.</p>
+			<p>
+				<lb facs="#facs_155_r11"/>Ausnahmsweise können bei Einstimmigkeit Beschlüsse auf dem<lb facs="#facs_155_r12"/>Zirkulationsweg gefasst werden.</p>
+			<p>
+				<lb facs="#facs_155_r13"/>§ 11. Zur Vorbereitung der Geschäfte kann der Vorsitzende
+              Mit<lb break="no" facs="#facs_155_r14"/>glieder oder Ersatzmitglieder als Referenten
+            bestimmen.</p>
+			<p>
+				<lb facs="#facs_155_r15"/>§ 18. Steuerpflichtige mit Wohnsitz oder Sitz im Ausland
+              haben<lb facs="#facs_155_r16"/>eine natürliche oder juristische Person mit Wohnsitz
+            oder Sitz in der<lb facs="#facs_155_r17"/>Schweiz zu bezeichnen, die zum Empfang aller
+            Mitteilungen, Verfügun<lb break="no" facs="#facs_155_r18"/>gen und Entscheide in
+            Steuersachen ermächtigt ist. Wird auch auf<lb facs="#facs_155_r19"/>Aufforderung hin
+            kein solcher Zustellungsempfänger bezeichnet, so<lb facs="#facs_155_r20"/>kann die
+            Zustellung durch öffentliche Bekanntmachung im Amtsblatt<lb facs="#facs_155_r21"/>ersetzt werden oder mit der gleichen Wirkung unterbleiben.</p>
+			<p>
+				<lb facs="#facs_155_r22"/>§ 21 Abs. 1 unverändert.<lb facs="#facs_155_r23"/>Zeugen
+            werden unter sinngemässer Anwendung von §§ 50 Abs. 1,<lb facs="#facs_155_r24"/>145, 153,
+            155, 156, 158-160, 162, 164-166, 168 ZPO einvernommen.</p>
+			<p>
+				<lb facs="#facs_155_r25"/>Abs. 3 unverändert.</p>
+			<p>
+				<lb facs="#facs_155_r26"/>§ 22. Sachverständige werden unter sinngemässer Anwendung
+              von<lb facs="#facs_155_r27"/>§§ 172, 173 Abs. 1, 174, 175, 176 Abs. 1, 178-182 ZPO
+            beigezogen.</p>
+			<p>
+				<lb facs="#facs_155_r28"/>Abs. 2 unverändert.</p>
+			<p>
+				<lb facs="#facs_155_r29"/>§ 27 Abs. 1 und 2 unverändert.<lb facs="#facs_155_r30"/>Endentscheide der Rekurskommissionen werden durch den Vorsit<lb break="no" facs="#facs_155_r31"/>zenden und den Sekretär unterzeichnet.</p>
+			<p>
+				<lb facs="#facs_155_r32"/>Verfügungen und Entscheide im Sinne von Abs. 2 und 3 sind
+              in<lb facs="#facs_155_r33"/>einem Exemplar eigenhändig zu unterzeichnen. Auf den
+            anderen Aus<lb break="no" facs="#facs_155_r34"/>fertigungen genügt eine mechanische oder
+            fototechnische Wiedergabe<lb facs="#facs_155_r35"/>der erforderlichen
+            Unterschriften.</p>
+			<pb n="844" facs="#facs_156"/>
+			<p>
+				<lb facs="#facs_156_r1"/>§ 28 Abs. 1 und 2 unverändert.<lb facs="#facs_156_r2"/>Wird die
+            Zustellung einer eingeschriebenen Sendung vom Adressa<lb break="no" facs="#facs_156_r3"/>ten schuldhaft verhindert, gilt sie als am letzten Tage der von der Post<lb facs="#facs_156_r4"/>angesetzten Abholungsfrist erfolgt.</p>
+			<p>
+				<lb facs="#facs_156_r5"/>Bisheriger Abs. 3 wird Abs. 4.</p>
+			<p>
+				<lb facs="#facs_156_r6"/>§ 30bis. In der Zeit vom <date when="--07-10">10. Juli</date>
+            bis und mit <date when="--08-20">20. August</date> sowie vom<lb facs="#facs_156_r11"/><date when="--12-20">20. Dezember</date> bis und mit <date when="--01-08">8.
+              Januar</date> stehen die im Steuergesetz genann<lb break="no" facs="#facs_156_r15"/>ten Rechtsmittelfristen mit Ausnahme der Revisionsfrist gemäss § 109<lb facs="#facs_156_r16"/>StG still.</p>
+			<p>
+				<lb facs="#facs_156_r17"/>§ 57 wird aufgehoben.</p>
+			<p>
+				<lb facs="#facs_156_r18"/>§ 58 Abs. 1 unverändert.<lb facs="#facs_156_r19"/>Ausnahmsweise kann sie zwecks Wahrung des gesetzlichen Instan<lb break="no" facs="#facs_156_r20"/>zenzugs die Sache zur Neubeurteilung an die Steuerkommission
+              oder<lb facs="#facs_156_r21"/>den Steuerkommissär zurückweisen, wenn zu Unrecht noch
+            kein mate<lb break="no" facs="#facs_156_r22"/>rieller Entscheid getroffen wurde oder
+            dieser an einem schwerwiegen<lb break="no" facs="#facs_156_r23"/>den Verfahrensmangel
+            leidet.</p>
+			<p>
+				<lb facs="#facs_156_r24"/>§ 90 wird aufgehoben.</p>
+			<p>
+				<lb facs="#facs_156_r25"/>§ 95. Die politischen Gemeinden tragen die Personal- und
+              Sachko<lb break="no" facs="#facs_156_r26"/>sten für die Tätigkeit der
+            Gemeindesteuerämter, der Inventarbehörden<lb facs="#facs_156_r27"/>und der
+            Steuerkommissionen, erhalten jedoch vom Kanton ab Steuer<lb break="no" facs="#facs_156_r28"/>jahr 1983:</p>
+			<p>
+				<lb facs="#facs_156_r29"/>a) einen Grundbeitrag von jährlich Fr. 22 .- für jede im
+              Staatssteuerre<lb break="no" facs="#facs_156_r30"/>gister der Gemeinde eingetragene
+            steuerpflichtige Person,</p>
+			<p>
+				<lb facs="#facs_156_r31"/>b) einen Sonderbeitrag von Fr. 10 .- für jede von der Gemeinde
+              mit<lb facs="#facs_156_r32"/>eigenem Personal bearbeitete Einschätzung zu den direkten
+              Steuern<lb facs="#facs_156_r33"/>(Staatssteuer, Bundessteuer, einschliesslich der
+            Prüfung des Antra<lb break="no" facs="#facs_156_r34"/>ges auf Rückerstattung der
+            Verrechnungssteuer),</p>
+			<p>
+				<lb facs="#facs_156_r35"/>c) einen Sonderbeitrag von Fr. 2 .- für jeden von der Gemeinde
+              ohne<lb facs="#facs_156_r36"/>Zusammenhang mit einer Haupteinschätzung für die
+              Staatssteuer<lb facs="#facs_156_r37"/>mit eigenem Personal bearbeiteten Antrag auf
+            Rückerstattung der<lb facs="#facs_156_r38"/>Verrechnungssteuer.</p>
+			<p>
+				<lb facs="#facs_156_r39"/>Abs. 2 unverändert.</p>
+			<p>
+				<lb facs="#facs_156_r40"/>II. Die geänderten Bestimmungen treten nach Genehmigung<lb facs="#facs_156_r41"/>durch den Kantonsrat am <date when="1983-01-01">1. Januar
+              1983</date> in Kraft.</p>
+			<p>
+				<lb facs="#facs_156_r44"/>III. Veröffentlichung in der Gesetzessammlung.</p>
+			<pb n="845" facs="#facs_157"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_157_r1"/>Weisung</head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_157_r2"/>I. Organisation der Steuerbehörden</head>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_157_r3"/>1. Die Steuerkommissionen<lb facs="#facs_157_r4"/>(§§ 2-4
+                  VV)</head>
+						<p>
+							<lb facs="#facs_157_r5"/>Die nicht mehr zeitgemässe Bezeichnung «Ersatzmann» wird
+                    ersetzt<lb facs="#facs_157_r6"/>durch «Ersatzmitglied».</p>
+						<p>
+							<lb facs="#facs_157_r7"/>2. Die Rekurskommissionen</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_157_r8"/>a) Allgemeines<lb facs="#facs_157_r9"/>(§§ 7 Abs. 1 und
+                  11 VV)</head>
+						<p>
+							<lb facs="#facs_157_r10"/>Die nicht mehr zeitgemässe Bezeichnung «Ersatzmann» wird
+                    ersetzt<lb facs="#facs_157_r11"/>durch «Ersatzmitglied».</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_157_r12"/>b) Die Geschäftsleitung bei den Rekurskommissionen<lb facs="#facs_157_r13"/>(§ 5 VV)</head>
+						<p>
+							<lb facs="#facs_157_r14"/>Wie vom Regierungsrat im Antrag vom <date when="1981-03-11">11. März 1981</date> zur Revision<lb facs="#facs_157_r17"/>des
+                  Steuergesetzes (Amtsblatt 1981 S. 881) ausgeführt worden ist, hat<lb facs="#facs_157_r18"/>die Schaffung vollamtlicher Präsidien bei den
+                  Rekurskommissionen im<lb facs="#facs_157_r19"/>Bereich der Justizverwaltung zu
+                  einer grösseren Unabhängigkeit<lb facs="#facs_157_r20"/>geführt: Die
+                  Rekurskommissionen unterstehen zwar nach wie vor der<lb facs="#facs_157_r21"/>Aufsicht der Finanzdirektion (§ 69 StG). Während aber früher die<lb facs="#facs_157_r22"/>Justizverwaltungsgeschäfte (Vorbereitung des
+                  Geschäftsberichtes, des<lb facs="#facs_157_r23"/>Voranschlages usw.) von der
+                  Personal- und Verwaltungsabteilung des<lb facs="#facs_157_r24"/>Steueramtes
+                  betreut wurden, ist dies heute Aufgabe eines vollamtlichen<lb facs="#facs_157_r25"/>Präsidenten, der zu diesem Zweck vom Regierungsrat für die Amts<lb break="no" facs="#facs_157_r26"/>dauer 1979/83 als Geschäftsleiter gewählt wurde (RRB Nr.
+                    2076/1979).<lb facs="#facs_157_r27"/>Da eine zweite vollamtliche
+                  Präsidentenstelle geschaffen worden ist,<lb facs="#facs_157_r28"/>sollten sich die
+                  beiden Präsidenten in Zukunft in der Geschäftsleitung<lb facs="#facs_157_r29"/>ablösen, wobei ein Turnus von zwei Jahren (entsprechend einer halben<lb facs="#facs_157_r30"/>Amtsdauer) als zweckmässig erscheint.</p>
+						<p>
+							<lb facs="#facs_157_r31"/>Damit wird eine klare Kompetenzabgrenzung zwischen den
+                    Präsi<lb break="no" facs="#facs_157_r32"/>denten geschaffen, vorab mit Bezug auf
+                  das Sekretariat, das den fünf<lb facs="#facs_157_r33"/>Rekurskommissionen
+                  gemeinsam dient, jedoch einer einheitlichen Füh<lb break="no" facs="#facs_157_r34"/>rung bedarf, ferner auch in bezug auf den dienstlichen Verkehr mit der</p>
+						<pb n="846" facs="#facs_158"/>
+						<p>
+							<lb facs="#facs_158_r1"/>als Aufsichtsbehörde wirkenden Finanzdirektion im Rahmen
+                  der Justiz<lb break="no" facs="#facs_158_r2"/>verwaltung. Die Regelung der
+                  Geschäftsleitung ist in der Vollziehungs<lb break="no" facs="#facs_158_r3"/>verordnung zu verankern, da diese auch die übrigen organisatorischen<lb facs="#facs_158_r4"/>Bestimmungen über die Rekurskommissionen enthält.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_158_r5"/>c) Die Beschlussfassung bei den Rekurskommissionen<lb facs="#facs_158_r6"/>(§ 7 VV)</head>
+						<p>
+							<lb facs="#facs_158_r7"/>§ 4 Abs. 2 VV sieht vor, dass die Steuerkommission
+                    Beschlüsse<lb facs="#facs_158_r8"/>ausnahmsweise auf dem Zirkulationsweg (d.h.
+                  ohne mündliche Bera<lb break="no" facs="#facs_158_r9"/>tung) fassen können. Unter
+                  Beschlüssen im Sinne dieser Bestimmung<lb facs="#facs_158_r10"/>sind auch
+                  materielle Entscheide gemeint. Für die Rekurskommissionen<lb facs="#facs_158_r11"/>fehlt eine entsprechende Bestimmung. Demgegenüber ist sowohl beim<lb facs="#facs_158_r12"/>Verwaltungsgericht wie auch in der Zivilrechtspflege die
+                    Möglichkeit<lb facs="#facs_158_r13"/>vorgesehen, bei Einstimmigkeit Zwischen-
+                  und Erledigungsbeschlüsse<lb facs="#facs_158_r14"/>(nicht dagegen materielle
+                  Entscheide) auf dem Zirkulationsweg zu<lb facs="#facs_158_r15"/>fassen. Für die
+                  Zivilrechtspflege ist dies in § 139 des Gerichtsverfas<lb break="no" facs="#facs_158_r16"/>sungsgesetzes vom <date when="1976-06-13">13. Juni
+                    1976</date> (GVG) vorgesehen, für das Verwal<lb break="no" facs="#facs_158_r19"/>tungsgericht in § 10 Abs. 2 der Verordnung über die Organisation und<lb facs="#facs_158_r20"/>den Geschäftsgang vom 14.
+                    September 1961/9. Juni 1978. Aus verfah<lb break="no" facs="#facs_158_r23"/>rensökonomischen Gründen drängt es sich auf, die
+                  Möglichkeit von<lb facs="#facs_158_r24"/>Zirkulationsbeschlüssen bei den
+                  Rekurskommissionen im gleichen Rah<lb break="no" facs="#facs_158_r25"/>men wie vor
+                  Verwaltungsgericht und in der Zivilrechtspflege einzu<lb break="no" facs="#facs_158_r26"/>führen.</p>
+					</div>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_158_r27"/>II. Verfahrensgrundsätze</head>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_158_r28"/>1. Allgemeine Bestimmungen<lb facs="#facs_158_r29"/>(§
+                  18 VV)</head>
+						<p>
+							<lb facs="#facs_158_r30"/>Gemäss § 18 VV haben Steuerpflichtige mit Wohnsitz oder
+                  Sitz im<lb facs="#facs_158_r31"/>Ausland eine natürliche oder juristische Person
+                  mit Wohnsitz oder Sitz<lb facs="#facs_158_r32"/>in der Schweiz zu bezeichnen, die
+                  zum Empfang aller Mitteilungen,<lb facs="#facs_158_r33"/>Verfügungen und
+                  Entscheide in Steuersachen ermächtigt ist. Die<lb facs="#facs_158_r34"/>Bezeichnung eines Zustellungsempfängers ist in solchen Fällen deshalb<lb facs="#facs_158_r35"/>erforderlich, weil amtliche Zustellungen per Post ins
+                  Ausland völker<lb break="no" facs="#facs_158_r36"/>rechtswidrig sind. Auf
+                  Steuerpflichtige, die dieser Vorschrift nicht nach<lb break="no" facs="#facs_158_r37"/>kommen, wird nach geltender Rechtslage und Praxis § 29 VV
+                    angewen<lb break="no" facs="#facs_158_r38"/>det, wonach eine nicht mögliche
+                  Zustellung durch öffentliche Bekannt<lb break="no" facs="#facs_158_r39"/>machung
+                  im Amtsblatt ersetzt werden kann.</p>
+						<pb n="847" facs="#facs_159"/>
+						<p>
+							<lb facs="#facs_159_r1"/>§ 30 der Zürcherischen Zivilprozessordnung vom <date when="1976-06-13">13. Juni 1976</date><lb facs="#facs_159_r3"/>(ZPO) sieht für
+                  die Zivilrechtspflege folgende Regelung vor: Eine<lb facs="#facs_159_r4"/>Partei,
+                  an die im Inland keine Zustellungen möglich sind, kann ver<lb break="no" facs="#facs_159_r5"/>pflichtet werden, in der Schweiz einen Zustellungsempfänger
+                    zu<lb facs="#facs_159_r6"/>bezeichnen. Wenn sie der gerichtlichen Aufforderung
+                  nicht nachkommt,<lb facs="#facs_159_r7"/>können die Zustellungen durch
+                  Veröffentlichung erfolgen oder mit der<lb facs="#facs_159_r8"/>gleichen Wirkung
+                  unterbleiben. Die zweite Sanktion ist vorgesehen<lb facs="#facs_159_r9"/>worden,
+                  weil die Veröffentlichung in den meisten Fällen ihren Zweck -<lb facs="#facs_159_r10"/>die tatsächliche Kenntnisnahme durch den Adressaten -
+                  nicht erreicht.</p>
+						<p>
+							<lb facs="#facs_159_r11"/>Es rechtfertigt sich, für das Steuereinschätzungs- und
+                  das Steuerju<lb break="no" facs="#facs_159_r12"/>stizverfahren eine analoge
+                  Regelung einzuführen. Diese soll sich aber -<lb facs="#facs_159_r13"/>ähnlich wie
+                  in der Zivilrechtspflege - auf jene Tatbestände beschränken,<lb facs="#facs_159_r14"/>wo die Zustellung nicht möglich ist, weil der
+                  Steuerpflichtige Wohnsitz<lb facs="#facs_159_r15"/>oder Sitz im Ausland hat und
+                  trotz Aufforderung keinen Zustellungsbe<lb break="no" facs="#facs_159_r16"/>vollmächtigten bezeichnet. Demgegenüber betrifft § 29 VV nicht nur<lb facs="#facs_159_r17"/>diese Fälle, sondern auch noch andere Tatbestände nicht
+                    möglicher<lb facs="#facs_159_r18"/>Zustellung. Die neue Regelung ist daher bei §
+                  18 VV und nicht bei § 29<lb facs="#facs_159_r19"/>VV einzuführen.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_159_r20"/>2. Beweismittel und Beweiserhebung<lb facs="#facs_159_r21"/>(§§ 21 und 22 VV)</head>
+						<p>
+							<lb facs="#facs_159_r22"/>Für die Zeugeneinvernahme und das
+                    Sachverständigengutachten<lb facs="#facs_159_r23"/>verweist die
+                  Vollziehungsverordnung in den §§ 21 und 22 auf Bestim<lb break="no" facs="#facs_159_r24"/>mungen der ZPO. Durch die Revision der ZPO vom <date when="1976-06-13">13. Juni 1976</date> sind<lb facs="#facs_159_r27"/>die
+                  bisherigen Verweisungen überholt und müssen der neuen Systematik<lb facs="#facs_159_r28"/>der ZPO angepasst werden.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_159_r29"/>3. Form und Zustellung der Verfügungen und
+                  Entscheide</head>
+						<p>
+							<lb facs="#facs_159_r30"/>a) Die Unterzeichnung von Verfügungen und Entscheiden
+                  der Rekurs<lb break="no" facs="#facs_159_r31"/>kommission<lb facs="#facs_159_r32"/>(§ 27 VV)</p>
+						<p>
+							<lb facs="#facs_159_r33"/>Gemäss geltendem § 27 Abs. 2 und 3 VV werden Verfügungen
+                    der<lb facs="#facs_159_r34"/>Steuerrekurskommissionen von einem Behördenmitglied
+                  oder vom<lb facs="#facs_159_r35"/>Sekretariat unterzeichnet. Entscheide werden
+                  durch den Vorsitzenden<lb facs="#facs_159_r36"/>und den Sekretär
+                  unterzeichnet.</p>
+						<p>
+							<lb facs="#facs_159_r37"/>Mit Postulat Nr. 1969 wurde der Regierungsrat
+                  eingeladen, zur<lb facs="#facs_159_r38"/>Entlastung des Vorsitzenden bzw. der
+                  Sekretäre der Rekurskommissio<lb break="no" facs="#facs_159_r39"/>nen die
+                  einschlägigen Bestimmungen in dem Sinne zu ändern, dass</p>
+						<pb n="848" facs="#facs_160"/>
+						<p>
+							<lb facs="#facs_160_r1"/>Verfügungen und Entscheide nur noch in einem Original von
+                    Hand<lb facs="#facs_160_r2"/>unterschrieben werden müssen und auf allen andern
+                  Exemplaren eine<lb facs="#facs_160_r3"/>beglaubigte mechanische Wiedergabe der
+                  Unterschriften genügt.<lb facs="#facs_160_r4"/>Gemäss Antrag des Regierungsrates
+                  vom <date when="1981-03-11">11. März 1981</date> zur Revision<lb facs="#facs_160_r7"/>des Steuergesetzes (Amtsblatt 1981 S. 883) ist dieses
+                  Begehren bei der<lb facs="#facs_160_r8"/>Revision der Vollziehungsverordnung zu
+                  berücksichtigen.</p>
+						<p>
+							<lb facs="#facs_160_r9"/>Die vorliegende Neufassung von § 27 VV lehnt sich
+                  inhaltlich an jene<lb facs="#facs_160_r10"/>an, die bei der Revision von § 156 des
+                  GVG vorgesehen ist. Auch dort<lb facs="#facs_160_r11"/>ist vorgesehen, vom
+                  Erfordernis einer Beglaubigung abzusehen und<lb facs="#facs_160_r12"/>nicht nur
+                  die mechanische, sondern auch die fototechnische Wiedergabe<lb facs="#facs_160_r13"/>als zulässig zu erklären.</p>
+						<p>
+							<lb facs="#facs_160_r14"/>In Abs. 3 ist zudem der Ausdruck «Entscheide» der
+                    Rekurskommis<lb break="no" facs="#facs_160_r15"/>sion durch «Endentscheide» zu
+                  ersetzen, was zur Folge hat, dass Zwi<lb break="no" facs="#facs_160_r16"/>schenentscheide der Rekurskommissionen der Regelung von Abs. 2<lb facs="#facs_160_r17"/>unterstehen.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_160_r18"/>b) Die Zustellung der Verfügungen und Entscheide<lb facs="#facs_160_r19"/>(§ 28 VV)</head>
+						<p>
+							<lb facs="#facs_160_r20"/>Gemäss § 28 VV gelten Verfügungen und Entscheide nur
+                  dann als<lb facs="#facs_160_r21"/>zugestellt, wenn sie dem Adressaten oder einem
+                  bestimmten Personen<lb break="no" facs="#facs_160_r22"/>kreis zuhanden des
+                  Adressaten ausgehändigt werden. Ist die Zustellung<lb facs="#facs_160_r23"/>unmöglich, so kann sie gemäss § 29 VV durch Veröffentlichung im<lb facs="#facs_160_r24"/>Amtsblatt ersetzt werden, was allerdings bei einer
+                  Vielzahl von Fällen<lb facs="#facs_160_r25"/>praktisch kaum mehr möglich ist. Die
+                  bisherigen Erfahrungen haben<lb facs="#facs_160_r26"/>gezeigt, das renitente
+                  Steuerpflichtige durch Annahmeverweigerung<lb facs="#facs_160_r27"/>eine
+                  Zustellung von Entscheiden und Verfügungen praktisch verunmög<lb break="no" facs="#facs_160_r28"/>lichen können.</p>
+						<p>
+							<lb facs="#facs_160_r29"/>Die bisherige bundesgerichtliche Rechtsprechung geht
+                  davon aus,<lb facs="#facs_160_r30"/>dass eine eingeschriebene Sendung, die innert
+                  Frist auf der Post nicht<lb facs="#facs_160_r31"/>abgeholt wird, mit dem letzten
+                  Tag der Abholfrist als zugestellt gilt. Die<lb facs="#facs_160_r32"/>Steuerrekurskommission hat diese Rechtsprechung für das zürcherische<lb facs="#facs_160_r33"/>Recht bisher nicht übernommen.</p>
+						<p>
+							<lb facs="#facs_160_r34"/>Aus Gründen der Rechtssicherheit und der Verbesserung
+                  des Veran<lb break="no" facs="#facs_160_r35"/>lagungsverfahrens ist eine Anpassung
+                  an die bundesgerichtliche Recht<lb break="no" facs="#facs_160_r36"/>sprechung und
+                  damit auch an das Recht der direkten Bundessteuer<lb facs="#facs_160_r37"/>sinnvoll. In § 28 VV wird ausdrücklich festgehalten, dass eingeschrie<lb break="no" facs="#facs_160_r38"/>bene Sendungen, deren Zustellung vom Adressaten
+                  schuldhaft verhin<lb break="no" facs="#facs_160_r39"/>dert wird, als am letzten
+                  Tage der Abholungsfrist zugestellt gelten.<lb facs="#facs_160_r40"/>Damit beginnt
+                  gegenüber dem die Zustellung schuldhaft verhindernden<lb facs="#facs_160_r41"/>Adressaten der Lauf der mit der Zustellung verbundenen Verwirkungs-</p>
+						<pb n="849" facs="#facs_161"/>
+						<p>
+							<lb facs="#facs_161_r1"/>fristen auch ohne Empfangnahme. Mit der Neuregelung ist
+                  keine Beein<lb break="no" facs="#facs_161_r2"/>trächtigung der Rechtsstellung des
+                  Steuerpflichtigen verbunden, da nur<lb facs="#facs_161_r3"/>die fiktive Zustellung
+                  Platz greift, soweit er die Zustellung schuldhaft<lb facs="#facs_161_r4"/>verhindert hat.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_161_r5"/>4. Fristen<lb facs="#facs_161_r6"/>(§ 30bis VV)</head>
+						<p>
+							<lb facs="#facs_161_r7"/>Verschiedentlich hat sich gezeigt, dass das Fehlen eines
+                    Fristenstill<lb break="no" facs="#facs_161_r8"/>standes über die Sommerferien
+                  sowie die Weihnachts- und Neujahrstage<lb facs="#facs_161_r9"/>insbesondere für
+                  berufsmässige Steuervertreter Nachteile mit sich<lb facs="#facs_161_r10"/>bringt.
+                  Eine Rücksichtnahme auf die Gerichtsferien gemäss § 140 GVG<lb facs="#facs_161_r11"/>erweist sich für die Rechtsmittelfristen, die als
+                  gesetzliche Fristen nicht<lb facs="#facs_161_r12"/>erstreckbar sind, als sinnvoll.
+                  In einem neuen § 30this VV wird der<lb facs="#facs_161_r13"/>Stillstand der im
+                  Steuergesetz genannten Rechtsmittelfristen vorge<lb break="no" facs="#facs_161_r14"/>schrieben. Der Fristenstillstand gilt nicht für die
+                  Revisionsfrist (§ 109<lb facs="#facs_161_r15"/>StG).</p>
+					</div>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_161_r16"/>III. Das Verfahren vor der Rekurskommission</head>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_161_r17"/>1. Die mündliche Schlussverhandlung<lb facs="#facs_161_r18"/>(§ 57 VV)</head>
+						<p>
+							<lb facs="#facs_161_r19"/>Der Anspruch auf eine mündliche Schlussverhandlung vor
+                    Rekurs<lb break="no" facs="#facs_161_r20"/>kommission (§ 93 Abs. 3 StG) ist mit
+                  der Änderung des Steuergesetzes<lb facs="#facs_161_r21"/>vom <date when="1982-06-06">6. Juni 1982</date> abgeschafft worden. Der bisherige § 57 VV
+                  ist daher zu<lb facs="#facs_161_r24"/>streichen.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_161_r25"/>2. Der Entscheid der Rekurskommission<lb facs="#facs_161_r26"/>(§ 58 VV)</head>
+						<p>
+							<lb facs="#facs_161_r27"/>Der Steuerrekurs ist grundsätzlich ein reformatorisches
+                    Rechtsmit<lb break="no" facs="#facs_161_r28"/>tel. Dementsprechend bestimmt § 58
+                  VV, dass die Rekurskommission<lb facs="#facs_161_r29"/>Reineinkommen und
+                  Reinvermögen oder Ertrag und Kapital des Steu<lb break="no" facs="#facs_161_r30"/>erpflichtigen nach den Ergebnissen ihrer eigenen Erhebungen festsetzt.<lb facs="#facs_161_r31"/>Diese Bestimmung soll grundsätzlich beibehalten werden.
+                  Sie bedarf<lb facs="#facs_161_r32"/>aber insofern einer Anpassung an die
+                  Rechtsprechung, als es Fälle gibt,<lb facs="#facs_161_r33"/>in denen nach der
+                  Praxis des Bundesgerichts und des Verwaltungsge<lb break="no" facs="#facs_161_r34"/>richts eine Rückweisung an die Steuerkommission oder den Steuerkom<lb break="no" facs="#facs_161_r35"/>misssär zwecks Wahrung des gesetzlichen Instanzenzuges
+                  zulässig und<lb facs="#facs_161_r36"/>geboten ist. Diese Fälle lassen sich in zwei
+                  Hauptgruppen zusammenfas-</p>
+						<pb n="850" facs="#facs_162"/>
+						<p>
+							<lb facs="#facs_162_r1"/>sen: Eine Rückweisung ist zulässig, wenn Steuerkommissär
+                  und Steuer<lb break="no" facs="#facs_162_r2"/>kommission zu Unrecht noch keinen
+                  materiellen Entscheid getroffen<lb facs="#facs_162_r3"/>haben (z. B. bei
+                  Verweigerung einer Zwischentaxation, über deren<lb facs="#facs_162_r4"/>Umfang bei
+                  Gewährung noch weitere Erhebungen zu treffen sind, oder<lb facs="#facs_162_r5"/>durch Nichteintreten auf eine Einsprache oder eine Steuererklärung).<lb facs="#facs_162_r6"/>Eine Rückweisung ist auch dann geboten, wenn der Entscheid
+                    der<lb facs="#facs_162_r7"/>Vorinstanzen an einem schwerwiegenden
+                  Verfahrensmangel leidet<lb facs="#facs_162_r8"/>(z. B. fehlende Begründung,
+                  fehlende Zuständigkeit, mangelhafte Be<lb break="no" facs="#facs_162_r9"/>setzung).</p>
+					</div>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_162_r10"/>IV. Die Liegenschaftensteuer<lb facs="#facs_162_r11"/>(§
+                90 VV)</head>
+					<p>
+						<lb facs="#facs_162_r12"/>Mit Gesetzesnovelle vom <date when="1982-06-06">6. Juni
+                  1982</date> wurde die Liegenschaften<lb break="no" facs="#facs_162_r15"/>steuer
+                abgeschafft. Damit ist der bisherige § 90 VV, der den Gemeinden<lb facs="#facs_162_r16"/>die Kompetenz zur Regelung der Fälligkeit der
+                  Liegenschaftensteuer<lb facs="#facs_162_r17"/>zuweist, gegenstandslos geworden und
+                wird gestrichen.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_162_r18"/>V. Kostentragung durch Staat und Gemeinden<lb facs="#facs_162_r19"/>(§ 95 VV)</head>
+					<p>
+						<lb facs="#facs_162_r20"/>Den politischen Gemeinden steht nach § 197 StG für die
+                  Erhebung<lb facs="#facs_162_r21"/>der Staatssteuer und die Inventaraufnahme eine
+                durch die Vollziehungs<lb break="no" facs="#facs_162_r22"/>verordnung festzusetzende
+                Entschädigung zu. Seit dem Jahre <date when="1975">1975</date> wird<lb facs="#facs_162_r25"/>ihnen vergütet:</p>
+					<p>
+						<lb facs="#facs_162_r26"/>a) ein Grundbeitrag von jährlich Fr. 16 .- für jede
+                registrierte staats<lb break="no" facs="#facs_162_r27"/>steuerpflichtige Person,</p>
+					<p>
+						<lb facs="#facs_162_r28"/>b) ein Sonderbeitrag von Fr. 6 .- für jede von der
+                Gemeinde mit<lb facs="#facs_162_r29"/>eigenem Personal vorbereitete Einschätzung zu
+                den direkten<lb facs="#facs_162_r30"/>Steuern,</p>
+					<p>
+						<lb facs="#facs_162_r31"/>c) ein Sonderbeitrag von Fr. 1 .- für jeden von der
+                Gemeinde ohne<lb facs="#facs_162_r32"/>Zusammenhang mit einer Haupteinschätzung mit
+                eigenem Personal<lb facs="#facs_162_r33"/>geprüften Antrag auf Rückerstattung der
+                Verrechnungssteuer.</p>
+					<p>
+						<lb facs="#facs_162_r34"/>Auf das Jahr <date when="1983">1983</date> ist eine
+                Erhöhung der Leistungen des Kantons an<lb facs="#facs_162_r37"/>die Gemeinden
+                notwendig, da sich seit der letzten Neuregelung die<lb facs="#facs_162_r38"/>Aufwendungen der Gemeinden für ihre Mitwirkung infolge der Teue<lb break="no" facs="#facs_162_r39"/>rung wesentlich erhöhten.</p>
+					<p>
+						<lb facs="#facs_162_r40"/>Durch eine Erhöhung der Grundbeiträge von Fr. 16 .- auf
+                Fr. 22 .-<lb facs="#facs_162_r41"/>sowie der Sonderbeiträge für die Bearbeitung von
+                Einschätzungen von<lb facs="#facs_162_r42"/>Fr. 6 .- auf Fr. 10 .- und für die
+                Bearbeitung der Verrechnungsanträge</p>
+					<pb n="851" facs="#facs_163"/>
+					<p>
+						<lb facs="#facs_163_r1"/>von Fr. 1 .- auf Fr. 2 .- können die Anstrengungen der
+                  Gemeinden<lb facs="#facs_163_r2"/>angemessen honoriert werden.</p>
+					<p>
+						<lb facs="#facs_163_r3"/>Der Regierungsrat beantragt dem Kantonsrat, die Änderung
+                  der<lb facs="#facs_163_r4"/>Vollziehungsverordnung zum Steuergesetz zu
+                genehmigen.</p>
+					<p>
+						<lb facs="#facs_163_r5"/>Zürich, den <date when="1982-06-23">23. Juni
+                1982</date></p>
+					<p>
+						<lb facs="#facs_163_r7"/>Im Namen des Regierungsrates</p>
+					<p>
+						<lb facs="#facs_163_r8"/>Der Staatsschreiber i. V .:<lb facs="#facs_163_r9"/>Hirschi</p>
+					<p>
+						<lb facs="#facs_163_r10"/>Der Präsident: Gilgen</p>
+				</div>
+			</div>
+		</body></text></TEI>

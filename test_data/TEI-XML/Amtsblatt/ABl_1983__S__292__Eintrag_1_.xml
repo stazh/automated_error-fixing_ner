@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>205. Sitzung. Montag, 6. Dezember 1982, 14.30 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1983-03-08">08.03.1983</date><ident>StAZH ABl 1983 (S. 292, Eintrag 1)</ident><idno>292</idno><idno type="issue">10</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132984"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_293" uly="0" ulx="0" lry="2392" lrx="1603">
+			<graphic url="Abl_1983_1__S__0293.tif" width="1603px" height="2392px"/>
+			<zone xml:id="facs_293_r25" ulx="460" uly="1208" lrx="831" lry="1239" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r5" ulx="306" uly="312" lrx="1490" lry="341" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r33" ulx="525" uly="1429" lrx="1123" lry="1461" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r6" ulx="310" uly="356" lrx="1490" lry="387" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r31" ulx="314" uly="1387" lrx="1477" lry="1417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r18" ulx="312" uly="804" lrx="1490" lry="835" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r32" ulx="308" uly="1431" lrx="519" lry="1459" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r0" ulx="310" uly="147" lrx="366" lry="168" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r15" ulx="310" uly="708" lrx="1131" lry="737" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r30" ulx="1225" uly="1343" lrx="1490" lry="1371" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r43" ulx="312" uly="1960" lrx="1496" lry="1991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r24" ulx="310" uly="1050" lrx="695" lry="1078" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r28" ulx="306" uly="1300" lrx="1490" lry="1358" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r37" ulx="310" uly="1679" lrx="573" lry="1707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r42" ulx="310" uly="1919" lrx="1492" lry="1948" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r2" ulx="940" uly="225" lrx="1226" lry="252" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r40" ulx="310" uly="1831" lrx="1492" lry="1859" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r44" ulx="316" uly="2010" lrx="410" lry="2033" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r35" ulx="842" uly="1591" lrx="1177" lry="1621" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r21" ulx="306" uly="960" lrx="1475" lry="991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r9" ulx="306" uly="502" lrx="1028" lry="530" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r12" ulx="309" uly="598" lrx="387" lry="624" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r34" ulx="460" uly="1589" lrx="833" lry="1620" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r26" ulx="840" uly="1210" lrx="1162" lry="1239" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r19" ulx="308" uly="852" lrx="1488" lry="880" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r36" ulx="1187" uly="1591" lrx="1347" lry="1619" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r10" ulx="312" uly="552" lrx="1256" lry="581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r41" ulx="314" uly="1875" lrx="1490" lry="1904" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r29" ulx="1002" uly="1343" lrx="1219" lry="1371" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r23" ulx="612" uly="1006" lrx="1490" lry="1037" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r27" ulx="1167" uly="1210" lrx="1341" lry="1237" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r4" ulx="310" uly="268" lrx="1490" lry="298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r3" ulx="1234" uly="225" lrx="1488" lry="251" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r13" ulx="400" uly="595" lrx="1490" lry="626" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r14" ulx="308" uly="643" lrx="1269" lry="671" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r8" ulx="308" uly="447" lrx="748" lry="474" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r17" ulx="306" uly="752" lrx="1151" lry="781" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r39" ulx="314" uly="1783" lrx="1494" lry="1814" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r11" ulx="1271" uly="556" lrx="1490" lry="581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r16" ulx="1163" uly="710" lrx="1490" lry="737" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r7" ulx="306" uly="402" lrx="1488" lry="431" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r1" ulx="312" uly="225" lrx="919" lry="252" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r38" ulx="314" uly="1733" lrx="780" lry="1762" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r20" ulx="310" uly="895" lrx="402" lry="921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_293_r22" ulx="312" uly="1004" lrx="605" lry="1033" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="292" facs="#facs_293"/>
+			<p>
+				<lb facs="#facs_293_r28"/>6. Gesetz betreffend die Elektrizitätswerke des Kantons Zürich (EKZ-Gesetz) (Antrag des Regierungsrates vom <date when="1981-07-15">15. Juli 1981,</date> Amtsblatt 1981,<lb facs="#facs_293_r31"/>Textteil, Seite 1375, und abgeänderter Antrag der Kommission vom<lb facs="#facs_293_r32"/><date when="1982-07-02">2. Juli 1982,</date> Amtsblatt 1982, Textteil, Seite 925)</p>
+		</body></text></TEI>

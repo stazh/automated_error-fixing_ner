@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Beschluss des Regierungsrates über die
+          Ergebnisse der eidgenössischen Volksabstimmung vom 6. Juni 1982 (vom 9. Juni 1982)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-06-11">11.06.1982</date><ident>StAZH ABl 1982 (S. 697)</ident><idno>697</idno><idno type="issue">25</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132702"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_9" uly="0" ulx="0" lry="2400" lrx="1590">
+			<graphic url="Abl_1982_2__S__0009.tif" width="1590px" height="2400px"/>
+			<zone xml:id="facs_9_r32" ulx="106" uly="1479" lrx="1060" lry="1508" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r17" ulx="479" uly="750" lrx="746" lry="778" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r7" ulx="206" uly="329" lrx="454" lry="362" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r3" ulx="1219" uly="131" lrx="1277" lry="153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r29" ulx="106" uly="1308" lrx="1281" lry="1338" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r0" ulx="108" uly="2225" lrx="383" lry="2249" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r19" ulx="164" uly="795" lrx="702" lry="824" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r13" ulx="110" uly="702" lrx="270" lry="729" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r8" ulx="112" uly="406" lrx="185" lry="435" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r5" ulx="106" uly="272" lrx="1283" lry="308" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r14" ulx="291" uly="699" lrx="493" lry="727" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r40" ulx="874" uly="1879" lrx="996" lry="1902" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r11" ulx="106" uly="606" lrx="1287" lry="636" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r33" ulx="163" uly="1558" lrx="921" lry="1588" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r24" ulx="106" uly="1097" lrx="305" lry="1124" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r28" ulx="106" uly="1264" lrx="1274" lry="1294" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r10" ulx="110" uly="529" lrx="420" lry="556" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r25" ulx="314" uly="1097" lrx="1277" lry="1125" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r38" ulx="586" uly="1879" lrx="699" lry="1905" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r1" ulx="389" uly="2222" lrx="609" lry="2249" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r23" ulx="195" uly="1052" lrx="1271" lry="1082" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r6" ulx="108" uly="331" lrx="181" lry="362" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r26" ulx="103" uly="1141" lrx="186" lry="1166" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r31" ulx="164" uly="1433" lrx="1281" lry="1463" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r18" ulx="754" uly="750" lrx="1285" lry="778" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r37" ulx="587" uly="1833" lrx="843" lry="1860" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r39" ulx="871" uly="1835" lrx="1283" lry="1861" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r22" ulx="107" uly="929" lrx="287" lry="954" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r16" ulx="104" uly="747" lrx="464" lry="776" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r35" ulx="310" uly="1691" lrx="512" lry="1719" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r27" ulx="179" uly="1220" lrx="1285" lry="1249" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r30" ulx="104" uly="1358" lrx="558" lry="1384" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r15" ulx="502" uly="699" lrx="585" lry="726" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r12" ulx="107" uly="650" lrx="1283" lry="681" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r36" ulx="587" uly="1779" lrx="1116" lry="1809" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r4" ulx="108" uly="218" lrx="733" lry="253" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r21" ulx="598" uly="847" lrx="829" lry="876" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r2" ulx="1256" uly="2222" lrx="1289" lry="2243" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r9" ulx="202" uly="406" lrx="414" lry="435" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r20" ulx="112" uly="847" lrx="579" lry="878" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_9_r34" ulx="104" uly="1693" lrx="302" lry="1719" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="697" facs="#facs_9"/>
+			<p>
+				<lb facs="#facs_9_r10"/>Der Regierungsrat,</p>
+			<p>
+				<lb facs="#facs_9_r11"/>nach Einsichtnahme in einen Antrag der Direktion des Innern und in
+            die<lb facs="#facs_9_r12"/>Zusammenstellung der Ergebnisse der eidgenössischen
+            Volksabstimm<lb facs="#facs_9_r13"/>mung vom <date when="1982-06-06">6. Juni 1982</date>
+          über</p>
+			<p>
+				<lb facs="#facs_9_r16"/>- die Änderung vom <date when="1981-10-09">9. Oktober 1981</date>
+          des Schweizerischen Strafgesetz<lb break="no" facs="#facs_9_r19"/>buches
+          (Gewaltverbrechen) und</p>
+			<p>
+				<lb facs="#facs_9_r20"/>- das Ausländergesetz vom <date when="1981-06-19">19. Juni
+            1981,</date></p>
+			<p>
+				<lb facs="#facs_9_r22"/>beschliesst:</p>
+			<p>
+				<lb facs="#facs_9_r23"/>I. Die Ergebnisse der eidgenössischen Volksabstimmung vom<lb facs="#facs_9_r24"/><date when="1982-06-06">6. Juni 1982</date> werden gemeindeweise im
+          Amtsblatt, Textteil, veröffent<lb break="no" facs="#facs_9_r26"/>licht.</p>
+			<p>
+				<lb facs="#facs_9_r27"/>II. Binnen einer Frist von drei Tagen, den Herausgabetag der<lb facs="#facs_9_r28"/>vorliegenden Nummer des Amtsblattes nicht mitgerechnet, kann beim<lb facs="#facs_9_r29"/>Regierungsrat betreffend diese Volksabstimmung schriftlich Be<lb break="no" facs="#facs_9_r30"/>schwerde erhoben werden.</p>
+			<p>
+				<lb facs="#facs_9_r31"/>III. Die Abstimmungsprotokolle werden innert zehn Tagen nach<lb facs="#facs_9_r32"/>Ablauf der Beschwerdefrist der Bundeskanzlei zugestellt.</p>
+			<p>
+				<lb facs="#facs_9_r33"/>IV. Mitteilung an die Direktion des Innern.</p>
+			<p>
+				<lb facs="#facs_9_r34"/>Zürich, den <date when="1982-06-09">9. Juni 1982</date></p>
+			<p>
+				<lb facs="#facs_9_r36"/>Im Namen des Regierungsrates</p>
+			<p>
+				<lb facs="#facs_9_r37"/>Der Präsident:<lb facs="#facs_9_r38"/>Gilgen</p>
+			<p>
+				<lb facs="#facs_9_r39"/>Der Staatsschreiber i. V .:<lb facs="#facs_9_r40"/>Hirschi</p>
+		</body></text></TEI>

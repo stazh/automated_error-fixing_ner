@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-04-08">08.04.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Beschluss des Kantonsrates über die
+          Erwahrung der Ergebnisse der kantonalen Volksabtimmung vom 5. April 1981 (vom 11. Mai 1981)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-05-22">22.05.1981</date><ident>StAZH ABl 1981 (S. 1002)</ident><idno>1002</idno><idno type="issue">26</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132313"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_14" uly="0" ulx="0" lry="2372" lrx="1583">
+			<graphic url="Abl_1981_2__S__0014.tif" width="1583px" height="2372px"/>
+			<zone xml:id="facs_14_r13" ulx="523" uly="700" lrx="1457" lry="729" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r20" ulx="287" uly="1127" lrx="1462" lry="1156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r30" ulx="350" uly="1642" lrx="990" lry="1673" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r34" ulx="773" uly="1921" lrx="1017" lry="1945" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r18" ulx="288" uly="1037" lrx="1462" lry="1070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r24" ulx="367" uly="1340" lrx="1464" lry="1369" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r2" ulx="288" uly="273" lrx="1297" lry="312" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r35" ulx="773" uly="1963" lrx="999" lry="1988" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r7" ulx="287" uly="533" lrx="554" lry="558" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r19" ulx="291" uly="1079" lrx="1462" lry="1113" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r32" ulx="496" uly="1777" lrx="713" lry="1804" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r16" ulx="373" uly="950" lrx="1459" lry="978" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r1" ulx="289" uly="225" lrx="848" lry="257" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r9" ulx="821" uly="612" lrx="1063" lry="642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r31" ulx="287" uly="1775" lrx="483" lry="1803" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r6" ulx="381" uly="408" lrx="617" lry="439" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r17" ulx="291" uly="992" lrx="1460" lry="1024" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r8" ulx="287" uly="610" lrx="796" lry="639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r0" ulx="284" uly="145" lrx="356" lry="166" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r10" ulx="1069" uly="612" lrx="1457" lry="642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r14" ulx="289" uly="744" lrx="1052" lry="774" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r26" ulx="287" uly="1429" lrx="1460" lry="1459" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r21" ulx="290" uly="1173" lrx="1462" lry="1201" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r11" ulx="289" uly="654" lrx="1449" lry="685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r25" ulx="289" uly="1388" lrx="1460" lry="1416" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r33" ulx="771" uly="1867" lrx="1243" lry="1894" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r28" ulx="289" uly="1515" lrx="1462" lry="1545" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r37" ulx="1236" uly="1965" lrx="1396" lry="1989" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r27" ulx="286" uly="1473" lrx="1464" lry="1504" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r4" ulx="746" uly="331" lrx="1020" lry="366" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r3" ulx="289" uly="327" lrx="721" lry="364" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r22" ulx="289" uly="1215" lrx="1460" lry="1245" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r15" ulx="287" uly="827" lrx="471" lry="852" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r29" ulx="287" uly="1561" lrx="1205" lry="1591" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r23" ulx="289" uly="1263" lrx="646" lry="1290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r12" ulx="289" uly="704" lrx="515" lry="730" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r36" ulx="1234" uly="1921" lrx="1463" lry="1945" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_14_r5" ulx="289" uly="410" lrx="362" lry="439" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1002" facs="#facs_14"/>
+			<p>
+				<lb facs="#facs_14_r7"/>Der Kantonsrat,</p>
+			<p>
+				<lb facs="#facs_14_r8"/>nach Einsichtnahme in den am <date when="1981-04-14">14. April
+            1981</date> im Amtsblatt, Textteil,<lb facs="#facs_14_r11"/>Seite 589 ff.
+          veröffentlichten Beschluss des Büros des Kantonsrates vom<lb facs="#facs_14_r12"/><date when="1981-04-05">5. April 1981,</date> und nach Vormerknahme, dass innerhalb der
+            angesetzten<lb facs="#facs_14_r14"/>Frist keine Einsprache eingereicht worden ist,</p>
+			<p>
+				<lb facs="#facs_14_r15"/>beschliesst:</p>
+			<p>
+				<lb facs="#facs_14_r16"/>I. Die Referendumsvorlagen «Gesetz über die Organisation und<lb facs="#facs_14_r17"/>die Geschäftsordnung des Kantonsrates (Kantonsratsgesetz)»,
+            «Gesetz<lb facs="#facs_14_r18"/>über die Aufhebung und Bereinigung von Gesetzen für die
+            Zürcher<lb facs="#facs_14_r19"/>Gesetzessammlung 1981 (Bereinigungsgesetz)» und
+          «Beschluss des Kan<lb break="no" facs="#facs_14_r20"/>tonsrates über die Bewilligung eines
+          Rahmenkredites für die Sanierung<lb facs="#facs_14_r21"/>von Strassenkreuzungen mit der
+          SBB-Strecke Wallisellen-Uster (Teil<lb break="no" facs="#facs_14_r22"/>strecke Wallisellen
+          bis und mit Werrikon)» werden als vom Volke<lb facs="#facs_14_r23"/>angenommen
+          erklärt.</p>
+			<p>
+				<lb facs="#facs_14_r24"/>II. Von der Verwerfung der Referendumsvorlagen «Volksinitia<lb break="no" facs="#facs_14_r25"/>tive zur Entlastung des Stimmbürgers von unbestrittenen
+            Abstimmungs<lb break="no" facs="#facs_14_r26"/>vorlagen (Erweiterung des fakultativen
+          Referendums)», «Volksinitia<lb break="no" facs="#facs_14_r27"/>tive für Änderung der
+          Strafprozessordnung (Verteidigung bei Gewalt<lb break="no" facs="#facs_14_r28"/>verbrechen)» und «Volksinitiative Demokratie auch bei der Oberland<lb break="no" facs="#facs_14_r29"/>autobahn (Teilstück Uster)» wird Kenntnis genommen.</p>
+			<p>
+				<lb facs="#facs_14_r30"/>III. Mitteilung an den Regierungsrat.</p>
+			<p>
+				<lb facs="#facs_14_r31"/>Zürich, den <date when="1981-05-11">11. Mai 1981</date></p>
+			<p>
+				<lb facs="#facs_14_r33"/>Im Namen des Kantonsrates</p>
+			<p>
+				<lb facs="#facs_14_r34"/>Der Präsident:<lb facs="#facs_14_r35"/>E. Rüfenacht</p>
+			<p>
+				<lb facs="#facs_14_r36"/>Der Sekretär:<lb facs="#facs_14_r37"/>E. Szabel</p>
+		</body></text></TEI>

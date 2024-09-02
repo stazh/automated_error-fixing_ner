@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-18">18.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Beschluss des Regierungsrates über die Ausrichtung einer Teuerungszulage an das Staatspersonal für 1981 (vom 10. Dezember 1980)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-12-30">30.12.1980</date><ident>StAZH ABl 1980 (S. 1457)</ident><idno>1457</idno><idno type="issue">96</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132100"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_721" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0721.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_721_r11" ulx="191" uly="777" lrx="775" lry="812" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r43" ulx="681" uly="2262" lrx="947" lry="2290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r4" ulx="118" uly="262" lrx="802" lry="298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r34" ulx="1347" uly="1779" lrx="1418" lry="1808" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r36" ulx="629" uly="1833" lrx="955" lry="1867" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r17" ulx="131" uly="977" lrx="1418" lry="1016" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r15" ulx="129" uly="874" lrx="960" lry="910" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r26" ulx="135" uly="1454" lrx="1427" lry="1493" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r8" ulx="227" uly="460" lrx="597" lry="495" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r41" ulx="376" uly="2106" lrx="727" lry="2139" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r20" ulx="193" uly="1131" lrx="1420" lry="1169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r14" ulx="122" uly="818" lrx="1411" lry="858" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r19" ulx="131" uly="1087" lrx="553" lry="1116" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r13" ulx="1053" uly="768" lrx="1402" lry="802" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r42" ulx="681" uly="2202" lrx="1252" lry="2233" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r27" ulx="135" uly="1508" lrx="1150" lry="1544" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r3" ulx="1327" uly="160" lrx="1410" lry="185" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r44" ulx="680" uly="2310" lrx="797" lry="2337" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r32" ulx="138" uly="1785" lrx="981" lry="1821" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r30" ulx="136" uly="1670" lrx="714" lry="1704" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r7" ulx="125" uly="470" lrx="206" lry="501" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r23" ulx="197" uly="1308" lrx="1422" lry="1344" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r29" ulx="139" uly="1608" lrx="1426" lry="1647" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r31" ulx="200" uly="1729" lrx="1430" lry="1771" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r22" ulx="131" uly="1243" lrx="454" lry="1271" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r21" ulx="129" uly="1179" lrx="1417" lry="1218" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r39" ulx="143" uly="1958" lrx="1369" lry="1997" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r38" ulx="145" uly="1887" lrx="888" lry="1921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r25" ulx="135" uly="1402" lrx="1426" lry="1441" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r10" ulx="125" uly="683" lrx="656" lry="717" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r37" ulx="962" uly="1827" lrx="1427" lry="1860" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r6" ulx="125" uly="377" lrx="643" lry="417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r45" ulx="1060" uly="2254" lrx="1429" lry="2283" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r40" ulx="147" uly="2112" lrx="362" lry="2144" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r9" ulx="125" uly="602" lrx="853" lry="639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r2" ulx="1410" uly="2456" lrx="1450" lry="2478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r18" ulx="131" uly="1024" lrx="1417" lry="1065" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r16" ulx="189" uly="925" lrx="1416" lry="967" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r35" ulx="145" uly="1837" lrx="606" lry="1872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r1" ulx="460" uly="2466" lrx="803" lry="2494" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r5" ulx="118" uly="308" lrx="1235" lry="354" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r12" ulx="783" uly="774" lrx="1043" lry="807" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r28" ulx="197" uly="1558" lrx="1428" lry="1599" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r0" ulx="152" uly="2470" lrx="452" lry="2498" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r33" ulx="1004" uly="1781" lrx="1339" lry="1813" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r24" ulx="133" uly="1354" lrx="1424" lry="1393" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_721_r46" ulx="1064" uly="2306" lrx="1260" lry="2334" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1457" facs="#facs_721"/>
+			<p>
+				<lb facs="#facs_721_r9"/>Auf Antrag der Direktion der Finanzen</p>
+			<p>
+				<lb facs="#facs_721_r10"/>beschliesst der Regierungsrat:</p>
+			<p>
+				<lb facs="#facs_721_r11"/>I. Dem Staatspersonal wird ab <date when="1981-01-01">1. Januar 1981</date> entsprechend einem<lb facs="#facs_721_r14"/>mutmasslichen Dezemberstand des Zürcher Indexes von 111,7 Punkten<lb facs="#facs_721_r15"/>eine Teuerungszulage von 4,5% ausgerichtet.</p>
+			<p>
+				<lb facs="#facs_721_r16"/>Die Zulage ist in die ab diesem Zeitpunkt um die 13. Monatsbesol<lb break="no" facs="#facs_721_r17"/>dung zu erhöhenden verordnungsgemässen Bezüge an Grundbesoldung<lb facs="#facs_721_r18"/>und Zulagen mit Besoldungscharakter und in die erhöhte versicherte<lb facs="#facs_721_r19"/>Besoldung einzubauen.</p>
+			<p>
+				<lb facs="#facs_721_r20"/>Die Mindestbeträge der neuen Bezüge und die Jahresstufen gemäss<lb facs="#facs_721_r21"/>§ 44 der Beamtenverordnung sind beim Einbau auf den nächsten Fran<lb break="no" facs="#facs_721_r22"/>ken aufzurunden.</p>
+			<p>
+				<lb facs="#facs_721_r23"/>II. Die Finanzdirektion wird eingeladen, die neuen Bezüge an<lb facs="#facs_721_r24"/>Grundbesoldung und Zulagen mit Besoldungscharakter festzulegen und<lb facs="#facs_721_r25"/>im Einvernehmen mit den Direktionen des Regierungsrates die Ansätze<lb facs="#facs_721_r26"/>in den für die verschiedenen Dienstverhältnisse des Staatspersonals<lb facs="#facs_721_r27"/>geltenden Verordnungen und Reglementen anzupassen.</p>
+			<p>
+				<lb facs="#facs_721_r28"/>Die Finanzdirektion wird ferner eingeladen, die neuen Mindest- und<lb facs="#facs_721_r29"/>Höchstbesoldungsbeträge der wichtigsten Personalverordnungen und<lb facs="#facs_721_r30"/>-reglemente zu veröffentlichen.</p>
+			<p>
+				<lb facs="#facs_721_r31"/>III. Im übrigen richtet sich der Vollzug nach den §§ 1, 4, 5 lit. b-g<lb facs="#facs_721_r32"/>und 6-9 der Vollziehungsbestimmungen II vom <date when="1975-12-17">17. Dezember 1975</date> zum<lb facs="#facs_721_r35"/>Kantonsratsbeschluss vom <date when="1975-12-01">1. Dezember 1975</date> über die Ausrichtung von<lb facs="#facs_721_r38"/>Teuerungszulagen an das Staatspersonal.</p>
+			<p>
+				<lb facs="#facs_721_r39"/>IV. Veröffentlichung im Amtsblatt und in der Gesetzessammlung.</p>
+			<p>
+				<lb facs="#facs_721_r40"/>Zürich, den <date when="1980-12-10">10. Dezember 1980</date></p>
+			<p>
+				<lb facs="#facs_721_r42"/>Im Namen des Regierungsrates</p>
+			<p>
+				<lb facs="#facs_721_r43"/>Der Präsident:<lb facs="#facs_721_r44"/>Stucki</p>
+			<p>
+				<lb facs="#facs_721_r45"/>Der Staatsschreiber:<lb facs="#facs_721_r46"/>Roggwiller</p>
+		</body></text></TEI>

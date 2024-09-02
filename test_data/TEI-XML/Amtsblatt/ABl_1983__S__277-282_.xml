@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Schutz der Naturschutzgebiete von überkommunaler Bedeutung in Dättlikon (vom 27. Januar 1983)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1983-03-08">08.03.1983</date><ident>StAZH ABl 1983 (S. 277-282)</ident><idno>277–282</idno><idno type="issue">10</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132979"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_278" uly="0" ulx="0" lry="2392" lrx="1596">
+			<graphic url="Abl_1983_1__S__0278.tif" width="1596px" height="2392px"/>
+			<zone xml:id="facs_278_r20" ulx="147" uly="1133" lrx="172" lry="1161" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r46" ulx="135" uly="1827" lrx="173" lry="1853" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r40" ulx="133" uly="1666" lrx="168" lry="1693" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r38" ulx="133" uly="1612" lrx="170" lry="1640" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r13" ulx="127" uly="864" lrx="1306" lry="899" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r5" ulx="120" uly="479" lrx="754" lry="509" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r32" ulx="145" uly="1450" lrx="172" lry="1478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r2" ulx="122" uly="279" lrx="603" lry="315" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r43" ulx="187" uly="1716" lrx="541" lry="1744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r41" ulx="185" uly="1660" lrx="595" lry="1689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r24" ulx="145" uly="1239" lrx="170" lry="1266" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r37" ulx="184" uly="1558" lrx="458" lry="1586" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r33" ulx="181" uly="1448" lrx="761" lry="1477" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r30" ulx="145" uly="1400" lrx="172" lry="1426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r39" ulx="183" uly="1608" lrx="513" lry="1639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r53" ulx="185" uly="1983" lrx="579" lry="2012" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r22" ulx="145" uly="1185" lrx="170" lry="1211" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r47" ulx="187" uly="1823" lrx="602" lry="1850" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r44" ulx="135" uly="1773" lrx="168" lry="1799" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r11" ulx="1313" uly="862" lrx="1487" lry="890" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r52" ulx="139" uly="1985" lrx="170" lry="2014" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r29" ulx="185" uly="1341" lrx="766" lry="1371" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r25" ulx="183" uly="1237" lrx="556" lry="1265" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r16" ulx="145" uly="1027" lrx="170" lry="1053" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r19" ulx="183" uly="1079" lrx="554" lry="1105" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r0" ulx="1232" uly="131" lrx="1286" lry="154" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r8" ulx="122" uly="652" lrx="249" lry="681" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r9" ulx="122" uly="729" lrx="594" lry="759" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r48" ulx="131" uly="1879" lrx="170" lry="1905" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r15" ulx="132" uly="975" lrx="295" lry="1001" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r36" ulx="131" uly="1558" lrx="168" lry="1586" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r26" ulx="150" uly="1296" lrx="175" lry="1321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r31" ulx="179" uly="1393" lrx="763" lry="1424" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r49" ulx="183" uly="1879" lrx="467" lry="1904" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r18" ulx="145" uly="1079" lrx="170" lry="1105" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r14" ulx="126" uly="918" lrx="794" lry="946" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r1" ulx="120" uly="225" lrx="1161" lry="259" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r55" ulx="184" uly="2035" lrx="742" lry="2064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r4" ulx="214" uly="356" lrx="495" lry="386" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r34" ulx="133" uly="1504" lrx="168" lry="1532" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r6" ulx="120" uly="554" lrx="1287" lry="587" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r51" ulx="187" uly="1923" lrx="808" lry="1955" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r12" ulx="185" uly="820" lrx="1295" lry="855" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r28" ulx="150" uly="1343" lrx="175" lry="1373" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r35" ulx="185" uly="1498" lrx="912" lry="1530" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r7" ulx="122" uly="604" lrx="1292" lry="633" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r17" ulx="183" uly="1025" lrx="552" lry="1052" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r23" ulx="183" uly="1183" lrx="790" lry="1211" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r3" ulx="122" uly="360" lrx="197" lry="389" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r45" ulx="187" uly="1771" lrx="596" lry="1798" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r42" ulx="135" uly="1718" lrx="172" lry="1746" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r21" ulx="181" uly="1125" lrx="1053" lry="1158" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r56" ulx="131" uly="2092" lrx="174" lry="2119" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r50" ulx="133" uly="1933" lrx="168" lry="1957" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r10" ulx="1310" uly="823" lrx="1420" lry="849" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r57" ulx="183" uly="2089" lrx="560" lry="2117" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r27" ulx="181" uly="1287" lrx="910" lry="1316" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_278_r54" ulx="131" uly="2037" lrx="170" lry="2064" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_279" uly="0" ulx="0" lry="2392" lrx="1602">
+			<graphic url="Abl_1983_1__S__0279.tif" width="1602px" height="2392px"/>
+			<zone xml:id="facs_279_r45" ulx="296" uly="2025" lrx="1464" lry="2055" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r25" ulx="55" uly="1187" lrx="218" lry="1205" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r39" ulx="343" uly="1733" lrx="481" lry="1758" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r12" ulx="349" uly="483" lrx="684" lry="512" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r5" ulx="298" uly="322" lrx="340" lry="350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r32" ulx="289" uly="1368" lrx="1424" lry="1401" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r37" ulx="344" uly="1637" lrx="1167" lry="1667" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r22" ulx="295" uly="977" lrx="1476" lry="1009" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r0" ulx="297" uly="131" lrx="354" lry="153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r34" ulx="285" uly="1477" lrx="1016" lry="1506" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r13" ulx="298" uly="537" lrx="335" lry="562" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r1" ulx="298" uly="216" lrx="340" lry="243" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r2" ulx="354" uly="216" lrx="739" lry="247" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r43" ulx="344" uly="1927" lrx="1466" lry="1959" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r35" ulx="342" uly="1529" lrx="1226" lry="1562" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r8" ulx="348" uly="372" lrx="663" lry="406" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r4" ulx="354" uly="268" lrx="738" lry="298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r6" ulx="351" uly="320" lrx="786" lry="352" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r33" ulx="348" uly="1423" lrx="817" lry="1451" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r20" ulx="294" uly="891" lrx="1474" lry="925" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r19" ulx="348" uly="843" lrx="1472" lry="878" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r26" ulx="54" uly="1216" lrx="262" lry="1234" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r10" ulx="350" uly="427" lrx="778" lry="459" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r3" ulx="298" uly="268" lrx="337" lry="296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r21" ulx="291" uly="933" lrx="1472" lry="966" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r17" ulx="296" uly="725" lrx="1196" lry="753" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r11" ulx="296" uly="483" lrx="337" lry="509" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r44" ulx="342" uly="1975" lrx="569" lry="2000" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r41" ulx="342" uly="1831" lrx="1259" lry="1863" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r9" ulx="300" uly="429" lrx="340" lry="457" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r29" ulx="293" uly="1235" lrx="1468" lry="1269" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r28" ulx="287" uly="1191" lrx="1472" lry="1225" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r14" ulx="351" uly="533" lrx="1401" lry="568" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r27" ulx="346" uly="1148" lrx="1475" lry="1180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r18" ulx="56" uly="850" lrx="187" lry="871" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r46" ulx="342" uly="2071" lrx="1145" lry="2099" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r23" ulx="295" uly="1020" lrx="949" lry="1051" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r7" ulx="298" uly="373" lrx="337" lry="402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r40" ulx="292" uly="1787" lrx="1468" lry="1818" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r24" ulx="56" uly="1154" lrx="146" lry="1173" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r31" ulx="289" uly="1325" lrx="1470" lry="1358" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r15" ulx="292" uly="587" lrx="1476" lry="650" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r36" ulx="344" uly="1583" lrx="1364" lry="1615" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r42" ulx="281" uly="1883" lrx="1466" lry="1915" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r30" ulx="293" uly="1281" lrx="1470" lry="1313" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r38" ulx="285" uly="1689" lrx="1470" lry="1720" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_279_r16" ulx="295" uly="677" lrx="1474" lry="709" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_280" uly="0" ulx="0" lry="2392" lrx="1600">
+			<graphic url="Abl_1983_1__S__0280.tif" width="1600px" height="2392px"/>
+			<zone xml:id="facs_280_r35" ulx="123" uly="1691" lrx="1008" lry="1723" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r3" ulx="181" uly="312" lrx="1294" lry="344" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r33" ulx="122" uly="1600" lrx="1311" lry="1633" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r17" ulx="123" uly="848" lrx="1302" lry="878" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r2" ulx="181" uly="262" lrx="983" lry="293" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r19" ulx="183" uly="952" lrx="656" lry="978" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r0" ulx="1237" uly="133" lrx="1283" lry="155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r38" ulx="185" uly="1848" lrx="912" lry="1874" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r14" ulx="185" uly="716" lrx="1298" lry="746" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r11" ulx="1316" uly="756" lrx="1486" lry="780" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r10" ulx="1310" uly="714" lrx="1411" lry="739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r18" ulx="125" uly="898" lrx="319" lry="924" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r5" ulx="125" uly="410" lrx="1296" lry="445" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r7" ulx="135" uly="506" lrx="1298" lry="538" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r43" ulx="125" uly="1991" lrx="1300" lry="2022" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r40" ulx="614" uly="1896" lrx="867" lry="1926" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r21" ulx="181" uly="1052" lrx="1062" lry="1084" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r31" ulx="1318" uly="1598" lrx="1443" lry="1623" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r30" ulx="1314" uly="1558" lrx="1453" lry="1585" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r32" ulx="181" uly="1558" lrx="1308" lry="1590" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r45" ulx="187" uly="2081" lrx="1239" lry="2113" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r41" ulx="875" uly="1891" lrx="1306" lry="1923" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r15" ulx="122" uly="758" lrx="1307" lry="790" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r36" ulx="189" uly="1746" lrx="1196" lry="1776" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r42" ulx="185" uly="1944" lrx="850" lry="1971" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r1" ulx="130" uly="216" lrx="1295" lry="247" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r29" ulx="124" uly="1462" lrx="941" lry="1491" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r6" ulx="181" uly="460" lrx="556" lry="488" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r28" ulx="186" uly="1414" lrx="446" lry="1444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r24" ulx="185" uly="1214" lrx="1035" lry="1244" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r20" ulx="183" uly="1002" lrx="854" lry="1031" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r34" ulx="125" uly="1648" lrx="1298" lry="1678" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r8" ulx="185" uly="560" lrx="444" lry="589" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r26" ulx="191" uly="1314" lrx="712" lry="1342" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r16" ulx="126" uly="804" lrx="1304" lry="836" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r25" ulx="183" uly="1266" lrx="1300" lry="1297" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r22" ulx="125" uly="1106" lrx="1197" lry="1137" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r27" ulx="137" uly="1362" lrx="1302" lry="1393" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r39" ulx="125" uly="1896" lrx="597" lry="1925" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r13" ulx="1312" uly="808" lrx="1522" lry="833" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r9" ulx="125" uly="606" lrx="939" lry="636" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r44" ulx="187" uly="2033" lrx="1306" lry="2065" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r37" ulx="125" uly="1798" lrx="1304" lry="1828" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r12" ulx="1314" uly="779" lrx="1483" lry="801" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r23" ulx="139" uly="1160" lrx="1004" lry="1194" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_280_r4" ulx="185" uly="358" lrx="785" lry="390" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_281" uly="0" ulx="0" lry="2391" lrx="1605">
+			<graphic url="Abl_1983_1__S__0281.tif" width="1605px" height="2391px"/>
+			<zone xml:id="facs_281_r11" ulx="1277" uly="648" lrx="1309" lry="663" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r1" ulx="294" uly="172" lrx="1173" lry="206" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r0" ulx="293" uly="112" lrx="1359" lry="147" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r3" ulx="504" uly="1917" lrx="516" lry="1931" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r10" ulx="1106" uly="742" lrx="1138" lry="756" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r9" ulx="1073" uly="656" lrx="1142" lry="679" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r14" ulx="1450" uly="898" lrx="1475" lry="915" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r18" ulx="547" uly="2165" lrx="758" lry="2184" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r2" ulx="289" uly="358" lrx="577" lry="382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r15" ulx="1342" uly="971" lrx="1375" lry="988" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r20" ulx="1296" uly="2276" lrx="1361" lry="2291" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r8" ulx="1163" uly="623" lrx="1196" lry="638" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r19" ulx="549" uly="2272" lrx="896" lry="2290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r12" ulx="1386" uly="673" lrx="1400" lry="690" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r17" ulx="1479" uly="2032" lrx="1498" lry="2047" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r16" ulx="984" uly="2007" lrx="1030" lry="2034" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r13" ulx="1296" uly="825" lrx="1319" lry="840" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r4" ulx="988" uly="781" lrx="1023" lry="799" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r6" ulx="990" uly="1044" lrx="1000" lry="1055" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r7" ulx="877" uly="1438" lrx="923" lry="1457" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_r5" ulx="821" uly="829" lrx="853" lry="852" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_281_f0" ulx="270" uly="104" lrx="1599" lry="1610" rendition="Figure"/>
+		</surface>
+		<surface xml:id="facs_282" uly="0" ulx="0" lry="2390" lrx="1598">
+			<graphic url="Abl_1983_1__S__0282.tif" width="1598px" height="2390px"/>
+			<zone xml:id="facs_282_r8" ulx="585" uly="1721" lrx="604" lry="1742" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_282_r9" ulx="254" uly="2043" lrx="292" lry="2053" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_282_r0" ulx="827" uly="122" lrx="1278" lry="146" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_282_r12" ulx="733" uly="2262" lrx="1186" lry="2286" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_282_r4" ulx="154" uly="1364" lrx="172" lry="1384" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_282_r2" ulx="291" uly="1156" lrx="318" lry="1162" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_282_r3" ulx="31" uly="1252" lrx="63" lry="1268" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_282_r11" ulx="644" uly="2263" lrx="664" lry="2282" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_282_r7" ulx="27" uly="1660" lrx="56" lry="1670" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_282_r10" ulx="540" uly="2264" lrx="583" lry="2283" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_282_r1" ulx="216" uly="1008" lrx="239" lry="1026" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_282_r6" ulx="343" uly="1496" lrx="362" lry="1514" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_282_r5" ulx="700" uly="1365" lrx="719" lry="1382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_282_f0" ulx="0" uly="111" lrx="1302" lry="1599" rendition="Figure"/>
+		</surface>
+		<surface xml:id="facs_283" uly="0" ulx="0" lry="2392" lrx="1603">
+			<graphic url="Abl_1983_1__S__0283.tif" width="1603px" height="2392px"/>
+			<zone xml:id="facs_283_r20" ulx="352" uly="1110" lrx="1069" lry="1141" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r2" ulx="304" uly="266" lrx="1484" lry="301" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r11" ulx="299" uly="677" lrx="1200" lry="710" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r0" ulx="308" uly="143" lrx="362" lry="167" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r14" ulx="303" uly="818" lrx="812" lry="849" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r10" ulx="360" uly="633" lrx="1480" lry="666" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r8" ulx="302" uly="537" lrx="1480" lry="568" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r26" ulx="917" uly="1575" lrx="1019" lry="1601" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r1" ulx="366" uly="225" lrx="1486" lry="258" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r5" ulx="70" uly="500" lrx="212" lry="519" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r4" ulx="306" uly="362" lrx="998" lry="396" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r6" ulx="68" uly="533" lrx="177" lry="552" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r12" ulx="360" uly="731" lrx="1480" lry="764" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r13" ulx="297" uly="775" lrx="1482" lry="810" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r25" ulx="915" uly="1521" lrx="1471" lry="1550" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r3" ulx="308" uly="318" lrx="1484" lry="352" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r15" ulx="62" uly="947" lrx="131" lry="966" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r16" ulx="61" uly="981" lrx="214" lry="1000" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r19" ulx="60" uly="1112" lrx="222" lry="1132" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r23" ulx="293" uly="1429" lrx="491" lry="1457" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r9" ulx="302" uly="583" lrx="1317" lry="614" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r17" ulx="358" uly="939" lrx="1480" lry="977" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r7" ulx="360" uly="491" lrx="1482" lry="523" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r24" ulx="502" uly="1431" lrx="769" lry="1457" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r22" ulx="350" uly="1225" lrx="1229" lry="1260" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r21" ulx="59" uly="1227" lrx="203" lry="1249" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_283_r18" ulx="298" uly="987" lrx="777" lry="1018" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="277" facs="#facs_278"/>
+			<p>
+				<lb facs="#facs_278_r5"/>Die Direktion der öffentlichen Bauten,</p>
+			<p>
+				<lb facs="#facs_278_r6"/>Gestützt auf §§ 203 und 206 des Planungs- und Baugesetzes (PBG)<lb facs="#facs_278_r7"/>sowie § 3 der Einführungsverordnung zum Raumplanungsgesetz<lb facs="#facs_278_r8"/>(RPG),</p>
+			<p>
+				<lb facs="#facs_278_r9"/>erlässt folgende Verordnung:</p>
+			<p>
+				<add type="marginal" place="right">
+					<lb facs="#facs_278_r10"/>Objekt<lb break="no" facs="#facs_278_r11"/>beschreibung</add>
+			</p>
+			<p>
+				<lb facs="#facs_278_r12"/>1. Die im dazugehörigen Übersichtsplan Mst. 1:5000 sowie in den<lb facs="#facs_278_r13"/>Detailplänen Mst. 1:1000 bezeichneten Trockenstandorte und Feuchtge<lb break="no" facs="#facs_278_r14"/>biete werden unter Naturschutz gestellt:</p>
+			<table>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r15"/>Objekt Nr.</cell>
+					<cell/>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r16"/>1</cell>
+					<cell>
+						<lb facs="#facs_278_r17"/>Trockenwiese Wurzer</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r18"/>2</cell>
+					<cell>
+						<lb facs="#facs_278_r19"/>Trockenwiese Wurzer</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r20"/>3</cell>
+					<cell>
+						<lb facs="#facs_278_r21"/>Hangried und wechseltrockener Steilhangwald Koch</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r22"/>4</cell>
+					<cell>
+						<lb facs="#facs_278_r23"/>Trockenstandort Unter Schläufental</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r24"/>5</cell>
+					<cell>
+						<lb facs="#facs_278_r25"/>Trockenwiese Stocket</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r26"/>6</cell>
+					<cell>
+						<lb facs="#facs_278_r27"/>wechseltrockene Wiese Obere Neubrechten</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r28"/>7</cell>
+					<cell>
+						<lb facs="#facs_278_r29"/>Trockenwiese Untere Neubrechten</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r30"/>8</cell>
+					<cell>
+						<lb facs="#facs_278_r31"/>Pfeifengras-Föhrenwld In der Flue</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r32"/>9</cell>
+					<cell>
+						<lb facs="#facs_278_r33"/>Föhren-Steilhangwald Obere Eule</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r34"/>10</cell>
+					<cell>
+						<lb facs="#facs_278_r35"/>Trockenwiese und Hangrutsch Untere Eule</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r36"/>11</cell>
+					<cell>
+						<lb facs="#facs_278_r37"/>Ried Gmeinerig</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r38"/>12</cell>
+					<cell>
+						<lb facs="#facs_278_r39"/>Hangried Ober Tal</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r40"/>13</cell>
+					<cell>
+						<lb facs="#facs_278_r41"/>Trockenwiese Unter Tal</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r42"/>14</cell>
+					<cell>
+						<lb facs="#facs_278_r43"/>Trockenwiese Böckli</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r44"/>15</cell>
+					<cell>
+						<lb facs="#facs_278_r45"/>Trockenwiese Alchreute</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r46"/>16</cell>
+					<cell>
+						<lb facs="#facs_278_r47"/>Trockenwiese Vogelsang</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r48"/>17</cell>
+					<cell>
+						<lb facs="#facs_278_r49"/>Ried Mettlenwis</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r50"/>18</cell>
+					<cell>
+						<lb facs="#facs_278_r51"/>Trockenwiese und Hangried Heppler</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r52"/>19</cell>
+					<cell>
+						<lb facs="#facs_278_r53"/>Hangried Vorder Hasli</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r54"/>20</cell>
+					<cell>
+						<lb facs="#facs_278_r55"/>Ried- und Magerwiese Breitmatt</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_278_r56"/>21</cell>
+					<cell>
+						<lb facs="#facs_278_r57"/>Riedwiese Ober Hasli</cell>
+				</row>
+			</table>
+			<pb n="278" facs="#facs_279"/>
+			<table>
+				<row>
+					<cell>
+						<lb facs="#facs_279_r1"/>22</cell>
+					<cell>
+						<lb facs="#facs_279_r2"/>Trockenwiese Heppler</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_279_r3"/>23</cell>
+					<cell>
+						<lb facs="#facs_279_r4"/>Trockenwiese Heppler</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_279_r5"/>24</cell>
+					<cell>
+						<lb facs="#facs_279_r6"/>Trockenstandort Heppler</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_279_r7"/>25</cell>
+					<cell>
+						<lb facs="#facs_279_r8"/>Hangried Heppler</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_279_r9"/>26</cell>
+					<cell>
+						<lb facs="#facs_279_r10"/>Hangried Unter Heppler</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_279_r11"/>27</cell>
+					<cell>
+						<lb facs="#facs_279_r12"/>Hangried Rieterwis</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_279_r13"/>28</cell>
+					<cell>
+						<lb facs="#facs_279_r14"/>Trockenstandort Geltenbüel (Trockenwiesen und Föhrenwald)</cell>
+				</row>
+			</table>
+			<p>
+				<lb facs="#facs_279_r15"/>Die Objekte weisen unterschiedliche Trockenwiesen, Pfeifengras-Föhrenwälder, Pfeifengraswiesen, Kleinseggenriede, Hochstauden- und<lb facs="#facs_279_r16"/>Schilffluren sowie Gross-Seggenriede mit ausserordentlich vielen<lb facs="#facs_279_r17"/>geschützten und seltenen Pflanzen- und Tierarten auf.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_279_r18"/>Schutzziel</add>
+			</p>
+			<p>
+				<lb facs="#facs_279_r19"/>2. Schutzziel ist die ungeschmälerte Erhaltung des im Kanton<lb facs="#facs_279_r20"/>einzigartigen Komplexes von Trockenstandorten und Feuchtgebieten als<lb facs="#facs_279_r21"/>Lebensraum für viele seltene und geschützte Pflanzen- und Tierarten,<lb facs="#facs_279_r22"/>Pflanzengesellschaften und Tiergemeinschaften sowie als belebende<lb facs="#facs_279_r23"/>Elemente einer vielfältigen Landschaft.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_279_r24"/>Schutz<lb break="no" facs="#facs_279_r25"/>anordnungen<lb facs="#facs_279_r26"/>Naturschutzzone</add>
+			</p>
+			<p>
+				<lb facs="#facs_279_r27"/>3. In der Naturschutzzone gemäss Übersichtsplan Mst. 1:5000<lb facs="#facs_279_r28"/>sowie Detailplänen Mst. 1:1000 sind alle Tätigkeiten, Vorkehren und<lb facs="#facs_279_r29"/>Einrichtungen verboten, welche das Schutzziel gefährden, namentlich<lb facs="#facs_279_r30"/>Pflanzen und Tiere beeinträchtigen oder die Beschaffenheit des Bodens<lb facs="#facs_279_r31"/>oder die anderen natürlichen Verhältnisse nachteilig verändern können,<lb facs="#facs_279_r32"/>ferner solche, die im Landschaftsbild störend in Erscheinung treten.</p>
+			<p>
+				<lb facs="#facs_279_r33"/>Insbesondere sind verboten:</p>
+			<p>
+				<lb facs="#facs_279_r34"/>- das Errichten von Bauten und Anlagen;</p>
+			<p>
+				<lb facs="#facs_279_r35"/>- Geländeveränderungen und Ablagerungen aller Art;</p>
+			<p>
+				<lb facs="#facs_279_r36"/>- das Be- und Entwässern sowie das Einleiten von Abwässern;</p>
+			<p>
+				<lb facs="#facs_279_r37"/>- das Düngen und das Verwenden von Giftstoffen;</p>
+			<p>
+				<lb facs="#facs_279_r38"/>- das Aufforsten oder Anlegen von Baumbeständen ausserhalb des<lb facs="#facs_279_r39"/>Waldes;</p>
+			<p>
+				<lb facs="#facs_279_r40"/>- das Beseitigen von Baumgruppen und Hecken sowie markanten<lb facs="#facs_279_r41"/>Einzelbäumen und -sträuchern ausserhalb des Waldes;</p>
+			<p>
+				<lb facs="#facs_279_r42"/>- das Ansiedeln von standortfremden Tieren und Pflanzen, insbeson<lb break="no" facs="#facs_279_r43"/>dere auch die Verwendung standortfremder Baumarten wie Fichten<lb facs="#facs_279_r44"/>und Lärchen;</p>
+			<p>
+				<lb facs="#facs_279_r45"/>- das Ausgraben oder Zerstören von wildwachsenden Pflanzen und<lb facs="#facs_279_r46"/>Pilzen mit Ausnahme der Waldbewirtschaftung;</p>
+			<pb n="279" facs="#facs_280"/>
+			<p>
+				<lb facs="#facs_280_r1"/>- das Töten, Verletzen, Fangen oder Stören von wildlebenden Tieren,<lb facs="#facs_280_r2"/>ausgenommen im Rahmen der bewilligten Jagd;</p>
+			<p>
+				<lb facs="#facs_280_r3"/>- das Anfachen von Feuer, mit Ausnahme des traditionellen<lb facs="#facs_280_r4"/>1 .- August-Feuers im Objekt Nr. 14;</p>
+			<p>
+				<lb facs="#facs_280_r5"/>- das Lagern, Zelten, Campieren sowie das Überlassen von Standplät<lb break="no" facs="#facs_280_r6"/>zen für diesen Zweck;</p>
+			<p>
+				<lb facs="#facs_280_r7"/>- das Weidenlassen von Tieren sowie das Laufenlassen von Hunden<lb facs="#facs_280_r8"/>(Leinenzwang);</p>
+			<p>
+				<lb facs="#facs_280_r9"/>- das Reiten und Befahren abseits von Wegen.</p>
+			<p>
+				<add type="marginal" place="right">
+					<lb facs="#facs_280_r10"/>Schutz<lb break="no" facs="#facs_280_r11"/>anordnungen<lb facs="#facs_280_r12"/>Naturschutz<lb break="no" facs="#facs_280_r13"/>umgebungszone</add>
+			</p>
+			<p>
+				<lb facs="#facs_280_r14"/>4. In der Naturschutzumgebungszone gemäss Plänen Mst. 1:5000<lb facs="#facs_280_r15"/>und 1:1000 sind alle Tätigkeiten, Vorkehren und Einrichtungen verbo<lb break="no" facs="#facs_280_r16"/>ten, die einen unerwünschten Einfluss auf die Naturschutzzone haben,<lb facs="#facs_280_r17"/>die Naturschutzumgebungszone beeinträchtigen oder das Landschafts<lb break="no" facs="#facs_280_r18"/>bild stören.</p>
+			<p>
+				<lb facs="#facs_280_r19"/>Insbesondere sind verboten:</p>
+			<p>
+				<lb facs="#facs_280_r20"/>- das Errichten von Bauten und Anlagen;</p>
+			<p>
+				<lb facs="#facs_280_r21"/>- Geländeveränderungen und Ablagerungen aller Art;</p>
+			<p>
+				<lb facs="#facs_280_r22"/>- das Be- und Entwässern sowie das Einleiten von Abwässern;</p>
+			<p>
+				<lb facs="#facs_280_r23"/>- das Düngen und das Verwenden von Giftstoffen;</p>
+			<p>
+				<lb facs="#facs_280_r24"/>- das Aufforsten oder Anlegen von Baumbeständen;</p>
+			<p>
+				<lb facs="#facs_280_r25"/>- das Beseitigen von Baumgruppen und Hecken sowie markanten<lb facs="#facs_280_r26"/>Einzelbäumen und -sträuchern;</p>
+			<p>
+				<lb facs="#facs_280_r27"/>- das Weidenlassen von Tieren sowie das Laufenlassen von Hunden<lb facs="#facs_280_r28"/>(Leinenzwang);</p>
+			<p>
+				<lb facs="#facs_280_r29"/>- das Reiten und Befahren abseits von Wegen.</p>
+			<p>
+				<add type="marginal" place="right">
+					<lb facs="#facs_280_r30"/>Pflege und<lb facs="#facs_280_r31"/>Unterhalt</add>
+			</p>
+			<p>
+				<lb facs="#facs_280_r32"/>5. Zur Sicherung des Schutzzieles sind die Naturschutzgebiete fach<lb break="no" facs="#facs_280_r33"/>gerecht zu unterhalten und zu pflegen. Die dafür erforderlichen Mass<lb break="no" facs="#facs_280_r34"/>nahmen sind von den Verboten gemäss Ziffern 3 und 4 ausgenommen.<lb facs="#facs_280_r35"/>Sie werden falls nötig in einem Pflegeplan festgelegt.</p>
+			<p>
+				<lb facs="#facs_280_r36"/>Grundsätzlich sind folgende Unterhaltsarbeiten auszuführen:</p>
+			<p>
+				<lb facs="#facs_280_r37"/>- Die Trockenwiesen sind je nach Objekt jährlich ein- bis zweimal zu<lb facs="#facs_280_r38"/>mähen, und das Schnittgut ist wegzuführen.</p>
+			<p>
+				<lb facs="#facs_280_r39"/>- Die Riedwiesen sind ab <date when="--09-15">15. September</date> in der Regel jährlich zu<lb facs="#facs_280_r42"/>mähen, und die Streue ist wegzuführen.</p>
+			<p>
+				<lb facs="#facs_280_r43"/>- Die Waldbewirtschaftung soll sich nach dem Schutzziel richten.<lb facs="#facs_280_r44"/>Insbesondere sollen die lockeren Föhrenbestockungen erhalten blei<lb break="no" facs="#facs_280_r45"/>ben. Die busch- und artenreichen Waldränder sind zu erhalten.</p>
+			<pb n="280" facs="#facs_281"/>
+			<figure facs="#facs_281_f0"/>
+			<pb n="281" facs="#facs_282"/>
+			<figure facs="#facs_282_f0"/>
+			<pb n="282" facs="#facs_283"/>
+			<p>
+				<lb facs="#facs_283_r1"/>Übersteigen Anordnungen in unzumutbarer Weise die allgemeine<lb facs="#facs_283_r2"/>Pflicht des Eigentümers, sein Grundstück zu unterhalten, so ist die<lb facs="#facs_283_r3"/>Betreuung durch das anordnende Gemeinwesen zu übenehmen und<lb facs="#facs_283_r4"/>vom Eigentümer zu dulden (PBG § 207).</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_283_r5"/>Ausnahme<lb break="no" facs="#facs_283_r6"/>regelung</add>
+			</p>
+			<p>
+				<lb facs="#facs_283_r7"/>6. Wenn besondere Verhältnisse, insbesondere das wissenschaftli<lb break="no" facs="#facs_283_r8"/>che Interesse, es erfordern, kann die Baudirektion unter sichernden<lb facs="#facs_283_r9"/>Bedingungen Ausnahmen von diesen Vorschriften gestatten.</p>
+			<p>
+				<lb facs="#facs_283_r10"/>Die zeitweilige Benutzung des Objektes Nr. 28 für militärische<lb facs="#facs_283_r11"/>Übungen im bisherigen Rahmen ist weiterhin erlaubt.</p>
+			<p>
+				<lb facs="#facs_283_r12"/>Der Holztransport über Naturschutzgebiete ist erlaubt, sofern keine<lb facs="#facs_283_r13"/>andere Möglichkeit besteht, der Transport im Winter erfolgt und die<lb facs="#facs_283_r14"/>Vegetation nicht zerstört wird.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_283_r15"/>Straf<lb break="no" facs="#facs_283_r16"/>bestimmung</add>
+			</p>
+			<p>
+				<lb facs="#facs_283_r17"/>7. Zuwiderhandlungen gegen diese Verordnung werden im Sinne<lb facs="#facs_283_r18"/>von §§ 340f. PBG geahndet.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_283_r19"/>Inkrafttreten</add>
+			</p>
+			<p>
+				<lb facs="#facs_283_r20"/>8. Diese Verordnung tritt sofort in Kraft.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_283_r21"/>Publikation</add>
+			</p>
+			<p>
+				<lb facs="#facs_283_r22"/>9. Diese Verordnung wird im Amtsblatt publiziert.</p>
+			<p>
+				<lb facs="#facs_283_r23"/>Zürich, den <date when="1983-01-27">27. Januar 1983</date></p>
+			<p>
+				<lb facs="#facs_283_r25"/>Direktion der öffentlichen Bauten<lb facs="#facs_283_r26"/>Sigrist</p>
+		</body></text></TEI>

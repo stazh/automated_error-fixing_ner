@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-03-15">15.03.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Änderung des Reglementes über die
+            Zulagen und Entschädigungen bei der Kantonspolizei (vom 17. Dezember 1980)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-03-20">20.03.1981</date><ident>StAZH ABl 1981 (S. 509)</ident><idno>509</idno><idno type="issue">12</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132232"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_510" uly="0" ulx="0" lry="2368" lrx="1594">
+			<graphic url="Abl_1981_1__S__0510.tif" width="1594px" height="2368px"/>
+			<zone xml:id="facs_510_r22" ulx="141" uly="1388" lrx="481" lry="1417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r17" ulx="231" uly="1244" lrx="1308" lry="1273" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r13" ulx="143" uly="963" lrx="450" lry="996" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r1" ulx="1337" uly="216" lrx="1508" lry="244" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r2" ulx="204" uly="216" lrx="1321" lry="244" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r16" ulx="145" uly="1165" lrx="633" lry="1194" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r19" ulx="481" uly="1288" lrx="804" lry="1317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r15" ulx="239" uly="1040" lrx="581" lry="1069" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r29" ulx="625" uly="1767" lrx="1139" lry="1797" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r32" ulx="985" uly="1830" lrx="1312" lry="1856" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r5" ulx="352" uly="393" lrx="629" lry="420" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r24" ulx="681" uly="1467" lrx="918" lry="1495" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r27" ulx="141" uly="1680" lrx="335" lry="1706" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r33" ulx="987" uly="1876" lrx="1160" lry="1902" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r11" ulx="145" uly="852" lrx="706" lry="890" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r10" ulx="1060" uly="579" lrx="1244" lry="604" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r26" ulx="202" uly="1546" lrx="1306" lry="1576" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r7" ulx="629" uly="535" lrx="864" lry="560" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r20" ulx="812" uly="1286" lrx="1206" lry="1317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r14" ulx="147" uly="1042" lrx="217" lry="1070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r9" ulx="1064" uly="535" lrx="1310" lry="560" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r18" ulx="141" uly="1290" lrx="462" lry="1318" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r21" ulx="202" uly="1340" lrx="1310" lry="1371" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r25" ulx="927" uly="1467" lrx="1071" lry="1495" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r8" ulx="627" uly="579" lrx="756" lry="604" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r28" ulx="347" uly="1678" lrx="673" lry="1707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r23" ulx="214" uly="1465" lrx="660" lry="1494" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r31" ulx="620" uly="1873" lrx="725" lry="1897" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r6" ulx="629" uly="483" lrx="1079" lry="510" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r3" ulx="147" uly="258" lrx="1010" lry="289" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r0" ulx="1260" uly="133" lrx="1312" lry="157" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r12" ulx="145" uly="906" lrx="1068" lry="944" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r4" ulx="145" uly="391" lrx="341" lry="421" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_510_r30" ulx="621" uly="1830" lrx="864" lry="1856" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="509" facs="#facs_510"/>
+			<p>
+				<lb facs="#facs_510_r16"/>Der Regierungsrat beschliesst:</p>
+			<p>
+				<lb facs="#facs_510_r17"/>I. Das Reglement über die Zulagen und Entschädigungen bei
+              der<lb facs="#facs_510_r18"/>Kantonspolizei vom <date when="1974-12-11">11. Dezember
+              1974</date> wird wie folgt geändert:</p>
+			<p>
+				<lb facs="#facs_510_r21"/>§ 22. Dem Halter eines Diensthundes wird ein Betrag von Fr.
+              7.50<lb facs="#facs_510_r22"/>im Tag ausgerichtet.</p>
+			<p>
+				<lb facs="#facs_510_r23"/>II. Die Änderung tritt am <date when="1981-01-01">1. Januar
+              1981</date> in Kraft.</p>
+			<p>
+				<lb facs="#facs_510_r26"/>III. Veröffentlichung im Amtsblatt und in der
+            Gesetzessammlung.</p>
+			<p>
+				<lb facs="#facs_510_r27"/>Zürich, den <date when="1980-12-17">17. Dezember
+            1980</date></p>
+			<p>
+				<lb facs="#facs_510_r29"/>Im Namen des Regierungsrates</p>
+			<p>
+				<lb facs="#facs_510_r30"/>Der Präsident:<lb facs="#facs_510_r31"/>Stucki</p>
+			<p>
+				<lb facs="#facs_510_r32"/>Der Staatsschreiber:<lb facs="#facs_510_r33"/>Roggwiller</p>
+		</body></text></TEI>

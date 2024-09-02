@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-04-08">08.04.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 129. Sitzung. Montag, 14. September
+              1981, 8.15 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-12-18">18.12.1981</date><ident>StAZH ABl 1981 (S. 1900, Eintrag 2)</ident><idno>1900</idno><idno type="issue">57</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132529"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_912" uly="0" ulx="0" lry="2364" lrx="1584">
+			<graphic url="Abl_1981_2__S__0912.tif" width="1584px" height="2364px"/>
+			<zone xml:id="facs_912_r22" ulx="289" uly="846" lrx="1394" lry="881" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r39" ulx="285" uly="1673" lrx="1454" lry="1706" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r34" ulx="285" uly="1463" lrx="1175" lry="1496" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r42" ulx="279" uly="1821" lrx="1458" lry="1855" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r3" ulx="814" uly="283" lrx="1137" lry="317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r1" ulx="509" uly="212" lrx="1254" lry="247" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r4" ulx="1146" uly="285" lrx="1319" lry="317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r16" ulx="1258" uly="654" lrx="1463" lry="682" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r35" ulx="1192" uly="1469" lrx="1458" lry="1499" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r37" ulx="281" uly="1555" lrx="979" lry="1583" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r29" ulx="289" uly="1190" lrx="1461" lry="1221" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r15" ulx="291" uly="648" lrx="1238" lry="680" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r20" ulx="1135" uly="808" lrx="1335" lry="836" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r36" ulx="283" uly="1511" lrx="1456" lry="1542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r32" ulx="287" uly="1340" lrx="900" lry="1375" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r9" ulx="289" uly="439" lrx="1008" lry="470" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r8" ulx="869" uly="398" lrx="1463" lry="427" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r45" ulx="281" uly="1965" lrx="1242" lry="1997" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r2" ulx="438" uly="281" lrx="806" lry="313" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r17" ulx="287" uly="689" lrx="1450" lry="724" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r30" ulx="287" uly="1234" lrx="1136" lry="1266" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r33" ulx="287" uly="1398" lrx="1290" lry="1430" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r21" ulx="1344" uly="808" lrx="1458" lry="836" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r41" ulx="287" uly="1769" lrx="681" lry="1801" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r25" ulx="434" uly="1069" lrx="800" lry="1101" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r0" ulx="293" uly="129" lrx="366" lry="150" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r28" ulx="285" uly="1133" lrx="544" lry="1163" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r14" ulx="289" uly="583" lrx="581" lry="608" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r27" ulx="1156" uly="1073" lrx="1315" lry="1102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r38" ulx="283" uly="1621" lrx="607" lry="1646" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r10" ulx="1033" uly="444" lrx="1277" lry="471" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r24" ulx="287" uly="948" lrx="581" lry="975" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r12" ulx="291" uly="481" lrx="1135" lry="515" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r18" ulx="287" uly="729" lrx="960" lry="767" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r23" ulx="287" uly="898" lrx="1458" lry="933" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r6" ulx="293" uly="398" lrx="531" lry="424" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r19" ulx="289" uly="802" lrx="1115" lry="834" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r11" ulx="1285" uly="446" lrx="1463" lry="474" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r31" ulx="283" uly="1298" lrx="1458" lry="1332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r5" ulx="289" uly="348" lrx="1465" lry="383" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r40" ulx="285" uly="1726" lrx="1458" lry="1759" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r7" ulx="550" uly="396" lrx="860" lry="425" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r43" ulx="280" uly="1869" lrx="1458" lry="1902" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r13" ulx="289" uly="533" lrx="1463" lry="568" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r26" ulx="808" uly="1069" lrx="1149" lry="1102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_912_r44" ulx="285" uly="1915" lrx="1279" lry="1946" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1900" facs="#facs_912"/>
+			<p>
+				<lb facs="#facs_912_r28"/>1. Mitteilungen</p>
+			<p>
+				<lb facs="#facs_912_r29"/>Antwort auf eine Kleine Anfrage von Rolf Krämer (SP, Zürich)
+              betref<lb break="no" facs="#facs_912_r30"/>fend die pädagogische Tauglichkeit der
+            Lehrmittel.</p>
+			<p>
+				<lb facs="#facs_912_r31"/>2. Eintritt eines neuen Ratsmitgliedes für den
+            zurückgetretenen Dr.<lb facs="#facs_912_r32"/>Heinz Gottschall (EVP, Winterthur)</p>
+			<p>
+				<lb facs="#facs_912_r33"/>Verena Bräm, lic. iur ., Winterthur, wird als gewählt
+            erklärt.</p>
+			<p>
+				<lb facs="#facs_912_r34"/>3. Bericht und Antrag des Büros des Kantonsrates vom <date when="1981-08-13">13. August 1981</date><lb facs="#facs_912_r36"/>an den Kantonsrat
+            zum Tätigkeitsbericht des Ombudsmanns über das<lb facs="#facs_912_r37"/>Jahr 1980,
+            Amtsblatt, Textteil, Seite 1303</p>
+			<p>
+				<lb facs="#facs_912_r38"/>Schlussabstimmung</p>
+			<p>
+				<lb facs="#facs_912_r39"/>Der Rat stimmt mit 113:0 Stimmen dem folgenden Antrag des
+            Büros zu:</p>
+			<p>
+				<lb facs="#facs_912_r40"/>I. Das Büro hat den Tätigkeitsbericht des Ombudsmanns über das
+              Jahr<lb facs="#facs_912_r41"/>1980 einlässlich geprüft.</p>
+			<p>
+				<lb facs="#facs_912_r42"/>II. Das Büro spricht dem Ombudsmann den besten Dank für die<lb facs="#facs_912_r43"/>geleistete Arbeit aus und beantragt dem Kantonsrat, den
+              Tätigkeitsbe<lb break="no" facs="#facs_912_r44"/>richt des Ombudsmanns über das Jahr
+            1980 zu genehmigen.</p>
+			<p>
+				<lb facs="#facs_912_r45"/>III. Mitteilung an den Ombudsmann des Kantons Zürich.</p>
+		</body></text></TEI>

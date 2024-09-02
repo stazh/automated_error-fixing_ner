@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-18">18.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] vom 2. April 1980</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-07-04">04.07.1980</date><ident>StAZH ABl 1980 (S. 744)</ident><idno>744</idno><idno type="issue">50</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131910"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_8" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0008.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_8_r4" ulx="352" uly="383" lrx="1618" lry="418" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r36" ulx="329" uly="2243" lrx="1623" lry="2274" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r1" ulx="350" uly="272" lrx="1617" lry="306" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r33" ulx="327" uly="2081" lrx="1621" lry="2116" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r23" ulx="416" uly="1568" lrx="1622" lry="1599" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r37" ulx="329" uly="2293" lrx="1400" lry="2323" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r21" ulx="329" uly="1456" lrx="1621" lry="1488" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r35" ulx="418" uly="2193" lrx="1625" lry="2224" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r22" ulx="327" uly="1504" lrx="1622" lry="1536" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r11" ulx="413" uly="756" lrx="504" lry="785" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r29" ulx="327" uly="1872" lrx="1620" lry="1905" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r27" ulx="331" uly="1777" lrx="1614" lry="1807" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r5" ulx="414" uly="435" lrx="1403" lry="467" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r8" ulx="409" uly="595" lrx="679" lry="626" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r28" ulx="327" uly="1827" lrx="1622" lry="1857" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r10" ulx="412" uly="706" lrx="1619" lry="738" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r17" ulx="893" uly="1150" lrx="1153" lry="1183" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r26" ulx="414" uly="1727" lrx="1615" lry="1759" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r18" ulx="416" uly="1297" lrx="920" lry="1330" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r6" ulx="352" uly="495" lrx="1623" lry="529" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r14" ulx="418" uly="922" lrx="671" lry="949" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r13" ulx="414" uly="864" lrx="1622" lry="899" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r24" ulx="326" uly="1614" lrx="1614" lry="1648" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r12" ulx="345" uly="816" lrx="1620" lry="850" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r19" ulx="416" uly="1358" lrx="1615" lry="1392" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r7" ulx="410" uly="547" lrx="1612" lry="580" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r30" ulx="331" uly="1922" lrx="1627" lry="1953" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r25" ulx="328" uly="1668" lrx="514" lry="1695" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r20" ulx="329" uly="1408" lrx="1625" lry="1442" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r0" ulx="325" uly="181" lrx="392" lry="206" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r15" ulx="431" uly="1062" lrx="1518" lry="1104" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r34" ulx="329" uly="2133" lrx="470" lry="2162" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r31" ulx="335" uly="1970" lrx="1452" lry="2003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r16" ulx="802" uly="1154" lrx="866" lry="1185" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r2" ulx="413" uly="322" lrx="766" lry="355" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r9" ulx="347" uly="656" lrx="1617" lry="689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r32" ulx="418" uly="2031" lrx="1626" lry="2064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_8_r3" ulx="775" uly="325" lrx="1621" lry="357" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="744" facs="#facs_8"/>
+			<p>
+				<lb facs="#facs_8_r18"/>Es sind gewählt worden:<lb facs="#facs_8_r19"/>am Technikum Winterthur: als Hauptlehrer für Deutsch<lb facs="#facs_8_r20"/>und Staatskunde: Hans-Peter Fricker, lic. phil ., von Ruppers<lb break="no" facs="#facs_8_r21"/>wil AG, in Zürich; als Hauptlehrer für Englisch und Deutsch:<lb facs="#facs_8_r22"/>Hans Peter Haeberli, von Münchenbuchsee BE, in Winterthur;</p>
+			<p>
+				<lb facs="#facs_8_r23"/>als Oberarzt am Departement für Frauenheilkunde des<lb facs="#facs_8_r24"/>Universitätsspitals: Dr. Guido Savoldelli, von Arvigo GR, in<lb facs="#facs_8_r25"/>Zollikon;</p>
+			<p>
+				<lb facs="#facs_8_r26"/>als Oberassistenten: bei der Veterinär-chirurgischen Klinik<lb facs="#facs_8_r27"/>der Universität: Dr. med. vet. Rudolf Heckmann, von und in<lb facs="#facs_8_r28"/>Zürich, und Dr. med. vet. Christian Fricker, von Hunzen<lb break="no" facs="#facs_8_r29"/>schwil AG, in Zürich; an der Abteilung für Orale Struktur<lb break="no" facs="#facs_8_r30"/>biologie des Zahnärztlichen Instituts der Universität: Dr. sc. nat.<lb facs="#facs_8_r31"/>Werner Müller, von Birmenstorf AG, in Wiesendangen;</p>
+			<p>
+				<lb facs="#facs_8_r32"/>als Administrativer Adjunkt beim Amt für technische An<lb break="no" facs="#facs_8_r33"/>lagen und Lufthygiene: René Halbheer, von Adliswil, in Hett<lb break="no" facs="#facs_8_r34"/>lingen.</p>
+			<p>
+				<lb facs="#facs_8_r35"/>Hans Rutishauser, Technischer Beamter beim Kantons<lb break="no" facs="#facs_8_r36"/>spital Winterthur, ist unter Verdankung der geleisteten Dienste<lb facs="#facs_8_r37"/>altershalber aus dem Staatsdienst entlassen worden.</p>
+		</body></text></TEI>

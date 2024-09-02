@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-04-08">08.04.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>2439 Beschluss des Kantonsrates über die Teilrevision des kantonalen Gesamtplanes (vom …)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-05-29">29.05.1981</date><ident>StAZH ABl 1981 (S. 1005-1009)</ident><idno>1005–1009</idno><idno type="issue">27</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132318"/><note>Vorlagen-Nr. 2439</note></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_17" uly="0" ulx="0" lry="2370" lrx="1575">
+			<graphic url="Abl_1981_2__S__0017.tif" width="1575px" height="2370px"/>
+			<zone xml:id="facs_17_r22" ulx="122" uly="1273" lrx="918" lry="1305" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r27" ulx="124" uly="1613" lrx="1293" lry="1642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r14" ulx="120" uly="815" lrx="695" lry="848" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r20" ulx="120" uly="1127" lrx="1200" lry="1158" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r32" ulx="127" uly="1907" lrx="708" lry="1936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r15" ulx="120" uly="879" lrx="1290" lry="910" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r1" ulx="402" uly="2209" lrx="616" lry="2233" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r7" ulx="119" uly="337" lrx="192" lry="361" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r24" ulx="120" uly="1411" lrx="452" lry="1438" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r31" ulx="122" uly="1844" lrx="589" lry="1873" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r9" ulx="610" uly="50" lrx="784" lry="76" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r26" ulx="122" uly="1552" lrx="883" lry="1580" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r19" ulx="120" uly="1075" lrx="1231" lry="1106" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r33" ulx="183" uly="1946" lrx="1297" lry="1977" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r13" ulx="208" uly="737" lrx="1125" lry="768" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r34" ulx="183" uly="1994" lrx="1131" lry="2022" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r17" ulx="120" uly="977" lrx="1287" lry="1006" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r12" ulx="120" uly="616" lrx="302" lry="643" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r30" ulx="124" uly="1763" lrx="1131" lry="1795" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r23" ulx="124" uly="1327" lrx="1141" lry="1358" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r4" ulx="120" uly="141" lrx="206" lry="165" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r18" ulx="174" uly="1025" lrx="245" lry="1049" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r0" ulx="120" uly="2209" lrx="396" lry="2234" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r21" ulx="122" uly="1213" lrx="397" lry="1242" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r2" ulx="1258" uly="2207" lrx="1289" lry="2228" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r29" ulx="122" uly="1709" lrx="972" lry="1739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r16" ulx="178" uly="923" lrx="1009" lry="955" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r6" ulx="118" uly="250" lrx="1154" lry="286" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r10" ulx="118" uly="460" lrx="387" lry="484" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r8" ulx="122" uly="52" lrx="597" lry="81" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r5" ulx="118" uly="202" lrx="679" lry="234" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r3" ulx="1215" uly="116" lrx="1286" lry="138" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r28" ulx="183" uly="1659" lrx="531" lry="1688" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r25" ulx="127" uly="1471" lrx="1025" lry="1499" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_17_r11" ulx="120" uly="535" lrx="1079" lry="566" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_18" uly="0" ulx="0" lry="2371" lrx="1582">
+			<graphic url="Abl_1981_2__S__0018.tif" width="1582px" height="2371px"/>
+			<zone xml:id="facs_18_r25" ulx="283" uly="1562" lrx="1461" lry="1593" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r13" ulx="929" uly="697" lrx="1371" lry="724" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r9" ulx="389" uly="595" lrx="504" lry="622" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r30" ulx="279" uly="1785" lrx="1461" lry="1814" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r2" ulx="341" uly="264" lrx="1465" lry="295" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r15" ulx="842" uly="797" lrx="1193" lry="828" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r26" ulx="283" uly="1608" lrx="1463" lry="1639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r28" ulx="281" uly="1695" lrx="1459" lry="1726" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r0" ulx="287" uly="133" lrx="358" lry="154" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r19" ulx="354" uly="1072" lrx="962" lry="1103" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r11" ulx="844" uly="593" lrx="1373" lry="622" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r20" ulx="343" uly="1154" lrx="1206" lry="1186" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r12" ulx="846" uly="650" lrx="1298" lry="679" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r17" ulx="341" uly="906" lrx="1465" lry="935" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r1" ulx="287" uly="212" lrx="1265" lry="243" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r10" ulx="710" uly="600" lrx="816" lry="623" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r8" ulx="341" uly="547" lrx="689" lry="575" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r21" ulx="285" uly="1437" lrx="435" lry="1463" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r24" ulx="636" uly="1520" lrx="1459" lry="1548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r3" ulx="339" uly="308" lrx="1465" lry="340" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r33" ulx="283" uly="1916" lrx="1450" lry="1948" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r22" ulx="340" uly="1518" lrx="389" lry="1543" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r32" ulx="285" uly="1870" lrx="1462" lry="1904" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r35" ulx="283" uly="2006" lrx="1464" lry="2038" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r7" ulx="339" uly="497" lrx="998" lry="524" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r34" ulx="283" uly="1962" lrx="1456" lry="1993" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r36" ulx="282" uly="2050" lrx="1459" lry="2080" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r31" ulx="283" uly="1831" lrx="1461" lry="1860" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r29" ulx="281" uly="1739" lrx="1461" lry="1770" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r14" ulx="848" uly="745" lrx="1409" lry="775" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r5" ulx="343" uly="398" lrx="1463" lry="428" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r4" ulx="345" uly="352" lrx="1465" lry="384" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r18" ulx="341" uly="947" lrx="698" lry="978" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r27" ulx="277" uly="1652" lrx="1459" lry="1681" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r23" ulx="414" uly="1520" lrx="625" lry="1545" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r6" ulx="339" uly="445" lrx="1379" lry="475" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_18_r16" ulx="846" uly="852" lrx="1434" lry="879" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_19" uly="0" ulx="0" lry="2372" lrx="1572">
+			<graphic url="Abl_1981_2__S__0019.tif" width="1572px" height="2372px"/>
+			<zone xml:id="facs_19_r17" ulx="175" uly="958" lrx="1286" lry="989" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r7" ulx="173" uly="506" lrx="1287" lry="536" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r30" ulx="179" uly="1552" lrx="1292" lry="1584" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r5" ulx="118" uly="381" lrx="1284" lry="413" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r37" ulx="181" uly="1867" lrx="1248" lry="1895" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r18" ulx="175" uly="1008" lrx="615" lry="1035" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r34" ulx="175" uly="1732" lrx="1295" lry="1763" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r4" ulx="175" uly="337" lrx="1292" lry="368" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r9" ulx="114" uly="596" lrx="1291" lry="626" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r38" ulx="118" uly="1917" lrx="1292" lry="1949" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r28" ulx="177" uly="1467" lrx="1293" lry="1496" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r0" ulx="1212" uly="112" lrx="1284" lry="134" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r32" ulx="177" uly="1644" lrx="1293" lry="1673" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r3" ulx="113" uly="285" lrx="485" lry="314" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r21" ulx="180" uly="1144" lrx="1292" lry="1174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r26" ulx="116" uly="1377" lrx="1290" lry="1406" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r29" ulx="179" uly="1511" lrx="1293" lry="1540" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r8" ulx="114" uly="550" lrx="1286" lry="582" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r12" ulx="175" uly="735" lrx="1287" lry="767" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r14" ulx="177" uly="825" lrx="1288" lry="855" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r39" ulx="183" uly="1963" lrx="1291" lry="1993" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r23" ulx="180" uly="1233" lrx="1292" lry="1264" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r11" ulx="118" uly="696" lrx="1288" lry="723" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r24" ulx="181" uly="1277" lrx="1292" lry="1308" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r16" ulx="175" uly="915" lrx="1290" lry="944" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r20" ulx="183" uly="1102" lrx="1289" lry="1131" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r27" ulx="175" uly="1421" lrx="1294" lry="1451" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r2" ulx="114" uly="239" lrx="1290" lry="270" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r40" ulx="181" uly="2007" lrx="1292" lry="2039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r10" ulx="118" uly="644" lrx="469" lry="670" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r33" ulx="177" uly="1688" lrx="1282" lry="1720" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r22" ulx="181" uly="1190" lrx="1291" lry="1219" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r6" ulx="118" uly="431" lrx="298" lry="456" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r13" ulx="175" uly="781" lrx="1292" lry="810" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r36" ulx="183" uly="1819" lrx="1292" lry="1851" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r25" ulx="181" uly="1323" lrx="911" lry="1351" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r15" ulx="173" uly="869" lrx="1287" lry="900" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r31" ulx="173" uly="1600" lrx="1295" lry="1631" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r35" ulx="177" uly="1777" lrx="1291" lry="1806" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r19" ulx="120" uly="1056" lrx="1288" lry="1085" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r41" ulx="177" uly="2051" lrx="1294" lry="2082" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_19_r1" ulx="118" uly="198" lrx="1290" lry="227" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_20" uly="0" ulx="0" lry="2369" lrx="1578">
+			<graphic url="Abl_1981_2__S__0020.tif" width="1578px" height="2369px"/>
+			<zone xml:id="facs_20_r10" ulx="279" uly="645" lrx="1457" lry="680" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r20" ulx="276" uly="1127" lrx="1236" lry="1160" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r37" ulx="329" uly="1891" lrx="1446" lry="1926" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r40" ulx="325" uly="2025" lrx="1450" lry="2059" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r38" ulx="326" uly="1935" lrx="1448" lry="1970" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r17" ulx="280" uly="993" lrx="1452" lry="1027" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r34" ulx="329" uly="1756" lrx="1455" lry="1791" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r11" ulx="280" uly="693" lrx="1458" lry="727" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r2" ulx="339" uly="243" lrx="1459" lry="281" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r33" ulx="323" uly="1712" lrx="1448" lry="1747" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r1" ulx="341" uly="202" lrx="1463" lry="236" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r26" ulx="335" uly="1435" lrx="1457" lry="1471" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r24" ulx="335" uly="1352" lrx="1452" lry="1384" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r28" ulx="331" uly="1529" lrx="1457" lry="1564" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r22" ulx="275" uly="1260" lrx="1455" lry="1295" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r13" ulx="281" uly="783" lrx="608" lry="811" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r8" ulx="277" uly="547" lrx="1242" lry="581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r31" ulx="330" uly="1660" lrx="1069" lry="1692" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r7" ulx="279" uly="504" lrx="1459" lry="536" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r9" ulx="335" uly="600" lrx="1459" lry="634" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r25" ulx="333" uly="1393" lrx="1442" lry="1429" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r32" ulx="268" uly="1710" lrx="308" lry="1736" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r16" ulx="280" uly="950" lrx="1457" lry="986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r4" ulx="335" uly="368" lrx="1461" lry="403" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r21" ulx="331" uly="1206" lrx="1090" lry="1239" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r3" ulx="337" uly="291" lrx="869" lry="320" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r0" ulx="285" uly="118" lrx="356" lry="139" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r30" ulx="328" uly="1616" lrx="1448" lry="1651" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r6" ulx="283" uly="458" lrx="1459" lry="493" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r5" ulx="280" uly="412" lrx="1459" lry="448" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r27" ulx="330" uly="1485" lrx="1448" lry="1518" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r14" ulx="337" uly="860" lrx="1455" lry="895" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r19" ulx="277" uly="1083" lrx="1452" lry="1116" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r18" ulx="277" uly="1043" lrx="1456" lry="1074" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r23" ulx="334" uly="1304" lrx="1452" lry="1340" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r36" ulx="324" uly="1848" lrx="1446" lry="1881" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r39" ulx="327" uly="1979" lrx="1446" lry="2015" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r15" ulx="278" uly="908" lrx="1455" lry="941" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r29" ulx="327" uly="1570" lrx="1450" lry="1605" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r41" ulx="326" uly="2068" lrx="1444" lry="2102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r35" ulx="328" uly="1802" lrx="1444" lry="1836" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_20_r12" ulx="284" uly="735" lrx="1459" lry="772" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_21" uly="0" ulx="0" lry="2371" lrx="1578">
+			<graphic url="Abl_1981_2__S__0021.tif" width="1578px" height="2371px"/>
+			<zone xml:id="facs_21_r17" ulx="127" uly="958" lrx="1298" lry="987" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r36" ulx="329" uly="1891" lrx="525" lry="1918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r35" ulx="122" uly="1891" lrx="322" lry="1919" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r34" ulx="125" uly="1758" lrx="792" lry="1787" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r0" ulx="1219" uly="120" lrx="1292" lry="141" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r29" ulx="181" uly="1498" lrx="1296" lry="1528" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r12" ulx="183" uly="697" lrx="1298" lry="729" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r38" ulx="606" uly="2020" lrx="854" lry="2045" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r14" ulx="183" uly="789" lrx="1122" lry="818" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r21" ulx="125" uly="1135" lrx="1296" lry="1166" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r37" ulx="608" uly="1966" lrx="1134" lry="1994" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r4" ulx="127" uly="343" lrx="1292" lry="374" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r41" ulx="971" uly="2064" lrx="1146" lry="2091" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r20" ulx="120" uly="1089" lrx="1298" lry="1121" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r26" ulx="125" uly="1354" lrx="1298" lry="1386" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r31" ulx="127" uly="1589" lrx="1295" lry="1618" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r5" ulx="183" uly="389" lrx="1294" lry="417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r3" ulx="179" uly="293" lrx="958" lry="324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r8" ulx="183" uly="522" lrx="1294" lry="550" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r24" ulx="127" uly="1270" lrx="1298" lry="1298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r27" ulx="126" uly="1400" lrx="1298" lry="1431" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r32" ulx="125" uly="1633" lrx="1116" lry="1663" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r15" ulx="181" uly="868" lrx="1295" lry="897" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r33" ulx="181" uly="1712" lrx="1297" lry="1743" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r1" ulx="179" uly="204" lrx="1292" lry="236" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r18" ulx="125" uly="1002" lrx="1296" lry="1031" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r2" ulx="185" uly="247" lrx="1293" lry="278" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r13" ulx="183" uly="743" lrx="1296" lry="772" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r6" ulx="180" uly="433" lrx="1295" lry="462" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r10" ulx="181" uly="608" lrx="1293" lry="640" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r9" ulx="181" uly="566" lrx="1295" lry="597" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r25" ulx="129" uly="1312" lrx="1299" lry="1343" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r16" ulx="126" uly="914" lrx="1296" lry="943" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r19" ulx="120" uly="1045" lrx="1296" lry="1076" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r30" ulx="127" uly="1543" lrx="1294" lry="1574" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r22" ulx="127" uly="1181" lrx="1298" lry="1210" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r11" ulx="183" uly="656" lrx="1295" lry="685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r28" ulx="125" uly="1445" lrx="1252" lry="1477" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r40" ulx="971" uly="2018" lrx="1300" lry="2045" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r39" ulx="614" uly="2064" lrx="808" lry="2088" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r23" ulx="127" uly="1223" lrx="1297" lry="1254" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_21_r7" ulx="183" uly="477" lrx="1294" lry="507" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1005" facs="#facs_17"/>
+			<p>
+				<add place="above" type="remark">
+					<lb facs="#facs_17_r8"/>Antrag des Regierungsrates vom <date when="1981-05-06">6. Mai
+              1981</date></add>
+			</p>
+			<p>
+				<lb facs="#facs_17_r10"/>Der Kantonsrat,</p>
+			<p>
+				<lb facs="#facs_17_r11"/>nach Einsichtnahme in einen Antrag des Regierungsrates,</p>
+			<p>
+				<lb facs="#facs_17_r12"/>beschliesst:</p>
+			<p>
+				<lb facs="#facs_17_r13"/>I. Der kantonale Gesamtplan wird wie folgt geändert:</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_17_r14"/>1. Siedlungs- und Landschaftsplan</head>
+				<p>
+					<lb facs="#facs_17_r15"/>a) Maschwanden: Umwandlung von Bauentwicklungsgebiet in Land<lb break="no" facs="#facs_17_r16"/>wirtschaftsgebiet und Anpassung des Baugebietes.</p>
+				<p>
+					<lb facs="#facs_17_r17"/>b) Illnau-Effretikon: Abtausch von Baugebiet und
+              Bauentwicklungsge<lb break="no" facs="#facs_17_r18"/>biet.</p>
+				<p>
+					<lb facs="#facs_17_r19"/>c) Hüntwangen: Umwandlung von Uebrigem Gebiet in Baugebiet.</p>
+				<p>
+					<lb facs="#facs_17_r20"/>d) Volketswil: Erweiterung des Gebietes für
+            Materialgewinnung.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_17_r21"/>2. Verkehrsplan</head>
+				<p>
+					<lb facs="#facs_17_r22"/>a) Urdorf: Aufnahme Werkhof N20 (geplant).</p>
+				<p>
+					<lb facs="#facs_17_r23"/>b) Maur/Zollikon: neue Linienführung der Umfahrung Binz.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_17_r24"/>3. Versorgungsplan</head>
+				<p>
+					<lb facs="#facs_17_r25"/>Buch am Irchel: Aufnahme Funk- und Aussichtsturm.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_17_r26"/>4. Plan der öffentlichen Bauten und Anlagen</head>
+				<p>
+					<lb facs="#facs_17_r27"/>a) Zürich: Börse, Streichung des heutigen und Aufnahme eines
+              neuen<lb facs="#facs_17_r28"/>Standortes (geplant).</p>
+				<p>
+					<lb facs="#facs_17_r29"/>b) Stadel: Aufnahme Brandübungsplatz (geplant).</p>
+				<p>
+					<lb facs="#facs_17_r30"/>c) Horgen: Streichung des Standortes für eine Mittelschule.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_17_r31"/>5. Bericht zum Gesamtplan</head>
+				<p>
+					<lb facs="#facs_17_r32"/>a) Zusatz zu Ziffer 3.3.3.1 Abs. 2:</p>
+				<p>
+					<lb facs="#facs_17_r33"/>In Urdorf ist an der N20 ein neuer Werkhof für die Gebiete<lb facs="#facs_17_r34"/>Limmattal/Knonaueramt und Gubrist/Milchbuck geplant.</p>
+				<pb n="1006" facs="#facs_18"/>
+				<p>
+					<lb facs="#facs_18_r1"/>b) Tabelle zum Plan der öffentlichen Bauten und Anlagen</p>
+				<p>
+					<lb facs="#facs_18_r2"/>- Abschnitt A, Stadt Zürich, V Börse, Kol.
+              Objekt/Sachbereich,<lb facs="#facs_18_r3"/>neuer Text: V/RP Börse/Öffentliche
+            Verwaltung und Justiz; Kol. b),<lb facs="#facs_18_r4"/>Text: Neubau zur Erfüllung der
+            Raumbedürfnisse durch Verlegung<lb facs="#facs_18_r5"/>auf Areal Selnaustrasse 36; Kol.
+            d), Text: Erhaltung des Börsenplat<lb break="no" facs="#facs_18_r6"/>zes Zürich; Kol.
+            f1), neuer Text: Ausführungsbeginn ca. 1984.</p>
+				<p>
+					<lb facs="#facs_18_r7"/>- Abschnitt A, Unterland, neues Feld:</p>
+				<table rows="3" cols="3">
+					<row>
+						<cell cols="2">
+							<lb facs="#facs_18_r8"/>V Brandübungsplatz</cell>
+						<cell/>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_18_r9"/>Stadel,
+                </cell>
+						<cell>
+							<lb facs="#facs_18_r10"/>Staat,
+                </cell>
+						<cell>
+							<lb facs="#facs_18_r10"/>a) § 24 FP/FWG, § 18 FWVO
+                </cell>
+					</row>
+					<row>
+						<cell/>
+						<cell/>
+						<cell>
+							<lb facs="#facs_18_r12"/>b) Spezialistenausbildung<lb facs="#facs_18_r13"/>(Ausbildungskoordination)
+                </cell>
+					</row>
+					<row>
+						<cell/>
+						<cell/>
+						<cell>
+							<lb facs="#facs_18_r14"/>e) Bau von Ausbildungsanlagen
+                </cell>
+					</row>
+					<row>
+						<cell/>
+						<cell/>
+						<cell>
+							<lb facs="#facs_18_r15"/>f 1) Baubeginn 1982
+                </cell>
+					</row>
+					<row>
+						<cell/>
+						<cell/>
+						<cell>
+							<lb facs="#facs_18_r16"/>f 2) Fr. 700000 .- ohne Landerwerb
+                </cell>
+					</row>
+				</table>
+				<p>
+					<lb facs="#facs_18_r17"/>- Abschnitt B, Zimmerberg: Streichung der Zeile M
+              Kantonsschule<lb facs="#facs_18_r18"/>Zimmerberg, Horgen</p>
+				<p>
+					<lb facs="#facs_18_r19"/>II. Veröffentlichung im Amtsblatt.</p>
+				<p>
+					<lb facs="#facs_18_r20"/>III. Mitteilung an den Regierungsrat zum Vollzug.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_18_r21"/>Weisung</head>
+				<p>
+					<lb facs="#facs_18_r22"/>Am <date when="1978-07-10">10. Juli 1978</date> hat der
+            Kantonsrat den kantonalen Gesamtplan<lb facs="#facs_18_r25"/>festgesetzt. Er ist nach §
+            9 Abs. 2 des Planungs- und Baugesetzes (PBG)<lb facs="#facs_18_r26"/>wie alle Planungen
+            neuen Erkenntnissen und Entwicklungen anzupas<lb break="no" facs="#facs_18_r27"/>sen,
+            soweit Rechtssicherheit und Billigkeit es zulassen. Änderungen<lb facs="#facs_18_r28"/>oder Ergänzungen der Richtpläne sind namentlich vorzunehmen, wenn<lb facs="#facs_18_r29"/>sich die Verhältnisse geändert haben, wenn aufgrund näherer
+              Abklärun<lb break="no" facs="#facs_18_r30"/>gen bessere Lösungen möglich sind oder
+            wenn im Lauf der Zeit neue<lb facs="#facs_18_r31"/>Aufgaben zur Festsetzungsreife
+            gebracht werden konnten (vgl. auch<lb facs="#facs_18_r32"/>Art. 9 Abs. 2 des
+            Bundesgesetzes über die Raumplanung, RPG). Nach<lb facs="#facs_18_r33"/>dem PBG erfolgen
+            Änderungen und Ergänzungen von Richtplänen im<lb facs="#facs_18_r34"/>gleichen Verfahren
+            wie die erstmalige Festsetzung (§§ 33 und 34 PBG).<lb facs="#facs_18_r35"/>Im
+            Zusammenhang mit Änderungen, die ohnehin im förmlichen Ver<lb break="no" facs="#facs_18_r36"/>fahren vor sich gehen müssen, drängt es sich auf, auch in solchen
+            Fällen</p>
+				<pb n="1007" facs="#facs_19"/>
+				<p>
+					<lb facs="#facs_19_r1"/>formelle Änderungen vorzunehmen, in denen allenfalls - zufolge
+              unter<lb break="no" facs="#facs_19_r2"/>geordneter Bedeutung - an sich formlose
+            Abweichungen (§ 16 Abs. 2<lb facs="#facs_19_r3"/>PBG) möglich wären.</p>
+				<p>
+					<lb facs="#facs_19_r4"/>Der Inhalt der vorgeschlagenen Änderungen und Ergänzungen ist<lb facs="#facs_19_r5"/>aus dem beantragten Beschluss und den zugehörigen
+              Planausschnitten<lb facs="#facs_19_r6"/>ersichtlich.</p>
+				<p>
+					<lb facs="#facs_19_r7"/>1. Bei den vier beantragten Änderungen des Siedlungs- und
+              Land<lb break="no" facs="#facs_19_r8"/>schaftsplanes handelt es sich um Anpassungen,
+            die sich bei der Erarbei<lb break="no" facs="#facs_19_r9"/>tung der Ortsplanungsrevision
+            der betreffenden Gemeinden als sinnvoll<lb facs="#facs_19_r10"/>herausgestellt
+            haben.</p>
+				<p>
+					<lb facs="#facs_19_r11"/>a) In Maschwanden erscheint es als unzweckmässig, bisher
+              eingezontes<lb facs="#facs_19_r12"/>Land als Bauentwicklungsgebiet beizubehalten,
+            obwohl dies weder<lb facs="#facs_19_r13"/>dem Wunsch der Gemeinde noch dem Willen des
+              Grundeigentümers<lb facs="#facs_19_r14"/>entspricht. Im Rahmen der erstmaligen
+            Planfestsetzung wurde ähnli<lb break="no" facs="#facs_19_r15"/>chen Begehren von
+            Landwirten, die ihr Land für die weitere land<lb break="no" facs="#facs_19_r16"/>wirtschaftliche Bewerbung sichern wollten, in zahlreichen Fällen mit<lb facs="#facs_19_r17"/>der Umteilung ins Landwirtschaftsgebiet entsprochen. Sie
+              erscheint<lb facs="#facs_19_r18"/>auch hier als zweckmässig.</p>
+				<p>
+					<lb facs="#facs_19_r19"/>b) Das in der Gemeinde Hüntwangen östlich der SBB-Linie und<lb facs="#facs_19_r20"/>angrenzend an das Baugebiet von Eglisau ausgeschiedene Uebrige<lb facs="#facs_19_r21"/>Gebiet müsste in der Nutzungsplanung zur Reservezone werden.
+              Da<lb facs="#facs_19_r22"/>dies einer sinnvollen Koordination der Groberschliessung
+            mit der<lb facs="#facs_19_r23"/>Realisierung der Umfahrung von Eglisau im Wege stehen
+            würde, ist<lb facs="#facs_19_r24"/>eine Ausdehnung des Baugebietes - die hier lagemässig
+            nur zu<lb facs="#facs_19_r25"/>Industriezone führen kann - zweckmässiger.</p>
+				<p>
+					<lb facs="#facs_19_r26"/>c) In Illnau-Effretikon, Ortsteil Effretikon, liegt die einzige
+              Industrie<lb break="no" facs="#facs_19_r27"/>zonenreserve im Gebiet Vogelsang. Sie
+            steht aber auf absehbare<lb facs="#facs_19_r28"/>Zeit nicht für eine Überbauung zur
+            Verfügung, weil der Grundeigen<lb break="no" facs="#facs_19_r29"/>tümer seinen
+            Landwirtschaftsbetrieb auf längere Sicht weiterzufüh<lb break="no" facs="#facs_19_r30"/>ren beabsichtigt. Er hat sich deshalb unter Verzicht auf Ansprüche<lb facs="#facs_19_r31"/>irgendwelcher Art mit einer Zuteilung zur Reservezone
+              einverstan<lb break="no" facs="#facs_19_r32"/>den erklärt. Es erscheint deshalb als
+            zweckmässig, hier Bauentwick<lb break="no" facs="#facs_19_r33"/>lungsgebiet
+            auszuscheiden und dafür das Bauentwicklungsgebiet im<lb facs="#facs_19_r34"/>Langhag zu
+            Baugebiet zu erklären. Industriebauten könnten hier<lb facs="#facs_19_r35"/>eine
+            erwünschte Abschirmung der bestehenden anschliessenden<lb facs="#facs_19_r36"/>Wohnüberbauung gegen die Autobahn-Immissionen bilden; der<lb facs="#facs_19_r37"/>Verlust an Landwirtschaftsfläche wäre an diesem Ort vertretbar.</p>
+				<p>
+					<lb facs="#facs_19_r38"/>d) Das in der Gemeinde Volketswil bei Gutenswil
+              ausgeschiedene<lb facs="#facs_19_r39"/>Gebiet für Materialgewinnung erscheint aufgrund
+            einer nachträglich<lb facs="#facs_19_r40"/>durchgeführten Überprüfung als unzweckmässig
+            eng abgegrenzt. Es<lb facs="#facs_19_r41"/>hat sich ergeben, dass sich mit einer
+            Ausweitung des Abbauperime-</p>
+				<pb n="1008" facs="#facs_20"/>
+				<p>
+					<lb facs="#facs_20_r1"/>ters erhebliche Verbesserungen zugunsten des Immissions- und
+              des<lb facs="#facs_20_r2"/>Landschaftsschutzes erzielen lassen, die bei der heutigen
+              engen<lb facs="#facs_20_r3"/>Abgrenzung nicht möglich sind.</p>
+				<p>
+					<lb facs="#facs_20_r4"/>2. Zum Verkehrsplan wird die ergänzende Aufnahme eines Werk<lb break="no" facs="#facs_20_r5"/>hofes an der N20 am nördlichen Rand des industriell
+            genutzten Bauge<lb break="no" facs="#facs_20_r6"/>bietes im Bergermoos, Gemeinde Urdorf,
+            vorgeschlagen. Diese Ergän<lb break="no" facs="#facs_20_r7"/>zung ist durch eine
+            Überprüfung der Bedürfnisse für den Strassenunter<lb break="no" facs="#facs_20_r8"/>halt
+            und die strassenpolizeiliche Überwachung begründet.</p>
+				<p>
+					<lb facs="#facs_20_r9"/>Anderseits hat sich bei der Umfahrung Binz, Gemeinde Maur,
+              die<lb facs="#facs_20_r10"/>einen Teil der Querverbindung Zollikerberg-Hegnau bildet,
+            die vorge<lb break="no" facs="#facs_20_r11"/>sehene Tunnellösung als nicht realisierbar
+            erwiesen. Aus verschiedenen<lb facs="#facs_20_r12"/>Varianten ist die neu vorgeschlagene
+            Linienführung als optimale Lösung<lb facs="#facs_20_r13"/>ausgewählt worden.</p>
+				<p>
+					<lb facs="#facs_20_r14"/>3. In den Versorgungsplan soll die Funksendeanlage
+              aufgenommen<lb facs="#facs_20_r15"/>werden, die auf dem geplanten neuen Aussichtsturm
+            auf dem Irchel,<lb facs="#facs_20_r16"/>Gemeinde Buch a. I ., vorgesehen ist. Die
+            Gemeindeversammlung der<lb facs="#facs_20_r17"/>Standortgemeinde hat dem Bau dieses
+            neuen Turmes mit Antennenmast<lb facs="#facs_20_r18"/>zugestimmt; raumplanerisch handelt
+            es sich um eine Anlage von kanto<lb break="no" facs="#facs_20_r19"/>naler Bedeutung. Die
+            kantonale Natur- und Heimatschutzkommission<lb facs="#facs_20_r20"/>beurteilt die
+            Wirkung auf das Landschaftsbild als tragbar.</p>
+				<p>
+					<lb facs="#facs_20_r21"/>4. Plan der öffentlichen Bauten und Anlagen</p>
+				<p>
+					<lb facs="#facs_20_r22"/>a) In diesem Plan ist 1978 die Börse am jetzigen Standort an
+              der<lb facs="#facs_20_r23"/>Talstrasse in Zürich ohne Angabe von Investitions- oder
+              Verlegungs<lb break="no" facs="#facs_20_r24"/>absichten eingetragen worden. Beim
+            ebenfalls im Plan enthaltenen<lb facs="#facs_20_r25"/>Kriegskommissariat wurde die
+            Möglichkeit einer Verlegung im<lb facs="#facs_20_r26"/>Bericht erwähnt. Es erscheint als
+            richtig, die beabsichtigte Börsen<lb break="no" facs="#facs_20_r27"/>verlegung und
+            weitere Verwaltungsbereiche sowie nicht am heutigen<lb facs="#facs_20_r28"/>Ort
+            erweiterbare Zweige der Justiz an den bisherigen Standort des<lb facs="#facs_20_r29"/>Kriegskommissariates als Gesamtplanänderung festzulegen, da eine<lb facs="#facs_20_r30"/>solche Planänderung im Rahmen der anderen beantragten Revisio<lb break="no" facs="#facs_20_r31"/>nen nicht mehr als unzumutbar gelten kann.</p>
+				<p>
+					<lb facs="#facs_20_r32"/>b)<lb facs="#facs_20_r33"/>Im Gemeindegebiet Stadel soll im
+            Bereich des dort ausgeschiedenen<lb facs="#facs_20_r34"/>Materialgewinnungsgebietes
+            nördlich von Windlach ein kantonaler<lb facs="#facs_20_r35"/>Brandübungsplatz bezeichnet
+            werden. Die Erstellung einer solchen<lb facs="#facs_20_r36"/>zentralen Anlage entspricht
+            einem dringenden Bedürfnis einer den<lb facs="#facs_20_r37"/>Anforderungen an eine
+            wirksame Brandbekämpfung gerecht wer<lb break="no" facs="#facs_20_r38"/>denden
+            Ausbildung der Feuerwehren, insbesondere der Kader und<lb facs="#facs_20_r39"/>der
+            Spezialisten. Einen Übungsplatz zu ermitteln und die planungs<lb break="no" facs="#facs_20_r40"/>rechtlichen Festlegungen dafür zu treffen, erscheint aufgrund
+              der<lb facs="#facs_20_r41"/>Zuständigkeit der kantonalen Gebäudeversicherung für die
+            Ord-</p>
+				<pb n="1009" facs="#facs_21"/>
+				<p>
+					<lb facs="#facs_21_r1"/>nung und Überwachung der Feuerwehrausbildung als kantonale<lb facs="#facs_21_r2"/>Aufgabe. Der vorgesehene Standort hat sich von einer Vielzahl<lb facs="#facs_21_r3"/>geprüfter Plätze am zweckmässigsten erwiesen.</p>
+				<p>
+					<lb facs="#facs_21_r4"/>c) Für eine künftige Mittelschule Zimmerberg ist 1978 in Horgen
+              ein<lb facs="#facs_21_r5"/>Standort bezeichnet worden. Das noch nicht im Besitz des
+              Kantons<lb facs="#facs_21_r6"/>befindliche Areal für dieses Vorhaben war bereits 1977
+            durch eine<lb facs="#facs_21_r7"/>Planungszone vorsorglich gesichert worden. Diese
+              vorsorgliche<lb facs="#facs_21_r8"/>Sicherung müsste nun durch definitive Massnahmen
+            abgelöst wer<lb break="no" facs="#facs_21_r9"/>den. Nach den Planungsunterlagen der
+            Erziehungsdirektion steht<lb facs="#facs_21_r10"/>jedoch heute fest, dass bis weit über
+            das Jahr 2000 hinaus kein<lb facs="#facs_21_r11"/>Bedarf für eine Mittelschule in Horgen
+            besteht und ausreichende<lb facs="#facs_21_r12"/>Anhaltspunkte dafür fehlen, dass am
+            linken Seeufer überhaupt je ein<lb facs="#facs_21_r13"/>Mittelschulbau sinnvoll sein
+            wird. Bei dieser Sachlage wäre es unbil<lb break="no" facs="#facs_21_r14"/>lig, die
+            Mittelschule Horgen im Gesamtplan zu belassen.</p>
+				<p>
+					<lb facs="#facs_21_r15"/>5. Im Bericht zum kantonalen Gesamtplan sind für einen Teil
+              der<lb facs="#facs_21_r16"/>beantragten Änderungen und Ergänzungen Anpassungen oder
+              Zusätze<lb facs="#facs_21_r17"/>erforderlich. Die Anhörung der nachgeordneten
+            Planungsträger gemäss<lb facs="#facs_21_r18"/>§ 33 PBG ist erfolgt. Wie erwähnt stützen
+            sich die Revisionsanträge<lb facs="#facs_21_r19"/>mehrheitlich auf Begehren der
+            Gemeindebehörden. Zum Brandübungs<lb break="no" facs="#facs_21_r20"/>platz haben sich
+            der Gemeinderat Stadel und die Planungsgruppe Zür<lb break="no" facs="#facs_21_r21"/>cher Unterland ablehnend geäussert. Die Zürcher Planungsgruppe Zim<lb break="no" facs="#facs_21_r22"/>merberg nahm aufgrund der Vernehmlassungen aller Regionsgemein<lb break="no" facs="#facs_21_r23"/>den gegen die ersatzlose Streichung des Standortes für
+            eine Mittelschule<lb facs="#facs_21_r24"/>Zimmerberg Stellung, ebenso der Dachverband
+              Regionalplanung<lb facs="#facs_21_r25"/>Zürich und Umgebung (RZU). Diese Vorbringen
+            vermögen jedoch<lb facs="#facs_21_r26"/>abweichende Anträge nicht zu rechtfertigen. In
+            den übrigen Fällen sind<lb facs="#facs_21_r27"/>keine Einwände, sondern lediglich
+            Vorbehalte angebracht worden, die<lb facs="#facs_21_r28"/>gegebenenfalls bei der
+            Realisierung zu berücksichtigen sein werden.</p>
+				<p>
+					<lb facs="#facs_21_r29"/>Der Bericht über die - gegebenenfalls - nicht
+              berücksichtigten<lb facs="#facs_21_r30"/>Einwendungen kann dagegen erst nach der
+            öffentlichen Auflage nach<lb facs="#facs_21_r31"/>§ 34 PBG entworfen werden, die nach
+            erfolgter Beratung der Vorlage<lb facs="#facs_21_r32"/>durch die Raumplanungskommission
+            anzuordnen sein wird.</p>
+				<p>
+					<lb facs="#facs_21_r33"/>Der Regierungsrat beantragt dem Kantonsrat, der Teilrevision
+              des<lb facs="#facs_21_r34"/>kantonalen Gesamtplanes zuzustimmen.</p>
+				<p>
+					<lb facs="#facs_21_r35"/>Zürich, den <date when="1981-05-06">6. Mai 1981</date></p>
+				<p>
+					<lb facs="#facs_21_r37"/>Im Namen des Regierungsrates</p>
+				<p>
+					<lb facs="#facs_21_r38"/>Der Präsident:<lb facs="#facs_21_r39"/>Wiederkehr</p>
+				<p>
+					<lb facs="#facs_21_r40"/>Der Staatsschreiber:<lb facs="#facs_21_r41"/>Roggwiller</p>
+			</div>
+		</body></text></TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] vom 19. März 1980</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-05-13">13.05.1980</date><ident>StAZH ABl 1980 (S. 560)</ident><idno>560</idno><idno type="issue">37</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131858"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_561" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0561.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_561_r10" ulx="393" uly="835" lrx="889" lry="870" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r36" ulx="289" uly="2212" lrx="1577" lry="2257" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r37" ulx="290" uly="2260" lrx="1252" lry="2303" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r34" ulx="291" uly="2099" lrx="439" lry="2128" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r29" ulx="295" uly="1837" lrx="700" lry="1871" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r23" ulx="301" uly="1510" lrx="775" lry="1545" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r3" ulx="864" uly="341" lrx="1135" lry="372" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r16" ulx="306" uly="1150" lrx="1582" lry="1193" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r18" ulx="303" uly="1250" lrx="1258" lry="1292" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r25" ulx="297" uly="1622" lrx="1577" lry="1667" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r26" ulx="300" uly="1675" lrx="652" lry="1705" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r32" ulx="294" uly="2002" lrx="1579" lry="2046" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r1" ulx="417" uly="237" lrx="1495" lry="283" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r14" ulx="393" uly="1058" lrx="1589" lry="1100" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r0" ulx="313" uly="139" lrx="381" lry="164" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r39" ulx="1395" uly="2281" lrx="1558" lry="2312" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r6" ulx="308" uly="597" lrx="1579" lry="641" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r40" ulx="288" uly="2314" lrx="743" lry="2345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r20" ulx="296" uly="1362" lrx="1589" lry="1405" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r17" ulx="300" uly="1202" lrx="1585" lry="1245" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r12" ulx="307" uly="945" lrx="1587" lry="985" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r35" ulx="375" uly="2164" lrx="1570" lry="2208" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r21" ulx="299" uly="1416" lrx="1581" lry="1458" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r13" ulx="307" uly="991" lrx="749" lry="1025" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r27" ulx="383" uly="1743" lrx="1564" lry="1784" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r5" ulx="309" uly="552" lrx="1591" lry="591" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r38" ulx="1266" uly="2279" lrx="1379" lry="2311" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r8" ulx="308" uly="697" lrx="1591" lry="739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r30" ulx="377" uly="1910" lrx="1581" lry="1949" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r19" ulx="387" uly="1316" lrx="1583" lry="1357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r22" ulx="300" uly="1462" lrx="1579" lry="1507" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r11" ulx="393" uly="893" lrx="1593" lry="935" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r2" ulx="766" uly="343" lrx="837" lry="371" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r15" ulx="303" uly="1104" lrx="1587" lry="1149" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r4" ulx="389" uly="504" lrx="1593" lry="543" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r33" ulx="291" uly="2052" lrx="1575" lry="2096" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r24" ulx="387" uly="1577" lrx="1583" lry="1617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r9" ulx="310" uly="749" lrx="463" lry="778" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r28" ulx="296" uly="1787" lrx="1577" lry="1833" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r31" ulx="294" uly="1958" lrx="1572" lry="2000" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_561_r7" ulx="308" uly="650" lrx="1592" lry="689" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="560" facs="#facs_561"/>
+			<p>
+				<lb facs="#facs_561_r4"/>Der Regierungsrat hat als Ordinarius für Medizinische<lb facs="#facs_561_r5"/>Mikrobiologie und Direktor des Instituts für Medizinische<lb facs="#facs_561_r6"/>Mikrobiologie Professor Dr. Alexander von Graevenitz, in New<lb facs="#facs_561_r7"/>Haven, USA, gewählt. Direktor des Instituts für Immunologie<lb facs="#facs_561_r8"/>und Virologie wird Professor Dr. Jean Lindenmann, in Gock<lb break="no" facs="#facs_561_r9"/>hausen.</p>
+			<p>
+				<lb facs="#facs_561_r10"/>Es sind gewählt worden:<lb facs="#facs_561_r11"/>als Hauptlehrer für Biologie und Chemie an der Kantons<lb break="no" facs="#facs_561_r12"/>schule Riesbach Zürich: Dr. Rudolf Leutert, von Zürich und<lb facs="#facs_561_r13"/>Uetikon, in Küsnacht;</p>
+			<p>
+				<lb facs="#facs_561_r14"/>an der Kantonsschule Limmattal: als Hauptlehrer für<lb facs="#facs_561_r15"/>Mathematik und Darstellende Geometrie: Thomas Wildi, Dipl.</p>
+			<p>
+				<lb facs="#facs_561_r16"/>Math. ETH, von Reinach AG, in Bonstetten; als Hauptlehrerin<lb facs="#facs_561_r17"/>für Zeichnen mit halber Lehrverpflichtung: Hanni Roeckle,<lb facs="#facs_561_r18"/>dipl. Zeichenlehrerin, von Vaduz FL, in Zürich;</p>
+			<p>
+				<lb facs="#facs_561_r19"/>am Oberseminar Zürich: als Hauptlehrer für Pädagogik,<lb facs="#facs_561_r20"/>Psychologie in Verbindung mit Allgemeiner Didaktik: Peter<lb facs="#facs_561_r21"/>Hinnen, lic. phil ., von Rümlang, in Zürich; als Hauptlehrer für<lb facs="#facs_561_r22"/>Turnen und Turndidaktik: Peter Nuttli, dipl. Turnlehrer, von<lb facs="#facs_561_r23"/>Ilanz GR, in Buchs AG;</p>
+			<p>
+				<lb facs="#facs_561_r24"/>als Hauptlehrer für Physik und Mathematik an der Kan<lb break="no" facs="#facs_561_r25"/>tonsschule Enge Zürich: Robert Leidenix, Dipl. Phys. ETH, von<lb facs="#facs_561_r26"/>Aarau, in Zürich;</p>
+			<p>
+				<lb facs="#facs_561_r27"/>als Hauptlehrer für Mathematik und Physik am Technikum<lb facs="#facs_561_r28"/>Winterthur: Heinzpeter Hablützel, dipl. math ., von Wilchingen<lb facs="#facs_561_r29"/>SH, in Andelfingen;</p>
+			<p>
+				<lb facs="#facs_561_r30"/>als Steuerkommissare beim Steueramt: Hans Peter Alber<lb break="no" facs="#facs_561_r31"/>tin, von Wartau SG, in Bülach; Margrith Grebner-Dietsche, von<lb facs="#facs_561_r32"/>Oberriet SG, in Maur; Egon Studer, von Winterthur und Ober<lb break="no" facs="#facs_561_r33"/>hof AG, in Egg; Urs Lehner, von Zürich und Stilli AG, in<lb facs="#facs_561_r34"/>Zürich.</p>
+			<p>
+				<lb facs="#facs_561_r35"/>Dr. Walter Angehrn, Oberarzt an der Medizinischen Klinik<lb facs="#facs_561_r36"/>des Universitätsspitals, wird entsprechend seinem Gesuch unter<lb facs="#facs_561_r37"/>Verdankung der geleisteten Dienste auf Ende März aus dem<lb facs="#facs_561_r40"/>Staatsdienst entlassen.</p>
+		</body></text></TEI>

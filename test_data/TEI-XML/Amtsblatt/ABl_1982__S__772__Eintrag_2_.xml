@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 159. Sitzung. Montag, 22. Februar
+              1982, 9.15 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-07-02">02.07.1982</date><ident>StAZH ABl 1982 (S. 772, Eintrag 2)</ident><idno>772</idno><idno type="issue">29</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132723"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_84" uly="0" ulx="0" lry="2400" lrx="1589">
+			<graphic url="Abl_1982_2__S__0084.tif" width="1589px" height="2400px"/>
+			<zone xml:id="facs_84_r30" ulx="305" uly="1720" lrx="1303" lry="1751" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r22" ulx="304" uly="1272" lrx="429" lry="1299" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r23" ulx="435" uly="1277" lrx="596" lry="1301" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r1" ulx="433" uly="229" lrx="1359" lry="267" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r35" ulx="304" uly="1864" lrx="1484" lry="1896" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r26" ulx="485" uly="1597" lrx="850" lry="1628" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r3" ulx="834" uly="327" lrx="1038" lry="354" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r36" ulx="306" uly="1906" lrx="873" lry="1937" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r32" ulx="306" uly="1820" lrx="717" lry="1848" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r28" ulx="1159" uly="1597" lrx="1313" lry="1626" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r34" ulx="1115" uly="1822" lrx="1487" lry="1850" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r6" ulx="302" uly="493" lrx="1488" lry="522" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r17" ulx="304" uly="1020" lrx="544" lry="1045" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r15" ulx="304" uly="920" lrx="1355" lry="952" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r10" ulx="308" uly="683" lrx="1487" lry="710" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r4" ulx="306" uly="393" lrx="721" lry="421" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r29" ulx="312" uly="1668" lrx="569" lry="1694" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r0" ulx="308" uly="143" lrx="367" lry="168" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r20" ulx="305" uly="1183" lrx="1486" lry="1212" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r12" ulx="304" uly="779" lrx="1486" lry="808" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r16" ulx="304" uly="974" lrx="1488" lry="1006" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r13" ulx="304" uly="824" lrx="1378" lry="852" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r7" ulx="304" uly="539" lrx="1486" lry="568" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r24" ulx="302" uly="1324" lrx="1377" lry="1355" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r5" ulx="308" uly="449" lrx="1488" lry="480" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r21" ulx="299" uly="1227" lrx="1490" lry="1258" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r11" ulx="304" uly="731" lrx="508" lry="754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r18" ulx="306" uly="1087" lrx="1474" lry="1116" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r9" ulx="306" uly="637" lrx="1486" lry="666" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r14" ulx="304" uly="877" lrx="1484" lry="904" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r25" ulx="524" uly="1502" lrx="1278" lry="1535" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r31" ulx="307" uly="1774" lrx="1488" lry="1805" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r19" ulx="306" uly="1131" lrx="1103" lry="1158" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r2" ulx="752" uly="331" lrx="811" lry="354" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r8" ulx="304" uly="583" lrx="475" lry="610" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r27" ulx="861" uly="1597" lrx="1149" lry="1628" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_84_r33" ulx="761" uly="1822" lrx="1084" lry="1850" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="772" facs="#facs_84"/>
+			<p>
+				<lb facs="#facs_84_r29"/>1. Mitteilungen<lb facs="#facs_84_r30"/>Staatsrechtliche
+            Beschwerde gegen das Unterhaltungsgesetz<lb facs="#facs_84_r31"/>Wie bereits früher
+            bekanntgegeben wurde, hat das Bundesgericht mit<lb facs="#facs_84_r32"/>Präsidialverfügung vom <date when="1982-02-04">4. Februar 1982</date> der
+              staatsrechtlichen<lb facs="#facs_84_r35"/>Beschwerde Bänziger betreffend das
+            Unterhaltungsgewerbegesetz die<lb facs="#facs_84_r36"/>aufschiebende Wirkung
+            entzogen.</p>
+		</body></text></TEI>

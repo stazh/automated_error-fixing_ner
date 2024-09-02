@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-03-15">15.03.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 88. Sitzung. Montag, 1. Dezember
+                1980, 8.15 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-03-06">06.03.1981</date><ident>StAZH ABl 1981 (S. 427)</ident><idno>427</idno><idno type="issue">10</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132217"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_428" uly="0" ulx="0" lry="2370" lrx="1591">
+			<graphic url="Abl_1981_1__S__0428.tif" width="1591px" height="2370px"/>
+			<zone xml:id="facs_428_r34" ulx="1030" uly="1554" lrx="1111" lry="1581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r18" ulx="338" uly="925" lrx="650" lry="956" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r17" ulx="122" uly="927" lrx="316" lry="954" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r7" ulx="126" uly="523" lrx="594" lry="552" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r14" ulx="1132" uly="796" lrx="1299" lry="822" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r29" ulx="877" uly="1367" lrx="1155" lry="1396" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r39" ulx="118" uly="1750" lrx="435" lry="1774" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r40" ulx="114" uly="1794" lrx="1289" lry="1824" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r3" ulx="654" uly="350" lrx="971" lry="378" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r22" ulx="123" uly="1083" lrx="640" lry="1110" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r37" ulx="117" uly="1638" lrx="1280" lry="1670" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r42" ulx="114" uly="1894" lrx="711" lry="1922" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r9" ulx="124" uly="612" lrx="750" lry="640" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r11" ulx="125" uly="700" lrx="412" lry="731" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r13" ulx="923" uly="798" lrx="1126" lry="824" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r36" ulx="118" uly="1594" lrx="1287" lry="1626" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r41" ulx="112" uly="1842" lrx="300" lry="1870" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r20" ulx="124" uly="992" lrx="537" lry="1021" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r21" ulx="120" uly="1038" lrx="1292" lry="1067" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r33" ulx="123" uly="1550" lrx="1018" lry="1581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r35" ulx="1126" uly="1557" lrx="1292" lry="1582" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r0" ulx="1240" uly="170" lrx="1292" lry="193" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r44" ulx="815" uly="1896" lrx="1292" lry="1926" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r6" ulx="126" uly="479" lrx="1295" lry="510" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r2" ulx="296" uly="348" lrx="646" lry="377" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r12" ulx="127" uly="792" lrx="904" lry="822" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r24" ulx="120" uly="1181" lrx="1040" lry="1209" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r47" ulx="884" uly="1942" lrx="1288" lry="1970" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r27" ulx="120" uly="1309" lrx="1121" lry="1342" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r19" ulx="658" uly="927" lrx="1155" lry="958" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r46" ulx="521" uly="1940" lrx="863" lry="1968" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r1" ulx="307" uly="250" lrx="1123" lry="286" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r49" ulx="112" uly="2040" lrx="729" lry="2071" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r43" ulx="719" uly="1896" lrx="809" lry="1924" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r23" ulx="118" uly="1133" lrx="1294" lry="1166" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r45" ulx="118" uly="1940" lrx="477" lry="1968" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r10" ulx="128" uly="654" lrx="1301" lry="689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r15" ulx="125" uly="835" lrx="1301" lry="868" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r32" ulx="123" uly="1463" lrx="312" lry="1488" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r38" ulx="118" uly="1684" lrx="439" lry="1712" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r30" ulx="1161" uly="1371" lrx="1292" lry="1398" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r8" ulx="123" uly="566" lrx="1296" lry="597" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r25" ulx="118" uly="1265" lrx="984" lry="1298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r26" ulx="1015" uly="1271" lrx="1298" lry="1299" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r48" ulx="116" uly="1980" lrx="685" lry="2010" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r16" ulx="125" uly="877" lrx="1293" lry="911" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r31" ulx="123" uly="1411" lrx="923" lry="1440" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r4" ulx="980" uly="350" lrx="1136" lry="378" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r28" ulx="123" uly="1365" lrx="863" lry="1396" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_428_r5" ulx="126" uly="437" lrx="645" lry="465" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="427" facs="#facs_428"/>
+			<p>
+				<lb facs="#facs_428_r5"/>Antworten auf Kleine Anfragen</p>
+			<p>
+				<lb facs="#facs_428_r6"/>Kantonsrat Paul Remund (FDP, Wallisellen) betreffend den
+                Betten<lb break="no" facs="#facs_428_r7"/>überschuss in den Spitälern;</p>
+			<p>
+				<lb facs="#facs_428_r8"/>Prof. Dr. Karin Reiner (SP, Wallisellen) betreffend Italie<lb break="no" facs="#facs_428_r9"/>nischunterricht an den Mittelschulen;</p>
+			<p>
+				<lb facs="#facs_428_r10"/>Kaspar Gelb (CVP, Zürich) betreffend die
+                Multikomponentendeponie<lb facs="#facs_428_r11"/>Hanegg, Horgen.</p>
+			<p>
+				<lb facs="#facs_428_r12"/>2. Bericht und Antrag des Regierungsrates vom <date when="1980-07-02">2. Juli 1980,</date> Amtsblatt<lb facs="#facs_428_r15"/>1980,
+              Textteil, Seite 889, zur Volksinitiative Demokratie auch bei der<lb facs="#facs_428_r16"/>Oberlandautobahn (Teilstück Uster; gleichlautender Antrag der
+                Kom<lb break="no" facs="#facs_428_r17"/>mission vom <date when="1980-10-30">30.
+                Oktober 1980)</date> (Fortsetzung der Beratungen)</p>
+			<p>
+				<lb facs="#facs_428_r20"/>Abstimmungsempfehlung</p>
+			<p>
+				<lb facs="#facs_428_r21"/>91 Ratsmitglieder empfehlen, die Initiative abzulehnen, 58
+                Ratsmitglie<lb break="no" facs="#facs_428_r22"/>der stimmen für eine Ja-Parole</p>
+			<p>
+				<lb facs="#facs_428_r23"/>Die Vorlage geht an den Regierungsrat zur Ansetzung der
+                Volksabstimm<lb facs="#facs_428_r24"/>mung und zur Abfassung des Beleuchtenden
+              Berichtes.</p>
+			<p>
+				<lb facs="#facs_428_r25"/>3. Interpellation Paul Stopper (LdU, Uster) vom <date when="1980-08-18">18. August 1980</date><lb facs="#facs_428_r27"/>betreffend
+              Kehrichttransporte mit der Bahn (Beantwortung)</p>
+			<p>
+				<lb facs="#facs_428_r28"/>Regierungsrat A. Sigrist beantwortet die am <date when="1980-10-13">13. Oktober 1980</date> begrün<lb break="no" facs="#facs_428_r31"/>dete Interpellation namens des Regierungsrates.</p>
+			<p>
+				<lb facs="#facs_428_r32"/>Diskussion.</p>
+			<p>
+				<lb facs="#facs_428_r33"/>4. Bewilligung von Nachtragskrediten für das Jahr <date when="1980">1980</date> III. Serie<lb facs="#facs_428_r36"/>(Bericht und Antrag des
+              Regierungsrates, Amtsblatt 1980, Textteil,<lb facs="#facs_428_r37"/>Seite 1338, und
+              gleichlautender Antrag der Finanzkommission vom<lb facs="#facs_428_r38"/><date when="1980-11-06">6. November 1980)</date></p>
+			<p>
+				<lb facs="#facs_428_r39"/>Schlussabstimmung</p>
+			<p>
+				<lb facs="#facs_428_r40"/>Der folgende Antrag der Finanzkommission wird mit 134:2
+                Stimmen<lb facs="#facs_428_r41"/>genehmigt:</p>
+			<p>
+				<lb facs="#facs_428_r42"/>I. Den Nachtragskredit für das Jahr <date when="1980">1980,</date> III. Serie, gemäss Antrag des<lb facs="#facs_428_r45"/>Regierungsrates
+              vom <date when="1980-10-22">22. Oktober 1980,</date> im Gesamtbetrag von<lb facs="#facs_428_r48"/>Fr. 16 509 000 .- wird entsprochen.</p>
+			<p>
+				<lb facs="#facs_428_r49"/>II. Mitteilung an den Regierungsrat.</p>
+		</body></text></TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 192. Sitzung. Montag, 25. Oktober 1982, 8.15 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1983-01-14">14.01.1983</date><ident>StAZH ABl 1983 (S. 80)</ident><idno>80</idno><idno type="issue">2</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132933"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_81" uly="0" ulx="0" lry="2392" lrx="1605">
+			<graphic url="Abl_1983_1__S__0081.tif" width="1605px" height="2392px"/>
+			<zone xml:id="facs_81_r32" ulx="312" uly="1460" lrx="572" lry="1487" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r1" ulx="356" uly="216" lrx="752" lry="243" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r40" ulx="314" uly="1760" lrx="1479" lry="1792" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r5" ulx="358" uly="302" lrx="981" lry="331" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r16" ulx="302" uly="745" lrx="1480" lry="779" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r47" ulx="881" uly="2014" lrx="1219" lry="2044" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r49" ulx="316" uly="2056" lrx="1486" lry="2090" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r48" ulx="1226" uly="2012" lrx="1492" lry="2042" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r2" ulx="1221" uly="210" lrx="1473" lry="235" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r43" ulx="310" uly="1858" lrx="1493" lry="1890" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r3" ulx="356" uly="260" lrx="696" lry="287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r46" ulx="314" uly="2016" lrx="865" lry="2047" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r11" ulx="300" uly="560" lrx="1482" lry="592" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r7" ulx="1220" uly="341" lrx="1475" lry="368" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r50" ulx="316" uly="2104" lrx="660" lry="2135" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r51" ulx="669" uly="2102" lrx="1202" lry="2133" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r33" ulx="310" uly="1510" lrx="1218" lry="1541" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r13" ulx="1334" uly="604" lrx="1482" lry="632" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r27" ulx="904" uly="1221" lrx="1129" lry="1251" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r6" ulx="439" uly="350" lrx="637" lry="375" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r9" ulx="360" uly="450" lrx="1475" lry="480" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r31" ulx="1170" uly="1383" lrx="1326" lry="1412" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r15" ulx="301" uly="708" lrx="622" lry="733" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r21" ulx="306" uly="977" lrx="1482" lry="1007" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r35" ulx="314" uly="1608" lrx="754" lry="1637" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r39" ulx="1225" uly="1716" lrx="1494" lry="1744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r17" ulx="302" uly="800" lrx="460" lry="825" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r26" ulx="304" uly="1223" lrx="885" lry="1253" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r44" ulx="312" uly="1906" lrx="1165" lry="1935" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r12" ulx="300" uly="604" lrx="1313" lry="636" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r18" ulx="300" uly="835" lrx="1485" lry="867" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r4" ulx="1221" uly="256" lrx="1473" lry="280" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r36" ulx="314" uly="1671" lrx="1494" lry="1703" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r41" ulx="312" uly="1808" lrx="625" lry="1837" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r25" ulx="308" uly="1175" lrx="1486" lry="1207" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r34" ulx="312" uly="1560" lrx="1493" lry="1592" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r45" ulx="312" uly="1969" lrx="1490" lry="2001" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r0" ulx="298" uly="135" lrx="337" lry="159" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r30" ulx="856" uly="1383" lrx="1163" lry="1414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r22" ulx="304" uly="1020" lrx="1327" lry="1051" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r28" ulx="304" uly="1277" lrx="1018" lry="1308" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r20" ulx="304" uly="937" lrx="779" lry="965" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r29" ulx="477" uly="1387" lrx="850" lry="1417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r24" ulx="302" uly="1129" lrx="1484" lry="1162" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r23" ulx="304" uly="1064" lrx="1477" lry="1096" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r37" ulx="314" uly="1718" lrx="960" lry="1749" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r8" ulx="1221" uly="393" lrx="1477" lry="420" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r10" ulx="298" uly="502" lrx="619" lry="528" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r38" ulx="981" uly="1716" lrx="1218" lry="1747" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r19" ulx="302" uly="881" lrx="1294" lry="913" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r14" ulx="300" uly="654" lrx="458" lry="682" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_81_r42" ulx="633" uly="1808" lrx="1304" lry="1837" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="80" facs="#facs_81"/>
+			<p>
+				<lb facs="#facs_81_r32"/>1. Mitteilungen</p>
+			<p>
+				<lb facs="#facs_81_r33"/>Der Regierungsrat hat folgende Anfrage beantwortet:</p>
+			<p>
+				<lb facs="#facs_81_r34"/>Ernst Wohlwend (SP, Winterthur) betreffend Klage zur Aufhebung des<lb facs="#facs_81_r35"/>Vereins DLZ, Winterthur.</p>
+			<p>
+				<lb facs="#facs_81_r36"/>2. Gesetz betreffend den Strafprozess (Strafprozessordnung) (Ände<lb break="no" facs="#facs_81_r37"/>rung) (Antrag des Regierungsrates vom <date when="1981-06-17">17. Juni 1981,</date> Amtsblatt 1981,<lb facs="#facs_81_r40"/>Textteil, Seite 1173, und Antrag der Justizverwaltungskommission vom<lb facs="#facs_81_r41"/><date when="1982-09-01">1. September 1982</date> auf Rückweisung an den Regierungsrat)</p>
+			<p>
+				<lb facs="#facs_81_r43"/>Die Vorlage 2444 wird entsprechend dem Antrag der Justizverwaltungs<lb break="no" facs="#facs_81_r44"/>kommission an den Regierungsrat zurückgewiesen.</p>
+			<p>
+				<lb facs="#facs_81_r45"/>3. Gesetz betreffend Strafprozess (Strafprozessordnung) (Änderung)<lb facs="#facs_81_r46"/>(Antrag des Regierungsrates vom <date when="1981-12-30">30. Dezember 1981,</date> Amtsblatt 1982,<lb facs="#facs_81_r49"/>Textteil, Seite 160, und abgeänderter Antrag der Kommission vom<lb facs="#facs_81_r50"/><date when="1982-09-10">10. September 1982,</date> Amtsblatt, Textteil, Seite 1021)</p>
+		</body></text></TEI>

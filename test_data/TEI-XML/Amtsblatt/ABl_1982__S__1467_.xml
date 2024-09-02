@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] vom 24. November 1982</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-12-17">17.12.1982</date><ident>StAZH ABl 1982 (S. 1467)</ident><idno>1467</idno><idno type="issue">51</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132903"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_779" uly="0" ulx="0" lry="2336" lrx="1581">
+			<graphic url="Abl_1982_2__S__0779.tif" width="1581px" height="2336px"/>
+			<zone xml:id="facs_779_r48" ulx="222" uly="2125" lrx="750" lry="2157" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r27" ulx="148" uly="1331" lrx="1324" lry="1365" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r44" ulx="221" uly="2081" lrx="556" lry="2111" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r19" ulx="154" uly="935" lrx="669" lry="965" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r0" ulx="1255" uly="122" lrx="1326" lry="145" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r47" ulx="141" uly="2123" lrx="214" lry="2153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r17" ulx="155" uly="841" lrx="1326" lry="879" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r35" ulx="143" uly="1696" lrx="652" lry="1725" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r5" ulx="155" uly="372" lrx="306" lry="398" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r16" ulx="153" uly="796" lrx="1324" lry="832" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r40" ulx="621" uly="1910" lrx="926" lry="1934" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r33" ulx="143" uly="1608" lrx="1320" lry="1641" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r28" ulx="146" uly="1377" lrx="1318" lry="1409" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r34" ulx="146" uly="1654" lrx="1314" lry="1685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r31" ulx="147" uly="1519" lrx="1316" lry="1552" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r21" ulx="148" uly="1031" lrx="1324" lry="1065" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r39" ulx="540" uly="1910" lrx="597" lry="1936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r12" ulx="153" uly="612" lrx="1328" lry="647" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r15" ulx="154" uly="754" lrx="1311" lry="789" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r46" ulx="1159" uly="2092" lrx="1314" lry="2117" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r26" ulx="145" uly="1277" lrx="508" lry="1307" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r37" ulx="143" uly="1794" lrx="1314" lry="1829" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r30" ulx="146" uly="1475" lrx="1316" lry="1507" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r42" ulx="141" uly="2038" lrx="1316" lry="2071" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r43" ulx="139" uly="2079" lrx="200" lry="2109" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r13" ulx="153" uly="658" lrx="1327" lry="692" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r23" ulx="150" uly="1137" lrx="561" lry="1167" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r36" ulx="143" uly="1748" lrx="1318" lry="1780" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r14" ulx="154" uly="704" lrx="636" lry="731" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r24" ulx="150" uly="1189" lrx="1318" lry="1223" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r45" ulx="564" uly="2085" lrx="1147" lry="2115" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r2" ulx="625" uly="200" lrx="951" lry="226" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r32" ulx="146" uly="1564" lrx="1316" lry="1596" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r7" ulx="154" uly="470" lrx="1182" lry="504" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r9" ulx="154" uly="568" lrx="878" lry="601" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r25" ulx="149" uly="1235" lrx="1318" lry="1269" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r6" ulx="156" uly="425" lrx="1326" lry="458" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r22" ulx="144" uly="1075" lrx="1040" lry="1107" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r10" ulx="901" uly="573" lrx="1120" lry="604" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r18" ulx="148" uly="885" lrx="1322" lry="922" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r3" ulx="161" uly="281" lrx="1328" lry="316" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r11" ulx="1126" uly="575" lrx="1326" lry="606" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r38" ulx="142" uly="1842" lrx="311" lry="1867" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r29" ulx="150" uly="1423" lrx="1299" lry="1455" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r41" ulx="139" uly="1992" lrx="1318" lry="2026" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r20" ulx="148" uly="983" lrx="1322" lry="1018" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r4" ulx="160" uly="325" lrx="1331" lry="361" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r1" ulx="544" uly="202" lrx="604" lry="226" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_779_r8" ulx="154" uly="520" lrx="1327" lry="556" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1467" facs="#facs_779"/>
+			<p>
+				<lb facs="#facs_779_r3"/>Der Regierungsrat hat eine Vorlage zur Totalrevision des
+            Gesetzes über<lb facs="#facs_779_r4"/>das Notariatswesen (Notariatsgesetz) zuhanden des
+            Kantonsrates verab<lb break="no" facs="#facs_779_r5"/>schiedet.<lb facs="#facs_779_r6"/>Die Versicherungssummen der Gebäudeversicherung für 1983 wurden<lb facs="#facs_779_r7"/>auf 735 Prozent des Gebäudebasiswertes von 1939 festgesetzt.<lb facs="#facs_779_r8"/>Der Regierungsrat hat der Stiftung Kongresshaus Zürich die Bewilli<lb break="no" facs="#facs_779_r9"/>gung erteilt, als Kursaalunternehmung vom <date when="1983-04-01">1. April 1983</date> an im Kon<lb break="no" facs="#facs_779_r12"/>gresshaus Zürich
+            das Boulespiel zu betreiben. Die Einrichtung eines<lb facs="#facs_779_r13"/>Spielkasinos
+            wird in erster Linie als Massnahme zur Förderung des<lb facs="#facs_779_r14"/>Fremdenverkehrs betrachtet.<lb facs="#facs_779_r15"/>Prof. Dr. Alexander A. Borbély,
+            von Küsnacht, in Zürich, wurde zum<lb facs="#facs_779_r16"/>Extraordinarius ad personam
+            für Pharmakologie an der Medizinischen<lb facs="#facs_779_r17"/>Fakultät der Universität
+            gewählt. Er ist seit 1975 Assistenzprofessor für<lb facs="#facs_779_r18"/>Pharmakologie,
+            speziell Psychopharmakologie. Eines seiner Spezial<lb break="no" facs="#facs_779_r19"/>gebiete ist die Schlafforschung.<lb facs="#facs_779_r20"/>Bei der Jugendanwaltschaft
+            Zürich wurde Susi Thürer-Reber, lic. iur .,<lb facs="#facs_779_r21"/>von Chur und
+            Valzeina, in Zürich, zur Jugendanwältin gewählt. Sie ist<lb facs="#facs_779_r22"/>seit
+            1981 ausserordentliche Jugendanwältin in Zürich.<lb facs="#facs_779_r23"/>Es sind
+            gewählt worden:<lb facs="#facs_779_r24"/>Als Hauptlehrer für elektrotechnische Fächer am
+            Technikum Winter<lb break="no" facs="#facs_779_r25"/>thur: Heinz Baltensperger, Dipl. El
+            .- Ing. ETH, von Nürensdorf und<lb facs="#facs_779_r26"/>Zürich, in Mellingen;<lb facs="#facs_779_r27"/>beim Statistischen Amt: als Sekretär: Heinrich Hedinger, von
+              Urdorf<lb facs="#facs_779_r28"/>und Birmensdorf, in Urdorf; als Ständiger
+            wissenschaftlicher Mitarbei<lb break="no" facs="#facs_779_r29"/>ter: Peter Bösch, lic.
+            rer. pol ., von Nesslau SG und Zürich, in Maur;<lb facs="#facs_779_r30"/>beim Steueramt:
+            als Steuerkommissäre: Albert Wismer, von Kloten, in<lb facs="#facs_779_r31"/>Horgen;
+            Robert Senn, von Adliswil, in Dübendorf; Jakob Schöchli, von<lb facs="#facs_779_r32"/>Elgg, in Laufen-Uhwiesen; Fritz Hirter, von Mühlethurnen BE, in<lb facs="#facs_779_r33"/>Bülach; Clemens Dudli, von Oberbüren SG, in Zürich; als
+              Revisoren:<lb facs="#facs_779_r34"/>Eugen Senn, von Bäretswil und Wetzikon, in Lindau;
+            Samuel Hitz, von<lb facs="#facs_779_r35"/>Zürich und Hütten, in Zürich;<lb facs="#facs_779_r36"/>als Sekretär bei der Finanzdirektion,
+              Direktionssekretariat/Abteilung<lb facs="#facs_779_r37"/>Aus- und Weiterbildung:
+            Robert Brun, lic. phil. I, von Luzern, in<lb facs="#facs_779_r38"/>Kilchberg.</p>
+		</body></text></TEI>

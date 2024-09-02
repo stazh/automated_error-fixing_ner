@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Beschluss des Kantonsrates über die Erwahrung der Ergebnisse der kantonalen Volksabstimmung vom 27. April 1980 (vom 9. Juni 1980)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-06-20">20.06.1980</date><ident>StAZH ABl 1980 (S. 699)</ident><idno>699</idno><idno type="issue">47</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131889"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_700" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0700.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_700_r16" ulx="770" uly="864" lrx="1084" lry="898" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r15" ulx="137" uly="866" lrx="731" lry="898" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r3" ulx="324" uly="339" lrx="852" lry="378" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r6" ulx="708" uly="445" lrx="961" lry="478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r35" ulx="472" uly="1904" lrx="714" lry="1936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r13" ulx="525" uly="818" lrx="756" lry="848" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r19" ulx="133" uly="964" lrx="772" lry="999" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r5" ulx="603" uly="447" lrx="685" lry="480" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r30" ulx="139" uly="1604" lrx="1425" lry="1639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r28" ulx="139" uly="1510" lrx="1423" lry="1544" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r39" ulx="1145" uly="2066" lrx="1431" lry="2094" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r17" ulx="1093" uly="862" lrx="1417" lry="894" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r8" ulx="133" uly="718" lrx="791" lry="752" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r7" ulx="547" uly="652" lrx="1014" lry="682" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r4" ulx="883" uly="333" lrx="1226" lry="376" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r25" ulx="145" uly="1327" lrx="702" lry="1359" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r36" ulx="731" uly="2008" lrx="1311" lry="2039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r12" ulx="137" uly="820" lrx="493" lry="850" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r1" ulx="452" uly="214" lrx="1108" lry="251" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r29" ulx="141" uly="1558" lrx="1425" lry="1592" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r9" ulx="831" uly="718" lrx="1101" lry="749" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r20" ulx="614" uly="1054" lrx="956" lry="1082" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r14" ulx="770" uly="814" lrx="1416" lry="846" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r27" ulx="141" uly="1458" lrx="1423" lry="1494" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r21" ulx="222" uly="1127" lrx="1413" lry="1160" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r23" ulx="137" uly="1225" lrx="1423" lry="1260" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r38" ulx="612" uly="2127" lrx="952" lry="2156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r26" ulx="227" uly="1412" lrx="1418" lry="1444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r2" ulx="136" uly="272" lrx="1410" lry="314" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r32" ulx="143" uly="1708" lrx="1095" lry="1737" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r10" ulx="1120" uly="718" lrx="1418" lry="748" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r24" ulx="139" uly="1277" lrx="1403" lry="1307" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r0" ulx="1348" uly="112" lrx="1412" lry="137" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r33" ulx="227" uly="1798" lrx="973" lry="1830" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r11" ulx="141" uly="766" lrx="1420" lry="800" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r40" ulx="1162" uly="2125" lrx="1404" lry="2153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r34" ulx="227" uly="1906" lrx="460" lry="1937" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r22" ulx="135" uly="1179" lrx="1422" lry="1212" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r37" ulx="635" uly="2066" lrx="943" lry="2097" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r18" ulx="135" uly="910" lrx="1419" lry="945" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_700_r31" ulx="145" uly="1654" lrx="1427" lry="1690" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="699" facs="#facs_700"/>
+			<p>
+				<lb facs="#facs_700_r7"/>Der Kantonsrat,</p>
+			<p>
+				<lb facs="#facs_700_r8"/>nach Einsichtnahme in den am <date when="1980-05-13">13. Mai 1980</date> im Amtsblatt,<lb facs="#facs_700_r11"/>Textteil, Seite 545 ff ., veröffentlichten Beschluss des Büros des<lb facs="#facs_700_r12"/>Kantonsrates vom <date when="1980-05-08">8. Mai 1980</date> über die Ergebnisse der kanto<lb break="no" facs="#facs_700_r15"/>nalen Volksabstimmung vom <date when="1980-04-27">27. April 1980,</date> und nach Vor<lb break="no" facs="#facs_700_r18"/>merknahme, dass innerhalb der angesetzten Frist keine Ein<lb break="no" facs="#facs_700_r19"/>sprache eingereicht worden ist,</p>
+			<p>
+				<lb facs="#facs_700_r20"/>beschliesst:</p>
+			<p>
+				<lb facs="#facs_700_r21"/>I. Die Referendumsvorlagen «Gesetz über die Verkehrs<lb break="no" facs="#facs_700_r22"/>abgaben und den Vollzug des Strassenverkehrsrechtes des<lb facs="#facs_700_r23"/>Bundes (Änderung)» und «Gesetz über das gesamte Unter<lb break="no" facs="#facs_700_r24"/>richtswesen des Kantons Zürich (Änderung)» werden als vom<lb facs="#facs_700_r25"/>Volke angenommen erklärt.</p>
+			<p>
+				<lb facs="#facs_700_r26"/>II. Von der Verwerfung der Referendumsvorlagen «Ver<lb break="no" facs="#facs_700_r27"/>fassungsgesetz über die Herabsetzung des Stimm- und Wahl<lb break="no" facs="#facs_700_r28"/>rechtsalters (Änderung von Art. 16 der Kantonsverfassung)»<lb facs="#facs_700_r29"/>und «Beschluss des Kantonsrates über die Bewilligung eines<lb facs="#facs_700_r30"/>Kredites für die Sanierung der Garwidstrasse I. Kl. Nr. 4 mit<lb facs="#facs_700_r31"/>Aufhebung des SBB-Niveauüberganges im Pilgersteg in der<lb facs="#facs_700_r32"/>Gemeinde Dürnten» wird Kenntnis genommen.</p>
+			<p>
+				<lb facs="#facs_700_r33"/>III. Mitteilung an den Regierungsrat.</p>
+			<p>
+				<lb facs="#facs_700_r34"/>Zürich, den <date when="1980-06-09">9. Juni 1980</date></p>
+			<p>
+				<lb facs="#facs_700_r36"/>Im Namen des Kantonsrates</p>
+			<p>
+				<lb facs="#facs_700_r37"/>Der Präsident:<lb facs="#facs_700_r38"/>E. Spillmann</p>
+			<p>
+				<lb facs="#facs_700_r39"/>Der Sekretär:<lb facs="#facs_700_r40"/>E. Szabel</p>
+		</body></text></TEI>

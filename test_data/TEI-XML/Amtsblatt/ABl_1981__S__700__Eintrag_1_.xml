@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-03-15">15.03.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 98. Sitzung. Montag, 2. Februar
+                1981, 14.30 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-04-30">30.04.1981</date><ident>StAZH ABl 1981 (S. 700, Eintrag 1)</ident><idno>700</idno><idno type="issue">19</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132286"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_701" uly="0" ulx="0" lry="2369" lrx="1602">
+			<graphic url="Abl_1981_1__S__0701.tif" width="1602px" height="2369px"/>
+			<zone xml:id="facs_701_r12" ulx="275" uly="583" lrx="1451" lry="611" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r34" ulx="277" uly="1466" lrx="1454" lry="1497" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r11" ulx="1099" uly="514" lrx="1270" lry="544" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r35" ulx="277" uly="1516" lrx="569" lry="1543" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r13" ulx="279" uly="629" lrx="1107" lry="658" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r42" ulx="277" uly="1887" lrx="1462" lry="1917" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r2" ulx="273" uly="268" lrx="1100" lry="296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r5" ulx="273" uly="358" lrx="471" lry="385" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r4" ulx="277" uly="310" lrx="1458" lry="338" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r46" ulx="272" uly="1975" lrx="936" lry="2007" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r14" ulx="1126" uly="627" lrx="1455" lry="656" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r15" ulx="273" uly="672" lrx="1080" lry="701" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r31" ulx="275" uly="1327" lrx="1455" lry="1356" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r47" ulx="279" uly="2029" lrx="1462" lry="2058" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r36" ulx="277" uly="1564" lrx="1458" lry="1595" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r18" ulx="275" uly="768" lrx="1443" lry="798" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r6" ulx="494" uly="354" lrx="846" lry="383" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r30" ulx="275" uly="1281" lrx="796" lry="1312" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r3" ulx="1118" uly="268" lrx="1463" lry="295" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r43" ulx="275" uly="1933" lrx="337" lry="1960" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r41" ulx="276" uly="1823" lrx="398" lry="1847" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r21" ulx="270" uly="879" lrx="1454" lry="910" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r20" ulx="1120" uly="835" lrx="1455" lry="865" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r38" ulx="273" uly="1679" lrx="1458" lry="1707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r26" ulx="467" uly="1141" lrx="819" lry="1171" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r40" ulx="275" uly="1773" lrx="1458" lry="1806" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r48" ulx="273" uly="2073" lrx="556" lry="2102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r7" ulx="853" uly="352" lrx="1455" lry="384" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r24" ulx="1218" uly="977" lrx="1456" lry="1006" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r1" ulx="273" uly="222" lrx="1453" lry="251" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r22" ulx="273" uly="925" lrx="819" lry="954" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r10" ulx="815" uly="514" lrx="1093" lry="544" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r19" ulx="275" uly="835" lrx="1101" lry="865" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r16" ulx="1107" uly="672" lrx="1453" lry="701" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r9" ulx="456" uly="514" lrx="807" lry="544" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r45" ulx="705" uly="1929" lrx="1461" lry="1960" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r37" ulx="275" uly="1610" lrx="1082" lry="1641" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r39" ulx="273" uly="1721" lrx="1147" lry="1752" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r44" ulx="354" uly="1931" lrx="696" lry="1961" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r23" ulx="275" uly="977" lrx="1182" lry="1008" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r25" ulx="269" uly="1023" lrx="1193" lry="1054" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r49" ulx="275" uly="2125" lrx="1437" lry="2156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r27" ulx="828" uly="1141" lrx="1102" lry="1171" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r33" ulx="275" uly="1418" lrx="579" lry="1444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r28" ulx="1109" uly="1139" lrx="1266" lry="1169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r32" ulx="277" uly="1368" lrx="1458" lry="1402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r8" ulx="275" uly="402" lrx="771" lry="431" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r17" ulx="275" uly="718" lrx="771" lry="747" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r0" ulx="279" uly="141" lrx="329" lry="162" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_701_r29" ulx="279" uly="1231" lrx="531" lry="1259" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="700" facs="#facs_701"/>
+			<p>
+				<lb facs="#facs_701_r12"/>2. Gesetz über den Bau und den Unterhalt der öffentlichen
+                Strassen<lb facs="#facs_701_r13"/>(Strassengesetz) (Antrag des Regierungsrates vom
+                <date when="1978-12-28">28. Dezember 1978</date><lb facs="#facs_701_r15"/>und
+              abgeänderter Antrag der Kommission vom <date when="1980-11-24">24. November
+                1980)</date><lb facs="#facs_701_r17"/>(Fortsetzung der Beratungen)</p>
+			<p>
+				<lb facs="#facs_701_r18"/>Die Vorlage ist durchberaten. Sie geht an die
+              Redaktionskommission.</p>
+			<p>
+				<lb facs="#facs_701_r19"/>3. Interpellation Heini Bloch (SP, Schlieren) vom <date when="1980-09-29">29. September 1980</date><lb facs="#facs_701_r21"/>betreffend das
+              Lehrverhältnis von drei Hilfslehrern an der Kantons<lb break="no" facs="#facs_701_r22"/>schule Wiedikon (Beantwortung)</p>
+			<p>
+				<lb facs="#facs_701_r23"/>Regierungsrat Dr. A. Gilgen beantwortet die am <date when="--09-15">15. September</date><lb facs="#facs_701_r25"/>begründete
+              Interpellation namens des Regierungsrates.</p>
+		</body></text></TEI>

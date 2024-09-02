@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-18">18.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Ersatzwahlen in Bezirksbehörden und in die Kirchensynode</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-08-15">15.08.1980</date><ident>StAZH ABl 1980 (S. 859-860)</ident><idno>859–860</idno><idno type="issue">58</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131935"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_123" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0123.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_123_r15" ulx="137" uly="989" lrx="1437" lry="1026" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r32" ulx="218" uly="1962" lrx="767" lry="1996" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r21" ulx="887" uly="1518" lrx="1154" lry="1549" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r19" ulx="469" uly="1348" lrx="1097" lry="1388" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r20" ulx="222" uly="1514" lrx="850" lry="1548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r23" ulx="133" uly="1560" lrx="1433" lry="1595" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r26" ulx="135" uly="1708" lrx="618" lry="1739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r7" ulx="141" uly="587" lrx="1439" lry="621" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r2" ulx="229" uly="345" lrx="1430" lry="379" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r3" ulx="147" uly="393" lrx="1437" lry="427" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r38" ulx="214" uly="2331" lrx="908" lry="2364" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r29" ulx="162" uly="1795" lrx="521" lry="1823" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r12" ulx="141" uly="827" lrx="1447" lry="863" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r5" ulx="142" uly="489" lrx="1440" lry="523" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r31" ulx="218" uly="1912" lrx="1095" lry="1947" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r37" ulx="214" uly="2283" lrx="1227" lry="2318" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r9" ulx="143" uly="683" lrx="1437" lry="718" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r36" ulx="215" uly="2222" lrx="902" lry="2259" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r22" ulx="1170" uly="1522" lrx="1433" lry="1550" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r0" ulx="1371" uly="177" lrx="1436" lry="202" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r17" ulx="137" uly="1085" lrx="943" lry="1119" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r16" ulx="137" uly="1037" lrx="1435" lry="1071" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r30" ulx="218" uly="1847" lrx="616" lry="1878" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r4" ulx="143" uly="441" lrx="1437" lry="473" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r28" ulx="1006" uly="1714" lrx="1356" lry="1744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r14" ulx="222" uly="939" lrx="1439" lry="974" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r34" ulx="217" uly="2097" lrx="787" lry="2130" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r13" ulx="137" uly="881" lrx="1015" lry="912" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r25" ulx="133" uly="1656" lrx="1425" lry="1692" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r6" ulx="144" uly="537" lrx="1431" lry="571" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r8" ulx="145" uly="635" lrx="1439" lry="669" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r24" ulx="132" uly="1608" lrx="1425" lry="1644" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r11" ulx="141" uly="779" lrx="1435" lry="815" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r18" ulx="376" uly="1285" lrx="1183" lry="1324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r1" ulx="581" uly="266" lrx="1006" lry="297" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r27" ulx="645" uly="1710" lrx="995" lry="1741" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r33" ulx="218" uly="2041" lrx="841" lry="2073" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r35" ulx="220" uly="2145" lrx="748" lry="2179" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_123_r10" ulx="141" uly="733" lrx="1437" lry="767" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_124" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0124.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_124_r2" ulx="400" uly="325" lrx="1193" lry="362" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r9" ulx="402" uly="789" lrx="1033" lry="823" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r0" ulx="310" uly="187" lrx="372" lry="211" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r26" ulx="750" uly="1814" lrx="1072" lry="1846" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r18" ulx="406" uly="1339" lrx="989" lry="1371" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r7" ulx="397" uly="660" lrx="1392" lry="692" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r35" ulx="1175" uly="2227" lrx="1595" lry="2257" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r22" ulx="409" uly="1612" lrx="1081" lry="1648" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r5" ulx="339" uly="547" lrx="706" lry="577" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r20" ulx="410" uly="1468" lrx="930" lry="1502" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r27" ulx="1085" uly="1810" lrx="1617" lry="1844" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r37" ulx="1295" uly="2337" lrx="1472" lry="2364" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r28" ulx="325" uly="1856" lrx="1625" lry="1895" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r24" ulx="410" uly="1725" lrx="1188" lry="1760" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r14" ulx="406" uly="1077" lrx="1115" lry="1113" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r16" ulx="408" uly="1222" lrx="1231" lry="1257" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r25" ulx="411" uly="1816" lrx="714" lry="1848" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r10" ulx="400" uly="845" lrx="1450" lry="879" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r19" ulx="406" uly="1418" lrx="1075" lry="1451" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r33" ulx="416" uly="2145" lrx="647" lry="2179" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r1" ulx="335" uly="277" lrx="750" lry="312" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r12" ulx="400" uly="972" lrx="1156" lry="1007" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r17" ulx="406" uly="1289" lrx="1244" lry="1324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r23" ulx="408" uly="1681" lrx="937" lry="1712" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r3" ulx="397" uly="393" lrx="1380" lry="427" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r21" ulx="350" uly="1543" lrx="1620" lry="1585" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r6" ulx="395" uly="593" lrx="1077" lry="628" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r29" ulx="322" uly="1908" lrx="1619" lry="1943" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r31" ulx="318" uly="2004" lrx="1617" lry="2042" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r4" ulx="404" uly="443" lrx="937" lry="476" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r36" ulx="1206" uly="2281" lrx="1573" lry="2310" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r8" ulx="402" uly="708" lrx="1375" lry="743" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r15" ulx="345" uly="1172" lrx="711" lry="1205" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r13" ulx="408" uly="1022" lrx="1522" lry="1060" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r32" ulx="325" uly="2058" lrx="727" lry="2092" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r11" ulx="405" uly="893" lrx="870" lry="927" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r30" ulx="327" uly="1956" lrx="1625" lry="1992" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_124_r34" ulx="660" uly="2143" lrx="979" lry="2178" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="859" facs="#facs_123"/>
+			<p>
+				<lb facs="#facs_123_r20"/>Auf die Ausschreibungen vom <date when="1980-06-27">27. Juni 1980</date> im kantona<lb break="no" facs="#facs_123_r23"/>len Amtsblatt hin sind der Direktion des Innern die nach<lb break="no" facs="#facs_123_r24"/>stehenden Wahlvorschläge eingereicht worden. Sie werden<lb facs="#facs_123_r25"/>in Anwendung der §§ 70 und 71a des Gesetzes über die Wahlen<lb facs="#facs_123_r26"/>und Abstimmungen vom <date when="1955-12-04">4. Dezember 1955</date> bekanntgemacht.</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_123_r29"/>a) Bezirk Zürich:</head>
+				<p>
+					<lb facs="#facs_123_r30"/>(ein Bezirksanwalt)<lb facs="#facs_123_r31"/>Robert Huber, lic. iur ., a. o. Bezirksanwalt,<lb facs="#facs_123_r32"/>Pflugstrasse 20, Schlieren;</p>
+				<p>
+					<lb facs="#facs_123_r33"/>(ein Mitglied des Bezirksrates)<lb facs="#facs_123_r34"/>Otto Böni, Generalsekretär,<lb facs="#facs_123_r35"/>Volkmarstrasse 9, Zürich;</p>
+				<p>
+					<lb facs="#facs_123_r36"/>(ein Mitglied des Bezirksgerichts)<lb facs="#facs_123_r37"/>Ferdinand Hürlimann, lic. iur ., a. o. Ersatzrichter,<lb facs="#facs_123_r38"/>Birmensdorferstrasse 469, Zürich.</p>
+			</div>
+			<pb n="860" facs="#facs_124"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_124_r1"/>b) Bezirk Affoltern:</head>
+				<p>
+					<lb facs="#facs_124_r2"/>(ein Mitglied der Bezirkskirchenpflege)<lb facs="#facs_124_r3"/>Heidi Hartmann-Billeter, dipl. Psych./Hausfrau,<lb facs="#facs_124_r4"/>Wolserstrasse 1, Obfelden.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_124_r5"/>c) Bezirk Horgen:</head>
+				<p>
+					<lb facs="#facs_124_r6"/>(ein Mitglied des Bezirksgerichts)<lb facs="#facs_124_r7"/>Heinrich Andreas Müller, Dr. iur ., Rechtsanwalt,<lb facs="#facs_124_r8"/>Gerichtssekretär, Boglerenstrasse 46, Küsnacht;</p>
+				<p>
+					<lb facs="#facs_124_r9"/>(Präsident des Bezirksgerichts)<lb facs="#facs_124_r10"/>Bruno Suter, Dr. iur ., Bezirksrichter/Vizepräsident,<lb facs="#facs_124_r11"/>Rainstrasse 71, Zürich;</p>
+				<p>
+					<lb facs="#facs_124_r12"/>(ein Mitglied der Bezirksschulpflege)<lb facs="#facs_124_r13"/>Gina Greuter-Stauffer, Lehrerin/Logopädin und Haus<lb break="no" facs="#facs_124_r14"/>frau, Weinbergstrasse 15, Adliswil.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_124_r15"/>d) Bezirk Bülach:</head>
+				<p>
+					<lb facs="#facs_124_r16"/>(zwei Mitglieder der Bezirksschulpflege)<lb facs="#facs_124_r17"/>Heinz Kull, lic. phil. I, Berufsschullehrer,<lb facs="#facs_124_r18"/>Im Bachofen 12, Wallisellen,</p>
+				<p>
+					<lb facs="#facs_124_r19"/>Marianne Wolf-Jungi, Hausfrau,<lb facs="#facs_124_r20"/>Wibergstrasse 47, Bülach.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_124_r21"/>e) Synodalwahlkreis III, Stadt Zürich, Stadtkreise 4 und 5:</head>
+				<p>
+					<lb facs="#facs_124_r22"/>(ein Mitglied der Kirchensynode)<lb facs="#facs_124_r23"/>Robert Roth, Kontrolleur,<lb facs="#facs_124_r24"/>Hermann Greulich-Strasse 74, Zürich.</p>
+				<p>
+					<lb facs="#facs_124_r25"/>Werden bis am <date when="1980-08-22">22. August 1980</date> der Direktion des Innern<lb facs="#facs_124_r28"/>keine weiteren, von mindestens 15 Stimmberechtigten des<lb facs="#facs_124_r29"/>betreffenden Bezirkes oder Synodalwahlkreises unterzeichne<lb break="no" facs="#facs_124_r30"/>ten Wahlvorschläge eingereicht, so werden die Vorgeschlage<lb break="no" facs="#facs_124_r31"/>nen durch die in § 57 des Wahlgesetzes genannten Behörden<lb facs="#facs_124_r32"/>als gewählt erklärt.</p>
+				<p>
+					<lb facs="#facs_124_r33"/>Zürich, den <date when="1980-08-11">11. August 1980</date></p>
+				<p>
+					<lb facs="#facs_124_r35"/>Direktion des Innern<lb facs="#facs_124_r36"/>Der Stellverteter:<lb facs="#facs_124_r37"/>Gilgen</p>
+			</div>
+		</body></text></TEI>

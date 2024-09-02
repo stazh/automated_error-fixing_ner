@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-03-15">15.03.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Interkantonale Vereinbarung über Hochschulbeiträge (vom 26. November 1979)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-01-09">09.01.1981</date><ident>StAZH ABl 1981 (S. 38-41)</ident><idno>38–41</idno><idno type="issue">1</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132120"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_39" uly="0" ulx="0" lry="2367" lrx="1610">
+			<graphic url="Abl_1981_1__S__0039.tif" width="1610px" height="2367px"/>
+			<zone xml:id="facs_39_r25" ulx="289" uly="1446" lrx="1468" lry="1477" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r19" ulx="281" uly="1175" lrx="1461" lry="1203" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r45" ulx="344" uly="2058" lrx="1468" lry="2088" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r3" ulx="379" uly="366" lrx="719" lry="395" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r18" ulx="342" uly="1129" lrx="1461" lry="1159" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r16" ulx="282" uly="1031" lrx="1462" lry="1061" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r12" ulx="342" uly="864" lrx="633" lry="891" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r46" ulx="285" uly="2104" lrx="1464" lry="2134" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r42" ulx="50" uly="2066" lrx="179" lry="2085" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r39" ulx="734" uly="1937" lrx="911" lry="1961" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r21" ulx="344" uly="1273" lrx="1464" lry="1301" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r34" ulx="350" uly="1848" lrx="421" lry="1869" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r26" ulx="287" uly="1496" lrx="567" lry="1520" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r27" ulx="44" uly="1629" lrx="160" lry="1652" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r15" ulx="285" uly="987" lrx="1464" lry="1017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r2" ulx="283" uly="368" lrx="362" lry="394" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r31" ulx="738" uly="1760" lrx="909" lry="1784" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r38" ulx="348" uly="1937" lrx="421" lry="1960" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r9" ulx="296" uly="720" lrx="1464" lry="750" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r11" ulx="342" uly="818" lrx="1462" lry="848" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r41" ulx="736" uly="1981" lrx="911" lry="2005" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r37" ulx="736" uly="1896" lrx="880" lry="1918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r47" ulx="291" uly="2146" lrx="1019" lry="2175" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r22" ulx="283" uly="1316" lrx="1464" lry="1345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r14" ulx="342" uly="941" lrx="1464" lry="971" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r20" ulx="285" uly="1218" lrx="1157" lry="1247" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r7" ulx="340" uly="620" lrx="1462" lry="653" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r40" ulx="350" uly="1983" lrx="421" lry="2004" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r36" ulx="350" uly="1894" lrx="424" lry="1915" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r43" ulx="49" uly="2100" lrx="179" lry="2120" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r29" ulx="344" uly="1704" lrx="1149" lry="1734" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r4" ulx="283" uly="489" lrx="725" lry="517" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r0" ulx="287" uly="206" lrx="325" lry="230" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r5" ulx="49" uly="579" lrx="133" lry="599" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r30" ulx="347" uly="1756" lrx="417" lry="1779" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r1" ulx="286" uly="285" lrx="1374" lry="323" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r35" ulx="734" uly="1848" lrx="905" lry="1873" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r17" ulx="285" uly="1077" lrx="1370" lry="1106" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r13" ulx="47" uly="952" lrx="196" lry="973" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r28" ulx="291" uly="1623" lrx="1255" lry="1654" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r33" ulx="736" uly="1804" lrx="910" lry="1829" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r44" ulx="47" uly="2127" lrx="143" lry="2147" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r24" ulx="287" uly="1404" lrx="1464" lry="1434" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r10" ulx="341" uly="768" lrx="600" lry="792" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r32" ulx="348" uly="1804" lrx="421" lry="1827" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r8" ulx="344" uly="666" lrx="796" lry="696" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r23" ulx="287" uly="1360" lrx="1461" lry="1388" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_39_r6" ulx="342" uly="570" lrx="925" lry="599" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_40" uly="0" ulx="0" lry="2366" lrx="1605">
+			<graphic url="Abl_1981_1__S__0040.tif" width="1605px" height="2366px"/>
+			<zone xml:id="facs_40_r30" ulx="1311" uly="1696" lrx="1523" lry="1720" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r43" ulx="1311" uly="2128" lrx="1513" lry="2150" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r20" ulx="185" uly="1096" lrx="992" lry="1129" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r31" ulx="1313" uly="1734" lrx="1492" lry="1752" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r36" ulx="118" uly="1732" lrx="979" lry="1763" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r3" ulx="130" uly="371" lrx="1169" lry="402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r10" ulx="127" uly="639" lrx="1217" lry="666" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r28" ulx="122" uly="1563" lrx="1290" lry="1594" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r1" ulx="187" uly="281" lrx="1294" lry="311" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r42" ulx="1309" uly="2097" lrx="1460" lry="2122" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r11" ulx="185" uly="687" lrx="1298" lry="719" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r18" ulx="184" uly="996" lrx="1294" lry="1031" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r19" ulx="122" uly="1042" lrx="958" lry="1073" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r5" ulx="128" uly="466" lrx="1296" lry="498" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r26" ulx="179" uly="1473" lrx="1300" lry="1506" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r44" ulx="177" uly="2051" lrx="1298" lry="2082" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r8" ulx="1317" uly="635" lrx="1527" lry="654" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r9" ulx="187" uly="591" lrx="1302" lry="623" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r39" ulx="118" uly="1926" lrx="1290" lry="1957" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r13" ulx="1317" uly="821" lrx="1454" lry="846" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r4" ulx="188" uly="421" lrx="1298" lry="453" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r25" ulx="1311" uly="1521" lrx="1465" lry="1545" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r22" ulx="120" uly="1194" lrx="675" lry="1222" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r45" ulx="117" uly="2097" lrx="1297" lry="2126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r23" ulx="122" uly="1392" lrx="877" lry="1426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r0" ulx="1277" uly="200" lrx="1313" lry="224" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r40" ulx="116" uly="1974" lrx="854" lry="2003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r34" ulx="1312" uly="1828" lrx="1383" lry="1843" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r24" ulx="1311" uly="1482" lrx="1404" lry="1507" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r27" ulx="122" uly="1521" lrx="1301" lry="1551" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r12" ulx="125" uly="735" lrx="777" lry="761" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r35" ulx="179" uly="1688" lrx="1298" lry="1718" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r14" ulx="183" uly="815" lrx="1298" lry="844" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r2" ulx="128" uly="325" lrx="1298" lry="357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r46" ulx="116" uly="2138" lrx="1299" lry="2169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r29" ulx="120" uly="1609" lrx="475" lry="1636" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r7" ulx="1315" uly="600" lrx="1510" lry="624" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r6" ulx="129" uly="512" lrx="1133" lry="542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r16" ulx="127" uly="900" lrx="1297" lry="934" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r33" ulx="1309" uly="1792" lrx="1474" lry="1815" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r17" ulx="125" uly="950" lrx="650" lry="976" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r41" ulx="1311" uly="2059" lrx="1423" lry="2085" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r15" ulx="128" uly="860" lrx="1296" lry="890" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r32" ulx="1311" uly="1761" lrx="1470" lry="1779" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r38" ulx="175" uly="1884" lrx="1292" lry="1912" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r21" ulx="181" uly="1150" lrx="1294" lry="1183" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_40_r37" ulx="116" uly="1786" lrx="1286" lry="1847" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_41" uly="0" ulx="0" lry="2368" lrx="1610">
+			<graphic url="Abl_1981_1__S__0041.tif" width="1610px" height="2368px"/>
+			<zone xml:id="facs_41_r3" ulx="281" uly="385" lrx="443" lry="408" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r18" ulx="283" uly="883" lrx="1456" lry="913" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r13" ulx="45" uly="848" lrx="206" lry="869" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r9" ulx="282" uly="625" lrx="1455" lry="655" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r15" ulx="45" uly="910" lrx="187" lry="932" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r31" ulx="350" uly="1628" lrx="1009" lry="1656" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r14" ulx="45" uly="879" lrx="212" lry="899" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r30" ulx="285" uly="1580" lrx="1466" lry="1611" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r37" ulx="346" uly="1971" lrx="415" lry="1993" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r40" ulx="350" uly="2103" lrx="1466" lry="2134" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r0" ulx="279" uly="206" lrx="317" lry="229" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r7" ulx="45" uly="650" lrx="206" lry="670" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r33" ulx="344" uly="1728" lrx="640" lry="1754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r10" ulx="281" uly="671" lrx="1445" lry="699" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r20" ulx="283" uly="973" lrx="734" lry="1003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r41" ulx="350" uly="2149" lrx="940" lry="2180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r5" ulx="45" uly="592" lrx="200" lry="611" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r32" ulx="287" uly="1673" lrx="1466" lry="1707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r35" ulx="347" uly="1826" lrx="625" lry="1851" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r29" ulx="287" uly="1530" lrx="907" lry="1558" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r24" ulx="289" uly="1284" lrx="600" lry="1310" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r17" ulx="339" uly="840" lrx="1457" lry="869" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r11" ulx="281" uly="714" lrx="1460" lry="744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r12" ulx="281" uly="760" lrx="753" lry="789" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r22" ulx="344" uly="1192" lrx="1461" lry="1219" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r39" ulx="350" uly="2061" lrx="1466" lry="2091" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r1" ulx="279" uly="287" lrx="1455" lry="316" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r25" ulx="287" uly="1406" lrx="485" lry="1432" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r38" ulx="289" uly="2017" lrx="1468" lry="2046" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r21" ulx="289" uly="1108" lrx="773" lry="1140" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r16" ulx="43" uly="944" lrx="200" lry="962" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r6" ulx="50" uly="619" lrx="218" lry="641" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r34" ulx="285" uly="1776" lrx="1466" lry="1807" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r2" ulx="283" uly="333" lrx="1459" lry="363" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r8" ulx="334" uly="581" lrx="1453" lry="611" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r28" ulx="344" uly="1484" lrx="1466" lry="1512" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r19" ulx="285" uly="927" lrx="1457" lry="957" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r23" ulx="287" uly="1236" lrx="1461" lry="1264" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r36" ulx="287" uly="1886" lrx="1466" lry="1938" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r4" ulx="279" uly="502" lrx="629" lry="530" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r27" ulx="49" uly="1525" lrx="202" lry="1544" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_41_r26" ulx="49" uly="1492" lrx="185" lry="1513" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_42" uly="0" ulx="0" lry="2363" lrx="1605">
+			<graphic url="Abl_1981_1__S__0042.tif" width="1605px" height="2363px"/>
+			<zone xml:id="facs_42_r26" ulx="127" uly="1469" lrx="1299" lry="1504" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r21" ulx="1317" uly="1287" lrx="1407" lry="1310" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r24" ulx="183" uly="1383" lrx="1299" lry="1414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r32" ulx="129" uly="1639" lrx="1303" lry="1673" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r5" ulx="1309" uly="495" lrx="1503" lry="521" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r35" ulx="131" uly="1869" lrx="454" lry="1897" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r33" ulx="129" uly="1683" lrx="1303" lry="1716" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r23" ulx="126" uly="1337" lrx="352" lry="1363" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r14" ulx="179" uly="914" lrx="1304" lry="948" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r20" ulx="122" uly="1212" lrx="580" lry="1241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r36" ulx="464" uly="1864" lrx="787" lry="1893" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r19" ulx="181" uly="1162" lrx="1304" lry="1195" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r3" ulx="118" uly="370" lrx="1290" lry="402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r22" ulx="177" uly="1287" lrx="1296" lry="1318" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r11" ulx="120" uly="785" lrx="1291" lry="820" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r0" ulx="1263" uly="197" lrx="1299" lry="217" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r16" ulx="124" uly="1004" lrx="656" lry="1039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r18" ulx="1317" uly="1160" lrx="1417" lry="1186" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r9" ulx="1311" uly="745" lrx="1501" lry="771" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r25" ulx="129" uly="1425" lrx="1300" lry="1459" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r1" ulx="177" uly="283" lrx="1290" lry="315" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r7" ulx="122" uly="543" lrx="1017" lry="572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r6" ulx="179" uly="498" lrx="1292" lry="527" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r28" ulx="1323" uly="1598" lrx="1494" lry="1622" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r2" ulx="118" uly="325" lrx="1288" lry="357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r31" ulx="1140" uly="1598" lrx="1306" lry="1623" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r10" ulx="179" uly="743" lrx="1298" lry="776" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r17" ulx="129" uly="1083" lrx="867" lry="1116" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r8" ulx="121" uly="668" lrx="431" lry="698" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r12" ulx="122" uly="837" lrx="681" lry="868" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r4" ulx="122" uly="425" lrx="489" lry="450" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r27" ulx="129" uly="1525" lrx="458" lry="1552" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r13" ulx="1313" uly="914" lrx="1505" lry="940" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r30" ulx="879" uly="1598" lrx="1128" lry="1626" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r15" ulx="122" uly="956" lrx="1292" lry="990" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r29" ulx="183" uly="1598" lrx="856" lry="1627" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_42_r34" ulx="128" uly="1735" lrx="239" lry="1761" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="38" facs="#facs_39"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_39_r4"/>I. Zweck und Grundsätze</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_39_r5"/>Zweck</add>
+				</p>
+				<p>
+					<lb facs="#facs_39_r6"/>§ 1. Die Vereinbarung bezweckt,</p>
+				<p>
+					<lb facs="#facs_39_r7"/>die Nichthochschulkantone an der Finanzierung der
+                kantonalen<lb facs="#facs_39_r8"/>Hochschulen zu beteiligen;</p>
+				<p>
+					<lb facs="#facs_39_r9"/>- den freien Zugang zu den kantonalen Hochschulen nach
+                Möglichkeit<lb facs="#facs_39_r10"/>sicherzustellen;</p>
+				<p>
+					<lb facs="#facs_39_r11"/>die Gleichstellung der Studierenden der angeschlossenen
+                Kantone<lb facs="#facs_39_r12"/>zu gewährleisten.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_39_r13"/>Grundsätze</add>
+				</p>
+				<p>
+					<lb facs="#facs_39_r14"/>§ 2. Die der Vereinbarung angeschlossenen Kantone (Verein<lb break="no" facs="#facs_39_r15"/>barungskantone) leisten für ihre Studenten, welche
+              die Hochschule<lb facs="#facs_39_r16"/>eines andern der Vereinbarung angeschlossenen
+              Kantons besuchen,<lb facs="#facs_39_r17"/>einen jährlichen Beitrag an die Aufwendungen
+              der Hochschulen.</p>
+				<p>
+					<lb facs="#facs_39_r18"/>Die dieser Vereinbarung angeschlossenen Hochschulkantone
+                ver<lb break="no" facs="#facs_39_r19"/>pflichten sich, nach Möglichkeit
+              Zulassungsbeschränkungen an ihren<lb facs="#facs_39_r20"/>Hochschulen zu vermeiden;
+              vorbehalten bleibt § 13.</p>
+				<p>
+					<lb facs="#facs_39_r21"/>Sie gewähren den Studenten und Studienanwärtern aus allen
+                Verein<lb break="no" facs="#facs_39_r22"/>barungskantonen die gleiche Rechtsstellung
+              wie den Studenten und<lb facs="#facs_39_r23"/>Studienanwärtern des eigenen Kantons.
+              Die Gleichbehandlung gilt ins<lb break="no" facs="#facs_39_r24"/>besondere für die
+              Zulassung zum Studium. Die Unterschiede der Stu<lb break="no" facs="#facs_39_r25"/>diengebühren zwischen den Universitäten im bisherigen Rahmen blei<lb break="no" facs="#facs_39_r26"/>ben vorbehalten.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_39_r27"/>Beiträge</add>
+				</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_39_r28"/>II. Beiträge an die Aufwendungen der Hochschulkantone</head>
+				<p>
+					<lb facs="#facs_39_r29"/>§ 3. Der Beitrag beträgt pro Student und Jahr:</p>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_39_r30"/>1981</cell>
+						<cell>
+							<lb facs="#facs_39_r31"/>Fr. 3 000 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_39_r32"/>1982</cell>
+						<cell>
+							<lb facs="#facs_39_r33"/>Fr. 3 000 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_39_r34"/>1983</cell>
+						<cell>
+							<lb facs="#facs_39_r35"/>Fr. 3 000 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_39_r36"/>1984</cell>
+						<cell>
+							<lb facs="#facs_39_r37"/>Fr. 4 000</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_39_r38"/>1985</cell>
+						<cell>
+							<lb facs="#facs_39_r39"/>Fr. 4 000 .-</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_39_r40"/>1986</cell>
+						<cell>
+							<lb facs="#facs_39_r41"/>Fr. 5 000 .-</cell>
+					</row>
+				</table>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_39_r42"/>Zahlungs<lb break="no" facs="#facs_39_r43"/>pflichtiger<lb facs="#facs_39_r44"/>Kanton</add>
+				</p>
+				<p>
+					<lb facs="#facs_39_r45"/>§ 4. Zahlungspflichtig ist der Wohnsitzkanton eines
+              Studenten. Als<lb facs="#facs_39_r46"/>solcher gilt der Wohnsitzkanton seiner Eltern
+              bzw. der Sitz seiner<lb facs="#facs_39_r47"/>Vormundschaftsbehörde vor
+              Studienbeginn.</p>
+				<pb n="39" facs="#facs_40"/>
+				<p>
+					<lb facs="#facs_40_r1"/>Sofern der Student bei einem Aufenthalt in einem andern
+                Kanton<lb facs="#facs_40_r2"/>während mindestens zwei Jahren aufgrund eigener
+                Erwerbstätigkeit<lb facs="#facs_40_r3"/>finanziell unabhängig war, ist dieser Kanton
+              zahlungspflichtig.</p>
+				<p>
+					<lb facs="#facs_40_r4"/>Als Studenten im Sinne dieser Vereinbarung gelten in der
+                Schweiz<lb facs="#facs_40_r5"/>wohnhafte Schweizer und niedergelassene Ausländer,
+              die an einer<lb facs="#facs_40_r6"/>Hochschule eines Vereinbarungskantons
+              immatrikuliert sind.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_40_r7"/>Ermittlung der<lb facs="#facs_40_r8"/>Studentenzahlen</add>
+				</p>
+				<p>
+					<lb facs="#facs_40_r9"/>§ 5. Als Studentenzahl des Beitragsjahrs gilt der Durchschnitt
+                der<lb facs="#facs_40_r10"/>Studentenzahlen des betreffenden Winter- und
+              Sommersemesters.</p>
+				<p>
+					<lb facs="#facs_40_r11"/>Die Ermittlung der Zahlen erfolgt nach den Kriterien des
+                Schweize<lb break="no" facs="#facs_40_r12"/>rischen
+              Hochschulinformationssystems.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_40_r13"/>Verfahren</add>
+				</p>
+				<p>
+					<lb facs="#facs_40_r14"/>§ 6. Das Sekretariat der Schweizerischen
+                Hochschulkonferenz<lb facs="#facs_40_r15"/>besorgt, gestützt auf die Meldungen der
+              Hochschulkantone, den Einzug<lb facs="#facs_40_r16"/>der Beiträge bei den
+              zahlungspflichtigen Kantonen und deren Überwei<lb break="no" facs="#facs_40_r17"/>sung
+              an die Hochschulkantone.</p>
+				<p>
+					<lb facs="#facs_40_r18"/>Dem zahlungspflichtigen Kanton ist mit der Rechnung eine
+                nament<lb break="no" facs="#facs_40_r19"/>liche Liste der Studenten des Kantons
+              zuzustellen.</p>
+				<p>
+					<lb facs="#facs_40_r20"/>Die Rechnung ist innert 60 Tagen zu begleichen.<lb facs="#facs_40_r21"/>Die bezogenen Beiträge sind innert 30 Tagen an den
+                berechtigten<lb facs="#facs_40_r22"/>Hochschulkanton zu überweisen.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_40_r23"/>III. Hochschulzugang und Gleichbehandlung</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_40_r24"/>Gleich<lb break="no" facs="#facs_40_r25"/>behandlung</add>
+				</p>
+				<p>
+					<lb facs="#facs_40_r26"/>§ 7. Sofern Zulassungsbeschränkungen angeordnet werden müs<lb break="no" facs="#facs_40_r27"/>sen, geniessen die Studienanwärter und Studenten aus
+              allen Verein<lb break="no" facs="#facs_40_r28"/>barungskantonen die gleiche
+              Rechtsstellung wie diejenigen des Sitzkan<lb break="no" facs="#facs_40_r29"/>tons der
+              Hochschule.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_40_r30"/>Behandlung von<lb facs="#facs_40_r31"/>Studenten aus<lb facs="#facs_40_r32"/>Nichtverein<lb break="no" facs="#facs_40_r33"/>barungskan<lb break="no" facs="#facs_40_r34"/>tonen</add>
+				</p>
+				<p>
+					<lb facs="#facs_40_r35"/>§ 8. Studenten aus Kantonen, die dieser Vereinbarung nicht
+                beitre<lb break="no" facs="#facs_40_r36"/>ten, haben keinen Anspruch auf
+              Gleichbehandlung.</p>
+				<p>
+					<lb facs="#facs_40_r37"/>Sie werden erst zu einer Hochschule zugelassen, wenn die
+              Studenten aus Vereinbarungskantonen Aufnahme gefunden haben.</p>
+				<p>
+					<lb facs="#facs_40_r38"/>Den Studenten aus Kantonen, die dieser Vereinbarung nicht
+                beitre<lb break="no" facs="#facs_40_r39"/>ten, werden zusätzliche Gebühren
+              auferlegt, die mindestens den Beiträ<lb break="no" facs="#facs_40_r40"/>gen der
+              Vereinbarungskantone entsprechen.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_40_r41"/>Verzicht<lb facs="#facs_40_r42"/>auf Sonder<lb break="no" facs="#facs_40_r43"/>vereinbarungen</add>
+				</p>
+				<p>
+					<lb facs="#facs_40_r44"/>§ 9. Die Vereinbarungskantone verzichten auf besondere
+                Abkom<lb break="no" facs="#facs_40_r45"/>men oder Absprachen, welche dieser
+              Vereinbarung widersprechen.<lb facs="#facs_40_r46"/>Namentlich sind Vereinbarungen
+              zwischen Hochschul- und Nichthoch</p>
+				<pb n="40" facs="#facs_41"/>
+				<p>
+					<lb facs="#facs_41_r1"/>schulkantonen unstatthaft, welche den Grundsatz der
+                Gleichbehandlung<lb facs="#facs_41_r2"/>der Studenten und der Gleichberechtigung der
+                Vereinbarungskantone<lb facs="#facs_41_r3"/>verletzen.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_41_r4"/>IV. Besondere Fälle</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_41_r5"/>Kantone als<lb facs="#facs_41_r6"/>Mitträger von<lb facs="#facs_41_r7"/>Hochschulen</add>
+				</p>
+				<p>
+					<lb facs="#facs_41_r8"/>§ 10. Vereinbarungskantone, die Mitträger einer Hochschule
+                sind<lb facs="#facs_41_r9"/>und deren finanzielle Leistung an diese Hochschule die
+              Beiträge nach<lb facs="#facs_41_r10"/>Abschnitt II dieser Vereinbarung erreicht oder
+              übersteigt, haben dem<lb facs="#facs_41_r11"/>betreffenden Trägerkanton keine weiteren
+              Beiträge aufgrund dieser<lb facs="#facs_41_r12"/>Vereinbarung zu entrichten.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_41_r13"/>Kantone mit<lb facs="#facs_41_r14"/>selbständigen<lb facs="#facs_41_r15"/>Hochschul<lb break="no" facs="#facs_41_r16"/>institutionen</add>
+				</p>
+				<p>
+					<lb facs="#facs_41_r17"/>§ 11. Anerkannte selbständige Hochschulinstitutionen, die
+                von<lb facs="#facs_41_r18"/>einem Vereinbarungskanton getragen werden und der
+                akademischen<lb facs="#facs_41_r19"/>Ausbildung dienen, sind für den Bereich dieser
+              Vereinbarung den<lb facs="#facs_41_r20"/>Hochschulen gleichgestellt.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_41_r21"/>V. Fürstentum Liechtenstein</head>
+				<p>
+					<lb facs="#facs_41_r22"/>§ 12. Dieser Vereinbarung kann auch das Fürstentum
+                Liechten<lb break="no" facs="#facs_41_r23"/>stein beitreten. Ihm stehen alle Rechte
+              und Pflichten der andern Verein<lb break="no" facs="#facs_41_r24"/>barungspartner
+              zu.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_41_r25"/>VI. Organe</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_41_r26"/>Gemischte<lb facs="#facs_41_r27"/>Kommission</add>
+				</p>
+				<p>
+					<lb facs="#facs_41_r28"/>§ 13. Eine gemischte Kommission von Erziehungs- und
+                Finanzdi<lb break="no" facs="#facs_41_r29"/>rektoren aus Vereinbarungskantonen</p>
+				<p>
+					<lb facs="#facs_41_r30"/>- überwacht den Einzug und die Überweisung der Beiträge an
+                die<lb facs="#facs_41_r31"/>Aufwendungen der Hochschulkantone,</p>
+				<p>
+					<lb facs="#facs_41_r32"/>- trifft die laufenden Sachentscheide, die sich beim Vollzug
+              der Ver<lb break="no" facs="#facs_41_r33"/>einbarung stellen,</p>
+				<p>
+					<lb facs="#facs_41_r34"/>- stellt in wichtigeren Fragen Anträge an die Regierungen der
+                Verein<lb break="no" facs="#facs_41_r35"/>barungskantone,</p>
+				<p>
+					<lb facs="#facs_41_r36"/>- Regierungen der Hochschulkantone entsprechende
+                Massnahmen<lb facs="#facs_41_r37"/>vor,</p>
+				<p>
+					<lb facs="#facs_41_r38"/>- prüft vor Ablauf der Vereinbarungsdauer zu Handen der
+                Konferenz<lb facs="#facs_41_r39"/>der kantonalen Finanzdirektoren und der Konferenz
+              der kantonalen<lb facs="#facs_41_r40"/>Erziehungsdirektoren, ob eine neue Vereinbarung
+              über Hochschul<lb break="no" facs="#facs_41_r41"/>beiträge abgeschlossen werden
+              soll.</p>
+				<pb n="41" facs="#facs_42"/>
+				<p>
+					<lb facs="#facs_42_r1"/>Die Kommission wird durch die Regierungen der
+                Vereinbarungskan<lb break="no" facs="#facs_42_r2"/>tone bestellt. Sie hat sich
+              paritätisch aus Vertretern der Hochschul- und<lb facs="#facs_42_r3"/>Nichthochschulkantone zusammenzusetzen. Der Bund ist mit beraten<lb break="no" facs="#facs_42_r4"/>der Stimme vertreten.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_42_r5"/>Geschäftsstelle</add>
+				</p>
+				<p>
+					<lb facs="#facs_42_r6"/>§ 14. Das Sekretariat der Schweizerischen
+                Hochschulkonferenz<lb facs="#facs_42_r7"/>amtet als Geschäftsstelle der gemischten
+              Kommission.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_42_r8"/>VII. Rechtspflege</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_42_r9"/>Schiedsinstanz</add>
+				</p>
+				<p>
+					<lb facs="#facs_42_r10"/>§ 15. Eine von der gemischten Kommission eingesetzte
+                Schiedsin<lb break="no" facs="#facs_42_r11"/>stanz entscheidet endgültig über
+              strittige Fragen betreffend Zahlungs<lb break="no" facs="#facs_42_r12"/>pflicht eines
+              Kantons gemäss § 4.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_42_r13"/>Bundesgericht</add>
+				</p>
+				<p>
+					<lb facs="#facs_42_r14"/>§ 16. Über Streitigkeiten, die sich aus dieser Vereinbarung
+                zwi<lb break="no" facs="#facs_42_r15"/>schen Kantonen ergeben können, entscheidet
+              auf Klage hin das Bundes<lb break="no" facs="#facs_42_r16"/>gericht; vorbehalten
+              bleibt § 15.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_42_r17"/>VIII. Übergangs- und Schlussbestimmungen</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_42_r18"/>Beitritt</add>
+				</p>
+				<p>
+					<lb facs="#facs_42_r19"/>§ 17. Der Beitritt zur Vereinbarung ist der Schweizerischen
+                Hoch<lb break="no" facs="#facs_42_r20"/>schulkonferenz mitzuteilen.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_42_r21"/>Dauer</add>
+				</p>
+				<p>
+					<lb facs="#facs_42_r22"/>§ 18. . Die Vereinbarung gilt für die Dauer von sechs Jahren
+                ab<lb facs="#facs_42_r23"/>Inkrafttreten.</p>
+				<p>
+					<lb facs="#facs_42_r24"/>Die Konferenz der kantonalen Finanzdirektoren und die
+                Konferenz<lb facs="#facs_42_r25"/>der kantonalen Erziehungsdirektoren beantragen
+              zwei Jahre vor Ablauf<lb facs="#facs_42_r26"/>der Vereinbarung den Regierungen der
+              Kantone gegebenenfalls eine<lb facs="#facs_42_r27"/>neue Vereinbarung.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_42_r28"/>Inkrafttreten</add>
+				</p>
+				<p>
+					<lb facs="#facs_42_r29"/>§ 19. Die Vereinbarung tritt auf den <date when="1981-01-01">1. Januar 1981</date> in Kraft.<lb facs="#facs_42_r32"/>Bedingung für das
+              Inkrafttreten ist, dass mindestens drei Hochschulkan<lb break="no" facs="#facs_42_r33"/>tone und mindestens sieben Nichthochschulkantone den Beitritt erklärt<lb facs="#facs_42_r34"/>haben.</p>
+				<p>
+					<lb facs="#facs_42_r35"/>Zürich/Luzern, den <date when="1979-11-26">26. November
+                1979</date></p>
+			</div>
+		</body></text></TEI>

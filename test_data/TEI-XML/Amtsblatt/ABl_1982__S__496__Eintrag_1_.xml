@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] vom 24. Februar 1982</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-04-20">20.04.1982</date><ident>StAZH ABl 1982 (S. 496, Eintrag 1)</ident><idno>496</idno><idno type="issue">16</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132658"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_497" uly="0" ulx="0" lry="2396" lrx="1610">
+			<graphic url="Abl_1982_1__S__0497.tif" width="1610px" height="2396px"/>
+			<zone xml:id="facs_497_r33" ulx="285" uly="1666" lrx="586" lry="1691" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r5" ulx="295" uly="410" lrx="1474" lry="445" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r16" ulx="1119" uly="910" lrx="1309" lry="939" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r34" ulx="285" uly="1714" lrx="1461" lry="1749" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r3" ulx="298" uly="312" lrx="711" lry="343" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r20" ulx="1257" uly="1062" lrx="1428" lry="1090" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r38" ulx="283" uly="1902" lrx="759" lry="1933" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r23" ulx="782" uly="1154" lrx="957" lry="1185" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r18" ulx="296" uly="1004" lrx="479" lry="1030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r25" ulx="1288" uly="1212" lrx="1470" lry="1241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r30" ulx="287" uly="1508" lrx="1464" lry="1542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r7" ulx="296" uly="510" lrx="1474" lry="544" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r13" ulx="300" uly="806" lrx="948" lry="835" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r19" ulx="291" uly="1052" lrx="1251" lry="1087" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r32" ulx="285" uly="1616" lrx="1464" lry="1650" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r26" ulx="289" uly="1247" lrx="371" lry="1270" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r21" ulx="290" uly="1106" lrx="1469" lry="1142" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r37" ulx="283" uly="1856" lrx="1461" lry="1892" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r27" ulx="727" uly="1381" lrx="786" lry="1406" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r28" ulx="807" uly="1379" lrx="1032" lry="1405" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r6" ulx="294" uly="454" lrx="427" lry="482" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r1" ulx="704" uly="210" lrx="761" lry="234" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r14" ulx="291" uly="858" lrx="1466" lry="894" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r22" ulx="291" uly="1150" lrx="775" lry="1182" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r29" ulx="284" uly="1462" lrx="1468" lry="1496" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r10" ulx="293" uly="652" lrx="1472" lry="685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r4" ulx="298" uly="366" lrx="1478" lry="401" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r9" ulx="296" uly="608" lrx="1478" lry="641" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r24" ulx="290" uly="1200" lrx="1280" lry="1237" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r8" ulx="294" uly="550" lrx="1044" lry="583" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r2" ulx="784" uly="206" lrx="1069" lry="234" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r15" ulx="291" uly="900" lrx="1111" lry="936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r11" ulx="294" uly="691" lrx="436" lry="719" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r17" ulx="291" uly="956" lrx="1470" lry="991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r35" ulx="288" uly="1756" lrx="1466" lry="1792" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r12" ulx="295" uly="760" lrx="1457" lry="795" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r0" ulx="298" uly="122" lrx="354" lry="143" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r36" ulx="283" uly="1804" lrx="409" lry="1828" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_497_r31" ulx="288" uly="1550" lrx="690" lry="1582" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="496" facs="#facs_497"/>
+			<p>
+				<lb facs="#facs_497_r3"/>Es sind gewählt worden:<lb facs="#facs_497_r4"/>Als Prorektor
+            an der Kantonsschule Zürcher Unterland in Bülach auf<lb facs="#facs_497_r5"/>Beginn des
+            Sommersemesters 1982: Dr. Hans Keller, von Andwil SG, in<lb facs="#facs_497_r6"/>Bülach;<lb facs="#facs_497_r7"/>als Steuerkommissär bei der Direktion der Finanzen:
+            Rolf Buchegger,<lb facs="#facs_497_r8"/>von Fischingen TG, in Birchwil, Nürensdorf;<lb facs="#facs_497_r9"/>als Chefprogrammierer bei der Abteilung Datenverarbeitung der<lb facs="#facs_497_r10"/>Finanzdirektion: Bruno Dudle, von Thalwil und Oberuzwil SG,
+              in<lb facs="#facs_497_r11"/>Thalwil.</p>
+			<p>
+				<lb facs="#facs_497_r12"/>Unter Verdankung der geleisteten Dienste werden entsprechend
+              ihrem<lb facs="#facs_497_r13"/>Gesuch aus dem Staatsdienst entlassen:<lb facs="#facs_497_r14"/>Prof. Dr. Manfred Züfle, Hauptlehrer für Deutsch und Philosophie
+              an<lb facs="#facs_497_r15"/>der Kantonsschule Wiedikon Zürich, auf den 15. <date when="1982-04">April 1982;</date><lb facs="#facs_497_r17"/>Dr. Werner Zehntner, Chef
+            der Fremdenpolizei, altershalber auf Ende<lb facs="#facs_497_r18"/><date when="1982-04">April 1982;</date><lb facs="#facs_497_r19"/>Paul Brenner, Sekretär beim Statistischen
+            Amt, auf Ende <date when="1982-05">Mai 1982;</date><lb facs="#facs_497_r21"/>Dr. Ernst
+            Gutknecht, Programmierer/Analytiker bei der Abteilung<lb facs="#facs_497_r22"/>Datenverarbeitung, auf Ende <date when="1982-05">Mai 1982;</date><lb facs="#facs_497_r24"/>Walter Rüegg, Hauptmann der Kantonspolizei, auf Ende <date when="1982-12">Dezember<lb facs="#facs_497_r26"/>1982.</date></p>
+		</body></text></TEI>

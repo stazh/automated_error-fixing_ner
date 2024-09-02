@@ -1,0 +1,1913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-04-08">08.04.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Verordnung zum Jugendhilfegesetz (vom 21. Oktober 1981)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-12-29">29.12.1981</date><ident>StAZH ABl 1981 (S. 1915-1928)</ident><idno>1915–1928</idno><idno type="issue">58</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132535"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_927" uly="0" ulx="0" lry="2368" lrx="1581">
+			<graphic url="Abl_1981_2__S__0927.tif" width="1581px" height="2368px"/>
+			<zone xml:id="facs_927_r35" ulx="146" uly="1844" lrx="1320" lry="1882" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r13" ulx="139" uly="881" lrx="730" lry="908" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r26" ulx="1324" uly="1469" lrx="1527" lry="1494" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r23" ulx="1328" uly="1379" lrx="1460" lry="1402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r36" ulx="148" uly="1901" lrx="540" lry="1927" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r29" ulx="198" uly="1567" lrx="1305" lry="1598" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r32" ulx="202" uly="1705" lrx="1312" lry="1739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r31" ulx="146" uly="1661" lrx="563" lry="1689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r12" ulx="193" uly="829" lrx="1309" lry="860" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r18" ulx="202" uly="1050" lrx="1306" lry="1083" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r10" ulx="1322" uly="829" lrx="1494" lry="856" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r8" ulx="137" uly="633" lrx="321" lry="658" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r38" ulx="202" uly="1974" lrx="1318" lry="2007" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r19" ulx="140" uly="1092" lrx="1309" lry="1128" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r3" ulx="136" uly="352" lrx="213" lry="380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r34" ulx="202" uly="1805" lrx="1314" lry="1838" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r21" ulx="143" uly="1271" lrx="674" lry="1300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r0" ulx="1228" uly="120" lrx="1299" lry="143" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r33" ulx="141" uly="1769" lrx="247" lry="1789" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r9" ulx="137" uly="754" lrx="569" lry="783" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r25" ulx="143" uly="1388" lrx="1142" lry="1421" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r39" ulx="150" uly="2019" lrx="1316" lry="2051" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r40" ulx="143" uly="2061" lrx="1165" lry="2097" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r2" ulx="133" uly="273" lrx="598" lry="307" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r24" ulx="202" uly="1344" lrx="1318" lry="1377" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r14" ulx="1320" uly="950" lrx="1477" lry="978" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r30" ulx="143" uly="1609" lrx="1310" lry="1644" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r1" ulx="139" uly="216" lrx="383" lry="250" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r28" ulx="143" uly="1513" lrx="1066" lry="1545" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r4" ulx="229" uly="346" lrx="540" lry="376" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r5" ulx="140" uly="473" lrx="446" lry="500" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r17" ulx="143" uly="1000" lrx="1034" lry="1032" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r7" ulx="900" uly="544" lrx="1130" lry="574" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r11" ulx="1326" uly="862" lrx="1528" lry="886" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r20" ulx="139" uly="1138" lrx="1306" lry="1171" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r22" ulx="1326" uly="1344" lrx="1462" lry="1369" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r37" ulx="1326" uly="1974" lrx="1462" lry="2000" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r27" ulx="200" uly="1469" lrx="1311" lry="1501" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r6" ulx="135" uly="544" lrx="882" lry="580" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r15" ulx="1326" uly="990" lrx="1489" lry="1009" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r16" ulx="198" uly="952" lrx="1305" lry="984" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_927_r41" ulx="946" uly="2332" lrx="957" lry="2346" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_928" uly="0" ulx="0" lry="2365" lrx="1586">
+			<graphic url="Abl_1981_2__S__0928.tif" width="1586px" height="2365px"/>
+			<zone xml:id="facs_928_r36" ulx="260" uly="1725" lrx="1004" lry="1757" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r29" ulx="320" uly="1418" lrx="1439" lry="1456" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r1" ulx="335" uly="208" lrx="1452" lry="243" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r9" ulx="331" uly="508" lrx="1450" lry="544" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r45" ulx="258" uly="2083" lrx="477" lry="2107" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r37" ulx="16" uly="1810" lrx="158" lry="1830" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r32" ulx="22" uly="1596" lrx="241" lry="1618" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r41" ulx="259" uly="1891" lrx="1429" lry="1926" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r6" ulx="276" uly="427" lrx="1075" lry="462" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r16" ulx="28" uly="929" lrx="188" lry="950" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r0" ulx="274" uly="124" lrx="347" lry="148" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r15" ulx="269" uly="841" lrx="1104" lry="878" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r23" ulx="320" uly="1137" lrx="1444" lry="1174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r12" ulx="29" uly="760" lrx="200" lry="781" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r3" ulx="274" uly="293" lrx="1456" lry="331" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r18" ulx="268" uly="968" lrx="1444" lry="1005" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r13" ulx="324" uly="754" lrx="1443" lry="790" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r14" ulx="268" uly="800" lrx="1446" lry="837" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r4" ulx="278" uly="339" lrx="1448" lry="373" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r28" ulx="264" uly="1366" lrx="1036" lry="1401" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r30" ulx="262" uly="1464" lrx="1435" lry="1501" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r19" ulx="268" uly="1012" lrx="1447" lry="1049" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r27" ulx="262" uly="1321" lrx="1440" lry="1360" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r39" ulx="312" uly="1802" lrx="1435" lry="1838" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r17" ulx="325" uly="925" lrx="1446" lry="960" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r38" ulx="18" uly="1839" lrx="199" lry="1860" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r2" ulx="278" uly="250" lrx="1452" lry="286" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r21" ulx="29" uly="1141" lrx="166" lry="1161" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r11" ulx="270" uly="675" lrx="779" lry="705" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r20" ulx="264" uly="1056" lrx="1198" lry="1091" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r7" ulx="36" uly="510" lrx="171" lry="531" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r35" ulx="260" uly="1677" lrx="1435" lry="1713" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r22" ulx="27" uly="1175" lrx="204" lry="1194" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r10" ulx="275" uly="554" lrx="1010" lry="587" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r43" ulx="312" uly="1989" lrx="1431" lry="2024" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r40" ulx="257" uly="1848" lrx="1433" lry="1884" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r34" ulx="261" uly="1633" lrx="1436" lry="1669" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r44" ulx="254" uly="2033" lrx="1429" lry="2070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r5" ulx="277" uly="383" lrx="1450" lry="421" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r8" ulx="38" uly="545" lrx="120" lry="562" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r42" ulx="258" uly="1931" lrx="871" lry="1966" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r26" ulx="318" uly="1279" lrx="1435" lry="1317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r24" ulx="264" uly="1181" lrx="1438" lry="1217" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r33" ulx="314" uly="1589" lrx="1435" lry="1624" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r25" ulx="266" uly="1227" lrx="1339" lry="1262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_928_r31" ulx="261" uly="1510" lrx="1431" lry="1547" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_929" uly="0" ulx="0" lry="2363" lrx="1578">
+			<graphic url="Abl_1981_2__S__0929.tif" width="1578px" height="2363px"/>
+			<zone xml:id="facs_929_r38" ulx="141" uly="1712" lrx="935" lry="1744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r22" ulx="1323" uly="1052" lrx="1431" lry="1077" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r18" ulx="195" uly="843" lrx="1311" lry="874" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r45" ulx="198" uly="1981" lrx="888" lry="2010" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r21" ulx="1323" uly="1012" lrx="1472" lry="1039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r14" ulx="141" uly="645" lrx="560" lry="673" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r11" ulx="139" uly="506" lrx="1308" lry="538" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r10" ulx="198" uly="466" lrx="1307" lry="494" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r16" ulx="1323" uly="846" lrx="1484" lry="871" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r50" ulx="1164" uly="2075" lrx="1235" lry="2097" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r23" ulx="1327" uly="1081" lrx="1480" lry="1102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r39" ulx="1327" uly="1794" lrx="1537" lry="1820" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r42" ulx="144" uly="1833" lrx="1310" lry="1867" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r25" ulx="143" uly="1054" lrx="1317" lry="1087" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r28" ulx="1327" uly="1304" lrx="1422" lry="1332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r15" ulx="139" uly="768" lrx="406" lry="796" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r0" ulx="1225" uly="124" lrx="1300" lry="147" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r44" ulx="202" uly="1937" lrx="898" lry="1967" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r26" ulx="141" uly="1106" lrx="526" lry="1134" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r35" ulx="141" uly="1571" lrx="1305" lry="1603" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r13" ulx="139" uly="595" lrx="1309" lry="627" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r30" ulx="141" uly="1350" lrx="1304" lry="1382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r9" ulx="1322" uly="504" lrx="1385" lry="527" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r24" ulx="198" uly="1012" lrx="1307" lry="1041" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r40" ulx="1329" uly="1831" lrx="1512" lry="1856" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r37" ulx="200" uly="1667" lrx="1312" lry="1697" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r43" ulx="145" uly="1885" lrx="573" lry="1913" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r12" ulx="139" uly="552" lrx="1305" lry="582" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r36" ulx="143" uly="1614" lrx="954" lry="1646" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r34" ulx="148" uly="1525" lrx="1305" lry="1557" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r8" ulx="1323" uly="466" lrx="1505" lry="490" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r49" ulx="204" uly="2077" lrx="750" lry="2106" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r5" ulx="141" uly="293" lrx="1308" lry="325" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r27" ulx="143" uly="1227" lrx="1023" lry="1257" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r7" ulx="145" uly="385" lrx="1104" lry="414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r2" ulx="1321" uly="243" lrx="1527" lry="270" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r6" ulx="141" uly="337" lrx="1307" lry="368" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r47" ulx="198" uly="2033" lrx="742" lry="2064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r3" ulx="200" uly="208" lrx="1303" lry="237" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r29" ulx="198" uly="1306" lrx="1320" lry="1337" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r32" ulx="143" uly="1437" lrx="1309" lry="1468" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r48" ulx="1162" uly="2031" lrx="1235" lry="2053" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r41" ulx="202" uly="1792" lrx="1307" lry="1822" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r17" ulx="1325" uly="883" lrx="1500" lry="908" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r46" ulx="1091" uly="1977" lrx="1307" lry="2003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r33" ulx="141" uly="1481" lrx="1309" lry="1514" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r1" ulx="1321" uly="208" lrx="1524" lry="232" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r31" ulx="142" uly="1396" lrx="1309" lry="1426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r19" ulx="139" uly="885" lrx="1312" lry="919" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r4" ulx="141" uly="247" lrx="1304" lry="281" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_929_r20" ulx="143" uly="937" lrx="753" lry="965" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_930" uly="0" ulx="0" lry="2361" lrx="1586">
+			<graphic url="Abl_1981_2__S__0930.tif" width="1586px" height="2361px"/>
+			<zone xml:id="facs_930_r2" ulx="1302" uly="222" lrx="1374" lry="242" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r41" ulx="262" uly="1735" lrx="564" lry="1763" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r4" ulx="1298" uly="262" lrx="1371" lry="284" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r32" ulx="323" uly="1344" lrx="1442" lry="1383" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r6" ulx="274" uly="350" lrx="1444" lry="386" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r12" ulx="330" uly="596" lrx="1448" lry="635" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r21" ulx="270" uly="941" lrx="1444" lry="979" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r29" ulx="268" uly="1202" lrx="1446" lry="1238" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r35" ulx="261" uly="1477" lrx="1435" lry="1513" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r24" ulx="33" uly="1116" lrx="209" lry="1139" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r13" ulx="273" uly="641" lrx="1447" lry="679" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r8" ulx="270" uly="437" lrx="814" lry="468" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r39" ulx="314" uly="1646" lrx="1437" lry="1681" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r22" ulx="267" uly="987" lrx="1444" lry="1024" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r40" ulx="260" uly="1690" lrx="1438" lry="1725" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r28" ulx="268" uly="1158" lrx="1442" lry="1194" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r11" ulx="279" uly="543" lrx="1268" lry="580" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r26" ulx="30" uly="1183" lrx="208" lry="1201" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r33" ulx="263" uly="1383" lrx="1440" lry="1424" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r20" ulx="270" uly="898" lrx="1444" lry="935" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r10" ulx="333" uly="497" lrx="1452" lry="537" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r37" ulx="262" uly="1569" lrx="986" lry="1598" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r19" ulx="270" uly="856" lrx="1447" lry="891" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r36" ulx="263" uly="1521" lrx="1438" lry="1559" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r23" ulx="266" uly="1033" lrx="985" lry="1064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r45" ulx="256" uly="1981" lrx="1427" lry="2019" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r48" ulx="253" uly="2115" lrx="400" lry="2141" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r42" ulx="262" uly="1856" lrx="1202" lry="1891" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r34" ulx="263" uly="1431" lrx="1437" lry="1469" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r25" ulx="32" uly="1150" lrx="216" lry="1169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r31" ulx="264" uly="1291" lrx="894" lry="1322" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r3" ulx="333" uly="252" lrx="755" lry="280" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r9" ulx="40" uly="506" lrx="211" lry="525" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r16" ulx="35" uly="802" lrx="236" lry="823" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r0" ulx="270" uly="127" lrx="343" lry="149" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r44" ulx="312" uly="1935" lrx="1433" lry="1975" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r47" ulx="256" uly="2075" lrx="1425" lry="2109" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r30" ulx="263" uly="1244" lrx="1442" lry="1280" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r14" ulx="270" uly="687" lrx="539" lry="715" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r27" ulx="323" uly="1112" lrx="1440" lry="1149" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r38" ulx="20" uly="1650" lrx="222" lry="1671" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r18" ulx="270" uly="812" lrx="1444" lry="847" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r46" ulx="258" uly="2025" lrx="1429" lry="2063" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r17" ulx="329" uly="766" lrx="1442" lry="803" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r7" ulx="273" uly="391" lrx="1446" lry="428" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r15" ulx="34" uly="771" lrx="168" lry="792" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r1" ulx="335" uly="208" lrx="728" lry="234" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r5" ulx="330" uly="302" lrx="1444" lry="338" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_930_r43" ulx="19" uly="1940" lrx="116" lry="1962" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_931" uly="0" ulx="0" lry="2364" lrx="1580">
+			<graphic url="Abl_1981_2__S__0931.tif" width="1580px" height="2364px"/>
+			<zone xml:id="facs_931_r23" ulx="204" uly="802" lrx="385" lry="827" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r51" ulx="204" uly="1949" lrx="1317" lry="1982" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r18" ulx="1177" uly="660" lrx="1215" lry="684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r6" ulx="1317" uly="377" lrx="1503" lry="405" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r22" ulx="1177" uly="748" lrx="1221" lry="773" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r25" ulx="206" uly="846" lrx="387" lry="872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r7" ulx="195" uly="381" lrx="1303" lry="410" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r27" ulx="204" uly="892" lrx="387" lry="917" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r20" ulx="1177" uly="706" lrx="1215" lry="728" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r38" ulx="141" uly="1357" lrx="419" lry="1380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r44" ulx="260" uly="1636" lrx="811" lry="1664" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r15" ulx="200" uly="627" lrx="386" lry="651" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r24" ulx="1177" uly="794" lrx="1215" lry="817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r49" ulx="203" uly="1872" lrx="897" lry="1904" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r8" ulx="137" uly="423" lrx="951" lry="456" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r37" ulx="198" uly="1300" lrx="1317" lry="1334" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r13" ulx="198" uly="581" lrx="343" lry="605" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r14" ulx="1196" uly="575" lrx="1215" lry="597" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r36" ulx="1325" uly="1300" lrx="1472" lry="1327" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r40" ulx="256" uly="1446" lrx="1086" lry="1476" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r34" ulx="141" uly="1175" lrx="1307" lry="1210" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r11" ulx="193" uly="527" lrx="458" lry="552" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r28" ulx="1179" uly="881" lrx="1217" lry="905" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r31" ulx="141" uly="1054" lrx="902" lry="1086" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r1" ulx="195" uly="210" lrx="1004" lry="242" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r41" ulx="143" uly="1503" lrx="599" lry="1533" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r10" ulx="1091" uly="477" lrx="1298" lry="501" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r0" ulx="1225" uly="123" lrx="1294" lry="146" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r16" ulx="1179" uly="619" lrx="1211" lry="641" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r26" ulx="1177" uly="837" lrx="1217" lry="863" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r5" ulx="139" uly="298" lrx="1111" lry="331" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r33" ulx="200" uly="1134" lrx="1305" lry="1166" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r45" ulx="260" uly="1671" lrx="1309" lry="1703" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r17" ulx="200" uly="673" lrx="385" lry="695" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r35" ulx="140" uly="1231" lrx="207" lry="1254" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r30" ulx="1181" uly="927" lrx="1219" lry="949" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r47" ulx="147" uly="1771" lrx="1314" lry="1805" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r46" ulx="264" uly="1721" lrx="1028" lry="1752" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r3" ulx="1111" uly="208" lrx="1299" lry="236" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r50" ulx="1331" uly="1949" lrx="1409" lry="1972" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r48" ulx="200" uly="1824" lrx="844" lry="1854" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r19" ulx="204" uly="715" lrx="385" lry="740" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r32" ulx="1327" uly="1131" lrx="1512" lry="1159" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r21" ulx="202" uly="760" lrx="386" lry="784" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r12" ulx="1085" uly="517" lrx="1165" lry="543" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r43" ulx="260" uly="1584" lrx="1311" lry="1614" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r2" ulx="1010" uly="208" lrx="1103" lry="237" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r4" ulx="139" uly="252" lrx="1301" lry="285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r29" ulx="200" uly="940" lrx="306" lry="963" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r52" ulx="145" uly="1992" lrx="1316" lry="2026" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r42" ulx="260" uly="1546" lrx="842" lry="1574" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r9" ulx="195" uly="483" lrx="410" lry="510" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r39" ulx="143" uly="1409" lrx="336" lry="1435" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_931_r53" ulx="147" uly="2036" lrx="1208" lry="2074" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_932" uly="0" ulx="0" lry="2367" lrx="1586">
+			<graphic url="Abl_1981_2__S__0932.tif" width="1586px" height="2367px"/>
+			<zone xml:id="facs_932_r14" ulx="337" uly="658" lrx="1452" lry="693" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r7" ulx="285" uly="341" lrx="1133" lry="373" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r13" ulx="283" uly="614" lrx="1454" lry="649" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r25" ulx="29" uly="1185" lrx="196" lry="1206" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r18" ulx="336" uly="845" lrx="1452" lry="882" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r41" ulx="316" uly="1810" lrx="1025" lry="1845" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r23" ulx="30" uly="1125" lrx="190" lry="1146" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r45" ulx="25" uly="2023" lrx="178" lry="2042" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r15" ulx="332" uly="704" lrx="1450" lry="740" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r1" ulx="47" uly="214" lrx="181" lry="232" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r48" ulx="264" uly="2077" lrx="1433" lry="2110" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r11" ulx="281" uly="516" lrx="1456" lry="551" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r30" ulx="266" uly="1318" lrx="1189" lry="1349" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r44" ulx="25" uly="1987" lrx="191" lry="2010" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r39" ulx="377" uly="1723" lrx="864" lry="1753" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r42" ulx="316" uly="1866" lrx="1433" lry="1901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r8" ulx="44" uly="423" lrx="191" lry="443" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r38" ulx="375" uly="1679" lrx="1233" lry="1712" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r9" ulx="341" uly="420" lrx="1454" lry="454" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r3" ulx="45" uly="274" lrx="213" lry="294" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r49" ulx="262" uly="2116" lrx="985" lry="2153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r43" ulx="260" uly="1910" lrx="1415" lry="1945" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r34" ulx="321" uly="1491" lrx="1437" lry="1529" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r47" ulx="264" uly="2033" lrx="1435" lry="2067" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r2" ulx="52" uly="245" lrx="197" lry="265" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r32" ulx="379" uly="1406" lrx="1235" lry="1441" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r26" ulx="327" uly="1123" lrx="1447" lry="1157" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r20" ulx="279" uly="941" lrx="1354" lry="978" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r19" ulx="335" uly="891" lrx="837" lry="922" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r27" ulx="270" uly="1168" lrx="1442" lry="1203" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r37" ulx="375" uly="1635" lrx="1195" lry="1670" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r16" ulx="334" uly="750" lrx="430" lry="775" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r24" ulx="35" uly="1160" lrx="178" lry="1178" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r21" ulx="334" uly="995" lrx="1446" lry="1033" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r17" ulx="281" uly="800" lrx="1450" lry="835" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r10" ulx="282" uly="464" lrx="1087" lry="496" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r31" ulx="382" uly="1360" lrx="1201" lry="1395" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r33" ulx="377" uly="1448" lrx="869" lry="1478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r4" ulx="343" uly="208" lrx="1456" lry="241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r35" ulx="323" uly="1539" lrx="1035" lry="1571" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r6" ulx="285" uly="297" lrx="1458" lry="331" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r36" ulx="262" uly="1591" lrx="1146" lry="1625" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r40" ulx="318" uly="1766" lrx="1433" lry="1804" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r29" ulx="270" uly="1262" lrx="1044" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r0" ulx="276" uly="125" lrx="347" lry="147" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r22" ulx="273" uly="1039" lrx="1306" lry="1074" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r5" ulx="286" uly="252" lrx="1456" lry="287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r12" ulx="336" uly="562" lrx="1120" lry="594" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r46" ulx="314" uly="1985" lrx="1435" lry="2022" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_932_r28" ulx="268" uly="1210" lrx="504" lry="1237" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_933" uly="0" ulx="0" lry="2351" lrx="1584">
+			<graphic url="Abl_1981_2__S__0933.tif" width="1584px" height="2351px"/>
+			<zone xml:id="facs_933_r1" ulx="1312" uly="202" lrx="1476" lry="230" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r16" ulx="131" uly="833" lrx="1299" lry="868" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r41" ulx="186" uly="1796" lrx="670" lry="1826" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r23" ulx="135" uly="1050" lrx="1021" lry="1081" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r45" ulx="195" uly="1986" lrx="1294" lry="2021" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r30" ulx="135" uly="1369" lrx="1007" lry="1401" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r12" ulx="133" uly="662" lrx="1296" lry="697" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r33" ulx="191" uly="1519" lrx="1299" lry="1550" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r24" ulx="189" uly="1098" lrx="1306" lry="1133" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r0" ulx="1222" uly="118" lrx="1292" lry="142" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r11" ulx="133" uly="619" lrx="1297" lry="652" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r43" ulx="137" uly="1898" lrx="1302" lry="1931" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r20" ulx="1317" uly="1019" lrx="1459" lry="1043" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r28" ulx="187" uly="1267" lrx="1308" lry="1299" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r40" ulx="1323" uly="1852" lrx="1417" lry="1876" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r15" ulx="185" uly="789" lrx="1302" lry="823" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r3" ulx="129" uly="247" lrx="1302" lry="280" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r38" ulx="1327" uly="1796" lrx="1502" lry="1814" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r7" ulx="189" uly="431" lrx="1296" lry="465" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r44" ulx="198" uly="1940" lrx="1302" lry="1974" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r27" ulx="1317" uly="1267" lrx="1467" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r32" ulx="137" uly="1473" lrx="1305" lry="1507" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r8" ulx="129" uly="479" lrx="1296" lry="510" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r42" ulx="139" uly="1846" lrx="1308" lry="1880" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r6" ulx="131" uly="385" lrx="648" lry="416" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r19" ulx="1315" uly="992" lrx="1485" lry="1018" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r2" ulx="185" uly="202" lrx="1302" lry="234" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r46" ulx="198" uly="2030" lrx="1305" lry="2062" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r31" ulx="137" uly="1427" lrx="385" lry="1455" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r29" ulx="131" uly="1323" lrx="433" lry="1351" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r10" ulx="187" uly="577" lrx="1294" lry="608" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r22" ulx="134" uly="998" lrx="1307" lry="1033" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r36" ulx="198" uly="1663" lrx="760" lry="1694" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r48" ulx="193" uly="2127" lrx="396" lry="2154" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r5" ulx="129" uly="333" lrx="1296" lry="368" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r14" ulx="1313" uly="789" lrx="1454" lry="816" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r17" ulx="133" uly="877" lrx="1246" lry="912" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r26" ulx="133" uly="1196" lrx="485" lry="1225" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r37" ulx="137" uly="1715" lrx="1105" lry="1747" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r35" ulx="137" uly="1613" lrx="1306" lry="1646" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r4" ulx="129" uly="289" lrx="1294" lry="323" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r25" ulx="135" uly="1144" lrx="1300" lry="1179" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r34" ulx="193" uly="1563" lrx="746" lry="1595" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r21" ulx="187" uly="958" lrx="1307" lry="989" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r47" ulx="195" uly="2073" lrx="1301" lry="2108" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r9" ulx="127" uly="523" lrx="1149" lry="554" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r18" ulx="1315" uly="956" lrx="1430" lry="983" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r13" ulx="131" uly="714" lrx="677" lry="744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_933_r39" ulx="1333" uly="1825" lrx="1472" lry="1846" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_934" uly="0" ulx="0" lry="2366" lrx="1587">
+			<graphic url="Abl_1981_2__S__0934.tif" width="1587px" height="2366px"/>
+			<zone xml:id="facs_934_r10" ulx="287" uly="519" lrx="1461" lry="554" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r44" ulx="266" uly="2001" lrx="1319" lry="2036" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r38" ulx="271" uly="1769" lrx="681" lry="1797" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r27" ulx="326" uly="1344" lrx="1447" lry="1378" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r5" ulx="49" uly="412" lrx="248" lry="432" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r1" ulx="285" uly="208" lrx="1445" lry="244" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r0" ulx="282" uly="129" lrx="355" lry="151" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r2" ulx="344" uly="250" lrx="1457" lry="286" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r29" ulx="34" uly="1471" lrx="183" lry="1492" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r20" ulx="281" uly="1006" lrx="1449" lry="1043" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r14" ulx="339" uly="708" lrx="769" lry="736" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r41" ulx="320" uly="1849" lrx="1441" lry="1888" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r28" ulx="330" uly="1390" lrx="1199" lry="1422" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r30" ulx="327" uly="1469" lrx="1445" lry="1504" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r9" ulx="282" uly="464" lrx="379" lry="490" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r3" ulx="341" uly="302" lrx="529" lry="326" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r36" ulx="30" uly="1763" lrx="109" lry="1780" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r24" ulx="331" uly="1196" lrx="1232" lry="1228" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r32" ulx="274" uly="1555" lrx="1445" lry="1592" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r4" ulx="52" uly="381" lrx="225" lry="403" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r34" ulx="266" uly="1648" lrx="556" lry="1676" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r7" ulx="342" uly="377" lrx="1459" lry="412" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r40" ulx="31" uly="1886" lrx="217" lry="1906" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r26" ulx="331" uly="1296" lrx="650" lry="1323" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r43" ulx="264" uly="1947" lrx="690" lry="1976" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r13" ulx="342" uly="662" lrx="1458" lry="696" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r15" ulx="281" uly="760" lrx="1455" lry="795" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r31" ulx="271" uly="1513" lrx="1449" lry="1546" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r35" ulx="30" uly="1728" lrx="182" lry="1749" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r39" ulx="31" uly="1853" lrx="191" lry="1872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r8" ulx="283" uly="419" lrx="1460" lry="456" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r45" ulx="264" uly="2055" lrx="863" lry="2086" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r18" ulx="333" uly="900" lrx="833" lry="931" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r37" ulx="323" uly="1726" lrx="1442" lry="1762" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r6" ulx="43" uly="446" lrx="114" lry="464" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r11" ulx="341" uly="560" lrx="831" lry="594" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r33" ulx="269" uly="1600" lrx="1445" lry="1638" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r19" ulx="279" uly="956" lrx="1279" lry="987" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r12" ulx="281" uly="616" lrx="1457" lry="651" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r23" ulx="333" uly="1148" lrx="1451" lry="1184" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r22" ulx="277" uly="1106" lrx="1449" lry="1141" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r21" ulx="337" uly="1052" lrx="963" lry="1084" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r16" ulx="337" uly="806" lrx="1455" lry="841" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r42" ulx="269" uly="1899" lrx="460" lry="1921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r25" ulx="277" uly="1246" lrx="1449" lry="1281" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_934_r17" ulx="281" uly="856" lrx="1453" lry="894" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_935" uly="0" ulx="0" lry="2362" lrx="1582">
+			<graphic url="Abl_1981_2__S__0935.tif" width="1582px" height="2362px"/>
+			<zone xml:id="facs_935_r11" ulx="131" uly="577" lrx="709" lry="606" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r49" ulx="193" uly="1765" lrx="1304" lry="1799" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r5" ulx="1306" uly="414" lrx="1510" lry="440" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r26" ulx="187" uly="1271" lrx="270" lry="1295" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r4" ulx="1304" uly="375" lrx="1455" lry="400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r2" ulx="122" uly="252" lrx="1291" lry="284" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r23" ulx="187" uly="1121" lrx="1305" lry="1155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r27" ulx="1085" uly="1217" lrx="1294" lry="1242" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r22" ulx="1311" uly="1121" lrx="1501" lry="1146" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r33" ulx="193" uly="1411" lrx="379" lry="1436" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r1" ulx="185" uly="206" lrx="1288" lry="239" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r50" ulx="139" uly="1807" lrx="1306" lry="1843" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r0" ulx="1217" uly="125" lrx="1290" lry="147" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r41" ulx="195" uly="1588" lrx="378" lry="1613" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r45" ulx="195" uly="1676" lrx="381" lry="1702" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r31" ulx="191" uly="1367" lrx="382" lry="1392" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r16" ulx="185" uly="825" lrx="1299" lry="859" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r21" ulx="135" uly="1042" lrx="1224" lry="1075" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r7" ulx="183" uly="375" lrx="1297" lry="407" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r15" ulx="189" uly="779" lrx="408" lry="809" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r51" ulx="137" uly="1863" lrx="646" lry="1891" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r28" ulx="1083" uly="1259" lrx="1165" lry="1285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r40" ulx="1173" uly="1536" lrx="1215" lry="1562" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r38" ulx="1173" uly="1490" lrx="1213" lry="1514" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r34" ulx="1173" uly="1403" lrx="1213" lry="1428" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r35" ulx="193" uly="1455" lrx="379" lry="1478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r24" ulx="131" uly="1169" lrx="642" lry="1204" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r30" ulx="1188" uly="1313" lrx="1209" lry="1337" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r47" ulx="191" uly="1724" lrx="300" lry="1747" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r43" ulx="197" uly="1630" lrx="381" lry="1658" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r20" ulx="131" uly="996" lrx="1299" lry="1030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r8" ulx="127" uly="416" lrx="1295" lry="453" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r13" ulx="131" uly="679" lrx="1234" lry="711" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r9" ulx="131" uly="467" lrx="1180" lry="497" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r6" ulx="1306" uly="441" lrx="1421" lry="461" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r18" ulx="1311" uly="952" lrx="1480" lry="977" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r10" ulx="187" uly="514" lrx="1207" lry="549" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r42" ulx="1173" uly="1578" lrx="1213" lry="1603" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r25" ulx="187" uly="1223" lrx="681" lry="1253" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r19" ulx="187" uly="952" lrx="1298" lry="984" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r17" ulx="131" uly="879" lrx="475" lry="907" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r44" ulx="1175" uly="1626" lrx="1215" lry="1651" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r32" ulx="1173" uly="1357" lrx="1208" lry="1380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r48" ulx="1175" uly="1713" lrx="1208" lry="1734" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r39" ulx="195" uly="1544" lrx="382" lry="1569" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r37" ulx="193" uly="1501" lrx="377" lry="1524" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r36" ulx="1173" uly="1444" lrx="1213" lry="1469" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r12" ulx="129" uly="627" lrx="1017" lry="658" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r3" ulx="122" uly="300" lrx="858" lry="330" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r46" ulx="1175" uly="1669" lrx="1213" lry="1694" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r14" ulx="131" uly="727" lrx="1295" lry="762" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_935_r29" ulx="191" uly="1323" lrx="337" lry="1347" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_936" uly="0" ulx="0" lry="2366" lrx="1587">
+			<graphic url="Abl_1981_2__S__0936.tif" width="1587px" height="2366px"/>
+			<zone xml:id="facs_936_r3" ulx="50" uly="337" lrx="152" lry="357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r43" ulx="327" uly="1876" lrx="1443" lry="1911" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r24" ulx="278" uly="1129" lrx="1449" lry="1166" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r45" ulx="273" uly="1963" lrx="1443" lry="2001" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r18" ulx="280" uly="873" lrx="1451" lry="908" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r27" ulx="273" uly="1273" lrx="1111" lry="1305" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r25" ulx="275" uly="1175" lrx="866" lry="1206" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r4" ulx="47" uly="373" lrx="171" lry="391" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r42" ulx="25" uly="1880" lrx="227" lry="1901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r32" ulx="333" uly="1448" lrx="1445" lry="1485" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r5" ulx="342" uly="331" lrx="1459" lry="366" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r20" ulx="278" uly="963" lrx="629" lry="991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r17" ulx="279" uly="831" lrx="1451" lry="865" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r39" ulx="325" uly="1707" lrx="1443" lry="1743" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r29" ulx="34" uly="1394" lrx="151" lry="1412" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r1" ulx="288" uly="206" lrx="1130" lry="241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r35" ulx="276" uly="1584" lrx="1445" lry="1617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r23" ulx="277" uly="1083" lrx="1453" lry="1121" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r31" ulx="273" uly="1394" lrx="1217" lry="1430" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r37" ulx="33" uly="1709" lrx="171" lry="1730" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r11" ulx="285" uly="606" lrx="1455" lry="641" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r28" ulx="37" uly="1359" lrx="148" lry="1378" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r26" ulx="334" uly="1225" lrx="1453" lry="1262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r7" ulx="287" uly="421" lrx="1460" lry="457" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r8" ulx="287" uly="469" lrx="1457" lry="501" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r21" ulx="41" uly="1048" lrx="183" lry="1066" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r40" ulx="272" uly="1746" lrx="1441" lry="1786" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r10" ulx="337" uly="560" lrx="1459" lry="597" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r12" ulx="285" uly="652" lrx="953" lry="684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r34" ulx="276" uly="1536" lrx="1447" lry="1574" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r41" ulx="269" uly="1794" lrx="953" lry="1826" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r13" ulx="337" uly="704" lrx="1049" lry="739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r36" ulx="271" uly="1630" lrx="640" lry="1656" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r46" ulx="269" uly="2015" lrx="565" lry="2042" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r9" ulx="287" uly="512" lrx="1453" lry="546" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r30" ulx="331" uly="1352" lrx="1449" lry="1387" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r16" ulx="335" uly="785" lrx="1457" lry="819" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r14" ulx="45" uly="792" lrx="187" lry="811" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r15" ulx="40" uly="821" lrx="111" lry="840" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r0" ulx="284" uly="131" lrx="359" lry="153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r38" ulx="32" uly="1744" lrx="196" lry="1764" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r2" ulx="291" uly="250" lrx="634" lry="276" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r6" ulx="285" uly="379" lrx="1461" lry="414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r19" ulx="282" uly="917" lrx="1455" lry="952" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r44" ulx="272" uly="1917" lrx="1438" lry="1955" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r22" ulx="337" uly="1042" lrx="1455" lry="1078" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_936_r33" ulx="271" uly="1498" lrx="1447" lry="1532" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_937" uly="0" ulx="0" lry="2365" lrx="1581">
+			<graphic url="Abl_1981_2__S__0937.tif" width="1581px" height="2365px"/>
+			<zone xml:id="facs_937_r22" ulx="183" uly="1152" lrx="1304" lry="1181" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r10" ulx="1318" uly="706" lrx="1401" lry="724" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r37" ulx="126" uly="1787" lrx="332" lry="1812" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r32" ulx="128" uly="1548" lrx="1300" lry="1581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r14" ulx="131" uly="787" lrx="1293" lry="818" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r4" ulx="1311" uly="389" lrx="1499" lry="416" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r38" ulx="185" uly="1835" lrx="1296" lry="1867" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r34" ulx="187" uly="1648" lrx="1295" lry="1678" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r6" ulx="127" uly="431" lrx="1030" lry="464" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r16" ulx="187" uly="879" lrx="519" lry="909" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r35" ulx="131" uly="1691" lrx="1299" lry="1724" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r3" ulx="131" uly="308" lrx="1099" lry="341" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r17" ulx="184" uly="927" lrx="1297" lry="959" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r36" ulx="131" uly="1735" lrx="1298" lry="1767" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r20" ulx="131" uly="1073" lrx="1193" lry="1103" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r2" ulx="131" uly="262" lrx="1293" lry="294" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r27" ulx="131" uly="1339" lrx="558" lry="1370" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r21" ulx="1314" uly="1152" lrx="1502" lry="1178" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r23" ulx="127" uly="1200" lrx="732" lry="1228" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r30" ulx="131" uly="1460" lrx="1300" lry="1492" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r39" ulx="129" uly="1881" lrx="1291" lry="1912" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r28" ulx="1316" uly="1419" lrx="1478" lry="1444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r1" ulx="183" uly="218" lrx="1295" lry="249" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r25" ulx="131" uly="1296" lrx="1168" lry="1329" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r15" ulx="185" uly="833" lrx="1297" lry="864" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r29" ulx="185" uly="1419" lrx="1306" lry="1448" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r11" ulx="183" uly="637" lrx="1303" lry="669" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r40" ulx="185" uly="1931" lrx="873" lry="1963" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r19" ulx="184" uly="1027" lrx="1296" lry="1057" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r9" ulx="1314" uly="677" lrx="1457" lry="696" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r0" ulx="1221" uly="139" lrx="1292" lry="161" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r8" ulx="1309" uly="637" lrx="1425" lry="664" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r24" ulx="183" uly="1248" lrx="1295" lry="1278" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r18" ulx="129" uly="975" lrx="824" lry="1005" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r26" ulx="1174" uly="1296" lrx="1299" lry="1321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r31" ulx="129" uly="1506" lrx="1301" lry="1538" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r5" ulx="183" uly="389" lrx="1295" lry="420" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r12" ulx="128" uly="683" lrx="428" lry="714" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r13" ulx="131" uly="737" lrx="513" lry="769" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r7" ulx="129" uly="558" lrx="767" lry="589" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_937_r33" ulx="131" uly="1598" lrx="480" lry="1627" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_938" uly="0" ulx="0" lry="2369" lrx="1586">
+			<graphic url="Abl_1981_2__S__0938.tif" width="1586px" height="2369px"/>
+			<zone xml:id="facs_938_r2" ulx="339" uly="275" lrx="420" lry="297" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r28" ulx="276" uly="929" lrx="1450" lry="961" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r34" ulx="904" uly="1156" lrx="1023" lry="1185" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r10" ulx="1331" uly="420" lrx="1363" lry="444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r48" ulx="275" uly="1806" lrx="1446" lry="1839" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r32" ulx="335" uly="1106" lrx="1450" lry="1139" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r50" ulx="273" uly="1908" lrx="597" lry="1935" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r4" ulx="1235" uly="277" lrx="1322" lry="300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r7" ulx="343" uly="368" lrx="530" lry="393" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r38" ulx="329" uly="1293" lrx="1454" lry="1327" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r53" ulx="273" uly="2058" lrx="1446" lry="2089" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r11" ulx="339" uly="460" lrx="526" lry="484" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r3" ulx="1240" uly="235" lrx="1437" lry="259" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r1" ulx="336" uly="220" lrx="835" lry="257" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r42" ulx="274" uly="1468" lrx="1440" lry="1502" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r31" ulx="37" uly="1112" lrx="148" lry="1132" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r54" ulx="275" uly="2102" lrx="906" lry="2131" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r12" ulx="1327" uly="466" lrx="1358" lry="486" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r24" ulx="39" uly="845" lrx="240" lry="868" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r5" ulx="341" uly="325" lrx="487" lry="350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r0" ulx="280" uly="147" lrx="350" lry="167" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r19" ulx="40" uly="675" lrx="184" lry="695" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r46" ulx="32" uly="1768" lrx="214" lry="1789" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r18" ulx="1324" uly="597" lrx="1390" lry="620" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r40" ulx="277" uly="1381" lrx="1452" lry="1413" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r21" ulx="335" uly="668" lrx="1452" lry="703" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r22" ulx="278" uly="712" lrx="1452" lry="747" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r36" ulx="275" uly="1195" lrx="1450" lry="1228" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r47" ulx="327" uly="1762" lrx="1450" lry="1794" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r27" ulx="277" uly="883" lrx="1454" lry="918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r20" ulx="39" uly="708" lrx="144" lry="729" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r25" ulx="39" uly="874" lrx="148" lry="895" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r43" ulx="278" uly="1516" lrx="1450" lry="1547" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r52" ulx="328" uly="2010" lrx="1444" lry="2044" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r33" ulx="275" uly="1154" lrx="886" lry="1183" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r37" ulx="272" uly="1241" lrx="339" lry="1268" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r9" ulx="341" uly="414" lrx="527" lry="439" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r45" ulx="271" uly="1681" lrx="1194" lry="1714" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r14" ulx="1323" uly="506" lrx="1361" lry="528" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r41" ulx="277" uly="1427" lrx="1446" lry="1459" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r17" ulx="339" uly="593" lrx="448" lry="617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r26" ulx="333" uly="835" lrx="1452" lry="870" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r13" ulx="343" uly="500" lrx="525" lry="526" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r39" ulx="277" uly="1337" lrx="1452" lry="1371" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r35" ulx="1029" uly="1158" lrx="1450" lry="1187" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r51" ulx="275" uly="1960" lrx="1271" lry="1991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r44" ulx="270" uly="1560" lrx="1227" lry="1592" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r16" ulx="1327" uly="552" lrx="1360" lry="575" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r23" ulx="276" uly="760" lrx="912" lry="789" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r30" ulx="332" uly="1025" lrx="1179" lry="1057" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r29" ulx="277" uly="975" lrx="441" lry="1000" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r49" ulx="270" uly="1852" lrx="1415" lry="1882" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r8" ulx="1333" uly="377" lrx="1363" lry="398" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r15" ulx="340" uly="543" lrx="527" lry="571" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_938_r6" ulx="1344" uly="333" lrx="1363" lry="354" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_939" uly="0" ulx="0" lry="2364" lrx="1580">
+			<graphic url="Abl_1981_2__S__0939.tif" width="1580px" height="2364px"/>
+			<zone xml:id="facs_939_r34" ulx="118" uly="1382" lrx="662" lry="1412" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r19" ulx="122" uly="829" lrx="1288" lry="860" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r28" ulx="177" uly="1194" lrx="1294" lry="1225" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r10" ulx="1300" uly="596" lrx="1457" lry="622" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r16" ulx="181" uly="696" lrx="1286" lry="726" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r25" ulx="118" uly="1115" lrx="1178" lry="1145" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r20" ulx="125" uly="873" lrx="594" lry="902" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r51" ulx="389" uly="1861" lrx="629" lry="1890" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r60" ulx="454" uly="2130" lrx="733" lry="2156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r53" ulx="119" uly="1905" lrx="1288" lry="1936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r9" ulx="1302" uly="558" lrx="1503" lry="585" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r55" ulx="1309" uly="2040" lrx="1502" lry="2063" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r12" ulx="1311" uly="656" lrx="1502" lry="678" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r5" ulx="124" uly="258" lrx="1291" lry="290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r35" ulx="1302" uly="1465" lrx="1486" lry="1491" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r11" ulx="1304" uly="625" lrx="1441" lry="646" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r33" ulx="183" uly="1338" lrx="1289" lry="1367" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r0" ulx="1213" uly="141" lrx="1284" lry="162" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r3" ulx="869" uly="218" lrx="1019" lry="246" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r13" ulx="177" uly="552" lrx="1288" lry="583" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r39" ulx="175" uly="1461" lrx="1294" lry="1492" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r4" ulx="1025" uly="218" lrx="1296" lry="246" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r31" ulx="904" uly="1240" lrx="1297" lry="1269" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r46" ulx="120" uly="1678" lrx="1286" lry="1706" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r47" ulx="122" uly="1717" lrx="821" lry="1748" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r40" ulx="118" uly="1507" lrx="1289" lry="1537" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r6" ulx="122" uly="304" lrx="1290" lry="335" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r58" ulx="118" uly="2082" lrx="1288" lry="2113" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r52" ulx="637" uly="1861" lrx="1286" lry="1890" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r50" ulx="120" uly="1859" lrx="381" lry="1890" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r54" ulx="118" uly="1949" lrx="1042" lry="1978" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r29" ulx="120" uly="1238" lrx="679" lry="1270" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r24" ulx="179" uly="1071" lrx="1294" lry="1100" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r30" ulx="696" uly="1240" lrx="895" lry="1271" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r21" ulx="120" uly="992" lrx="568" lry="1018" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r17" ulx="120" uly="740" lrx="1284" lry="770" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r44" ulx="1306" uly="1703" lrx="1377" lry="1719" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r43" ulx="1304" uly="1671" lrx="1515" lry="1692" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r59" ulx="175" uly="2130" lrx="437" lry="2158" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r14" ulx="120" uly="598" lrx="1295" lry="628" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r15" ulx="120" uly="642" lrx="869" lry="672" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r57" ulx="175" uly="2030" lrx="1088" lry="2059" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r41" ulx="126" uly="1548" lrx="1006" lry="1580" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r32" ulx="120" uly="1286" lrx="582" lry="1314" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r23" ulx="1308" uly="1113" lrx="1490" lry="1132" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r1" ulx="1306" uly="223" lrx="1423" lry="246" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r26" ulx="1304" uly="1198" lrx="1469" lry="1226" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r37" ulx="1304" uly="1536" lrx="1503" lry="1555" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r18" ulx="122" uly="783" lrx="1284" lry="813" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r22" ulx="1304" uly="1075" lrx="1504" lry="1102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r42" ulx="1304" uly="1636" lrx="1519" lry="1660" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r2" ulx="181" uly="218" lrx="850" lry="246" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r45" ulx="177" uly="1632" lrx="1294" lry="1661" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r48" ulx="177" uly="1769" lrx="1286" lry="1801" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r7" ulx="122" uly="354" lrx="379" lry="380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r38" ulx="1309" uly="1567" lrx="1457" lry="1585" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r56" ulx="1304" uly="2070" lrx="1501" lry="2093" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r27" ulx="1304" uly="1238" lrx="1461" lry="1263" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r36" ulx="1301" uly="1505" lrx="1472" lry="1530" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r8" ulx="120" uly="473" lrx="1288" lry="505" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_939_r49" ulx="118" uly="1817" lrx="1284" lry="1845" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_940" uly="0" ulx="0" lry="2366" lrx="1587">
+			<graphic url="Abl_1981_2__S__0940.tif" width="1587px" height="2366px"/>
+			<zone xml:id="facs_940_r38" ulx="417" uly="2088" lrx="665" lry="2118" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r39" ulx="673" uly="2090" lrx="946" lry="2120" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r3" ulx="347" uly="316" lrx="669" lry="346" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r1" ulx="287" uly="227" lrx="1459" lry="259" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r12" ulx="492" uly="544" lrx="777" lry="572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r11" ulx="285" uly="546" lrx="481" lry="572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r25" ulx="761" uly="1434" lrx="921" lry="1459" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r6" ulx="345" uly="412" lrx="1205" lry="443" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r19" ulx="281" uly="1150" lrx="477" lry="1178" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r26" ulx="279" uly="1665" lrx="1282" lry="1703" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r37" ulx="283" uly="2088" lrx="408" lry="2116" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r31" ulx="373" uly="1999" lrx="1311" lry="2029" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r2" ulx="346" uly="273" lrx="1459" lry="302" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r21" ulx="761" uly="1244" lrx="1232" lry="1271" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r35" ulx="1034" uly="2047" lrx="1330" lry="2075" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r18" ulx="285" uly="1061" lrx="986" lry="1093" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r8" ulx="1443" uly="414" lrx="1466" lry="442" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r9" ulx="344" uly="458" lrx="377" lry="485" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r22" ulx="761" uly="1296" lrx="1004" lry="1321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r7" ulx="1224" uly="414" lrx="1436" lry="444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r5" ulx="342" uly="369" lrx="1463" lry="399" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r17" ulx="771" uly="829" lrx="892" lry="854" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r20" ulx="485" uly="1150" lrx="811" lry="1180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r33" ulx="287" uly="2042" lrx="358" lry="2070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r27" ulx="287" uly="1721" lrx="608" lry="1755" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r36" ulx="1338" uly="2047" lrx="1464" lry="2073" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r16" ulx="770" uly="783" lrx="1186" lry="811" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r15" ulx="767" uly="733" lrx="963" lry="757" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r24" ulx="761" uly="1392" lrx="988" lry="1416" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r10" ulx="385" uly="458" lrx="631" lry="485" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r14" ulx="768" uly="685" lrx="1011" lry="713" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r29" ulx="375" uly="1792" lrx="722" lry="1824" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r34" ulx="367" uly="2042" lrx="1019" lry="2073" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r13" ulx="767" uly="633" lrx="1288" lry="663" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r4" ulx="688" uly="314" lrx="975" lry="346" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r0" ulx="285" uly="148" lrx="358" lry="170" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r23" ulx="763" uly="1340" lrx="986" lry="1365" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r30" ulx="287" uly="1917" lrx="778" lry="1949" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r32" ulx="1330" uly="2001" lrx="1465" lry="2030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_940_r28" ulx="285" uly="1794" lrx="360" lry="1825" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1915" facs="#facs_927"/>
+			<p>
+				<lb facs="#facs_927_r5"/>Der Regierungsrat,</p>
+			<p>
+				<lb facs="#facs_927_r6"/>gestützt auf § 30 des Jugendhilfegesetzes vom <date when="1981-06-14">14. Juni 1981,</date></p>
+			<p>
+				<lb facs="#facs_927_r8"/>beschliesst:</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_927_r9"/>I. Kantonales Jugendamt</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_927_r10"/>Zentralstelle<lb facs="#facs_927_r11"/>der Jugendhilfe</add>
+				</p>
+				<p>
+					<lb facs="#facs_927_r12"/>§ 1. Das Jugendamt ist die Zentralstelle für die Jugendhilfe;
+              es<lb facs="#facs_927_r13"/>untersteht der Erziehungsdirektion.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_927_r14"/>Richtlinien;<lb facs="#facs_927_r15"/>Konferenzen</add>
+				</p>
+				<p>
+					<lb facs="#facs_927_r16"/>§ 2. Das Jugendamt erlässt zur Erfüllung der Aufgaben gemäss §
+              4<lb facs="#facs_927_r17"/>des Gesetzes Richtlinien in Fach- und Personalfragen.</p>
+				<p>
+					<lb facs="#facs_927_r18"/>Das Jugendamt führt mit den Präsidenten der
+              Bezirksjugendkom<lb break="no" facs="#facs_927_r19"/>missionen und den
+            Jugendsekretären zur Erörterung von fachlichen und<lb facs="#facs_927_r20"/>administrativen Fragen der Jugendhilfe periodisch Konferenzen durch.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_927_r21"/>II. Bezirksjugendkommissionen</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_927_r22"/>Geschäfts<lb break="no" facs="#facs_927_r23"/>reglement</add>
+				</p>
+				<p>
+					<lb facs="#facs_927_r24"/>§ 3. Die Bezirksjugendkommission erlässt ein
+              Geschäftsreglement,<lb facs="#facs_927_r25"/>das der Genehmigung durch die
+            Erziehungsdirektion bedarf.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_927_r26"/>Konstituierung</add>
+				</p>
+				<p>
+					<lb facs="#facs_927_r27"/>§ 4. Die Bezirksjugendkommission konstituiert sich selbst.
+              Sie<lb facs="#facs_927_r28"/>kann einen Vorstand sowie Arbeitsausschüsse
+            bestellen.</p>
+				<p>
+					<lb facs="#facs_927_r29"/>Den Arbeitsausschüssen können auch Nichtmitglieder
+              angehören.<lb facs="#facs_927_r30"/>Ein Mitglied der Bezirksjugendkommission oder der
+              Bezirksjugendse<lb break="no" facs="#facs_927_r31"/>kretär führt den Vorsitz.</p>
+				<p>
+					<lb facs="#facs_927_r32"/>Die Bezirksjugendkommission bezeichnet mindestens zwei Revi<lb break="no" facs="#facs_927_r33"/>soren.</p>
+				<p>
+					<lb facs="#facs_927_r34"/>Der Jugendsekretär sowie die Leiter von Zweigstellen nehmen
+              an<lb facs="#facs_927_r35"/>den Sitzungen der Bezirksjugendkommission und des
+            Vorstands mit<lb facs="#facs_927_r36"/>beratender Stimme teil.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_927_r37"/>Sitzungen</add>
+				</p>
+				<p>
+					<lb facs="#facs_927_r38"/>§ 5. Die Mitglieder der Bezirksjugendkommission und ihrer<lb facs="#facs_927_r39"/>Arbeitsausschüsse werden mindestens einmal jährlich zu einer
+              Sitzung<lb facs="#facs_927_r40"/>eingeladen. Über ihre Verhandlungen wird Protokoll
+            geführt.</p>
+				<div type="subtitle" n="5">
+					<head type="subtitle" n="5">
+						<lb facs="#facs_927_r41"/>1</head>
+					<pb n="1916" facs="#facs_928"/>
+					<p>
+						<lb facs="#facs_928_r1"/>Die Mitglieder der Bezirksjugendkommission erhalten das
+                gleiche<lb facs="#facs_928_r2"/>Taggeld wie die Mitglieder der Kommissionen des
+              Kantonsrates. Die<lb facs="#facs_928_r3"/>Mitglieder der Arbeitsausschüsse erhalten
+              eine Entschädigung von drei<lb facs="#facs_928_r4"/>Vierteln dieses Taggeldes. Der
+              Präsident der Bezirksjugendkommission<lb facs="#facs_928_r5"/>erhält zusätzlich eine
+              feste jährliche Entschädigung von Fr. 600 .-. Die<lb facs="#facs_928_r6"/>Auszahlung
+              erfolgt durch das Jugendsekretariat.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_928_r7"/>Freiwillige<lb facs="#facs_928_r8"/>Helfer</add>
+					</p>
+					<p>
+						<lb facs="#facs_928_r9"/>§ 6. Die Bezirksjugendkommission kann festlegen, dass
+                freiwilli<lb break="no" facs="#facs_928_r10"/>gen Helfern die Barauslagen ersetzt
+              werden.</p>
+				</div>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_928_r11"/>III. Bezirksjugendsekretariate</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_928_r12"/>Mietverträge</add>
+				</p>
+				<p>
+					<lb facs="#facs_928_r13"/>§ 7. Mietverträge über Büroräumlichkeiten des
+              Bezirksjugendse<lb break="no" facs="#facs_928_r14"/>kretariats werden von der
+            Bezirksjugendkommission abgeschlossen; sie<lb facs="#facs_928_r15"/>bedürfen der
+            Genehmigung durch das Jugendamt.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_928_r16"/>Stellenpläne</add>
+				</p>
+				<p>
+					<lb facs="#facs_928_r17"/>§ 8. Die Bezirksjugendkommission hat drei Monate vor Ablauf<lb facs="#facs_928_r18"/>ihrer Amtsdauer dem Jugendamt Anträge für den Stellenplan des<lb facs="#facs_928_r19"/>Bezirksjugendskretariats betreffend die nächsten vier Jahre
+              zur<lb facs="#facs_928_r20"/>Beschlussfassung durch den Regierungsrat
+            einzureichen.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_928_r21"/>Anstellung<lb facs="#facs_928_r22"/>des Personals</add>
+				</p>
+				<p>
+					<lb facs="#facs_928_r23"/>§ 9. Das Personal des Bezirksjugendsekretariats wird von
+              der<lb facs="#facs_928_r24"/>Bezirksjugendkommission auf vertraglicher Basis
+            angestellt. Die<lb facs="#facs_928_r25"/>Bestimmungen des kantonalen Personalrechts
+            gelten sinngemäss.</p>
+				<p>
+					<lb facs="#facs_928_r26"/>Die Anstellung des Jugendsekretärs bedarf der Genehmigung
+              durch<lb facs="#facs_928_r27"/>die Erziehungsdirektion. Die Bezirksjugendkommission
+            legt ihr die<lb facs="#facs_928_r28"/>Bewerbungen und den Anstellungsvertrag vor.</p>
+				<p>
+					<lb facs="#facs_928_r29"/>Die Anstellung des übrigen Personals des
+              Bezirksjugendsekretariats<lb facs="#facs_928_r30"/>bedarf der Genehmigung durch das
+            Jugendamt. Die Bezirksjugendkom<lb break="no" facs="#facs_928_r31"/>mission legt ihm den
+            Anstellungsvertrag mit den Bewerbungsakten vor.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_928_r32"/>Aushilfspersonal</add>
+				</p>
+				<p>
+					<lb facs="#facs_928_r33"/>§ 10. Aus wichtigen Gründen kann die
+              Bezirksjugendkommission<lb facs="#facs_928_r34"/>mit Zustimmung der
+            Erziehungsdirektion für die Dauer von höchstens<lb facs="#facs_928_r35"/>drei Monaten
+            die Anstellung von Personal der Bezirksjugendsekreta<lb break="no" facs="#facs_928_r36"/>riate ausserhalb des Stellenplans vornehmen.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_928_r37"/>zusätzliche<lb facs="#facs_928_r38"/>Einrichtungen</add>
+				</p>
+				<p>
+					<lb facs="#facs_928_r39"/>§ 11. Dem Bezirksjugendsekretariat sind die Regionalstellen
+              des<lb facs="#facs_928_r40"/>Kinderpsychiatrischen Dienstes angegliedert; in der Regel
+            führt es die<lb facs="#facs_928_r41"/>Geschäftsstellen der Pro Juventute, der
+            Schweizerischen Winter- und<lb facs="#facs_928_r42"/>Familienhilfe und der
+            Mütterspende.</p>
+				<p>
+					<lb facs="#facs_928_r43"/>Die Bezirksjugendkommission hat vor der Übernahme weiterer<lb facs="#facs_928_r44"/>Einrichtungen gemäss § 12 des Gesetzes dem Regierungsrat ein
+              Gesuch<lb facs="#facs_928_r45"/>einzureichen.</p>
+				<pb n="1917" facs="#facs_929"/>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_929_r1"/>vormundschaft<lb break="no" facs="#facs_929_r2"/>liche
+              Aufgaben</add>
+				</p>
+				<p>
+					<lb facs="#facs_929_r3"/>§ 12. Dem Bezirksjugendsekretariat können vormundschaftliche<lb facs="#facs_929_r4"/>Aufgaben für Kinder und Jugendliche in der Regel nur durch
+              diejenigen<lb facs="#facs_929_r5"/>Gemeinden übertragen werden, welche an dem
+            betreffenden Jugendse<lb break="no" facs="#facs_929_r6"/>kretariat beteiligt sind.
+            Vormundschaften und Beistandschaften für<lb facs="#facs_929_r7"/>Erwachsene können
+            ausnahmsweise übernommen werden.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_929_r8"/>Erwachsenen<lb break="no" facs="#facs_929_r9"/>hilfe</add>
+				</p>
+				<p>
+					<lb facs="#facs_929_r10"/>§ 13. Vor dem Abschluss von Vereinbarungen zwischen der<lb facs="#facs_929_r11"/>Bezirksjugendkommission und einzelnen Gemeinden zur Übernahme<lb facs="#facs_929_r12"/>von Aufgaben der Erwachsenenhilfe durch das Jugendsekretariat<lb facs="#facs_929_r13"/>gemäss § 13 des Gesetzes ist der Erziehungsdirektion ein
+              entsprechen<lb break="no" facs="#facs_929_r14"/>des Gesuch einzureichen.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_929_r15"/>IV. Gemeinden</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_929_r16"/>Ergänzende<lb facs="#facs_929_r17"/>Massnahmen</add>
+				</p>
+				<p>
+					<lb facs="#facs_929_r18"/>§ 14. Die ergänzenden Hilfeangebote gemäss § 15 des
+              Gesetzes<lb facs="#facs_929_r19"/>sind von den Gemeinden im Rahmen der Zusammenarbeit
+            mit der<lb facs="#facs_929_r20"/>Bezirksjugendkommission zu planen.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_929_r21"/>Gemeinde<lb break="no" facs="#facs_929_r22"/>jugend<lb break="no" facs="#facs_929_r23"/>sekretariate</add>
+				</p>
+				<p>
+					<lb facs="#facs_929_r24"/>§ 15. Gesuche zur Führung von Jugendsekretariaten durch
+              eine<lb facs="#facs_929_r25"/>Gemeinde werden der zuständigen Bezirksjugendkommission
+            zur Ver<lb break="no" facs="#facs_929_r26"/>nehmlassung vorgelegt.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_929_r27"/>V. Verwaltungskosten der Bezirksjugendsekretariate</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_929_r28"/>Begriff</add>
+				</p>
+				<p>
+					<lb facs="#facs_929_r29"/>§ 16 Verwaltungskosten gemäss § 14 des Gesetzes sind
+              Besoldun<lb break="no" facs="#facs_929_r30"/>gen und Sozialleistungen,
+            Spesenvergütungen gemäss kantonalem Per<lb break="no" facs="#facs_929_r31"/>sonalrecht,
+            Fortbildungskosten, Kosten von Veranstaltungen, Ausga<lb break="no" facs="#facs_929_r32"/>ben für Büroräumlichkeiten und ihre Einrichtungen, allgemeine Büro<lb break="no" facs="#facs_929_r33"/>auslagen und Ausgaben für Fachmaterial, Prämien für Betriebs-
+              und<lb facs="#facs_929_r34"/>Vermögensschadenhaftpflichtversicherung, Taggelder und
+              Entschädi<lb break="no" facs="#facs_929_r35"/>gungen für Barauslagen der Mitglieder
+            der Bezirksjugendkommissionen<lb facs="#facs_929_r36"/>und ihrer Ausschüsse sowie an
+            freiwillige Helfer.</p>
+				<p>
+					<lb facs="#facs_929_r37"/>Bei der Berechnung der Verwaltungskosten kommen Bundesbei<lb break="no" facs="#facs_929_r38"/>träge und Einahmen von dritter Seite in Abzug.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_929_r39"/>Berechnung der<lb facs="#facs_929_r40"/>Staatsbeiträge</add>
+				</p>
+				<p>
+					<lb facs="#facs_929_r41"/>§ 17. Zur Festsetzung der Staatsbeiträge von durchschnittlich
+              70%<lb facs="#facs_929_r42"/>für den gesamten Kanton werden die Bezirke jedes Jahr in
+              folgende<lb facs="#facs_929_r43"/>Beitragsklassen eingeteilt:</p>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_929_r44"/>Abweichung von der relativen Steuerkraft<lb facs="#facs_929_r45"/>aller beteiligten Gemeinden des Kantons:</cell>
+						<cell>
+							<lb facs="#facs_929_r46"/>Staatsbeitrag</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_929_r47"/>20% und mehr unter dem Mittel</cell>
+						<cell>
+							<lb facs="#facs_929_r48"/>80%</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_929_r49"/>19,9% darunter bis 10% darüber</cell>
+						<cell>
+							<lb facs="#facs_929_r50"/>70%</cell>
+					</row>
+				</table>
+				<pb n="1918" facs="#facs_930"/>
+				<p>
+					<lb facs="#facs_930_r1"/>10,1% bis 40% darüber</p>
+				<p>
+					<lb facs="#facs_930_r2"/>60%<lb facs="#facs_930_r3"/>40,1% und mehr darüber</p>
+				<p>
+					<lb facs="#facs_930_r4"/>50%</p>
+				<p>
+					<lb facs="#facs_930_r5"/>Betragen die aufgrund dieser Beitragsklassen berechneten
+              Staatsbei<lb break="no" facs="#facs_930_r6"/>träge zusammen mehr oder weniger als 70%
+            der zur Aufteilung ge<lb break="no" facs="#facs_930_r7"/>langenden Verwaltungskosten, so
+            werden die Staatsbeiträge verhältnis<lb break="no" facs="#facs_930_r8"/>mässig
+            herabgesetzt oder erhöht.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_930_r9"/>Voranschläge</add>
+				</p>
+				<p>
+					<lb facs="#facs_930_r10"/>§ 18. Die Bezirksjugendkommission unterbreitet dem
+              Jugendamt<lb facs="#facs_930_r11"/>den Voranschlag des Bezirksjugendsekretariats zur
+            Prüfung.</p>
+				<p>
+					<lb facs="#facs_930_r12"/>Das Bezirksjugendsekretariat hat den beteiligten Gemeinden
+              bis<lb facs="#facs_930_r13"/>Ende September die voraussichtlichen Kostenanteile für
+            das folgende<lb facs="#facs_930_r14"/>Jahr zu melden.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_930_r15"/>Kantonale<lb facs="#facs_930_r16"/>Finanzkontrolle</add>
+				</p>
+				<p>
+					<lb facs="#facs_930_r17"/>§ 19. Die Kassen- und Rechnungsführung des
+              Bezirksjugendsekre<lb break="no" facs="#facs_930_r18"/>tariats steht unter der
+            Aufsicht der kantonalen Finanzkontrolle. Diese<lb facs="#facs_930_r19"/>kontrolliert
+            mindestens einmal jährlich das Vorhandensein sämtlicher<lb facs="#facs_930_r20"/>Bestände an Bargeld, Post- und Bankguthaben und Wertschriften sowie<lb facs="#facs_930_r21"/>die Ordnungsmässigkeit der Buchhaltung und deren
+              Übereinstimmung<lb facs="#facs_930_r22"/>mit der Jahresrechnung. Ihre materielle
+            Prüfung des Zahlungsverkehrs<lb facs="#facs_930_r23"/>beschränkt sich auf die
+            Verwaltungskosten.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_930_r24"/>Revisoren der<lb facs="#facs_930_r25"/>Bezirksjugend<lb break="no" facs="#facs_930_r26"/>kommissionen</add>
+				</p>
+				<p>
+					<lb facs="#facs_930_r27"/>§ 20. Die Revisoren der Bezirksjugendkommission
+              kontrollieren<lb facs="#facs_930_r28"/>unter Vorbehalt der folgenden Bestimmungen
+            sowie der Tätigkeit der<lb facs="#facs_930_r29"/>kantonalen Finanzkontrolle die
+            Verwendung der vom Jugendsekretariat<lb facs="#facs_930_r30"/>verwalteten oder sonst bei
+            ihm eingehenden Mittel. Sie erstatten ihrer<lb facs="#facs_930_r31"/>Jugendkommission
+            schriftlich Bericht.</p>
+				<p>
+					<lb facs="#facs_930_r32"/>Die Kontrolle des Zahlungsverkehrs und der Rechnungslegung
+              für<lb facs="#facs_930_r33"/>vormundschaftliche Aufträge bleibt Aufgabe der
+            zuständigen vormund<lb break="no" facs="#facs_930_r34"/>schaftlichen Behörden. Verwaltet
+            das Jugendsekretariat Mittel privater<lb facs="#facs_930_r35"/>Institutionen, so
+            bestimmen diese, wer die Prüfung ihrer Rechnungen<lb facs="#facs_930_r36"/>vorzunehmen
+            hat; mit Zustimmung der Bezirksjugendkommission kön<lb break="no" facs="#facs_930_r37"/>nen sie damit deren Revisoren beauftragen.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_930_r38"/>Jahresrechnung</add>
+				</p>
+				<p>
+					<lb facs="#facs_930_r39"/>§ 21. Die Bezirksjugendkommission beschliesst über die
+              Abnahme<lb facs="#facs_930_r40"/>der Jahresrechnung und leitet sie mit dem Bericht der
+            Revisoren an das<lb facs="#facs_930_r41"/>Jugendamt weiter.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_930_r42"/>VI. Verwaltungskosten der Gemeindejugendsekretariate</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_930_r43"/>Begriff</add>
+				</p>
+				<p>
+					<lb facs="#facs_930_r44"/>§ 22. Beitragsberechtigte Verwaltungskosten gemäss § 18 des<lb facs="#facs_930_r45"/>Gesetzes sind Besoldungen und Sozialleistungen,
+              Spesenvergütungen<lb facs="#facs_930_r46"/>und Entschädigungen im Zusammenhang mit
+              Fortbildungsangeboten,<lb facs="#facs_930_r47"/>ausgenommen Kursgelder, sowie die
+            Auslagen für Büroverbrauchsma<lb break="no" facs="#facs_930_r48"/>terialien.</p>
+				<pb n="1919" facs="#facs_931"/>
+				<p>
+					<lb facs="#facs_931_r1"/>Die Gemeinden haben dem Jugendamt bis Ende März eine detail<lb break="no" facs="#facs_931_r4"/>lierte Abrechnung über diese Ausgaben im abgelaufenen
+            Jahr einzurei<lb break="no" facs="#facs_931_r5"/>chen. Das Jugendamt kann Einsicht in
+            die Belege nehmen.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_931_r6"/>Staatsbeiträge</add>
+				</p>
+				<p>
+					<lb facs="#facs_931_r7"/>§ 23. Die Staatsbeiträge an die Gemeindejugendsekretariate<lb facs="#facs_931_r8"/>berechnen sich aufgrund folgender Beitragsskala:</p>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_931_r9"/>massgebliche</cell>
+						<cell>
+							<lb facs="#facs_931_r10"/>Staatsbeitrag</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_931_r11"/>Steuerbelastung</cell>
+						<cell>
+							<lb facs="#facs_931_r12"/>in %</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_931_r13"/>bis 134,9</cell>
+						<cell>
+							<lb facs="#facs_931_r14"/>5</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_931_r15"/>135 - 139,9</cell>
+						<cell>
+							<lb facs="#facs_931_r16"/>10</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_931_r17"/>140 - 144,9</cell>
+						<cell>
+							<lb facs="#facs_931_r18"/>15</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_931_r19"/>145 - 149,9</cell>
+						<cell>
+							<lb facs="#facs_931_r20"/>20</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_931_r21"/>150 - 154,9</cell>
+						<cell>
+							<lb facs="#facs_931_r22"/>25</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_931_r23"/>155 - 159,9</cell>
+						<cell>
+							<lb facs="#facs_931_r24"/>30</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_931_r25"/>160 - 164,9</cell>
+						<cell>
+							<lb facs="#facs_931_r26"/>35</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_931_r27"/>165 - 169,9</cell>
+						<cell>
+							<lb facs="#facs_931_r28"/>40</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_931_r29"/>ab 170</cell>
+						<cell>
+							<lb facs="#facs_931_r30"/>45</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_931_r31"/>VII. Bevorschussung von Unterhaltsbeiträgen</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_931_r32"/>Zuständigkeit</add>
+				</p>
+				<p>
+					<lb facs="#facs_931_r33"/>§ 24. Zuständig für die Bevorschussung von
+              Unterhaltsbeiträgen<lb facs="#facs_931_r34"/>ist jene Gemeinde, in welcher das Kind
+            seinen zivilrechtlichen Wohnsitz<lb facs="#facs_931_r35"/>hat.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_931_r36"/>Rechtstitel</add>
+				</p>
+				<p>
+					<lb facs="#facs_931_r37"/>§ 25. Die Unterhaltsbeiträge werden aufgrund folgender
+              Rechtsti<lb break="no" facs="#facs_931_r38"/>tel bevorschusst:</p>
+				<p>
+					<lb facs="#facs_931_r39"/>a) Urteile:</p>
+				<p>
+					<lb facs="#facs_931_r40"/>Scheidungs -, Trennungs- oder Vaterschaftsurteile;</p>
+				<p>
+					<lb facs="#facs_931_r41"/>b) gerichtliche Entscheide:</p>
+				<p>
+					<lb facs="#facs_931_r42"/>Entscheide im Eheschutzverfahren,</p>
+				<p>
+					<lb facs="#facs_931_r43"/>Entscheide betreffend vorsorgliche Massnahmen im Eheschei<lb break="no" facs="#facs_931_r44"/>dungs- oder -trennungsverfahren,</p>
+				<p>
+					<lb facs="#facs_931_r45"/>Entscheide betreffend vorläufige Zahlung oder Hinterlegung
+              von<lb facs="#facs_931_r46"/>Unterhaltsbeiträgen im Vaterschaftsverfahren;</p>
+				<p>
+					<lb facs="#facs_931_r47"/>c) aussergerichtliche, durch die zuständige
+              Vormundschaftsbehörde<lb facs="#facs_931_r48"/>genehmigte
+            Unterhaltsverpflichtungen.</p>
+				<p>
+					<lb facs="#facs_931_r49"/>Kinderzulagen werden nicht bevorschusst.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_931_r50"/>Höhe</add>
+				</p>
+				<p>
+					<lb facs="#facs_931_r51"/>§ 26. Die Unterhaltsbeiträge werden höchstens bis zu Fr. 500
+            .- je<lb facs="#facs_931_r52"/>Kind und Monat bevorschusst und nur soweit, als die
+            Grenzen der<lb facs="#facs_931_r53"/>Anspruchsberechtigung gemäss § 29 nicht
+            überschritten werden.</p>
+				<pb n="1920" facs="#facs_932"/>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_932_r1"/>Dauer der<lb facs="#facs_932_r2"/>Anspruchs<lb break="no" facs="#facs_932_r3"/>berechtigung</add>
+				</p>
+				<p>
+					<lb facs="#facs_932_r4"/>§ 27. Der Anspruch auf Bevorschussung besteht erstmals für
+              den<lb facs="#facs_932_r5"/>Monat, in dem die Anmeldung eingereicht worden ist und
+              sämtliche<lb facs="#facs_932_r6"/>gesetzlichen Voraussetzungen für ihre Ausrichtung
+            erfüllt sind. Er<lb facs="#facs_932_r7"/>erlischt, wenn eine der Voraussetzungen
+            dahinfällt.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_932_r8"/>Sonderfälle</add>
+				</p>
+				<p>
+					<lb facs="#facs_932_r9"/>§ 28. Die Bevorschussung kann in begründeten Sonderfällen
+              von<lb facs="#facs_932_r10"/>den Bestimmungen abweichen, namentlich wenn</p>
+				<p>
+					<lb facs="#facs_932_r11"/>a) dem Kind zuzumuten ist, seinen Unterhalt voll oder
+            teilweise aus<lb facs="#facs_932_r12"/>eigenem Erwerb oder Vermögen zu bestreiten;</p>
+				<p>
+					<lb facs="#facs_932_r13"/>b) in einem Eheschutzverfahren oder in einem Beschluss
+              betreffend<lb facs="#facs_932_r14"/>vorsorgliche Massnahmen die Anweisung an den
+            Schuldner des<lb facs="#facs_932_r15"/>Pflichtigen zu Direktzahlungen (Art. 171 ZGB)
+            durchgesetzt werden<lb facs="#facs_932_r16"/>kann;</p>
+				<p>
+					<lb facs="#facs_932_r17"/>c) ausserordentliche finanzielle Verhältnisse (z.B. hoher
+              Mietzins,<lb facs="#facs_932_r18"/>Ausbildungs- oder Krankheitskosten, illiquide
+              Vermögenswerte<lb facs="#facs_932_r19"/>usw.) zu berücksichtigen sind;</p>
+				<p>
+					<lb facs="#facs_932_r20"/>d) die Unterhaltspflicht über das Volljährigkeitsalter
+            hinausgeht.</p>
+				<p>
+					<lb facs="#facs_932_r21"/>Macht der Gesuchsteller absichtlich falsche Angaben oder
+              liegen<lb facs="#facs_932_r22"/>andere Fälle von Missbrauch vor, entfällt die
+            Bevorschussung.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_932_r23"/>Grenzen der<lb facs="#facs_932_r24"/>Anspruchs<lb break="no" facs="#facs_932_r25"/>berechtigung</add>
+				</p>
+				<p>
+					<lb facs="#facs_932_r26"/>§ 29. Kein Anspruch auf Bevorschussung der
+              Unterhaltsbeiträge<lb facs="#facs_932_r27"/>besteht, wenn folgende Einkommens- bzw.
+            Vermögensgrenzen über<lb break="no" facs="#facs_932_r28"/>schritten sind:</p>
+				<p>
+					<lb facs="#facs_932_r29"/>a) beim Kind Fr. 9600 .- Einkommen im Jahr;</p>
+				<p>
+					<lb facs="#facs_932_r30"/>b) beim nicht verpflichteten alleinstehenden Elternteil:</p>
+				<p>
+					<lb facs="#facs_932_r31"/>Fr. 32 000 .- Reineinkommen pro Jahr zuzüglich</p>
+				<p>
+					<lb facs="#facs_932_r32"/>Fr. 3 000 .- für jedes von ihm unterhaltene Kind;</p>
+				<p>
+					<lb facs="#facs_932_r33"/>Fr. 100 000 .- Reinvermögen;</p>
+				<p>
+					<lb facs="#facs_932_r34"/>Von dem Fr. 30000 .- übersteigenden gesamten
+              Familienvermögen<lb facs="#facs_932_r35"/>wird '/is dem Reineinkommen zugerechnet;</p>
+				<p>
+					<lb facs="#facs_932_r36"/>c) beim nicht verpflichteten verheirateten Elternteil:</p>
+				<p>
+					<lb facs="#facs_932_r37"/>Fr. 42 000 .- Reineinkommen pro Jahr zuzüglich</p>
+				<p>
+					<lb facs="#facs_932_r38"/>Fr. 3 000 .- für jedes von ihm unterhaltene Kind;</p>
+				<p>
+					<lb facs="#facs_932_r39"/>Fr. 120 000 .- Reinvermögen;</p>
+				<p>
+					<lb facs="#facs_932_r40"/>Von dem Fr. 40000 .- übersteigenden gesamten
+              Familienvermögen<lb facs="#facs_932_r41"/>wird 1/is dem Reineinkommen zugerechnet.</p>
+				<p>
+					<lb facs="#facs_932_r42"/>Ergeben die einer Familie monatlich insgesamt zu
+              bevorschussenden<lb facs="#facs_932_r43"/>Unterhaltsbeiträge weniger als Fr. 50 .-,
+            entfällt eine Bevorschussung.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_932_r44"/>Überprüfung<lb facs="#facs_932_r45"/>der Ansätze</add>
+				</p>
+				<p>
+					<lb facs="#facs_932_r46"/>§ 30. Die Ansätze gemäss §§ 26 und 29 werden bei einem Teue<lb break="no" facs="#facs_932_r47"/>rungsanstieg von jeweils 15%, berechnet nach dem
+            Landesindex der<lb facs="#facs_932_r48"/>Konsumentenpreise des Bundesamtes für
+            Industrie, Gewerbe und<lb facs="#facs_932_r49"/>Arbeit, durch den Regierungsrat
+            angepasst.</p>
+				<pb n="1921" facs="#facs_933"/>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_933_r1"/>Einkommen</add>
+				</p>
+				<p>
+					<lb facs="#facs_933_r2"/>§ 31. Als Einkommen des Kindes gemäss § 29 gelten alle Ein<lb break="no" facs="#facs_933_r3"/>künfte wie Erwerbseinkommen, Leistungen von privaten
+            oder öffent<lb break="no" facs="#facs_933_r4"/>lich-rechtlichen Versicherungen,
+            Ergänzungsleistungen usw. Nicht zu<lb facs="#facs_933_r5"/>berücksichtigen sind
+            öffentliche Fürsorgeleistungen, freiwillige Zuwen<lb break="no" facs="#facs_933_r6"/>dungen Dritter und Stipendien.</p>
+				<p>
+					<lb facs="#facs_933_r7"/>Als Einkommen des nicht verpflichteten Elternteils gemäss § 29
+              gilt<lb facs="#facs_933_r8"/>sein nach steuerrechtlichen Grundsätzen errechnetes
+              Reineinkommen<lb facs="#facs_933_r9"/>bzw. das steuerrechtliche Reineinkommen des
+            Stiefelternteils.</p>
+				<p>
+					<lb facs="#facs_933_r10"/>Weichen die tatsächlichen finanziellen Verhältnisse, nach
+              den<lb facs="#facs_933_r11"/>Grundsätzen der Gegenwartsbesteuerung berechnet, um mehr
+            als 15%<lb facs="#facs_933_r12"/>von den letzten massgebenden Steuerzahlen ab, werden
+            die tatsächli<lb break="no" facs="#facs_933_r13"/>chen Verhältnisse berücksichtigt.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_933_r14"/>Vermögen</add>
+				</p>
+				<p>
+					<lb facs="#facs_933_r15"/>§ 32. Als Vermögen des nicht verpflichteten Elternteils
+              gemäss<lb facs="#facs_933_r16"/>§ 29 gilt sein nach steuerrechtlichen Grundsätzen
+            errechnetes Reinver<lb break="no" facs="#facs_933_r17"/>mögen bzw. das steuerrechtliche
+            Reinvermögen des Stiefelternteils.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_933_r18"/>Geltend<lb break="no" facs="#facs_933_r19"/>machung des<lb facs="#facs_933_r20"/>Anspruchs</add>
+				</p>
+				<p>
+					<lb facs="#facs_933_r21"/>§ 33. Die Bevorschussung von Unterhaltsbeiträgen ist vom
+              gesetz<lb break="no" facs="#facs_933_r22"/>lichen Vertreter (Inhaber der elterlichen
+            Gewalt, Vormund, allenfalls<lb facs="#facs_933_r23"/>Beistand) bei der
+            Durchführungsstelle zu beantragen.</p>
+				<p>
+					<lb facs="#facs_933_r24"/>Der Antragsteller ist verpflichtet, alle für die Abklärung
+              des<lb facs="#facs_933_r25"/>Anspruchs auf Bevorschussung der Unterhaltsbeiträge
+              notwendigen<lb facs="#facs_933_r26"/>Angaben zu machen.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_933_r27"/>Unterlagen</add>
+				</p>
+				<p>
+					<lb facs="#facs_933_r28"/>§ 34. Bei der Anmeldung hat der Antragsteller folgende
+              Unterla<lb break="no" facs="#facs_933_r29"/>gen beizubringen:</p>
+				<p>
+					<lb facs="#facs_933_r30"/>a) Schriftenempfangsschein oder Ausländerausweis;</p>
+				<p>
+					<lb facs="#facs_933_r31"/>b) Rechtstitel;</p>
+				<p>
+					<lb facs="#facs_933_r32"/>c) Unterlagen zur Berechnung der Einkommens- und
+              Vermögensver<lb break="no" facs="#facs_933_r33"/>hältnisse gemäss §§ 31 und 32
+            (Steuererklärung, Steuerrechnung,<lb facs="#facs_933_r34"/>Lohnausweis, Lehrvertrag
+            usw.);</p>
+				<p>
+					<lb facs="#facs_933_r35"/>d) Adresse und Arbeitgeber des Unterhaltspflichtigen, sofern
+              der<lb facs="#facs_933_r36"/>Antragsteller sie beibringen kann;</p>
+				<p>
+					<lb facs="#facs_933_r37"/>e) Aufstellung über die rückständigen Unterhaltsbeiträge.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_933_r38"/>Verpflichtung<lb facs="#facs_933_r39"/>des Antrag<lb break="no" facs="#facs_933_r40"/>stellers</add>
+				</p>
+				<p>
+					<lb facs="#facs_933_r41"/>§ 35. Der Antragsteller hat</p>
+				<p>
+					<lb facs="#facs_933_r42"/>a) die rückständigen und die laufenden Unterhaltsbeiträge
+            abzutreten;</p>
+				<p> b) eine Vollmacht auszustellen, um die rückständigen und weiteren<lb facs="#facs_933_r44"/>Ansprüche des Kindes unter Einschluss von Sozialleistungen
+              durch<lb facs="#facs_933_r45"/>Betreibung oder Klage geltend zu machen und das
+            Begehren um<lb facs="#facs_933_r46"/>Anweisungen an die Schuldner des Pflichtigen (Art.
+            291 ZGB) und<lb facs="#facs_933_r47"/>um Sicherstellung der künftigen Unterhaltsbeiträge
+            (Art. 292 ZGB)<lb facs="#facs_933_r48"/>zu erheben;</p>
+				<pb n="1922" facs="#facs_934"/>
+				<p>
+					<lb facs="#facs_934_r1"/>c) der Verrechnung aller für das Kind im Zusammenhang mit
+              dem<lb facs="#facs_934_r2"/>Alimenteninkasso eingehenden Zahlungen mit den Vorschüssen
+              zu<lb break="no" facs="#facs_934_r3"/>zustimmen.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_934_r4"/>Aufgaben der<lb facs="#facs_934_r5"/>Durchführungs<lb break="no" facs="#facs_934_r6"/>stelle</add>
+				</p>
+				<p>
+					<lb facs="#facs_934_r7"/>§ 36. Das Bezirksjugendsekretariat bzw. die von der Gemeinde
+              für<lb facs="#facs_934_r8"/>Abklärung und Vollzug der Bevorschussung als zuständig
+              bezeichnete<lb facs="#facs_934_r9"/>Stelle</p>
+				<p>
+					<lb facs="#facs_934_r10"/>a) klärt die Voraussetzungen für eine Bevorschussung ab und
+            stellt der<lb facs="#facs_934_r11"/>zuständigen Behörde Antrag;</p>
+				<p>
+					<lb facs="#facs_934_r12"/>b) stellt Antrag auf Auszahlung an die zuständige Behörde oder
+              zahlt<lb facs="#facs_934_r13"/>die zu bevorschussenden Unterhaltsbeiträge nach
+            Beschluss der<lb facs="#facs_934_r14"/>zuständigen Behörde aus;</p>
+				<p>
+					<lb facs="#facs_934_r15"/>c) überprüft die Voraussetzungen für eine Bevorschussung bei
+              Ände<lb break="no" facs="#facs_934_r16"/>rungen der Verhältnisse oder nach Bedarf,
+            mindestens aber jährlich;</p>
+				<p>
+					<lb facs="#facs_934_r17"/>d) sistiert bei Veränderungen der Verhältnisse die
+            Auszahlungen gege<lb break="no" facs="#facs_934_r18"/>benenfalls voll oder
+            teilweise;</p>
+				<p>
+					<lb facs="#facs_934_r19"/>e) führt das Inkasso der bevorschussten
+            Unterhaltsbeiträge;</p>
+				<p>
+					<lb facs="#facs_934_r20"/>f) stellt Strafantrag wegen Vernachlässigung von
+              Unterstützungspflich<lb break="no" facs="#facs_934_r21"/>ten (Art. 217 StGB und § 24a
+            StPO);</p>
+				<p>
+					<lb facs="#facs_934_r22"/>g) verrechnet die bevorschussten Unterhaltsbeiträge der
+              kostentragen<lb break="no" facs="#facs_934_r23"/>den Gemeinde und überweist die
+            eingegangenen Unterhaltsbeiträge<lb facs="#facs_934_r24"/>bis zur Höhe der
+            Bevorschussung an diese Gemeinde;</p>
+				<p>
+					<lb facs="#facs_934_r25"/>h) erstellt jährlich einen Rechenschaftsbericht zuhanden der
+              kostentra<lb break="no" facs="#facs_934_r26"/>genden Gemeinde;</p>
+				<p>
+					<lb facs="#facs_934_r27"/>i) vollzieht die Beschlüsse der zuständigen Behörde über die
+              Rückfor<lb break="no" facs="#facs_934_r28"/>derung unrechtmässig bezogener
+            Unterhaltsbeiträge.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_934_r29"/>Auszahlung</add>
+				</p>
+				<p>
+					<lb facs="#facs_934_r30"/>§ 37. Die zu bevorschussenden Unterhaltsbeiträge werden
+              monat<lb break="no" facs="#facs_934_r31"/>lich im voraus an den gesetzlichen Vertreter
+            des Kindes ausbezahlt. Zur<lb facs="#facs_934_r32"/>Verhinderung der Zweckentfremdung
+            und bei Plazierung des Kindes<lb facs="#facs_934_r33"/>ausserhalb der eigenen Familie
+            können die Zahlungen direkt an Dritte<lb facs="#facs_934_r34"/>geleistet werden.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_934_r35"/>Verfahrens<lb break="no" facs="#facs_934_r36"/>kosten</add>
+				</p>
+				<p>
+					<lb facs="#facs_934_r37"/>§ 38. Uneinbringbare Inkassokosten werden von der
+              zuständigen<lb facs="#facs_934_r38"/>Gemeinde übernommen.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_934_r39"/>Verwendung<lb facs="#facs_934_r40"/>der Zahlungen</add>
+				</p>
+				<p>
+					<lb facs="#facs_934_r41"/>§ 39. Eingehende Zahlungen sind in nachstehender Reihenfolge
+              zu<lb facs="#facs_934_r42"/>verwenden:</p>
+				<p>
+					<lb facs="#facs_934_r43"/>a) Unterhaltsvorschüsse;</p>
+				<p>
+					<lb facs="#facs_934_r44"/>b) Verfahrenskosten, Verzugszins und weitere Aufwendungen;</p>
+				<p>
+					<lb facs="#facs_934_r45"/>c) rückständige Unterhaltsbeiträge.</p>
+				<pb n="1923" facs="#facs_935"/>
+				<p>
+					<lb facs="#facs_935_r1"/>Sofern der Schuldner zur Zahlung von Kinder- und
+              Ehegattenali<lb break="no" facs="#facs_935_r2"/>menten verpflichtet ist, werden die
+            eingehenden Zahlungen prozentual<lb facs="#facs_935_r3"/>zu den beiden Verpflichtungen
+            angerechnet.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_935_r4"/>Entscheide<lb facs="#facs_935_r5"/>der zuständigen<lb facs="#facs_935_r6"/>Behörde</add>
+				</p>
+				<p>
+					<lb facs="#facs_935_r7"/>§ 40. Ein von der zuständigen Behörde bezeichnetes Mitglied
+              ent<lb break="no" facs="#facs_935_r8"/>scheidet im Regelfall über die Bewilligung der
+            Bevorschussung. Die<lb facs="#facs_935_r9"/>Gesamtbehörde kann sich ein
+            Genehmigungsrecht vorbehalten.</p>
+				<p>
+					<lb facs="#facs_935_r10"/>Die zuständige Behörde entscheidet als Gesamtbehörde über:</p>
+				<p>
+					<lb facs="#facs_935_r11"/>a) die Ablehnung eines Gesuches;</p>
+				<p>
+					<lb facs="#facs_935_r12"/>b) Sonderfälle im Sinne von § 28 dieser Verordnung;</p>
+				<p>
+					<lb facs="#facs_935_r13"/>c) den Verzicht auf Rückforderung geleisteter
+            Unterhaltsbeiträge;</p>
+				<p>
+					<lb facs="#facs_935_r14"/>d) die Verpflichtung zur Rückzahlung unrechtmässig bezogener
+              Unter<lb break="no" facs="#facs_935_r15"/>haltsbeiträge.</p>
+				<p>
+					<lb facs="#facs_935_r16"/>Die zuständige Behörde genehmigt den Rechenschaftsbericht
+              der<lb facs="#facs_935_r17"/>Durchführungsstelle.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_935_r18"/>Rechtsmittel</add>
+				</p>
+				<p>
+					<lb facs="#facs_935_r19"/>§ 41. Gegen Entscheide der zuständigen Behörde oder eines
+              ihrer<lb facs="#facs_935_r20"/>Mitglieder kann schriftlich und begründet innert
+            zwanzig Tagen seit<lb facs="#facs_935_r21"/>Empfang der Verfügung Rekurs beim Bezirksrat
+            erhoben werden.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_935_r22"/>Staatsbeiträge</add>
+				</p>
+				<p>
+					<lb facs="#facs_935_r23"/>§ 42. Die Staatsbeiträge an die Gemeinden berechnen sich
+              auf<lb break="no" facs="#facs_935_r24"/>grund folgender Beitragsskala:</p>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_935_r25"/>massgebliche Steuerbelastung<lb facs="#facs_935_r26"/>in
+                %</cell>
+						<cell>
+							<lb facs="#facs_935_r27"/>Staatsbeitrag<lb facs="#facs_935_r28"/>in %</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_935_r29"/>bis 134,9</cell>
+						<cell>
+							<lb facs="#facs_935_r30"/>5</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_935_r31"/>135 - 139,9</cell>
+						<cell>
+							<lb facs="#facs_935_r32"/>10</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_935_r33"/>140 - 144,9</cell>
+						<cell>
+							<lb facs="#facs_935_r34"/>15</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_935_r35"/>145 - 149,9</cell>
+						<cell>
+							<lb facs="#facs_935_r36"/>20</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_935_r37"/>150 - 154,9</cell>
+						<cell>
+							<lb facs="#facs_935_r38"/>25</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_935_r39"/>155 - 159,9</cell>
+						<cell>
+							<lb facs="#facs_935_r40"/>30</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_935_r41"/>160 - 164,9</cell>
+						<cell>
+							<lb facs="#facs_935_r42"/>35</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_935_r43"/>165 - 169,9</cell>
+						<cell>
+							<lb facs="#facs_935_r44"/>40</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_935_r45"/>170 - 174,9</cell>
+						<cell>
+							<lb facs="#facs_935_r46"/>45</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_935_r47"/>ab 175</cell>
+						<cell>
+							<lb facs="#facs_935_r48"/>50</cell>
+					</row>
+				</table>
+				<p>
+					<lb facs="#facs_935_r49"/>Die Staatsbeiträge werden jährlich an die Ausgabenüberschüsse
+              des<lb facs="#facs_935_r50"/>Vorjahres ausgerichtet. Gesuche sind jeweils bis Ende Mai
+            dem Kanto<lb break="no" facs="#facs_935_r51"/>nalen Jugendamt einzureichen.</p>
+			</div>
+			<pb n="1924" facs="#facs_936"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_936_r1"/>VIII. Überbrückungshilfen während der Dauer der<lb facs="#facs_936_r2"/>Vaterschaftsregelung</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_936_r3"/>Voraus<lb break="no" facs="#facs_936_r4"/>setzungen</add>
+				</p>
+				<p>
+					<lb facs="#facs_936_r5"/>§ 43. Überbrückungshilfen werden ausgerichtet für
+              Unterhaltsbei<lb break="no" facs="#facs_936_r6"/>träge, auf welche das Kind
+            voraussichtlich Anspruch hat, die aber<lb facs="#facs_936_r7"/>mangels rechtsgültiger
+            Vaterschaftsregelung noch nicht eingefordert<lb facs="#facs_936_r8"/>werden können, oder
+            die von dem als Vater Bezeichneten hinterlegt<lb facs="#facs_936_r9"/>werden, aber
+            vorläufig nicht ausbezahlt werden dürfen (Art. 282 ZGB).</p>
+				<p>
+					<lb facs="#facs_936_r10"/>Die Ausrichtung von Überbrückungshilfen setzt voraus, dass
+              das<lb facs="#facs_936_r11"/>Kind ab Geburt oder seit mindestens einem Jahr in einer
+              zürcherischen<lb facs="#facs_936_r12"/>Gemeinde zivilrechtlichen Wohnsitz hat.</p>
+				<p>
+					<lb facs="#facs_936_r13"/>Für die Zuständigkeit gilt § 24 sinngemäss.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_936_r14"/>Beginn und<lb facs="#facs_936_r15"/>Ende</add>
+				</p>
+				<p>
+					<lb facs="#facs_936_r16"/>§ 44. Die Überbrückungshilfen werden von der Geburt bis zur<lb facs="#facs_936_r17"/>rechtskräftigen Regelung der Vaterschaft bzw. bis zur
+              gerichtlichen<lb facs="#facs_936_r18"/>Anordnung der vorläufigen Zahlung von
+            Unterhaltsbeiträgen durch den<lb facs="#facs_936_r19"/>Vater, in der Regel jedoch
+            längstens während vier Jahren ab Geburt des<lb facs="#facs_936_r20"/>Kindes,
+            ausgerichtet.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_936_r21"/>Bemessung</add>
+				</p>
+				<p>
+					<lb facs="#facs_936_r22"/>§ 45. Die Höhe der Überbrückungshilfen bemisst sich nach
+              der<lb facs="#facs_936_r23"/>Höhe des Unterhaltsbeitrages, welcher aufgrund der
+            Verhältnisse vor<lb break="no" facs="#facs_936_r24"/>aussichtlich festgesetzt wird; die
+            Überbrückungshilfe beträgt aber höch<lb break="no" facs="#facs_936_r25"/>stens Fr. 400
+            .- je Kind und Monat.</p>
+				<p>
+					<lb facs="#facs_936_r26"/>Die Berücksichtigung von Einkommen und Vermögen des Kindes<lb facs="#facs_936_r27"/>und der Mutter erfolgt nach den §§ 29, 31 und 32.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_936_r28"/>Geltend<lb break="no" facs="#facs_936_r29"/>machung</add>
+				</p>
+				<p>
+					<lb facs="#facs_936_r30"/>§ 46. Die Überbrückungshilfen sind vom Beistand des Kindes,
+              der<lb facs="#facs_936_r31"/>für die Feststellung der Vaterschaft sorgt, zu
+            beantragen.</p>
+				<p>
+					<lb facs="#facs_936_r32"/>Der Beistand hat die für den Entscheid notwendigen
+              Abklärungen<lb facs="#facs_936_r33"/>zu treffen, insbesondere hinsichtlich des
+            Wohnsitzes des Kindes, der<lb facs="#facs_936_r34"/>Wahrscheinlichkeit der Vaterschaft,
+            der voraussichtlichen Höhe der<lb facs="#facs_936_r35"/>Unterhaltsbeiträge sowie der
+            Einkommens- und Vermögensverhältnisse<lb facs="#facs_936_r36"/>von Mutter und Kind.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_936_r37"/>Entscheid;<lb facs="#facs_936_r38"/>Rechtsmittel</add>
+				</p>
+				<p>
+					<lb facs="#facs_936_r39"/>§ 47. Der Entscheid über Ausrichtung und Rückerstattung von<lb facs="#facs_936_r40"/>Überbrückungshilfen erfolgt durch die gemäss § 40 zuständige
+              Behörde.<lb facs="#facs_936_r41"/>Für das Rechtsmittel ist § 41 anwendbar.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_936_r42"/>Rückerstattung</add>
+				</p>
+				<p>
+					<lb facs="#facs_936_r43"/>§ 48. Die Überbrückungshilfen sind zurückzuerstatten,
+              soweit<lb facs="#facs_936_r44"/>Unterhaltsbeiträge für die Zeit der
+            Vaterschaftsregelung erhältlich sind.<lb facs="#facs_936_r45"/>Vorbehalten bleibt die
+            Pflicht zur Rückerstattung unrechtmässig bezo<lb break="no" facs="#facs_936_r46"/>gener
+            Leistungen.</p>
+				<pb n="1925" facs="#facs_937"/>
+				<p>
+					<lb facs="#facs_937_r1"/>Der Beistand des Kindes kehrt das Notwendige vor für die
+              Sicherung<lb facs="#facs_937_r2"/>der Rückerstattung der Überbrückungshilfen
+            (Beantragung der Hinter<lb break="no" facs="#facs_937_r3"/>legung von Beiträgen,
+            Abtretung der Forderung, Inkasso).</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_937_r4"/>Staatsbeiträge</add>
+				</p>
+				<p>
+					<lb facs="#facs_937_r5"/>§ 49. Die Berechnung der Staatsbeiträge an die Gemeinden und<lb facs="#facs_937_r6"/>die Eingabe von Beitragsgesuchen erfolgt gemäss § 42.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_937_r7"/>IX. Jugendhäuser und Freizeitanlagen</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_937_r8"/>beitrags<lb break="no" facs="#facs_937_r9"/>berechtigte<lb facs="#facs_937_r10"/>Kosten</add>
+				</p>
+				<p>
+					<lb facs="#facs_937_r11"/>§ 50. Als beitragsberechtigte Kosten der Jugendhäuser und
+              Frei<lb break="no" facs="#facs_937_r12"/>zeitanlagen gelten</p>
+				<p>
+					<lb facs="#facs_937_r13"/>a) die Personalkosten;</p>
+				<p>
+					<lb facs="#facs_937_r14"/>b) die Kosten des allgemeinen Betriebsaufwandes, nämlich die
+              Kosten<lb facs="#facs_937_r15"/>für Reinigung und Wartung der Räumlichkeiten sowie für
+              Wasser,<lb facs="#facs_937_r16"/>Strom und Heizung.</p>
+				<p>
+					<lb facs="#facs_937_r17"/>Die Erziehungsdirektion kann Höchstbeiträge oder Pauschalen
+              für<lb facs="#facs_937_r18"/>die beitragsberechtigten Kosten festlegen.</p>
+				<p>
+					<lb facs="#facs_937_r19"/>Nicht beitragsberechtigt sind insbesondere Baukosten,
+              Mietkosten<lb facs="#facs_937_r20"/>sowie Auslagen für Anschaffungen, Reparaturen und
+            Unterhalt.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_937_r21"/>Staatsbeiträge</add>
+				</p>
+				<p>
+					<lb facs="#facs_937_r22"/>§ 51. Der Staatsbeitrag wird aufgrund des anrechenbaren
+              Betriebs<lb break="no" facs="#facs_937_r23"/>aufwandes des Vorjahres errechnet.</p>
+				<p>
+					<lb facs="#facs_937_r24"/>Im ersten Betriebsjahr kann ein Staatsbeitrag gestützt auf das
+              berei<lb break="no" facs="#facs_937_r25"/>nigte Budget ausgerichtet werden, sofern der
+            Betrieb vor dem 1. August<lb facs="#facs_937_r27"/>aufgenommen worden ist.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_937_r28"/>Berechnung</add>
+				</p>
+				<p>
+					<lb facs="#facs_937_r29"/>§ 52. Der Staatsbeitrag beträgt höchstens einen Drittel der
+              bei<lb break="no" facs="#facs_937_r30"/>tragsberechtigten Kosten. Er richtet sich nach
+            der finanziellen Lei<lb break="no" facs="#facs_937_r31"/>stungsfähigkeit der Gemeinde,
+            die als Träger des Jugendhauses oder der<lb facs="#facs_937_r32"/>Freizeitanlage
+            auftritt, oder, bei privater Trägerschaft, in deren Gebiet<lb facs="#facs_937_r33"/>die
+            Einrichtung liegt.</p>
+				<p>
+					<lb facs="#facs_937_r34"/>Wird ein Jugendhaus oder eine Freizeitanlage von mehreren<lb facs="#facs_937_r35"/>Gemeinden getragen, gilt für die Berechnung des Staatsbeitrages
+              das<lb facs="#facs_937_r36"/>mit der absoluten Steuerkraft gewogene Mittel der
+            massgeblichen Steu<lb break="no" facs="#facs_937_r37"/>erbelastung.</p>
+				<p>
+					<lb facs="#facs_937_r38"/>Der Berechnung des Beitragssatzes wird die gemäss Finanzaus<lb break="no" facs="#facs_937_r39"/>gleichsgesetz ermittelte massgebliche Steuerbelastung
+            zugrunde gelegt.</p>
+				<p>
+					<lb facs="#facs_937_r40"/>Der Beitragssatz berechnet sich wie folgt:</p>
+				<pb n="1926" facs="#facs_938"/>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_938_r1"/>Massgebliche Steuerbelastung<lb facs="#facs_938_r2"/>in
+                %</cell>
+						<cell>
+							<lb facs="#facs_938_r3"/>Beitragssatz<lb facs="#facs_938_r4"/>in %</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_938_r5"/>bis 134,9</cell>
+						<cell>
+							<lb facs="#facs_938_r6"/>5</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_938_r7"/>135 - 144,9</cell>
+						<cell>
+							<lb facs="#facs_938_r8"/>10</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_938_r9"/>145 - 154,9</cell>
+						<cell>
+							<lb facs="#facs_938_r10"/>15</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_938_r11"/>155 - 164,9</cell>
+						<cell>
+							<lb facs="#facs_938_r12"/>20</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_938_r13"/>165 - 179,9</cell>
+						<cell>
+							<lb facs="#facs_938_r14"/>25</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_938_r15"/>180 - 199,9</cell>
+						<cell>
+							<lb facs="#facs_938_r16"/>30</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_938_r17"/>ab 200</cell>
+						<cell>
+							<lb facs="#facs_938_r18"/>331/3</cell>
+					</row>
+				</table>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_938_r19"/>Gemeinde<lb break="no" facs="#facs_938_r20"/>beiträge</add>
+				</p>
+				<p>
+					<lb facs="#facs_938_r21"/>§ 53. Als Gemeindebeitrag gelten Beiträge der politischen und
+              der<lb facs="#facs_938_r22"/>Schulgemeinde. Der Beitrag einer Nachbargemeinde an die
+              Träger<lb break="no" facs="#facs_938_r23"/>schaft kann mitberücksichtigt werden.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_938_r24"/>Festsetzung der<lb facs="#facs_938_r25"/>Beiträge</add>
+				</p>
+				<p>
+					<lb facs="#facs_938_r26"/>§ 54. Übersteigt der errechnete Gesamtbedarf die mit dem
+              Voran<lb break="no" facs="#facs_938_r27"/>schlag bewilligten Mittel, werden die
+            einzelnen Beiträge prozentual<lb facs="#facs_938_r28"/>gekürzt. Über die Festsetzung der
+            Beiträge entscheidet die Erziehungs<lb break="no" facs="#facs_938_r29"/>direktion.</p>
+				<p>
+					<lb facs="#facs_938_r30"/>Beiträge unter Fr. 200 .- werden nicht ausgerichtet.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_938_r31"/>Gesuche</add>
+				</p>
+				<p>
+					<lb facs="#facs_938_r32"/>§ 55. Gesuche um Staatsbeiträge an den Betrieb von
+              Jugendhäu<lb break="no" facs="#facs_938_r33"/>sern und Freizeitanlagen sind bis zum
+              <date when="--07-31">31. Juli</date> dem Kantonalen Jugend<lb break="no" facs="#facs_938_r36"/>amt einzureichen. Später eingehende Gesuche werden nicht
+              berücksich<lb break="no" facs="#facs_938_r37"/>tigt.</p>
+				<p>
+					<lb facs="#facs_938_r38"/>Jahresbericht, Jahresrechnung und Bilanz des Vorjahres,
+              Budget<lb facs="#facs_938_r39"/>und Programme des laufenden Jahres sowie eine
+            Bestätigung über die<lb facs="#facs_938_r40"/>Höhe des im laufenden Jahr ausbezahlten
+            oder zugesicherten Gemein<lb break="no" facs="#facs_938_r41"/>debeitrages sind
+            beizulegen. Bei erstmaligen Gesuchen einer privaten<lb facs="#facs_938_r42"/>Trägerschaft sind ferner Unterlagen, die über die Organisationsform<lb facs="#facs_938_r43"/>Aufschluss geben, einzureichen. Das Jugendamt kann weitere
+              Unterla<lb break="no" facs="#facs_938_r44"/>gen, namentlich auch die
+            Buchhaltungsbelege, anfordern.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_938_r45"/>X. Zentrale Dienstleistungen für Jugendorganisationen</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_938_r46"/>Staatsbeiträge</add>
+				</p>
+				<p>
+					<lb facs="#facs_938_r47"/>§ 56. Kantonalen Verbänden sowie der Kontakt- und
+              Dienststelle<lb facs="#facs_938_r48"/>der Zürcher Jugendorganisationen können
+            Staatsbeiträge an zentrale<lb facs="#facs_938_r49"/>administrative Dienstleistungen
+            ausgerichtet werden. Darunter fallen</p>
+				<p>
+					<lb facs="#facs_938_r50"/>a) Personalkosten;</p>
+				<p>
+					<lb facs="#facs_938_r51"/>b) Kosten des allgemeinen Betriebsaufwandes gemäss § 50.</p>
+				<p>
+					<lb facs="#facs_938_r52"/>Ferner können Beiträge zur Unterstützung von Kursen zur
+              Ausbil<lb break="no" facs="#facs_938_r53"/>dung von Fachkräften in Jugendhäusern und
+            Freizeitanlagen sowie in<lb facs="#facs_938_r54"/>der Jugendarbeit ausgerichtet
+            werden.</p>
+				<pb n="1927" facs="#facs_939"/>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_939_r1"/>Gesuche</add>
+				</p>
+				<p>
+					<lb facs="#facs_939_r2"/>§ 57. Gesuche um Beiträge sind bis zum <date when="--03-31">31.
+              März</date> der Erziehungs<lb break="no" facs="#facs_939_r5"/>direktion einzureichen.
+            Später eingehende Gesuche werden nicht<lb facs="#facs_939_r6"/>berücksichtigt. Über die
+            Festsetzung der Beiträge entscheidet die Erzie<lb break="no" facs="#facs_939_r7"/>hungsdirektion.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_939_r8"/>XI. Förderung gemeinnütziger privater und öffentlicher
+            Organisationen</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_939_r9"/>Gemeinnützige<lb facs="#facs_939_r10"/>private und<lb facs="#facs_939_r11"/>öffentliche<lb facs="#facs_939_r12"/>Organisationen</add>
+				</p>
+				<p>
+					<lb facs="#facs_939_r13"/>§ 58. Über Beiträge an gemeinnützige private und
+              öffentliche<lb facs="#facs_939_r14"/>Organisationen gemäss § 28 des Gesetzes
+            entscheidet die Erziehungsdi<lb break="no" facs="#facs_939_r15"/>rektion im Rahmen der
+            Voranschlagskredite.</p>
+				<p>
+					<lb facs="#facs_939_r16"/>Eine Förderung gemeinnütziger privater Organisationen kommt
+              in<lb facs="#facs_939_r17"/>Betracht, wenn die Organisationen eine Aufgabe anstelle
+            eines Organs<lb facs="#facs_939_r18"/>der öffentlichen Jugend- und Familienhilfe erfüllt
+            oder einen Wirkungs<lb break="no" facs="#facs_939_r19"/>kreis besitzt, dem eine private
+            Organisationsform besser entspricht als<lb facs="#facs_939_r20"/>eine öffentliche
+            Einrichtung.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_939_r21"/>XII. Schlussbestimmungen</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_939_r22"/>Bezirksjugend<lb break="no" facs="#facs_939_r23"/>kommissionen</add>
+				</p>
+				<p>
+					<lb facs="#facs_939_r24"/>§ 59. Auf Amtsdauer gewählte Mitglieder der
+              Bezirksjugendkom<lb break="no" facs="#facs_939_r25"/>missionen bleiben für den Rest
+            der Amtsdauer 1979/83 im Amt.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_939_r26"/>Anstellungs<lb break="no" facs="#facs_939_r27"/>verhältnisse</add>
+				</p>
+				<p>
+					<lb facs="#facs_939_r28"/>§ 60.' Die Anstellungsverhältnisse des Personals der
+              Bezirksju<lb break="no" facs="#facs_939_r29"/>gendsekretariate werden auf den <date when="1985-07-01">1. Juli 1985</date> in vertragliche Anstel<lb break="no" facs="#facs_939_r32"/>lungsverhältnisse überführt.</p>
+				<p>
+					<lb facs="#facs_939_r33"/>Auf Begehren des Angestellten kann die Überführung auf
+              einen<lb facs="#facs_939_r34"/>früheren Zeitpunkt hin erfolgen.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_939_r35"/>Subventionie<lb break="no" facs="#facs_939_r36"/>rung der
+                Ge<lb break="no" facs="#facs_939_r37"/>meinde jugend<lb break="no" facs="#facs_939_r38"/>sekretariate</add>
+				</p>
+				<p>
+					<lb facs="#facs_939_r39"/>§ 61. Die Ausrichtung von Staatsbeiträgen an die Gemeindeju<lb break="no" facs="#facs_939_r40"/>gendsekretariate gemäss § 18 des Gesetzes erfolgt,
+            gestützt auf die<lb facs="#facs_939_r41"/>Verwaltungskosten von 1981, erstmals im Jahre
+            1982.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_939_r42"/>Bevorschussung/<lb facs="#facs_939_r43"/>Überbrückungs<lb break="no" facs="#facs_939_r44"/>hilfen</add>
+				</p>
+				<p>
+					<lb facs="#facs_939_r45"/>§ 62. Staatsbeiträge an die Bevorschussung von
+              Unterhaltsbeiträ<lb break="no" facs="#facs_939_r46"/>gen und die Überbrückungshilfen
+            werden, gestützt auf die Auslagen von<lb facs="#facs_939_r47"/>1982, erstmals im Jahre
+            1983 ausgerichtet.</p>
+				<p>
+					<lb facs="#facs_939_r48"/>Die Ende 1981 hängigen Überbrückungsfälle werden den
+              zuständi<lb break="no" facs="#facs_939_r49"/>gen Gemeinden überwiesen. Der Fonds für
+            aussereheliche Mütter und<lb facs="#facs_939_r50"/>Kinder wird per <date when="1982-01-01">1. Januar 1982</date> aufgehoben. Rückerstattungen, die sich<lb facs="#facs_939_r53"/>auf Auszahlungen aus dem genannten Fonds beziehen, werden
+              zugun<lb break="no" facs="#facs_939_r54"/>sten des Fonds für gemeinnützige Zwecke
+            vereinnahmt.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_939_r55"/>Aufhebung bis<lb break="no" facs="#facs_939_r56"/>herigen
+              Rechts</add>
+				</p>
+				<p>
+					<lb facs="#facs_939_r57"/>§ 63. Die nachstehenden Erlasse werden aufgehoben:</p>
+				<p>
+					<lb facs="#facs_939_r58"/>a) Die Vollziehungsverordnung zum Gesetz über die Organisation
+              der<lb facs="#facs_939_r59"/>Jugendhilfe vom <date when="1959-01-26">26. Januar
+              1959;</date></p>
+				<pb n="1928" facs="#facs_940"/>
+				<p>
+					<lb facs="#facs_940_r1"/>b) Das Reglement über die Gewährung von Überbrückungshilfen
+              an<lb facs="#facs_940_r2"/>aussereheliche Mütter und Kinder während der Dauer der
+              Vater<lb break="no" facs="#facs_940_r3"/>schaftsregelung vom <date when="1974-08-21">21. August 1974;</date></p>
+				<p>
+					<lb facs="#facs_940_r5"/>c) Das Reglement über die Verwendung des Kredits zur Förderung
+              des<lb facs="#facs_940_r6"/>Betriebs von Jugendhäusern und Freizeitanlagen vom <date when="1973-06-13">13. Juni 1973</date> /<lb facs="#facs_940_r9"/>1. <date when="1975-10">Oktober 1975.</date></p>
+				<p>
+					<lb facs="#facs_940_r11"/>Zürich, den <date when="1981-10-21">21. Oktober
+            1981</date></p>
+				<p>
+					<lb facs="#facs_940_r13"/>Im Namen des Regierungsrates</p>
+				<p>
+					<lb facs="#facs_940_r14"/>Der Präsident:<lb facs="#facs_940_r15"/>Wiederkehr</p>
+				<p>
+					<lb facs="#facs_940_r16"/>Der Staatsschreiber i. V .:<lb facs="#facs_940_r17"/>Hirschi</p>
+				<p>
+					<lb facs="#facs_940_r18"/>Vorstehende Verordnung wird genehmigt.</p>
+				<p>
+					<lb facs="#facs_940_r19"/>Zürich, den <date when="1981-12-21">21. Dezember
+            1981</date></p>
+				<p>
+					<lb facs="#facs_940_r21"/>Im Namen des Kantonsrates</p>
+				<p>
+					<lb facs="#facs_940_r22"/>Der Präsident:<lb facs="#facs_940_r23"/>E. Rüfenacht</p>
+				<p>
+					<lb facs="#facs_940_r24"/>Der Sekretär:<lb facs="#facs_940_r25"/>E. Szabel</p>
+			</div>
+		</body></text></TEI>

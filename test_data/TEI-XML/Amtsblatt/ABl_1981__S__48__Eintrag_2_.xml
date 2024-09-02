@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-03-15">15.03.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] vom 29. Oktober 1980</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-01-09">09.01.1981</date><ident>StAZH ABl 1981 (S. 48, Eintrag 2)</ident><idno>48</idno><idno type="issue">1</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132126"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_49" uly="0" ulx="0" lry="2367" lrx="1611">
+			<graphic url="Abl_1981_1__S__0049.tif" width="1611px" height="2367px"/>
+			<zone xml:id="facs_49_r36" ulx="335" uly="2094" lrx="1517" lry="2126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r3" ulx="387" uly="360" lrx="1495" lry="394" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r23" ulx="318" uly="1362" lrx="483" lry="1386" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r30" ulx="402" uly="1804" lrx="1505" lry="1837" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r0" ulx="310" uly="202" lrx="348" lry="224" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r10" ulx="312" uly="687" lrx="1494" lry="720" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r29" ulx="326" uly="1741" lrx="1025" lry="1775" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r12" ulx="310" uly="781" lrx="904" lry="811" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r21" ulx="402" uly="1262" lrx="1501" lry="1295" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r24" ulx="720" uly="1535" lrx="782" lry="1559" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r27" ulx="325" uly="1652" lrx="1507" lry="1683" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r26" ulx="402" uly="1608" lrx="1501" lry="1641" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r33" ulx="331" uly="1944" lrx="860" lry="1972" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r14" ulx="312" uly="883" lrx="1498" lry="916" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r28" ulx="329" uly="1696" lrx="1511" lry="1728" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r37" ulx="334" uly="2152" lrx="491" lry="2176" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r11" ulx="314" uly="729" lrx="1496" lry="763" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r17" ulx="314" uly="1025" lrx="689" lry="1050" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r13" ulx="393" uly="839" lrx="1492" lry="872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r31" ulx="329" uly="1850" lrx="1506" lry="1882" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r9" ulx="312" uly="643" lrx="1501" lry="676" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r34" ulx="408" uly="2002" lrx="1510" lry="2034" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r7" ulx="391" uly="556" lrx="1490" lry="588" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r35" ulx="331" uly="2052" lrx="1515" lry="2083" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r2" ulx="800" uly="279" lrx="1108" lry="307" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r25" ulx="810" uly="1529" lrx="1118" lry="1556" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r20" ulx="318" uly="1202" lrx="1498" lry="1234" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r5" ulx="312" uly="452" lrx="1496" lry="481" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r19" ulx="398" uly="1158" lrx="1500" lry="1189" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r16" ulx="310" uly="970" lrx="1497" lry="1003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r6" ulx="310" uly="504" lrx="475" lry="531" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r4" ulx="312" uly="406" lrx="1485" lry="437" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r1" ulx="710" uly="283" lrx="773" lry="308" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r32" ulx="333" uly="1896" lrx="1510" lry="1927" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r18" ulx="393" uly="1100" lrx="861" lry="1131" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r8" ulx="312" uly="602" lrx="1495" lry="633" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r22" ulx="312" uly="1306" lrx="1498" lry="1340" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_49_r15" ulx="316" uly="929" lrx="1501" lry="959" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="48" facs="#facs_49"/>
+			<p>
+				<lb facs="#facs_49_r26"/>Der Regierungsrat unterbreitet dem Kantonsrat zuhanden<lb facs="#facs_49_r27"/>der Volksabstimmung einen Antrag über die Bewilligung eines<lb facs="#facs_49_r28"/>Staatsbeitrages für den Ausbau der SBB-Anlagen zur Einrich<lb break="no" facs="#facs_49_r29"/>tung einer S-Bahn im Kanton Zürich.</p>
+			<p>
+				<lb facs="#facs_49_r30"/>Ferner beantragt er dem Kantonsrat, der Stadt Zürich<lb facs="#facs_49_r31"/>einen Beitrag von zehn Millionen Franken an den Umbau und<lb facs="#facs_49_r32"/>die Renovation des Kongresshauses in Zürich zulasten des In<lb break="no" facs="#facs_49_r33"/>vestitionsfonds zu gewähren.</p>
+			<p>
+				<lb facs="#facs_49_r34"/>Dr. Hans-Ulrich Bertschinger, von und in Pfäffikon ZH,<lb facs="#facs_49_r35"/>Privatdozent, wurde zum Ordinarius für Veterinär-Bakterio<lb break="no" facs="#facs_49_r36"/>logie an der Veterinär-medizinischen Fakultät der
+                Universität<lb facs="#facs_49_r37"/>gewählt.</p>
+		</body></text></TEI>

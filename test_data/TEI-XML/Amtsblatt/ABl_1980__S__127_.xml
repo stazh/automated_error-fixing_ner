@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] Vom 14. November 1979</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-02-01">01.02.1980</date><ident>StAZH ABl 1980 (S. 127)</ident><idno>127</idno><idno type="issue">8</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131730"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_128" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0128.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_128_r31" ulx="364" uly="1899" lrx="1408" lry="1936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r5" ulx="139" uly="499" lrx="1423" lry="537" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r22" ulx="130" uly="1468" lrx="1416" lry="1508" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r20" ulx="216" uly="1375" lrx="1408" lry="1410" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r10" ulx="134" uly="800" lrx="1418" lry="836" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r36" ulx="202" uly="2218" lrx="1402" lry="2253" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r4" ulx="136" uly="450" lrx="1418" lry="487" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r7" ulx="226" uly="633" lrx="1404" lry="669" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r28" ulx="125" uly="1785" lrx="791" lry="1817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r26" ulx="124" uly="1685" lrx="1408" lry="1721" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r17" ulx="502" uly="1066" lrx="825" lry="1097" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r16" ulx="139" uly="1062" lrx="487" lry="1093" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r9" ulx="222" uly="750" lrx="1422" lry="787" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r2" ulx="650" uly="241" lrx="1027" lry="273" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r29" ulx="212" uly="1852" lrx="1404" lry="1888" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r18" ulx="535" uly="1210" lrx="612" lry="1241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r34" ulx="210" uly="2095" lrx="1408" lry="2130" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r30" ulx="125" uly="1897" lrx="354" lry="1931" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r27" ulx="122" uly="1735" lrx="1410" lry="1773" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r24" ulx="125" uly="1568" lrx="265" lry="1596" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r35" ulx="114" uly="2147" lrx="1304" lry="2180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r15" ulx="134" uly="1014" lrx="1414" lry="1051" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r25" ulx="214" uly="1637" lrx="1410" lry="1675" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r33" ulx="124" uly="2002" lrx="252" lry="2027" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r0" ulx="1358" uly="154" lrx="1422" lry="178" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r23" ulx="131" uly="1516" lrx="1408" lry="1555" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r6" ulx="139" uly="550" lrx="1337" lry="585" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r21" ulx="129" uly="1420" lrx="1414" lry="1460" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r3" ulx="229" uly="406" lrx="1418" lry="439" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r8" ulx="141" uly="683" lrx="602" lry="712" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r32" ulx="122" uly="1950" lrx="1412" lry="1986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r37" ulx="116" uly="2262" lrx="941" lry="2300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r1" ulx="547" uly="239" lrx="622" lry="271" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r11" ulx="136" uly="845" lrx="427" lry="878" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r19" ulx="637" uly="1212" lrx="1018" lry="1243" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r13" ulx="226" uly="916" lrx="1418" lry="953" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r38" ulx="949" uly="2270" lrx="1279" lry="2304" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r12" ulx="439" uly="850" lrx="735" lry="882" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_128_r14" ulx="131" uly="966" lrx="1418" lry="1004" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="127" facs="#facs_128"/>
+			<p>
+				<lb facs="#facs_128_r3"/>Der Regierungsrat hat beschlossen, der Stadt Zürich<lb facs="#facs_128_r4"/>Sonderbeiträge von gesamthaft 6,2 Millionen Franken für den<lb facs="#facs_128_r5"/>Neubau des Schauspielhauses, den Erweiterungsbau des Kunst<lb break="no" facs="#facs_128_r6"/>hauses und die SBB-Haltestelle Hardbrücke auszurichten.</p>
+			<p>
+				<lb facs="#facs_128_r7"/>Unter Verdankung der geleisteten Dienste werden aus dem<lb facs="#facs_128_r8"/>Staatsdienst entlassen:</p>
+			<p>
+				<lb facs="#facs_128_r9"/>Prof. Dr. Hugo Dörig, Prorektor und Hauptlehrer für Wirt<lb break="no" facs="#facs_128_r10"/>schaft und Recht an der Kantonsschule Hottingen Zürich, alters<lb break="no" facs="#facs_128_r11"/>halber auf den <date when="1980-04-30">30. April 1980;</date></p>
+			<p>
+				<lb facs="#facs_128_r13"/>Ernst Hügli, Sekretär bei der Abteilung Krankenhauswe<lb break="no" facs="#facs_128_r14"/>sen der Gesundheitsdirektion, und Jürg Leuenberger, lic. oec .,<lb facs="#facs_128_r15"/>Steuerkommissär bei der Finanzdirektion, entsprechend ihren<lb facs="#facs_128_r16"/>Gesuchen auf den <date when="1980-01-31">31. Januar 1980.</date></p>
+		</body></text></TEI>

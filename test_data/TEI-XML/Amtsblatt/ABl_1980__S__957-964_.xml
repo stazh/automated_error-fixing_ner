@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-18">18.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Gründungsvertrag für die Verkehrsbetriebe der Region Unteres Glattal (VRUG)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-09-12">12.09.1980</date><ident>StAZH ABl 1980 (S. 957-964)</ident><idno>957–964</idno><idno type="issue">64</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131972"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_221" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0221.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_221_r14" ulx="131" uly="1239" lrx="1270" lry="1277" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r20" ulx="216" uly="1662" lrx="1433" lry="1696" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r16" ulx="132" uly="1383" lrx="1125" lry="1415" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r27" ulx="122" uly="2022" lrx="1426" lry="2056" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r24" ulx="214" uly="1872" lrx="1427" lry="1910" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r0" ulx="1368" uly="174" lrx="1438" lry="200" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r3" ulx="689" uly="397" lrx="893" lry="438" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r10" ulx="341" uly="958" lrx="877" lry="990" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r26" ulx="125" uly="1972" lrx="1423" lry="2009" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r4" ulx="687" uly="602" lrx="890" lry="631" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r17" ulx="217" uly="1443" lrx="1147" lry="1484" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r19" ulx="1456" uly="1670" lrx="1646" lry="1698" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r2" ulx="137" uly="331" lrx="1439" lry="373" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r11" ulx="337" uly="1029" lrx="730" lry="1058" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r25" ulx="125" uly="1925" lrx="1429" lry="1961" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r8" ulx="337" uly="827" lrx="733" lry="853" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r9" ulx="335" uly="889" lrx="762" lry="923" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r23" ulx="124" uly="1808" lrx="1016" lry="1842" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r13" ulx="131" uly="1158" lrx="902" lry="1189" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r6" ulx="225" uly="689" lrx="641" lry="720" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r30" ulx="122" uly="2183" lrx="1422" lry="2221" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r5" ulx="1466" uly="691" lrx="1609" lry="714" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r32" ulx="120" uly="2287" lrx="1093" lry="2321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r1" ulx="562" uly="268" lrx="1012" lry="306" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r12" ulx="133" uly="1106" lrx="1435" lry="1142" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r22" ulx="130" uly="1758" lrx="1427" lry="1793" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r18" ulx="547" uly="1575" lrx="1018" lry="1607" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r7" ulx="337" uly="758" lrx="783" lry="787" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r15" ulx="133" uly="1331" lrx="1431" lry="1366" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r29" ulx="212" uly="2137" lrx="1422" lry="2174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r28" ulx="124" uly="2072" lrx="868" lry="2102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r31" ulx="122" uly="2233" lrx="1427" lry="2271" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r21" ulx="127" uly="1710" lrx="1420" lry="1744" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_222" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0222.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_222_r18" ulx="314" uly="1208" lrx="1625" lry="1239" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r14" ulx="308" uly="1000" lrx="1396" lry="1032" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r22" ulx="314" uly="1402" lrx="1108" lry="1434" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r29" ulx="74" uly="1802" lrx="250" lry="1823" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r10" ulx="312" uly="808" lrx="1614" lry="837" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r27" ulx="320" uly="1656" lrx="1611" lry="1691" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r36" ulx="412" uly="2158" lrx="1104" lry="2193" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r28" ulx="318" uly="1710" lrx="630" lry="1739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r12" ulx="314" uly="902" lrx="1619" lry="934" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r11" ulx="310" uly="854" lrx="1620" lry="886" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r16" ulx="313" uly="1110" lrx="1625" lry="1142" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r21" ulx="316" uly="1352" lrx="1625" lry="1385" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r33" ulx="322" uly="1943" lrx="1125" lry="1974" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r20" ulx="318" uly="1306" lrx="1629" lry="1338" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r5" ulx="62" uly="593" lrx="212" lry="616" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r37" ulx="345" uly="2229" lrx="1004" lry="2262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r34" ulx="631" uly="2068" lrx="1325" lry="2103" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r24" ulx="314" uly="1512" lrx="1629" lry="1547" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r13" ulx="308" uly="952" lrx="1620" lry="982" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r2" ulx="305" uly="322" lrx="1614" lry="356" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r19" ulx="314" uly="1256" lrx="1627" lry="1288" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r6" ulx="395" uly="597" lrx="1621" lry="630" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r38" ulx="345" uly="2297" lrx="904" lry="2330" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r1" ulx="393" uly="272" lrx="1606" lry="306" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r15" ulx="400" uly="1062" lrx="1625" lry="1093" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r25" ulx="320" uly="1560" lrx="1630" lry="1594" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r9" ulx="397" uly="754" lrx="1617" lry="790" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r23" ulx="404" uly="1466" lrx="1629" lry="1498" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r32" ulx="320" uly="1891" lrx="1625" lry="1925" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r8" ulx="309" uly="695" lrx="1214" lry="729" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r0" ulx="305" uly="179" lrx="370" lry="203" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r4" ulx="666" uly="508" lrx="1256" lry="540" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r26" ulx="316" uly="1610" lrx="1629" lry="1644" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r35" ulx="79" uly="2170" lrx="183" lry="2190" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r17" ulx="316" uly="1160" lrx="1625" lry="1191" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r3" ulx="305" uly="370" lrx="1108" lry="404" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r30" ulx="408" uly="1793" lrx="1633" lry="1827" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r31" ulx="322" uly="1841" lrx="1635" lry="1875" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_222_r7" ulx="308" uly="643" lrx="1600" lry="676" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_223" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0223.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_223_r25" ulx="133" uly="1552" lrx="1437" lry="1587" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r0" ulx="1378" uly="172" lrx="1445" lry="198" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r38" ulx="126" uly="2141" lrx="1422" lry="2178" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r20" ulx="222" uly="1318" lrx="361" lry="1345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r3" ulx="466" uly="458" lrx="1122" lry="493" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r39" ulx="125" uly="2187" lrx="1427" lry="2225" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r28" ulx="132" uly="1697" lrx="783" lry="1730" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r13" ulx="227" uly="929" lrx="637" lry="957" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r10" ulx="232" uly="760" lrx="1441" lry="796" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r42" ulx="126" uly="2335" lrx="383" lry="2363" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r33" ulx="1457" uly="1995" lrx="1538" lry="2014" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r30" ulx="130" uly="1812" lrx="1431" lry="1846" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r5" ulx="1472" uly="583" lrx="1630" lry="602" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r8" ulx="145" uly="631" lrx="1079" lry="671" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r32" ulx="1458" uly="1960" lrx="1658" lry="1981" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r11" ulx="229" uly="808" lrx="623" lry="839" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r21" ulx="1462" uly="1418" lrx="1698" lry="1444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r19" ulx="224" uly="1268" lrx="1437" lry="1306" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r16" ulx="158" uly="1122" lrx="1433" lry="1159" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r31" ulx="130" uly="1856" lrx="1431" lry="1894" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r34" ulx="216" uly="1943" lrx="1437" lry="1981" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r29" ulx="220" uly="1758" lrx="1435" lry="1797" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r12" ulx="162" uly="879" lrx="1443" lry="917" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r26" ulx="132" uly="1600" lrx="1429" lry="1636" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r18" ulx="225" uly="1218" lrx="1443" lry="1256" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r40" ulx="125" uly="2235" lrx="1431" lry="2274" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r6" ulx="229" uly="539" lrx="1437" lry="574" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r22" ulx="220" uly="1404" lrx="1431" lry="1440" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r1" ulx="168" uly="262" lrx="625" lry="294" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r23" ulx="132" uly="1452" lrx="1429" lry="1491" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r36" ulx="127" uly="2041" lrx="1429" lry="2078" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r9" ulx="166" uly="710" lrx="1443" lry="748" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r35" ulx="129" uly="1995" lrx="1427" lry="2032" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r27" ulx="133" uly="1647" lrx="1435" lry="1683" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r2" ulx="170" uly="331" lrx="741" lry="363" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r14" ulx="156" uly="1002" lrx="1435" lry="1039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r4" ulx="1472" uly="552" lrx="1635" lry="573" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r41" ulx="125" uly="2287" lrx="1427" lry="2325" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r37" ulx="125" uly="2087" lrx="1431" lry="2126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r24" ulx="135" uly="1504" lrx="1437" lry="1539" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r15" ulx="227" uly="1052" lrx="968" lry="1084" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r7" ulx="144" uly="585" lrx="1439" lry="624" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_223_r17" ulx="223" uly="1172" lrx="1439" lry="1208" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_224" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0224.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_224_r31" ulx="322" uly="1464" lrx="1625" lry="1498" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r33" ulx="406" uly="1577" lrx="1623" lry="1607" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r18" ulx="316" uly="925" lrx="1620" lry="957" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r15" ulx="307" uly="758" lrx="1618" lry="792" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r28" ulx="406" uly="1320" lrx="1622" lry="1351" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r8" ulx="689" uly="575" lrx="1235" lry="605" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r22" ulx="312" uly="1133" lrx="1619" lry="1165" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r26" ulx="70" uly="1354" lrx="291" lry="1372" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r38" ulx="324" uly="1885" lrx="1622" lry="1917" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r23" ulx="316" uly="1181" lrx="1621" lry="1214" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r32" ulx="315" uly="1516" lrx="590" lry="1548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r17" ulx="398" uly="874" lrx="1620" lry="908" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r24" ulx="316" uly="1233" lrx="568" lry="1261" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r27" ulx="69" uly="1383" lrx="204" lry="1402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r16" ulx="314" uly="808" lrx="1425" lry="839" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r30" ulx="318" uly="1416" lrx="1625" lry="1448" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r0" ulx="306" uly="170" lrx="370" lry="194" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r6" ulx="306" uly="412" lrx="1613" lry="443" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r45" ulx="327" uly="2187" lrx="1633" lry="2221" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r10" ulx="66" uly="693" lrx="287" lry="713" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r9" ulx="62" uly="666" lrx="233" lry="684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r12" ulx="64" uly="754" lrx="289" lry="773" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r5" ulx="306" uly="362" lrx="1612" lry="394" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r2" ulx="62" uly="297" lrx="137" lry="316" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r43" ulx="322" uly="2068" lrx="1585" lry="2103" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r46" ulx="325" uly="2235" lrx="1631" lry="2270" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r41" ulx="77" uly="2062" lrx="297" lry="2083" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r19" ulx="316" uly="972" lrx="1623" lry="1006" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r44" ulx="414" uly="2137" lrx="1634" lry="2171" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r11" ulx="64" uly="722" lrx="277" lry="742" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r35" ulx="320" uly="1672" lrx="1627" lry="1705" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r42" ulx="412" uly="2020" lrx="1627" lry="2055" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r3" ulx="394" uly="264" lrx="1606" lry="296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r37" ulx="412" uly="1837" lrx="1608" lry="1869" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r47" ulx="323" uly="2285" lrx="1627" lry="2319" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r25" ulx="70" uly="1322" lrx="245" lry="1342" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r14" ulx="308" uly="710" lrx="1618" lry="742" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r20" ulx="316" uly="1029" lrx="447" lry="1053" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r29" ulx="316" uly="1366" lrx="1622" lry="1400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r36" ulx="316" uly="1718" lrx="1636" lry="1786" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r1" ulx="66" uly="264" lrx="256" lry="284" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r13" ulx="400" uly="662" lrx="1618" lry="694" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r4" ulx="306" uly="312" lrx="1606" lry="346" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r39" ulx="322" uly="1937" lrx="1312" lry="1968" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r40" ulx="76" uly="2033" lrx="233" lry="2053" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r7" ulx="310" uly="460" lrx="1611" lry="492" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r34" ulx="320" uly="1625" lrx="1625" lry="1657" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_224_r21" ulx="402" uly="1083" lrx="1620" lry="1115" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_225" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0225.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_225_r23" ulx="224" uly="1383" lrx="1445" lry="1414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r10" ulx="225" uly="664" lrx="1356" lry="695" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r8" ulx="139" uly="545" lrx="401" lry="572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r20" ulx="158" uly="1237" lrx="1445" lry="1271" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r22" ulx="222" uly="1333" lrx="1436" lry="1368" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r16" ulx="227" uly="997" lrx="868" lry="1030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r2" ulx="140" uly="308" lrx="1440" lry="342" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r35" ulx="225" uly="2047" lrx="375" lry="2077" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r3" ulx="136" uly="352" lrx="708" lry="391" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r29" ulx="224" uly="1716" lrx="1435" lry="1750" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r36" ulx="156" uly="2110" lrx="1439" lry="2144" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r26" ulx="229" uly="1547" lrx="685" lry="1578" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r0" ulx="1375" uly="162" lrx="1435" lry="186" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r27" ulx="158" uly="1618" lrx="1446" lry="1651" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r15" ulx="225" uly="950" lrx="1441" lry="980" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r21" ulx="224" uly="1287" lrx="1443" lry="1319" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r25" ulx="164" uly="1502" lrx="1443" lry="1532" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r17" ulx="158" uly="1066" lrx="1444" lry="1100" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r19" ulx="226" uly="1164" lrx="995" lry="1198" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r31" ulx="225" uly="1814" lrx="518" lry="1845" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r38" ulx="156" uly="2233" lrx="1443" lry="2265" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r28" ulx="222" uly="1668" lrx="1445" lry="1699" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r12" ulx="226" uly="785" lrx="977" lry="817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r39" ulx="218" uly="2281" lrx="1441" lry="2316" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r34" ulx="160" uly="1997" lrx="1446" lry="2027" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r13" ulx="158" uly="852" lrx="1439" lry="885" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r5" ulx="1470" uly="477" lrx="1625" lry="496" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r1" ulx="137" uly="258" lrx="1439" lry="293" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r33" ulx="220" uly="1927" lrx="1279" lry="1959" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r18" ulx="227" uly="1114" lrx="1441" lry="1148" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r37" ulx="225" uly="2160" lrx="1121" lry="2192" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r14" ulx="224" uly="897" lrx="1439" lry="934" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r40" ulx="225" uly="2333" lrx="356" lry="2360" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r32" ulx="154" uly="1879" lrx="1443" lry="1910" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r30" ulx="227" uly="1764" lrx="1437" lry="1798" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r24" ulx="222" uly="1431" lrx="1135" lry="1463" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r6" ulx="225" uly="445" lrx="1447" lry="478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r9" ulx="162" uly="612" lrx="1443" lry="647" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r4" ulx="1472" uly="445" lrx="1622" lry="466" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r7" ulx="137" uly="493" lrx="1441" lry="527" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_225_r11" ulx="160" uly="735" lrx="1443" lry="769" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_226" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0226.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_226_r29" ulx="312" uly="1827" lrx="831" lry="1856" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r8" ulx="389" uly="787" lrx="1606" lry="823" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r1" ulx="304" uly="260" lrx="1600" lry="294" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r37" ulx="406" uly="2187" lrx="1612" lry="2219" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r4" ulx="385" uly="447" lrx="805" lry="478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r24" ulx="64" uly="1645" lrx="171" lry="1665" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r25" ulx="400" uly="1610" lrx="1614" lry="1642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r9" ulx="302" uly="843" lrx="595" lry="870" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r32" ulx="408" uly="1925" lrx="1618" lry="1955" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r36" ulx="316" uly="2120" lrx="852" lry="2151" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r33" ulx="314" uly="1975" lrx="1618" lry="2005" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r26" ulx="315" uly="1658" lrx="1616" lry="1692" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r38" ulx="314" uly="2233" lrx="1621" lry="2269" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r3" ulx="316" uly="395" lrx="1597" lry="429" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r34" ulx="318" uly="2018" lrx="1618" lry="2053" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r19" ulx="309" uly="1285" lrx="1612" lry="1317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r5" ulx="725" uly="583" lrx="1179" lry="612" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r14" ulx="393" uly="1045" lrx="1610" lry="1078" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r16" ulx="307" uly="1139" lrx="1550" lry="1174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r31" ulx="68" uly="1958" lrx="260" lry="1978" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r17" ulx="60" uly="1237" lrx="283" lry="1259" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r13" ulx="62" uly="1108" lrx="143" lry="1126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r2" ulx="392" uly="304" lrx="612" lry="335" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r23" ulx="64" uly="1612" lrx="233" lry="1634" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r28" ulx="402" uly="1777" lrx="1616" lry="1809" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r18" ulx="395" uly="1235" lrx="1610" lry="1269" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r7" ulx="302" uly="720" lrx="1372" lry="755" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r39" ulx="318" uly="2289" lrx="639" lry="2317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r15" ulx="306" uly="1095" lrx="1602" lry="1125" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r12" ulx="60" uly="1081" lrx="229" lry="1100" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r6" ulx="387" uly="670" lrx="1604" lry="707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r21" ulx="307" uly="1379" lrx="722" lry="1410" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r10" ulx="693" uly="952" lrx="1214" lry="982" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r30" ulx="68" uly="1925" lrx="252" lry="1946" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r0" ulx="295" uly="164" lrx="364" lry="188" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r27" ulx="312" uly="1710" lrx="1064" lry="1738" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r35" ulx="318" uly="2070" lrx="1617" lry="2101" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r20" ulx="314" uly="1329" lrx="1610" lry="1364" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r22" ulx="796" uly="1518" lrx="1124" lry="1548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_226_r11" ulx="60" uly="1052" lrx="225" lry="1068" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_227" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0227.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_227_r20" ulx="1472" uly="1033" lrx="1649" lry="1052" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r6" ulx="231" uly="441" lrx="1444" lry="475" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r9" ulx="143" uly="585" lrx="937" lry="619" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r49" ulx="137" uly="2106" lrx="1435" lry="2141" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r45" ulx="135" uly="1897" lrx="1433" lry="1934" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r10" ulx="229" uly="650" lrx="866" lry="683" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r40" ulx="137" uly="1716" lrx="1441" lry="1753" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r51" ulx="1462" uly="2245" lrx="1656" lry="2273" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r0" ulx="1376" uly="162" lrx="1443" lry="187" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r4" ulx="1472" uly="445" lrx="1645" lry="469" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r29" ulx="139" uly="1331" lrx="1445" lry="1366" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r21" ulx="233" uly="997" lrx="1431" lry="1030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r28" ulx="229" uly="1285" lrx="1434" lry="1316" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r5" ulx="1477" uly="479" lrx="1561" lry="497" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r50" ulx="133" uly="2156" lrx="654" lry="2185" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r30" ulx="138" uly="1379" lrx="246" lry="1407" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r37" ulx="140" uly="1556" lrx="1433" lry="1592" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r33" ulx="1470" uly="1529" lrx="1702" lry="1550" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r41" ulx="139" uly="1764" lrx="868" lry="1798" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r25" ulx="141" uly="1206" lrx="850" lry="1237" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r22" ulx="141" uly="1043" lrx="1439" lry="1078" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r35" ulx="227" uly="1458" lrx="1441" lry="1494" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r43" ulx="1468" uly="1891" lrx="1595" lry="1909" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r48" ulx="135" uly="2058" lrx="1438" lry="2093" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r2" ulx="145" uly="308" lrx="1444" lry="341" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r46" ulx="135" uly="1945" lrx="904" lry="1976" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r16" ulx="143" uly="747" lrx="1445" lry="781" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r27" ulx="1468" uly="1325" lrx="1662" lry="1344" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r8" ulx="145" uly="535" lrx="1447" lry="570" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r26" ulx="1470" uly="1293" lrx="1662" lry="1317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r19" ulx="1470" uly="1004" lrx="1579" lry="1023" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r47" ulx="220" uly="2008" lrx="1439" lry="2046" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r34" ulx="1468" uly="1562" lrx="1608" lry="1583" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r39" ulx="227" uly="1668" lrx="1437" lry="1703" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r38" ulx="140" uly="1604" lrx="791" lry="1637" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r53" ulx="133" uly="2287" lrx="1430" lry="2324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r42" ulx="1468" uly="1856" lrx="1672" lry="1881" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r7" ulx="145" uly="489" lrx="1441" lry="523" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r11" ulx="891" uly="654" lrx="1079" lry="685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r44" ulx="222" uly="1845" lrx="1447" lry="1882" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r36" ulx="139" uly="1510" lrx="1445" lry="1544" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r31" ulx="1472" uly="1470" lrx="1678" lry="1493" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r24" ulx="229" uly="1158" lrx="1447" lry="1190" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r23" ulx="141" uly="1095" lrx="1166" lry="1128" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r52" ulx="220" uly="2239" lrx="1433" lry="2273" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r17" ulx="141" uly="800" lrx="712" lry="829" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r12" ulx="1087" uly="654" lrx="1442" lry="685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r1" ulx="234" uly="258" lrx="1442" lry="293" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r14" ulx="1125" uly="704" lrx="1300" lry="733" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r32" ulx="1472" uly="1506" lrx="1616" lry="1524" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r18" ulx="616" uly="914" lrx="981" lry="945" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r15" ulx="1327" uly="706" lrx="1443" lry="734" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r13" ulx="142" uly="697" lrx="1083" lry="731" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_227_r3" ulx="143" uly="362" lrx="314" lry="389" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_228" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0228.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_228_r7" ulx="306" uly="652" lrx="1015" lry="682" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r19" ulx="364" uly="2297" lrx="1100" lry="2324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r10" ulx="397" uly="854" lrx="814" lry="886" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r5" ulx="814" uly="512" lrx="1104" lry="547" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r9" ulx="397" uly="787" lrx="1027" lry="819" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r4" ulx="862" uly="456" lrx="1054" lry="487" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r1" ulx="304" uly="258" lrx="1600" lry="291" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r8" ulx="402" uly="718" lrx="1268" lry="749" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r11" ulx="864" uly="970" lrx="1056" lry="1003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r6" ulx="390" uly="600" lrx="1604" lry="632" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r14" ulx="308" uly="1166" lrx="1614" lry="1198" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r12" ulx="820" uly="1033" lrx="1102" lry="1064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r0" ulx="302" uly="162" lrx="373" lry="187" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r16" ulx="396" uly="1304" lrx="1611" lry="1335" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r17" ulx="314" uly="1352" lrx="1254" lry="1385" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r2" ulx="304" uly="308" lrx="1610" lry="340" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r3" ulx="300" uly="360" lrx="382" lry="385" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r18" ulx="322" uly="2254" lrx="1620" lry="2285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r13" ulx="397" uly="1114" lrx="1612" lry="1149" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_228_r15" ulx="402" uly="1231" lrx="952" lry="1264" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="957" facs="#facs_221"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_221_r4"/>I. Ingress</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_221_r5"/>Gründung</add>
+				</p>
+				<p>
+					<lb facs="#facs_221_r6"/>§ 1. Die Beteiligten</p>
+				<p>
+					<lb facs="#facs_221_r7"/>1. der Kanton Zürich</p>
+				<p>
+					<lb facs="#facs_221_r8"/>2. die Stadt Kloten</p>
+				<p>
+					<lb facs="#facs_221_r9"/>3. die Stadt Opfikon<lb facs="#facs_221_r10"/>4. die Gemeinde Rümlang</p>
+				<p>
+					<lb facs="#facs_221_r11"/>5. die Stadt Zürich</p>
+				<p>
+					<lb facs="#facs_221_r12"/>gründen hiermit unter dem Vorbehalt der Änderung des Krei<lb break="no" facs="#facs_221_r13"/>ses der Beteiligten die Unternehmung</p>
+				<p>
+					<lb facs="#facs_221_r14"/>«Verkehrsbetriebe der Region Unteres Glattal (VRUG)»</p>
+				<p>
+					<lb facs="#facs_221_r15"/>als regionalen Verkehrsbetrieb im Sinne der §§ 4 bis 13 des Ge<lb break="no" facs="#facs_221_r16"/>setzes über den regionalen öffentlichen Verkehr.</p>
+				<p>
+					<lb facs="#facs_221_r17"/>Die Unternehmung hat ihren Sitz in Opfikon.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_221_r18"/>II. Zweck und Aufgabe</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_221_r19"/>Allgemeines</add>
+				</p>
+				<p>
+					<lb facs="#facs_221_r20"/>§ 2. Die VRUG sorgen für eine gute Bedienung im unte<lb break="no" facs="#facs_221_r21"/>ren Glattal und jeder beteiligten Gemeinde mit öffentlichen<lb facs="#facs_221_r22"/>Verkehrsmitteln, insbesondere durch den Ausbau des Bus<lb break="no" facs="#facs_221_r23"/>netzes und der dazu nötigen Einrichtungen.</p>
+				<p>
+					<lb facs="#facs_221_r24"/>Die VRUG erlassen eine für ihr ganzes Verkehrsnetz gül<lb break="no" facs="#facs_221_r25"/>tige Taxordnung, wobei die Zürcher Stammlinien gemäss An<lb break="no" facs="#facs_221_r26"/>hang 2 ausgenommen sind. In bezug auf die Taxordnung sind<lb facs="#facs_221_r27"/>grundsätzlich einheitliche Tarife mit den anderen Verkehrs<lb break="no" facs="#facs_221_r28"/>verbundorganisationen anzustreben.</p>
+				<p>
+					<lb facs="#facs_221_r29"/>Die VRUG streben zudem den Abschluss von Tarif- und<lb facs="#facs_221_r30"/>Verbundabkommen mit den VBZ und den SBB sowie mit an<lb break="no" facs="#facs_221_r31"/>deren Verkehrsunternehmungen und die gegenseitige Abstim<lb break="no" facs="#facs_221_r32"/>mung der Verkehrsnetze und der Fahrpläne an.</p>
+				<pb n="958" facs="#facs_222"/>
+				<p>
+					<lb facs="#facs_222_r1"/>Die VRUG können Transportbeauftragte mit dem Betrieb<lb facs="#facs_222_r2"/>ihres Verkehrsnetzes betrauen, wobei aber vorgängig eine<lb facs="#facs_222_r3"/>öffentliche Submission zu erfolgen hat.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_222_r4"/>III. Beteiligungsverhältnisse</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_222_r5"/>Grundsatz</add>
+				</p>
+				<p>
+					<lb facs="#facs_222_r6"/>§ 3. Die Beteiligung der Gemeinden im unteren Glattal<lb facs="#facs_222_r7"/>am Betriebsdefizit richtet sich nach dem Verteilschlüssel im<lb facs="#facs_222_r8"/>Anhang zum Gründungsvertrag (Anhang 1).</p>
+				<p>
+					<lb facs="#facs_222_r9"/>Die Stadt Zürich beteiligt sich entsprechend dem Betriebs<lb break="no" facs="#facs_222_r10"/>defizit, welches auf die im Anhang zum Gründungsvertrag<lb facs="#facs_222_r11"/>(Anhang 2) aufgeführten Bus -, Trolleybus- und Tramlinien ent<lb break="no" facs="#facs_222_r12"/>fällt, die das untere Glattal mit dem Stadtzentrum verbinden.<lb facs="#facs_222_r13"/>Dabei werden nur die Kurse berücksichtigt, welche den An<lb break="no" facs="#facs_222_r14"/>schluss an Kurse aus dem unteren Glattal herstellen.</p>
+				<p>
+					<lb facs="#facs_222_r15"/>Der Kanton beteiligt sich am Betriebsdefizit mit 30 Pro<lb break="no" facs="#facs_222_r16"/>zent; die höhere Beteiligung bei den vom Bund subventionier<lb break="no" facs="#facs_222_r17"/>ten Linien bleibt vorbehalten. In bezug auf die Glattalgemein<lb break="no" facs="#facs_222_r18"/>den wird das Betriebsdefizit nur soweit anerkannt, als der<lb facs="#facs_222_r19"/>Kostendeckungsgrad 65 Prozent nicht unterschreitet. Der Be<lb break="no" facs="#facs_222_r20"/>teiligung an dem von der Stadt Zürich zu tragenden Betriebs<lb break="no" facs="#facs_222_r21"/>defizit wird eine Kostendeckung der Verkehrsbetriebe der Stadt<lb facs="#facs_222_r22"/>Zürich von 70 Prozent zugrundegelegt.</p>
+				<p>
+					<lb facs="#facs_222_r23"/>Jede Vertragsgemeinde ist für ihr Gebiet verpflichtet, ge<lb break="no" facs="#facs_222_r24"/>nügende Haltestellenanlagen, wie Ausbuchtungen, Wartehallen,<lb facs="#facs_222_r25"/>Anschluss von Werkleitungen usw. unentgeltlich zur Ver<lb break="no" facs="#facs_222_r26"/>fügung zu stellen. Die beteiligten Gemeinwesen sind bei Schnee<lb break="no" facs="#facs_222_r27"/>fall für rechtzeitiges Räumen, Salzen und Splitten auf ihrem<lb facs="#facs_222_r28"/>Gebiet besorgt.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_222_r29"/>Änderungen</add>
+				</p>
+				<p>
+					<lb facs="#facs_222_r30"/>§ 4. Bei einer Änderung des Verkehrsnetzes, einer wesent<lb break="no" facs="#facs_222_r31"/>lichen Änderung in der Bedienung oder bei anderen Verschie<lb break="no" facs="#facs_222_r32"/>bungen in den Grundlagen des Verteilschlüssels, ist dieser den<lb facs="#facs_222_r33"/>veränderten Verhältnissen anzupassen.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_222_r34"/>IV. Organisation und Verwaltung</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_222_r35"/>Organe</add>
+				</p>
+				<p>
+					<lb facs="#facs_222_r36"/>§ 5. Die Organe der VRUG sind:</p>
+				<p>
+					<lb facs="#facs_222_r37"/>a) die beteiligten Gemeinwesen</p>
+				<p>
+					<lb facs="#facs_222_r38"/>b) die Betriebskommission</p>
+				<pb n="959" facs="#facs_223"/>
+				<p>
+					<lb facs="#facs_223_r1"/>c) die Betriebsleitung</p>
+				<p>
+					<lb facs="#facs_223_r2"/>d) die Rechnungsrevisoren.</p>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_223_r3"/>A. Die beteiligten Gemeinwesen</head>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_223_r4"/>Begriff und<lb facs="#facs_223_r5"/>Befugnisse</add>
+					</p>
+					<p>
+						<lb facs="#facs_223_r6"/>§ 6. Als Gemeinwesen gelten der Kanton sowie alle an<lb facs="#facs_223_r7"/>der VRUG beteiligten Gemeinden gemäss § 1. Den beteiligten<lb facs="#facs_223_r8"/>Gemeinwesen stehen folgende Befugnisse zu:</p>
+					<p>
+						<lb facs="#facs_223_r9"/>a) die Beschlussfassung über Gründung und Auflösung der<lb facs="#facs_223_r10"/>VRUG sowie über Änderungen dieses Vertrages, wobei § 22<lb facs="#facs_223_r11"/>vorbehalten bleibt,</p>
+					<p>
+						<lb facs="#facs_223_r12"/>b) die Wahl ihrer Vertreter und deren Stellvertreter in die<lb facs="#facs_223_r13"/>Betriebskommission</p>
+					<p>
+						<lb facs="#facs_223_r14"/>c) die Bewilligung von Ausgaben, welche die Kompetenzen<lb facs="#facs_223_r15"/>der Betriebskommission übersteigen</p>
+					<p>
+						<lb facs="#facs_223_r16"/>d) die Genehmigung der Taxordnung sowie von Änderungen<lb facs="#facs_223_r17"/>am Streckennetz und der Betriebsdauer, welche die Finanz<lb break="no" facs="#facs_223_r18"/>kompetenzen der Betriebskommission übersteigende Mehr<lb break="no" facs="#facs_223_r19"/>aufwendungen oder entsprechende Einsparungen zur Folge<lb facs="#facs_223_r20"/>haben.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_223_r21"/>Das Referendum</add>
+					</p>
+					<p>
+						<lb facs="#facs_223_r22"/>§7. Genehmigungsbeschlüsse gemäss § 6 lit. d) werden<lb facs="#facs_223_r23"/>beim Kanton durch den Regierungsrat, in der Stadt Zürich<lb facs="#facs_223_r24"/>durch den Stadtrat, in den Gemeinden mit ordentlicher Ge<lb break="no" facs="#facs_223_r25"/>meindeorganisation durch den Gemeinderat und in den Ge<lb break="no" facs="#facs_223_r26"/>meinden mit ausserordentlicher Gemeindeorganisation durch<lb facs="#facs_223_r27"/>einen dem fakultativen Referendum unterstellten Beschluss des<lb facs="#facs_223_r28"/>Grossen Gemeinderates gefasst.</p>
+					<p>
+						<lb facs="#facs_223_r29"/>Beschlüsse gemäss § 6 lit. c) und d) sind zustandegekom<lb break="no" facs="#facs_223_r30"/>men, wenn die Mehrheit der beteiligten Gemeinwesen und die<lb facs="#facs_223_r31"/>Mehrheit der beteiligten Vorortsgemeinden zugestimmt haben.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_223_r32"/>Das Initiativ<lb break="no" facs="#facs_223_r33"/>recht</add>
+					</p>
+					<p>
+						<lb facs="#facs_223_r34"/>§8. Für Geschäfte, die in die Zuständigkeit der beteilig<lb break="no" facs="#facs_223_r35"/>ten Gemeinwesen fallen - ausgenommen Wahlen gemäss § 6<lb facs="#facs_223_r36"/>lit. b) - besteht das Recht auf Initiative. Die Initiative ist<lb facs="#facs_223_r37"/>schriftlich bei der Kanzlei der Sitzgemeinde der Unterneh<lb break="no" facs="#facs_223_r38"/>mung VRUG einzureichen. Sie ist zustandegekommen, wenn<lb facs="#facs_223_r39"/>sie von mindestens 500 in den beteiligten Gemeinden Stimm<lb break="no" facs="#facs_223_r40"/>berechtigten unterzeichnet ist. Im übrigen gelangen die Vor<lb break="no" facs="#facs_223_r41"/>schriften des Gesetzes über das Vorschlagsrecht des Volkes zur<lb facs="#facs_223_r42"/>Anwendung.</p>
+					<pb n="960" facs="#facs_224"/>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_224_r1"/>Das Anfrage<lb break="no" facs="#facs_224_r2"/>recht</add>
+					</p>
+					<p>
+						<lb facs="#facs_224_r3"/>§9. Jeder Stimmberechtigte der beteiligten Gemeinden<lb facs="#facs_224_r4"/>hat das Recht, der Betriebskommission schriftliche Anfragen<lb facs="#facs_224_r5"/>zu stellen. Anfragen, die sich ausdrücklich auf das Anfrage<lb break="no" facs="#facs_224_r6"/>recht gemäss Gründungsvertag berufen, sind von der Betriebs<lb break="no" facs="#facs_224_r7"/>kommission innert sechs Monaten schriftlich zu beantworten.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_224_r8"/>B. Die Betriebskommission</head>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_224_r9"/>Zusammen<lb break="no" facs="#facs_224_r10"/>setzung, Wahl,<lb facs="#facs_224_r11"/>Konstituierung<lb facs="#facs_224_r12"/>und Amtsdauer</add>
+					</p>
+					<p>
+						<lb facs="#facs_224_r13"/>§ 10. Die beteiligten Gemeinwesen ordnen je einen Ver<lb break="no" facs="#facs_224_r14"/>treter in die Betriebskommission ab. Die Mitglieder der Be<lb break="no" facs="#facs_224_r15"/>triebskommission können sich an den Sitzungen der Betriebs<lb break="no" facs="#facs_224_r16"/>kommission durch ihre Stellvertreter vertreten lassen.</p>
+					<p>
+						<lb facs="#facs_224_r17"/>Die Wahl der Mitglieder und der Stellvertreter erfolgt auf<lb facs="#facs_224_r18"/>die Amtsdauer der Gemeindebehörden. Der Regierungsrat be<lb break="no" facs="#facs_224_r19"/>stimmt das Mitglied des Kantons Zürich und seinen Stellver<lb break="no" facs="#facs_224_r20"/>treter.</p>
+					<p>
+						<lb facs="#facs_224_r21"/>Die Betriebskommission konstituiert sich selbst. Sie be<lb break="no" facs="#facs_224_r22"/>zeichnet einen Protokollführer, der nicht Mitglied der Betriebs<lb break="no" facs="#facs_224_r23"/>kommission zu sein braucht und in diesem Falle beratende<lb facs="#facs_224_r24"/>Stimme hat.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_224_r25"/>Einberufung<lb facs="#facs_224_r26"/>und Beschluss<lb break="no" facs="#facs_224_r27"/>fähigkeit</add>
+					</p>
+					<p>
+						<lb facs="#facs_224_r28"/>§ 11. Die Betriebskommission versammelt sich auf Ein<lb break="no" facs="#facs_224_r29"/>ladung ihres Präsidenten oder bei dessen Verhinderung des<lb facs="#facs_224_r30"/>Vizepräsidenten, sooft es die Geschäfte erfordern. Sie muss<lb facs="#facs_224_r31"/>einberufen werden, wenn ein Mitglied ein entsprechendes Be<lb break="no" facs="#facs_224_r32"/>gehren stellt.</p>
+					<p>
+						<lb facs="#facs_224_r33"/>Sie ist beschlussfähig, wenn die Mehrheit aller Mitglieder<lb facs="#facs_224_r34"/>oder deren Stellvertreter anwesend sind. Ihre Beschlüsse fasst<lb facs="#facs_224_r35"/>sie unter Vorbehalt der §§ 22 und 23 mit einfachem Mehr der<lb facs="#facs_224_r36"/>anwesenden stimmberechtigten Mitglieder. Jedem Mitglied oder-Stellvertreter steht nur eine Stimme zu.</p>
+					<p>
+						<lb facs="#facs_224_r37"/>Über die Beschlüsse wird ein Protokoll geführt, das vom<lb facs="#facs_224_r38"/>Vorsitzenden und vom Protokollführer zu unterzeichnen sowie<lb facs="#facs_224_r39"/>von der Betriebskommission zu genehmigen ist.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_224_r40"/>Befugnisse<lb facs="#facs_224_r41"/>im allgemeinen</add>
+					</p>
+					<p>
+						<lb facs="#facs_224_r42"/>§ 12. Die Betriebskommission verwaltet und vertritt die<lb facs="#facs_224_r43"/>Unternehmung, soweit nicht ein anderes Organ zuständig ist.</p>
+					<p>
+						<lb facs="#facs_224_r44"/>Die Betriebskommission wählt die Betriebsleitung und be<lb break="no" facs="#facs_224_r45"/>stimmt deren Aufgaben und Zuständigkeiten in einem Regle<lb break="no" facs="#facs_224_r46"/>ment. Ferner bezeichnet sie diejenigen Personen, denen die<lb facs="#facs_224_r47"/>rechtsverbindliche Unterschrift für die Unternehmung zusteht.</p>
+					<pb n="961" facs="#facs_225"/>
+					<p>
+						<lb facs="#facs_225_r1"/>Die rechtsverbindliche Vertretung der Unternehmung kann in<lb facs="#facs_225_r2"/>allen Fällen nur durch kollektive Zeichnung zweier Zeich<lb break="no" facs="#facs_225_r3"/>nungsberechtigter erfolgen.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_225_r4"/>Besondere<lb facs="#facs_225_r5"/>Befugnisse</add>
+					</p>
+					<p>
+						<lb facs="#facs_225_r6"/>§ 13. Der Betriebskommission stehen alle Befugnisse zu,<lb facs="#facs_225_r7"/>die nicht in die Zuständigkeit eines anderen Organes fallen,<lb facs="#facs_225_r8"/>insbesondere</p>
+					<p>
+						<lb facs="#facs_225_r9"/>a) die Antragstellung an die Beteiligten über Geschäfte, wel<lb break="no" facs="#facs_225_r10"/>che die Befugnisse der Betriebskommission übersteigen</p>
+					<p>
+						<lb facs="#facs_225_r11"/>b) der Erlass der eigenen Geschäftsordnung sowie von Regle<lb break="no" facs="#facs_225_r12"/>menten von allgemeiner Wichtigkeit</p>
+					<p>
+						<lb facs="#facs_225_r13"/>c) die Festsetzung der Vergütungen an den Sekretär und die<lb facs="#facs_225_r14"/>Rechnungsrevisoren, die Tag- und Sitzungsgelder der Be<lb break="no" facs="#facs_225_r15"/>triebskommission selbst richten sich nach den entsprechen<lb break="no" facs="#facs_225_r16"/>den Ansätzen der Sitzgemeinde</p>
+					<p>
+						<lb facs="#facs_225_r17"/>d) die Festsetzung des Voranschlages, Bewilligung von Nach<lb break="no" facs="#facs_225_r18"/>tragskrediten bis Fr. 200 000 und Beschlussfassung über<lb facs="#facs_225_r19"/>finanzielle Leistungen der Beteiligten</p>
+					<p>
+						<lb facs="#facs_225_r20"/>e) Anordnungen, die neue, einmalige Ausgaben für einen be<lb break="no" facs="#facs_225_r21"/>stimmten Zweck bis zu insgesamt Fr. 200 000 pro Jahr<lb facs="#facs_225_r22"/>oder neue, durch Mehrleistungen verursachte, jährlich<lb facs="#facs_225_r23"/>wiederkehrende Ausgaben bis zu Fr. 50 000 oder entspre<lb break="no" facs="#facs_225_r24"/>chende Ausfälle in den Einnahmen bedingen</p>
+					<p>
+						<lb facs="#facs_225_r25"/>f) der Abschluss von Verträgen über den Betrieb des Ver<lb break="no" facs="#facs_225_r26"/>kehrsnetzes der VRUG</p>
+					<p>
+						<lb facs="#facs_225_r27"/>g) der Erlass der Taxordnung und Änderungen am Strecken<lb break="no" facs="#facs_225_r28"/>netz sowie an der Betriebsdauer im Rahmen der Finanz<lb break="no" facs="#facs_225_r29"/>kompetenzen unter dem Vorbehalt der Genehmigung durch<lb facs="#facs_225_r30"/>die beteiligten Gemeinwesen gemäss den Bestimmungen<lb facs="#facs_225_r31"/>von §§ 6 und 7</p>
+					<p>
+						<lb facs="#facs_225_r32"/>h) der Abschluss von Abkommen über Tarif- und Verkehrs<lb break="no" facs="#facs_225_r33"/>verbunde sowie über Verkehrsleistungen für Dritte</p>
+					<p>
+						<lb facs="#facs_225_r34"/>i) die Aufnahme von Bankkrediten und anderen Fremd<lb break="no" facs="#facs_225_r35"/>geldern</p>
+					<p>
+						<lb facs="#facs_225_r36"/>k) die Aufsicht über die Betriebsführung und Abnahme der<lb facs="#facs_225_r37"/>Jahresrechnung und des Geschäftsberichtes</p>
+					<p>
+						<lb facs="#facs_225_r38"/>1) die Aufnahme weiterer und Entlassung bisheriger Beteilig<lb break="no" facs="#facs_225_r39"/>ter sowie Änderung der Anhänge 1 und 2 gemäss §§ 22<lb facs="#facs_225_r40"/>und 23</p>
+					<pb n="962" facs="#facs_226"/>
+					<p>
+						<lb facs="#facs_226_r1"/>m) der Antrag an den Regierungsrat auf Anschluss weiterer<lb facs="#facs_226_r2"/>Gemeinden</p>
+					<p>
+						<lb facs="#facs_226_r3"/>n) die Beantwortung von schriftlichen Anfragen im Sinne von<lb facs="#facs_226_r4"/>§ 9 dieses Vertrages.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_226_r5"/>C. Die Betriebsleitung</head>
+					<p>
+						<lb facs="#facs_226_r6"/>§ 14. Die Betriebsleitung besorgt die unmittelbare Leitung<lb facs="#facs_226_r7"/>der Unternehmung nach Massgabe des Reglementes.</p>
+					<p>
+						<lb facs="#facs_226_r8"/>In der Betriebskommission hat die Betriebsleitung bera<lb break="no" facs="#facs_226_r9"/>tende Stimme.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_226_r10"/>D. Die Rechnungsrevision</head>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_226_r11"/>Zusammen<lb break="no" facs="#facs_226_r12"/>setzung und<lb facs="#facs_226_r13"/>Wahl</add>
+					</p>
+					<p>
+						<lb facs="#facs_226_r14"/>§ 15. Die beteiligten Gemeinden bestimmen drei Rech<lb break="no" facs="#facs_226_r15"/>nungsrevisoren auf die Amtsdauer der Gemeindebehörden. Ein<lb facs="#facs_226_r16"/>vierter Rechnungsrevisor wird vom Regierungsrat bestimmt.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_226_r17"/>Obliegenheiten</add>
+					</p>
+					<p>
+						<lb facs="#facs_226_r18"/>§ 16. Die Rechnungsrevisoren prüfen die Voranschläge<lb facs="#facs_226_r19"/>und die Rechnungen der Unternehmung sowie alljährlich die<lb facs="#facs_226_r20"/>Wertschriften- und Kassenbestände. Sie erstatten der Betriebs<lb break="no" facs="#facs_226_r21"/>kommission Bericht.</p>
+				</div>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_226_r22"/>V. Finanzierung</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_226_r23"/>Das Grund<lb break="no" facs="#facs_226_r24"/>kapital</add>
+				</p>
+				<p>
+					<lb facs="#facs_226_r25"/>§ 17. Das Grundkapital der Unternehmung wird von je<lb break="no" facs="#facs_226_r26"/>dem Beteiligten mit Fr. 200 000 dotiert und von der Betriebs<lb break="no" facs="#facs_226_r27"/>kommission nach Bedarf einberufen.</p>
+				<p>
+					<lb facs="#facs_226_r28"/>Es wird zum Zinssatz der Zürcher Kantonalbank für Ge<lb break="no" facs="#facs_226_r29"/>meindedarlehen verzinst.</p>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_226_r30"/>Finanzierung<lb facs="#facs_226_r31"/>des Betriebes</add>
+				</p>
+				<p>
+					<lb facs="#facs_226_r32"/>§ 18. Reichen die Einnahmen trotz angemessener Benüt<lb break="no" facs="#facs_226_r33"/>zungstaxen zur Deckung der Ausgaben nicht aus, so sind ein<lb break="no" facs="#facs_226_r34"/>tretende Defizite entsprechend dem Verteilschlüssel durch die<lb facs="#facs_226_r35"/>Beteiligten jährlich innerhalb von zwei Monaten nach Rech<lb break="no" facs="#facs_226_r36"/>nungsabnahme zu decken.</p>
+				<p>
+					<lb facs="#facs_226_r37"/>Sofern die finanzielle Lage es erfordert, können von den<lb facs="#facs_226_r38"/>Beteiligten im Laufe des Rechnungsjahres Vorschüsse einge<lb break="no" facs="#facs_226_r39"/>fordert werden.</p>
+				<pb n="963" facs="#facs_227"/>
+				<p>
+					<lb facs="#facs_227_r1"/>Über die Verwendung eines allfälligen Reingewinns nach<lb facs="#facs_227_r2"/>Deckung aller Verbindlichkeiten beschliesst die Betriebskom<lb break="no" facs="#facs_227_r3"/>mission.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_227_r4"/>Rechnungs<lb break="no" facs="#facs_227_r5"/>wesen</add>
+				</p>
+				<p>
+					<lb facs="#facs_227_r6"/>§ 19. Für das Rechnungswesen sind unter Vorbehalt der<lb facs="#facs_227_r7"/>entsprechenden Bestimmungen des eidgenössischen Rechts und<lb facs="#facs_227_r8"/>der Rechnungsvorschriften des Bundesamtes für Verkehr die<lb facs="#facs_227_r9"/>vorstehenden Grundsätze massgebend.</p>
+				<p>
+					<lb facs="#facs_227_r10"/>Das Rechnungsjahr dauert vom <date when="--01-01">1. Januar</date> bis 31. Dezember.<lb facs="#facs_227_r13"/>Die Jahresrechnung ist spätestens bis zum <date when="--03-31">31. März</date> abzu<lb break="no" facs="#facs_227_r16"/>schliessen und allen Beteiligten mit dem Bericht der Rech<lb break="no" facs="#facs_227_r17"/>nungsrevisoren zuzustellen.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_227_r18"/>VI. Verschiedenes</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_227_r19"/>Dienst<lb break="no" facs="#facs_227_r20"/>verhältnisse</add>
+				</p>
+				<p>
+					<lb facs="#facs_227_r21"/>§ 20. Dienstverhältnisse von Arbeitnehmern der VRUG<lb facs="#facs_227_r22"/>werden unter Vorbehalt der Bundesgesetzgebung in Anlehnung<lb facs="#facs_227_r23"/>an das Personalrecht des Kantons Zürich geregelt.</p>
+				<p>
+					<lb facs="#facs_227_r24"/>Für die Anstellung und Entlassung von Arbeitnehmern ist<lb facs="#facs_227_r25"/>die Betriebskommission zuständig.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_227_r26"/>Aufsicht und<lb facs="#facs_227_r27"/>Rechtsschutz</add>
+				</p>
+				<p>
+					<lb facs="#facs_227_r28"/>§ 21. Aufsicht und Rechtsschutz richten sich nach den<lb facs="#facs_227_r29"/>§§ 11 bis 13 des Gesetzes über den regionalen öffentlichen Ver<lb break="no" facs="#facs_227_r30"/>kehr.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_227_r31"/>Änderung und<lb facs="#facs_227_r32"/>Auflösung<lb facs="#facs_227_r33"/>des Gründungs<lb break="no" facs="#facs_227_r34"/>vertrages</add>
+				</p>
+				<p>
+					<lb facs="#facs_227_r35"/>§ 22. Für die Änderung dieses Gründungsvertrages sowie<lb facs="#facs_227_r36"/>dessen Auflösung ist die Zustimmung aller beteiligten Gemein<lb break="no" facs="#facs_227_r37"/>den und der für die Genehmigung des Vertrages zuständigen<lb facs="#facs_227_r38"/>kantonalen Behörde notwendig.</p>
+				<p>
+					<lb facs="#facs_227_r39"/>Beschlüsse über die Aufnahme weiterer und Entlassung<lb facs="#facs_227_r40"/>bisheriger Beteiligter bedürfen der Zustimmung von 3/4 aller<lb facs="#facs_227_r41"/>Mitglieder der Betriebskommission.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_227_r42"/>Änderung der<lb facs="#facs_227_r43"/>Anhänge</add>
+				</p>
+				<p>
+					<lb facs="#facs_227_r44"/>§ 23. Für die Änderung des Anhanges 1 (Verteilschlüssel)<lb facs="#facs_227_r45"/>ist die Zustimmung aller Vertreter der Vorortsgemeinden in<lb facs="#facs_227_r46"/>der Betriebskommission erforderlich.</p>
+				<p>
+					<lb facs="#facs_227_r47"/>Für die Änderung des Anhanges 2 (beitragsberechtigte An<lb break="no" facs="#facs_227_r48"/>schlussstrecken des VBZ-Netzes) ist nur die Zustimmung der<lb facs="#facs_227_r49"/>Vertreter des Kantons und der Stadt Zürich in der Betriebs<lb break="no" facs="#facs_227_r50"/>kommission erforderlich.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_227_r51"/>Inkrafttreten</add>
+				</p>
+				<p>
+					<lb facs="#facs_227_r52"/>§ 24. Dieser Gründungsvertrag tritt nach der Annahme<lb facs="#facs_227_r53"/>durch die beteiligten Gemeinden und die Genehmigung durch</p>
+				<pb n="964" facs="#facs_228"/>
+				<p>
+					<lb facs="#facs_228_r1"/>den Kantonsrat in Kraft, und zwar auf den 1. des folgenden<lb facs="#facs_228_r2"/>Monats, nachdem der Kantonsratsbeschluss Rechtskraft erlangt<lb facs="#facs_228_r3"/>hat.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_228_r4"/>Anhang 1<lb facs="#facs_228_r5"/>(zu § 3 Abs. 1)</head>
+				<p>
+					<lb facs="#facs_228_r6"/>Das Betriebsdefizit der Buslinien im unteren Glattal wird<lb facs="#facs_228_r7"/>nach folgendem Schlüssel verteilt:</p>
+				<p>
+					<lb facs="#facs_228_r8"/>1/3 Aufwandfaktor (Haltestellenanfahrten)</p>
+				<p>
+					<lb facs="#facs_228_r9"/>1/s Steuerkraft je Einwohner *)</p>
+				<p>
+					<lb facs="#facs_228_r10"/>1/3 Einwohnerzahl *)</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_228_r11"/>Anhang 2<lb facs="#facs_228_r12"/>(zu § 3 Abs. 2)</head>
+				<p>
+					<lb facs="#facs_228_r13"/>Für die Berechnung des auf die VBZ entfallenden Be<lb break="no" facs="#facs_228_r14"/>triebsdefizites werden folgende Linienabschnitte berücksichtigt:</p>
+				<p>
+					<lb facs="#facs_228_r15"/>14 Seebach-Bahnhofquai.</p>
+				<p>
+					<lb facs="#facs_228_r16"/>Den Einnahmen auf diesen Linienabschnitten wird die<lb facs="#facs_228_r17"/>Taxordnung der Stadt Zürich zugrundegelegt.</p>
+				<note>
+					<lb facs="#facs_228_r18"/>*) Grundlagen: Die letzte statistische Mitteilung des Kantons Zürich über<lb facs="#facs_228_r19"/>die Zürcher Gemeindesteuerverhältnisse.</note>
+			</div>
+		</body></text></TEI>

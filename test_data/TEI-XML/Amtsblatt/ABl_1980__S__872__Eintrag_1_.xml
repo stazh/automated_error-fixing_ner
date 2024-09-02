@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-18">18.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] Vom 2. Juli 1980</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-08-15">15.08.1980</date><ident>StAZH ABl 1980 (S. 872, Eintrag 1)</ident><idno>872</idno><idno type="issue">58</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131945"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_136" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0136.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_136_r34" ulx="1025" uly="1868" lrx="1205" lry="1898" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r3" ulx="308" uly="352" lrx="1597" lry="392" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r25" ulx="320" uly="1360" lrx="1618" lry="1398" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r38" ulx="327" uly="2122" lrx="534" lry="2152" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r22" ulx="316" uly="1162" lrx="1366" lry="1200" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r19" ulx="402" uly="1016" lrx="1607" lry="1054" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r7" ulx="310" uly="522" lrx="1137" lry="559" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r16" ulx="1431" uly="849" lrx="1604" lry="880" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r30" ulx="906" uly="1656" lrx="1132" lry="1687" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r8" ulx="1145" uly="518" lrx="1410" lry="551" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r29" ulx="804" uly="1658" lrx="879" lry="1687" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r28" ulx="320" uly="1531" lrx="1370" lry="1567" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r40" ulx="333" uly="2229" lrx="1625" lry="2267" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r15" ulx="1135" uly="849" lrx="1420" lry="883" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r27" ulx="406" uly="1477" lrx="1615" lry="1514" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r13" ulx="554" uly="856" lrx="947" lry="891" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r20" ulx="316" uly="1066" lrx="1613" lry="1105" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r0" ulx="303" uly="170" lrx="372" lry="196" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r6" ulx="395" uly="464" lrx="1600" lry="505" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r37" ulx="325" uly="2060" lrx="1621" lry="2099" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r11" ulx="397" uly="802" lrx="1606" lry="842" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r14" ulx="958" uly="854" lrx="1118" lry="886" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r41" ulx="334" uly="2285" lrx="733" lry="2319" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r35" ulx="412" uly="1958" lrx="921" lry="1992" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r9" ulx="789" uly="650" lrx="867" lry="679" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r17" ulx="314" uly="897" lrx="1612" lry="937" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r10" ulx="893" uly="647" lrx="1121" lry="677" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r2" ulx="304" uly="306" lrx="1600" lry="346" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r1" ulx="393" uly="254" lrx="1604" lry="292" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r12" ulx="313" uly="864" lrx="522" lry="895" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r23" ulx="406" uly="1254" lrx="908" lry="1287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r33" ulx="731" uly="1870" lrx="1015" lry="1903" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r21" ulx="315" uly="1112" lrx="1615" lry="1153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r18" ulx="312" uly="964" lrx="447" lry="991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r24" ulx="406" uly="1312" lrx="1614" lry="1348" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r39" ulx="416" uly="2179" lrx="1629" lry="2215" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r31" ulx="408" uly="1812" lrx="1620" lry="1851" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r26" ulx="318" uly="1418" lrx="729" lry="1451" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r32" ulx="325" uly="1870" lrx="706" lry="1904" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r4" ulx="308" uly="406" lrx="995" lry="439" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r36" ulx="416" uly="2010" lrx="1626" lry="2051" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_136_r5" ulx="1010" uly="402" lrx="1373" lry="435" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="872" facs="#facs_136"/>
+			<p>
+				<lb facs="#facs_136_r11"/>Der Regierungsrat hat beschlossen, das Lehrerbildungs<lb break="no" facs="#facs_136_r12"/>gesetz vom <date when="1978-09-24">24. September 1978</date> auf den <date when="1981-04-16">16. April 1981</date> in Kraft<lb facs="#facs_136_r17"/>zu setzen. Zur Einführung wurde eine Übergangsordnung er<lb break="no" facs="#facs_136_r18"/>lassen.</p>
+			<p>
+				<lb facs="#facs_136_r19"/>Ferner hat er von einem Kreisschreiben der Baudirektion<lb facs="#facs_136_r20"/>an die Gemeinden Kenntnis genommen, in welchem die vor<lb break="no" facs="#facs_136_r21"/>gesehene Praxis im Genehmigungsverfahren bezüglich plane<lb break="no" facs="#facs_136_r22"/>rischer und baulicher Festlegungen erläutert wird.</p>
+			<p>
+				<lb facs="#facs_136_r23"/>Es sind gewählt worden:<lb facs="#facs_136_r24"/>als Oberassistent am Medizinisch-chemischen Zentrallabo<lb break="no" facs="#facs_136_r25"/>ratorium des Universitätsspitals: Dr. Kurt Gautschi, von Rei<lb break="no" facs="#facs_136_r26"/>nach AG, in Zürich;</p>
+			<p>
+				<lb facs="#facs_136_r27"/>als Sekretär im Direktions-/Personalsekretariat der Finanz<lb break="no" facs="#facs_136_r28"/>direktion: Alex Ruppen, von Visp VS, in Dietlikon.</p>
+		</body></text></TEI>

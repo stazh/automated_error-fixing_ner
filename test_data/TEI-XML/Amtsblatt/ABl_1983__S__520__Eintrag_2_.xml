@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] vom 23. März 1983</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1983-05-27">27.05.1983</date><ident>StAZH ABl 1983 (S. 520, Eintrag 2)</ident><idno>520</idno><idno type="issue">20</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5133060"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_521" uly="0" ulx="0" lry="2391" lrx="1603">
+			<graphic url="Abl_1983_1__S__0521.tif" width="1603px" height="2391px"/>
+			<zone xml:id="facs_521_r12" ulx="1186" uly="685" lrx="1271" lry="713" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r30" ulx="737" uly="1592" lrx="794" lry="1617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r15" ulx="742" uly="910" lrx="800" lry="936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r40" ulx="310" uly="1951" lrx="1465" lry="1980" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r9" ulx="318" uly="587" lrx="1113" lry="615" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r6" ulx="314" uly="435" lrx="1496" lry="465" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r33" ulx="308" uly="1721" lrx="733" lry="1749" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r22" ulx="314" uly="1225" lrx="1498" lry="1255" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r4" ulx="314" uly="346" lrx="1492" lry="375" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r36" ulx="307" uly="1771" lrx="1494" lry="1802" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r18" ulx="316" uly="1040" lrx="1500" lry="1068" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r39" ulx="312" uly="1907" lrx="1488" lry="1936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r16" ulx="823" uly="906" lrx="1065" lry="934" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r3" ulx="312" uly="302" lrx="1497" lry="330" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r13" ulx="318" uly="735" lrx="1496" lry="766" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r29" ulx="321" uly="1457" lrx="1261" lry="1485" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r7" ulx="314" uly="481" lrx="808" lry="508" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r25" ulx="1363" uly="1315" lrx="1498" lry="1344" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r28" ulx="318" uly="1411" lrx="1503" lry="1441" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r8" ulx="313" uly="541" lrx="1484" lry="571" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r35" ulx="965" uly="1723" lrx="1190" lry="1750" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r21" ulx="318" uly="1179" lrx="1498" lry="1212" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r34" ulx="752" uly="1723" lrx="958" lry="1750" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r11" ulx="316" uly="685" lrx="1177" lry="715" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r14" ulx="318" uly="781" lrx="906" lry="812" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r17" ulx="318" uly="994" lrx="1494" lry="1025" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r31" ulx="819" uly="1590" lrx="1058" lry="1617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r37" ulx="314" uly="1817" lrx="1488" lry="1847" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r1" ulx="742" uly="218" lrx="803" lry="244" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r19" ulx="314" uly="1083" lrx="1494" lry="1113" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r24" ulx="318" uly="1315" lrx="1354" lry="1344" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r2" ulx="826" uly="214" lrx="1063" lry="241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r10" ulx="316" uly="637" lrx="1496" lry="667" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r23" ulx="316" uly="1269" lrx="1500" lry="1300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r32" ulx="312" uly="1675" lrx="1486" lry="1706" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r27" ulx="412" uly="1359" lrx="1194" lry="1389" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r0" ulx="310" uly="135" lrx="366" lry="157" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r20" ulx="318" uly="1127" lrx="698" lry="1158" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r5" ulx="316" uly="389" lrx="1499" lry="420" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r26" ulx="317" uly="1357" lrx="404" lry="1387" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_521_r38" ulx="310" uly="1863" lrx="1486" lry="1891" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="520" facs="#facs_521"/>
+			<p>
+				<lb facs="#facs_521_r17"/>Der Regierungsrat beantragt dem Kantonsrat, für den Bau eines Insti<lb break="no" facs="#facs_521_r18"/>tutsgebäudes für die Wirtschaftswissenschaftliche Abteilung der Univer<lb break="no" facs="#facs_521_r19"/>sität an der Plattenstrasse 14/20 in Zürich einen Kredit von 17,8 Mio.<lb facs="#facs_521_r20"/>Franken zu bewilligen.</p>
+			<p>
+				<lb facs="#facs_521_r21"/>Der Regierungsrat hat Dr. Bruno Lang, von Aristau AG, in Wädenswil,<lb facs="#facs_521_r22"/>zum Chef des kantonalen Amtes für berufliche Vorsorge bei der Direk<lb break="no" facs="#facs_521_r23"/>tion des Innern gewählt. Dr. Lang ist Sekretär mit besonderen Aufga<lb break="no" facs="#facs_521_r24"/>ben bei derselben Direktion. Er tritt seine neue Tätigkeit per <date when="1983-04-01">1. April<lb facs="#facs_521_r26"/>1983,</date> dem Zeitpunkt der Errichtung des Amtes, an.</p>
+			<p>
+				<lb facs="#facs_521_r28"/>Albert Anderes, von Niederbühren AG, in Uster, ist als Technischer<lb facs="#facs_521_r29"/>Beamter beim Rektorat der Universität gewählt worden.</p>
+		</body></text></TEI>

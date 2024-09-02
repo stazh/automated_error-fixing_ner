@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-18">18.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Beschluss des Regierungsrates über die Anordnung der kantonalen Volksabstimmung vom 28. September 1980 (vom 2. Juli 1980)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-07-04">04.07.1980</date><ident>StAZH ABl 1980 (S. 737-739)</ident><idno>737–739</idno><idno type="issue">50</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131905"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_1" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0001.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_1_r2" ulx="1329" uly="2395" lrx="1364" lry="2418" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r32" ulx="168" uly="2120" lrx="1258" lry="2154" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r18" ulx="297" uly="1297" lrx="947" lry="1330" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r0" ulx="233" uly="2395" lrx="560" lry="2422" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r12" ulx="622" uly="912" lrx="964" lry="941" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r11" ulx="416" uly="808" lrx="1168" lry="837" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r15" ulx="147" uly="1108" lrx="275" lry="1136" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r22" ulx="232" uly="1568" lrx="1438" lry="1599" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r21" ulx="168" uly="1520" lrx="1435" lry="1551" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r4" ulx="416" uly="266" lrx="1164" lry="307" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r33" ulx="229" uly="2181" lrx="981" lry="2212" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r26" ulx="604" uly="1733" lrx="991" lry="1765" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r5" ulx="143" uly="329" lrx="1431" lry="369" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r34" ulx="299" uly="2225" lrx="1245" lry="2260" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r8" ulx="618" uly="516" lrx="704" lry="548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r29" ulx="145" uly="1879" lrx="1206" lry="1912" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r23" ulx="235" uly="1616" lrx="1432" lry="1648" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r24" ulx="230" uly="1662" lrx="1079" lry="1696" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r1" ulx="566" uly="2395" lrx="785" lry="2422" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r6" ulx="497" uly="400" lrx="579" lry="435" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r14" ulx="145" uly="1058" lrx="1435" lry="1089" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r25" ulx="147" uly="1733" lrx="591" lry="1765" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r10" ulx="515" uly="739" lrx="1070" lry="770" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r30" ulx="139" uly="1987" lrx="425" lry="2017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r9" ulx="729" uly="514" lrx="970" lry="548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r20" ulx="235" uly="1431" lrx="1300" lry="1464" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r28" ulx="235" uly="1829" lrx="1434" lry="1861" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r17" ulx="235" uly="1250" lrx="1436" lry="1282" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r27" ulx="1002" uly="1733" lrx="1202" lry="1765" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r13" ulx="230" uly="1008" lrx="1436" lry="1042" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r31" ulx="234" uly="2052" lrx="1061" lry="2085" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r16" ulx="172" uly="1185" lrx="1250" lry="1217" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r3" ulx="1366" uly="164" lrx="1431" lry="191" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r19" ulx="168" uly="1385" lrx="1435" lry="1416" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_1_r7" ulx="604" uly="391" lrx="1080" lry="432" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_2" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0002.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_2_r6" ulx="389" uly="541" lrx="1308" lry="575" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r39" ulx="322" uly="2233" lrx="1589" lry="2268" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r34" ulx="387" uly="1935" lrx="824" lry="1967" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r36" ulx="391" uly="2060" lrx="1589" lry="2094" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r19" ulx="383" uly="1145" lrx="1583" lry="1180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r4" ulx="388" uly="445" lrx="1591" lry="478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r31" ulx="387" uly="1779" lrx="1581" lry="1812" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r0" ulx="304" uly="170" lrx="366" lry="196" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r27" ulx="387" uly="1581" lrx="1589" lry="1617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r22" ulx="299" uly="1291" lrx="603" lry="1321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r29" ulx="385" uly="1681" lrx="1585" lry="1716" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r30" ulx="387" uly="1729" lrx="1589" lry="1764" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r21" ulx="298" uly="1243" lrx="1589" lry="1280" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r10" ulx="389" uly="797" lrx="1583" lry="831" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r7" ulx="300" uly="637" lrx="577" lry="666" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r9" ulx="387" uly="747" lrx="1591" lry="781" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r38" ulx="388" uly="2154" lrx="1289" lry="2189" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r40" ulx="388" uly="2283" lrx="1591" lry="2317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r24" ulx="299" uly="1425" lrx="462" lry="1448" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r18" ulx="614" uly="1070" lrx="897" lry="1100" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r32" ulx="389" uly="1827" lrx="1125" lry="1859" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r37" ulx="388" uly="2102" lrx="1591" lry="2140" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r2" ulx="320" uly="333" lrx="1592" lry="366" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r15" ulx="300" uly="1020" lrx="472" lry="1048" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r13" ulx="301" uly="968" lrx="1354" lry="1005" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r5" ulx="390" uly="491" lrx="1585" lry="526" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r33" ulx="450" uly="1887" lrx="1591" lry="1922" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r1" ulx="302" uly="268" lrx="577" lry="295" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r28" ulx="389" uly="1633" lrx="1589" lry="1667" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r17" ulx="302" uly="1068" lrx="606" lry="1098" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r16" ulx="484" uly="1020" lrx="1572" lry="1054" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r12" ulx="387" uly="920" lrx="1589" lry="955" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r14" ulx="1387" uly="977" lrx="1593" lry="1007" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r8" ulx="325" uly="702" lrx="1593" lry="735" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r23" ulx="389" uly="1366" lrx="1592" lry="1404" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r11" ulx="387" uly="843" lrx="1500" lry="878" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r20" ulx="301" uly="1193" lrx="1589" lry="1231" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r35" ulx="318" uly="2008" lrx="1589" lry="2043" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r25" ulx="322" uly="1485" lrx="1591" lry="1521" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r26" ulx="386" uly="1535" lrx="1591" lry="1570" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_2_r3" ulx="389" uly="379" lrx="1148" lry="414" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_3" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0003.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_3_r36" ulx="677" uly="2231" lrx="864" lry="2260" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r10" ulx="233" uly="722" lrx="1416" lry="756" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r33" ulx="472" uly="2018" lrx="702" lry="2049" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r22" ulx="145" uly="1377" lrx="1427" lry="1406" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r12" ulx="231" uly="820" lrx="1435" lry="854" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r31" ulx="231" uly="1918" lrx="1108" lry="1953" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r7" ulx="233" uly="568" lrx="419" lry="598" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r32" ulx="227" uly="2016" lrx="462" lry="2048" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r2" ulx="236" uly="306" lrx="1434" lry="339" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r28" ulx="229" uly="1741" lrx="1431" lry="1775" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r19" ulx="145" uly="1189" lrx="1345" lry="1224" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r9" ulx="237" uly="672" lrx="1418" lry="707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r26" ulx="143" uly="1608" lrx="1435" lry="1639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r35" ulx="610" uly="2172" lrx="922" lry="2202" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r5" ulx="236" uly="462" lrx="1440" lry="500" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r21" ulx="145" uly="1327" lrx="1433" lry="1359" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r24" ulx="229" uly="1508" lrx="1430" lry="1542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r4" ulx="298" uly="416" lrx="1433" lry="451" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r6" ulx="234" uly="516" lrx="1436" lry="548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r15" ulx="145" uly="1006" lrx="1008" lry="1037" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r20" ulx="232" uly="1275" lrx="1435" lry="1310" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r29" ulx="141" uly="1789" lrx="1438" lry="1823" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r37" ulx="1008" uly="2172" lrx="1433" lry="2203" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r13" ulx="233" uly="868" lrx="716" lry="901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r0" ulx="1370" uly="166" lrx="1429" lry="193" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r27" ulx="145" uly="1652" lrx="1265" lry="1687" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r23" ulx="143" uly="1422" lrx="1433" lry="1455" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r16" ulx="1037" uly="1006" lrx="1435" lry="1037" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r11" ulx="232" uly="772" lrx="1437" lry="805" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r3" ulx="232" uly="354" lrx="1375" lry="387" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r34" ulx="700" uly="2114" lrx="1352" lry="2146" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r38" ulx="1068" uly="2233" lrx="1375" lry="2262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r30" ulx="141" uly="1837" lrx="1189" lry="1871" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r14" ulx="233" uly="956" lrx="1433" lry="988" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r25" ulx="145" uly="1558" lrx="1438" lry="1590" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r18" ulx="145" uly="1143" lrx="1437" lry="1174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r8" ulx="300" uly="625" lrx="1438" lry="658" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r17" ulx="235" uly="1091" lrx="1438" lry="1126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_3_r1" ulx="237" uly="258" lrx="1429" lry="290" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="737" facs="#facs_1"/>
+			<p>
+				<lb facs="#facs_1_r10"/>Der Regierungsrat,</p>
+			<p>
+				<lb facs="#facs_1_r11"/>auf Antrag der Direktion des Innern,</p>
+			<p>
+				<lb facs="#facs_1_r12"/>beschliesst:</p>
+			<p>
+				<lb facs="#facs_1_r13"/>I. Die Volksabstimmung über die nach den Beschlüssen des<lb facs="#facs_1_r14"/>Kantonsrates der Volksabstimmung zu unterstellenden Vor<lb break="no" facs="#facs_1_r15"/>lagen:</p>
+			<p>
+				<lb facs="#facs_1_r16"/>1. A. Volksinitiative zur Festsetzung der Spitaltaxen<lb facs="#facs_1_r17"/>B. Gegenvorschlag des Kantonsrates zur Volksinitiative<lb facs="#facs_1_r18"/>zur Festsetzung der Spitaltaxen</p>
+			<p>
+				<lb facs="#facs_1_r19"/>2. Stellungnahme des Kantons Zürich über die Wünschbar<lb break="no" facs="#facs_1_r20"/>keit der Errichtung des Kernkraftwerks Kaiseraugst</p>
+			<p>
+				<lb facs="#facs_1_r21"/>3. Beschluss des Kantonsrates über die Bewilligung eines<lb facs="#facs_1_r22"/>Kredites für die Tiefbauten zum Fingerdock A, die Erwei<lb break="no" facs="#facs_1_r23"/>terung der Flugzeugabstellfläche und den Einbau einer<lb facs="#facs_1_r24"/>Rollinienbefeuerung im Flughafen Zürich</p>
+			<p>
+				<lb facs="#facs_1_r25"/>wird auf Sonntag, den <date when="1980-09-28">28. September 1980</date> angesetzt.</p>
+			<p>
+				<lb facs="#facs_1_r28"/>II. Den Stimmberechtigten werden die nachstehenden Fra<lb break="no" facs="#facs_1_r29"/>gen zur Beantwortung mit Ja oder Nein vorgelegt:</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_1_r30"/>Stimmzettel 1</head>
+				<p>
+					<lb facs="#facs_1_r31"/>Wollen Sie folgende Vorlage annehmen?</p>
+				<p>
+					<lb facs="#facs_1_r32"/>1. A. Volksinitiative zur Festsetzung der Spitaltaxen<lb facs="#facs_1_r33"/>B. Gegenvorschlag des Kantonsrates<lb facs="#facs_1_r34"/>Gesetz über das Gesundheitswesen (Änderung)</p>
+			</div>
+			<pb n="738" facs="#facs_2"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_2_r1"/>Stimmzettel 2</head>
+				<p>
+					<lb facs="#facs_2_r2"/>2. Stellungnahme des Kantons Zürich im Rahmen des Ver<lb break="no" facs="#facs_2_r3"/>nehmlassungsverfahrens des Bundes:<lb facs="#facs_2_r4"/>Halten Sie die Errichtung des Kernkraftwerks Kaiseraugst<lb facs="#facs_2_r5"/>unter Berücksichtigung der im Vernehmlassungsverfahren<lb facs="#facs_2_r6"/>entscheidenden Bedarfsfrage für wünschbar?</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_2_r7"/>Stimmzettel 3</head>
+				<p>
+					<lb facs="#facs_2_r8"/>3. Beschluss des Kantonsrates über die Bewilligung eines<lb facs="#facs_2_r9"/>Kredites von Fr. 48 000 000 für die Tiefbauten zum Finger<lb break="no" facs="#facs_2_r10"/>dock A, die Erweiterung der Flugzeugabstellfläche und den<lb facs="#facs_2_r11"/>Einbau einer Rollinienbefeuerung im Flughafen Zürich</p>
+				<p>
+					<lb facs="#facs_2_r12"/>III. Die Volksabstimmung wird nach den Vorschriften des<lb facs="#facs_2_r13"/>Gesetzes über die Wahlen und Abstimmungen vom <date when="1955-12-04">4. Dezem<lb break="no" facs="#facs_2_r15"/>ber 1955</date> und der dazugehörigen Vollziehungsverordnung vom<lb facs="#facs_2_r17"/><date when="1956-01-23">23. Januar 1956</date> durchgeführt.</p>
+				<p>
+					<lb facs="#facs_2_r19"/>IV. Die Stimmabgabe erfolgt durch Benützung der in den<lb facs="#facs_2_r20"/>Gemeinden am Abstimmungstag und am Vortag (Samstag) so<lb break="no" facs="#facs_2_r21"/>wie allenfalls am Freitag vor dem Abstimmungstag aufge<lb break="no" facs="#facs_2_r22"/>stellten Urnen.</p>
+				<p>
+					<lb facs="#facs_2_r23"/>V. Für die Stimmabgabe bestehen folgende Erleichte<lb break="no" facs="#facs_2_r24"/>rungen:</p>
+				<p>
+					<lb facs="#facs_2_r25"/>a) Im gleichen Haus lebende, stimmberechtigte Familien<lb break="no" facs="#facs_2_r26"/>glieder dürfen sich bei der Abgabe der Stimmzettel unter<lb facs="#facs_2_r27"/>gleichzeitiger Abgabe des eigenen Stimmrechtsausweises<lb facs="#facs_2_r28"/>vertreten. Stimmberechtigte, die das sechzigste Altersjahr<lb facs="#facs_2_r29"/>zurückgelegt haben, sowie Invalide und Kranke, die einen<lb facs="#facs_2_r30"/>Ausweis darüber beibringen, dass sie am Gang zur Urne<lb facs="#facs_2_r31"/>verhindert sind, können sich auch durch einen anderen<lb facs="#facs_2_r32"/>Stimmberechtigten vertreten lassen.</p>
+				<p>
+					<lb facs="#facs_2_r33"/>Niemand darf zur gleichen Sache aber mehr als drei<lb facs="#facs_2_r34"/>Stimmzettel abgeben.</p>
+				<p>
+					<lb facs="#facs_2_r35"/>b) Die Stimmzettel können in einem verschlossenen Um<lb break="no" facs="#facs_2_r36"/>schlag schon vom Donnerstag vor dem Wahltag an in der<lb facs="#facs_2_r37"/>Gemeinderatskanzlei (im Kreisbüro) während der Öff<lb break="no" facs="#facs_2_r38"/>nungszeiten der Schalter abgegeben werden.</p>
+				<p>
+					<lb facs="#facs_2_r39"/>c) Kranke und Gebrechliche sowie Stimmberechtigte, die aus<lb facs="#facs_2_r40"/>andern zwingenden Gründen am Gang zur Urne verhindert</p>
+				<pb n="739" facs="#facs_3"/>
+				<p>
+					<lb facs="#facs_3_r1"/>sind oder die ausserhalb ihres Wohnsitzes weilen, können<lb facs="#facs_3_r2"/>ihre Stimme auf dem Korrespondenzweg abgeben. Das<lb break="no" facs="#facs_3_r3"/>selbe gilt für Wehr- und Zivilschutzpflichtige im Dienst.</p>
+				<p>
+					<lb facs="#facs_3_r4"/>Sie haben spätestens 14 Tage vor dem Abstimmungstag<lb facs="#facs_3_r5"/>bei der Gemeinderatskanzlei (beim Kreisbüro) das Stimm<lb break="no" facs="#facs_3_r6"/>material schriftlich zu verlangen und ihr Begehren zu be<lb break="no" facs="#facs_3_r7"/>gründen.</p>
+				<p>
+					<lb facs="#facs_3_r8"/>Der Stimmberechtigte schliesst die benützten Stimm<lb break="no" facs="#facs_3_r9"/>zettel in das Stimmzettelkuvert und sendet dieses im<lb facs="#facs_3_r10"/>Rücksendekuvert frankiert der Gemeinderatskanzlei (dem<lb facs="#facs_3_r11"/>Kreisbüro) zu, und zwar so, dass es frühestens drei Wochen,<lb facs="#facs_3_r12"/>spätestens aber am Samstag, 12 Uhr, vor dem Abstim<lb break="no" facs="#facs_3_r13"/>mungstag dort eintrifft.</p>
+				<p>
+					<lb facs="#facs_3_r14"/>VI. Die Gemeindevorsteherschaften veröffentlichen Ziffern<lb facs="#facs_3_r15"/>IV und V dieses Beschlusses spätestens am <date when="1980-09-13">13. September 1980.</date></p>
+				<p>
+					<lb facs="#facs_3_r17"/>VII. Die Ermittlung der Ergebnisse findet am Abstim<lb break="no" facs="#facs_3_r18"/>mungstag selbst nach vollständiger Durchführung der Stimm<lb break="no" facs="#facs_3_r19"/>abgabe statt. Sie hat spätestens um 12.30 Uhr zu beginnen.</p>
+				<p>
+					<lb facs="#facs_3_r20"/>VIII. Die Wahlbüros haben die Ergebnisse dieser Abstim<lb break="no" facs="#facs_3_r21"/>mung am Abstimmungstag sofort nach beendigter Zusammen<lb break="no" facs="#facs_3_r22"/>stellung von 10.30 Uhr an bis spätestens 16 Uhr der Direktion<lb facs="#facs_3_r23"/>des Innern in Zürich telefonisch zu melden (Telefon 01 259 11 11).</p>
+				<p>
+					<lb facs="#facs_3_r24"/>IX. Die Abstimmungsprotokolle der Gemeinden sind<lb facs="#facs_3_r25"/>nebst den separat verpackten und versiegelten oder plombier<lb break="no" facs="#facs_3_r26"/>ten Stimmzetteln von den Wahlbüros sofort dem Büro des<lb facs="#facs_3_r27"/>Kantonsrates (Staatskanzlei), 8090 Zürich, zuzustellen.</p>
+				<p>
+					<lb facs="#facs_3_r28"/>X. Veröffentlichung im Amtsblatt, Textteil, und Mitteilung<lb facs="#facs_3_r29"/>in besonderen Abzügen an die Präsidenten der Stadt- und Ge<lb break="no" facs="#facs_3_r30"/>meinderäte (für sich und zuhanden der Wahlbüros).</p>
+				<p>
+					<lb facs="#facs_3_r31"/>XI. Mitteilung an die Direktion des Innern.</p>
+				<p>
+					<lb facs="#facs_3_r32"/>Zürich, den <date when="1980-07-02">2. Juli 1980</date></p>
+				<p>
+					<lb facs="#facs_3_r34"/>Im Namen des Regierungsrates</p>
+				<p>
+					<lb facs="#facs_3_r35"/>Der Präsident:<lb facs="#facs_3_r36"/>Stucki</p>
+				<p>
+					<lb facs="#facs_3_r37"/>Der Staatsschreiber:<lb facs="#facs_3_r38"/>Roggwiller</p>
+			</div>
+		</body></text></TEI>

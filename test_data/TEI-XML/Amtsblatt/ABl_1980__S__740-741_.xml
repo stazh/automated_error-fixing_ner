@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-18">18.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Beschluss des Kantonsrates über die Staatsrechnung für das Jahr 1979 (vom 30. Juni 1980)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-07-04">04.07.1980</date><ident>StAZH ABl 1980 (S. 740-741)</ident><idno>740–741</idno><idno type="issue">50</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131906"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_4" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0004.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_4_r17" ulx="533" uly="1372" lrx="1595" lry="1403" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r15" ulx="402" uly="1277" lrx="1212" lry="1309" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r23" ulx="472" uly="1706" lrx="816" lry="1734" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r14" ulx="406" uly="1160" lrx="1519" lry="1224" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r25" ulx="408" uly="1862" lrx="983" lry="1896" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r29" ulx="475" uly="2064" lrx="1609" lry="2098" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r32" ulx="404" uly="2272" lrx="1158" lry="2306" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r8" ulx="811" uly="793" lrx="882" lry="821" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r21" ulx="470" uly="1602" lrx="1605" lry="1635" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r10" ulx="835" uly="887" lrx="1179" lry="915" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r3" ulx="1350" uly="316" lrx="1471" lry="355" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r30" ulx="475" uly="2114" lrx="1125" lry="2145" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r11" ulx="402" uly="964" lrx="1606" lry="1001" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r1" ulx="625" uly="262" lrx="1289" lry="298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r9" ulx="908" uly="791" lrx="1198" lry="822" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r31" ulx="407" uly="2181" lrx="601" lry="2210" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r4" ulx="770" uly="439" lrx="854" lry="471" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r24" ulx="406" uly="1772" lrx="741" lry="1805" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r20" ulx="472" uly="1539" lrx="862" lry="1570" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r7" ulx="458" uly="739" lrx="1585" lry="773" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r16" ulx="472" uly="1325" lrx="1607" lry="1357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r18" ulx="535" uly="1425" lrx="931" lry="1454" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r6" ulx="769" uly="670" lrx="1237" lry="700" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r22" ulx="469" uly="1652" lrx="1600" lry="1685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r12" ulx="404" uly="1033" lrx="1602" lry="1068" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r27" ulx="472" uly="1970" lrx="1604" lry="2001" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r28" ulx="475" uly="2014" lrx="1610" lry="2048" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r13" ulx="470" uly="1089" lrx="1186" lry="1119" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r2" ulx="443" uly="320" lrx="1340" lry="360" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r0" ulx="318" uly="168" lrx="377" lry="193" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r19" ulx="470" uly="1489" lrx="1599" lry="1520" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r26" ulx="408" uly="1920" lrx="1608" lry="1953" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_4_r5" ulx="877" uly="435" lrx="1154" lry="471" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_5" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0005.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_5_r24" ulx="132" uly="1291" lrx="245" lry="1315" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r36" ulx="160" uly="2050" lrx="1425" lry="2085" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r27" ulx="754" uly="1491" lrx="1041" lry="1528" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r9" ulx="1152" uly="602" lrx="1400" lry="632" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r35" ulx="220" uly="1991" lrx="577" lry="2019" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r34" ulx="222" uly="1937" lrx="1419" lry="1969" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r15" ulx="132" uly="1020" lrx="916" lry="1053" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r26" ulx="333" uly="1493" lrx="743" lry="1528" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r33" ulx="154" uly="1889" lrx="1427" lry="1921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r29" ulx="222" uly="1616" lrx="541" lry="1644" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r23" ulx="362" uly="1233" lrx="1425" lry="1268" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r4" ulx="460" uly="391" lrx="722" lry="423" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r38" ulx="221" uly="2152" lrx="373" lry="2181" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r17" ulx="1275" uly="1018" lrx="1428" lry="1048" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r20" ulx="216" uly="1185" lrx="1341" lry="1219" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r22" ulx="130" uly="1235" lrx="345" lry="1267" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r6" ulx="622" uly="550" lrx="929" lry="578" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r21" ulx="1383" uly="1185" lrx="1418" lry="1214" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r8" ulx="1133" uly="547" lrx="1420" lry="575" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r40" ulx="222" uly="2266" lrx="641" lry="2298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r28" ulx="1050" uly="1491" lrx="1227" lry="1526" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r37" ulx="222" uly="2100" lrx="1420" lry="2133" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r32" ulx="135" uly="1825" lrx="543" lry="1855" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r25" ulx="220" uly="1354" lrx="454" lry="1382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r7" ulx="597" uly="604" lrx="943" lry="636" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r3" ulx="216" uly="393" lrx="449" lry="426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r30" ulx="225" uly="1685" lrx="891" lry="1719" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r18" ulx="133" uly="1068" lrx="1421" lry="1102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r10" ulx="335" uly="785" lrx="1218" lry="823" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r19" ulx="135" uly="1120" lrx="337" lry="1151" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r0" ulx="1350" uly="149" lrx="1411" lry="175" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r13" ulx="1045" uly="870" lrx="1225" lry="904" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r5" ulx="714" uly="491" lrx="1306" lry="519" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r16" ulx="950" uly="1018" lrx="1265" lry="1052" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r14" ulx="225" uly="966" lrx="1418" lry="1003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r12" ulx="750" uly="872" lrx="1038" lry="906" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r31" ulx="218" uly="1770" lrx="1423" lry="1805" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r11" ulx="333" uly="872" lrx="741" lry="907" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r2" ulx="131" uly="302" lrx="527" lry="330" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r1" ulx="218" uly="243" lrx="1420" lry="278" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_5_r39" ulx="152" uly="2216" lrx="1425" lry="2250" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="740" facs="#facs_4"/>
+			<p>
+				<lb facs="#facs_4_r6"/>Der Kantonsrat,</p>
+			<p>
+				<lb facs="#facs_4_r7"/>nach Einsichtnahme in den Bericht des Regierungsrates</p>
+			<p>
+				<lb facs="#facs_4_r8"/>vom <date when="1980-04-16">16. April 1980,</date></p>
+			<p>
+				<lb facs="#facs_4_r10"/>beschliesst:</p>
+			<p>
+				<lb facs="#facs_4_r11"/>I. Die Staatsrechnung für das Jahr 1979, abschliessend mit</p>
+			<p>
+				<lb facs="#facs_4_r12"/>- einem Einnahmenüberschuss der Ordentlichen Be<lb break="no" facs="#facs_4_r13"/>triebsrechnung von Fr. 6 375 319.51,</p>
+			<p>
+				<lb facs="#facs_4_r14"/>- einem Ausgabenüberschuss der Ausserordentlichen triebsrechnung von Fr. 112 044 537.03,</p>
+			<p>
+				<lb facs="#facs_4_r15"/>- Aktiven von Fr. 4 760 426 628.90 bzw.</p>
+			<p>
+				<lb facs="#facs_4_r16"/>- nach Abzug der nichtrealisierbaren und der un<lb break="no" facs="#facs_4_r17"/>echten Aktiven - einem Finanzvermögen von<lb facs="#facs_4_r18"/>Fr. 2 724 270 526.41,</p>
+			<p>
+				<lb facs="#facs_4_r19"/>- festen und schwebenden Schulden im Betrage von<lb facs="#facs_4_r20"/>Fr. 3 345 621 982.51,</p>
+			<p>
+				<lb facs="#facs_4_r21"/>- somit einer ungedeckten Schuld von Fr. 1 274 799 763.19<lb facs="#facs_4_r22"/>und einer Fehldeckung (Überschuss der Schulden) von<lb facs="#facs_4_r23"/>Fr. 653 448 307.09</p>
+			<p>
+				<lb facs="#facs_4_r24"/>wird genehmigt.</p>
+			<p>
+				<lb facs="#facs_4_r25"/>II. Es wird vorgemerkt, dass</p>
+			<p>
+				<lb facs="#facs_4_r26"/>- die zu tilgenden besonderen Aufwendungen für Hoch<lb break="no" facs="#facs_4_r27"/>und Tiefbauten sowie für Hochleistungsstrassen Fr.<lb facs="#facs_4_r28"/>795 799 396.68, für Nationalstrassen Fr. 272 759 008.92<lb facs="#facs_4_r29"/>und für die Teilverlegung der Universität auf das<lb facs="#facs_4_r30"/>Strickhofareal Fr. 114 322 958.60</p>
+			<p>
+				<lb facs="#facs_4_r31"/>betragen.</p>
+			<p>
+				<lb facs="#facs_4_r32"/>III. Mitteilung an den Regierungsrat.</p>
+			<pb n="741" facs="#facs_5"/>
+			<p>
+				<lb facs="#facs_5_r1"/>IV. Veröffentlichung im Amtsblatt, Textteil, und in der<lb facs="#facs_5_r2"/>Gesetzessammlung.</p>
+			<p>
+				<lb facs="#facs_5_r3"/>Zürich, den <date when="1980-06-30">30. Juni 1980</date></p>
+			<p>
+				<lb facs="#facs_5_r5"/>Im Namen des Kantonsrates</p>
+			<p>
+				<lb facs="#facs_5_r6"/>Der Präsident:<lb facs="#facs_5_r7"/>E. Spillmann</p>
+			<p>
+				<lb facs="#facs_5_r8"/>Der Sekretär:<lb facs="#facs_5_r9"/>E. Szabel</p>
+		</body></text></TEI>

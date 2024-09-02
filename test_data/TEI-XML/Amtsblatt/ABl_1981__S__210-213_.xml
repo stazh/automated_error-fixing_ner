@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-03-15">15.03.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Besoldungsänderungen mit Wirkung ab
+              1. Januar 1981</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-02-06">06.02.1981</date><ident>StAZH ABl 1981 (S. 210-213)</ident><idno>210–213</idno><idno type="issue">5</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132180"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_211" uly="0" ulx="0" lry="2368" lrx="1606">
+			<graphic url="Abl_1981_1__S__0211.tif" width="1606px" height="2368px"/>
+			<zone xml:id="facs_211_r58" ulx="304" uly="2107" lrx="321" lry="2125" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r29" ulx="442" uly="1375" lrx="1447" lry="1406" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r19" ulx="1107" uly="963" lrx="1447" lry="991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r14" ulx="275" uly="827" lrx="471" lry="852" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r27" ulx="279" uly="1377" lrx="348" lry="1404" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r10" ulx="331" uly="660" lrx="865" lry="690" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r54" ulx="1293" uly="2009" lrx="1399" lry="2032" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r42" ulx="1272" uly="1836" lrx="1314" lry="1853" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r36" ulx="275" uly="1669" lrx="1084" lry="1700" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r46" ulx="300" uly="1924" lrx="319" lry="1946" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r16" ulx="761" uly="913" lrx="1285" lry="941" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r48" ulx="1291" uly="1917" lrx="1424" lry="1943" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r47" ulx="955" uly="1921" lrx="1076" lry="1945" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r2" ulx="271" uly="285" lrx="346" lry="308" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r53" ulx="953" uly="2011" lrx="1067" lry="2035" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r17" ulx="761" uly="969" lrx="1007" lry="993" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r21" ulx="279" uly="1213" lrx="744" lry="1244" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r7" ulx="329" uly="554" lrx="1441" lry="581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r34" ulx="279" uly="1563" lrx="405" lry="1586" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r40" ulx="1267" uly="1800" lrx="1442" lry="1819" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r30" ulx="281" uly="1419" lrx="1457" lry="1450" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r22" ulx="278" uly="1265" lrx="598" lry="1299" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r49" ulx="302" uly="1969" lrx="321" lry="1992" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r12" ulx="1132" uly="658" lrx="1280" lry="688" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r50" ulx="953" uly="1965" lrx="1088" lry="1991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r13" ulx="354" uly="723" lrx="1464" lry="754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r23" ulx="611" uly="1261" lrx="919" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r3" ulx="333" uly="339" lrx="1454" lry="370" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r0" ulx="273" uly="152" lrx="325" lry="177" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r33" ulx="529" uly="1507" lrx="1457" lry="1539" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r59" ulx="957" uly="2099" lrx="1090" lry="2123" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r8" ulx="277" uly="598" lrx="577" lry="626" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r9" ulx="584" uly="598" lrx="878" lry="626" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r25" ulx="609" uly="1334" lrx="940" lry="1362" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r41" ulx="951" uly="1838" lrx="992" lry="1856" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r31" ulx="279" uly="1465" lrx="1455" lry="1495" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r28" ulx="356" uly="1377" lrx="433" lry="1406" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r39" ulx="950" uly="1803" lrx="1134" lry="1822" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r4" ulx="274" uly="385" lrx="345" lry="411" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r5" ulx="329" uly="448" lrx="1451" lry="476" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r60" ulx="1293" uly="2097" lrx="1426" lry="2119" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r37" ulx="283" uly="1734" lrx="909" lry="1763" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r15" ulx="481" uly="825" lrx="803" lry="852" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r26" ulx="949" uly="1331" lrx="1457" lry="1361" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r43" ulx="299" uly="1878" lrx="319" lry="1899" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r1" ulx="329" uly="233" lrx="1462" lry="264" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r55" ulx="302" uly="2059" lrx="321" lry="2080" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r20" ulx="1109" uly="1011" lrx="1291" lry="1037" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r11" ulx="888" uly="660" lrx="1124" lry="689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r38" ulx="282" uly="1805" lrx="358" lry="1823" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r18" ulx="763" uly="1017" lrx="864" lry="1039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r51" ulx="1295" uly="1961" lrx="1420" lry="1987" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r57" ulx="1297" uly="2053" lrx="1405" lry="2075" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r56" ulx="955" uly="2055" lrx="1057" lry="2077" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r45" ulx="1291" uly="1873" lrx="1424" lry="1896" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r6" ulx="273" uly="494" lrx="463" lry="522" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r44" ulx="951" uly="1876" lrx="1067" lry="1900" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r35" ulx="278" uly="1611" lrx="988" lry="1639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r52" ulx="300" uly="2017" lrx="317" lry="2036" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r24" ulx="274" uly="1332" lrx="586" lry="1361" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_r32" ulx="281" uly="1509" lrx="521" lry="1538" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_211_f0" ulx="263" uly="1781" lrx="1500" lry="2053" rendition="Figure"/>
+		</surface>
+		<surface xml:id="facs_212" uly="0" ulx="0" lry="2369" lrx="1598">
+			<graphic url="Abl_1981_1__S__0212.tif" width="1598px" height="2369px"/>
+			<zone xml:id="facs_212_r45" ulx="1168" uly="610" lrx="1285" lry="635" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r60" ulx="175" uly="1423" lrx="191" lry="1444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r89" ulx="825" uly="1777" lrx="941" lry="1801" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r104" ulx="1145" uly="1510" lrx="1245" lry="1534" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r54" ulx="158" uly="1077" lrx="1010" lry="1110" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r103" ulx="1143" uly="1466" lrx="1258" lry="1489" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r71" ulx="158" uly="1906" lrx="195" lry="1930" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r48" ulx="1164" uly="743" lrx="1267" lry="766" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r29" ulx="831" uly="700" lrx="956" lry="724" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r70" ulx="156" uly="1864" lrx="193" lry="1887" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r10" ulx="164" uly="654" lrx="197" lry="678" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r88" ulx="827" uly="1733" lrx="939" lry="1756" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r78" ulx="829" uly="1287" lrx="956" lry="1311" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r52" ulx="1150" uly="923" lrx="1287" lry="945" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r82" ulx="825" uly="1466" lrx="934" lry="1490" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r112" ulx="1145" uly="1866" lrx="1254" lry="1887" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r56" ulx="160" uly="1212" lrx="238" lry="1230" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r12" ulx="160" uly="741" lrx="202" lry="765" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r62" ulx="175" uly="1510" lrx="191" lry="1531" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r15" ulx="160" uly="875" lrx="200" lry="898" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r96" ulx="825" uly="2089" lrx="960" lry="2112" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r73" ulx="158" uly="1998" lrx="191" lry="2019" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r64" ulx="175" uly="1600" lrx="193" lry="1621" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r49" ulx="1166" uly="789" lrx="1278" lry="810" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r83" ulx="827" uly="1512" lrx="943" lry="1535" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r85" ulx="827" uly="1598" lrx="933" lry="1623" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r98" ulx="1143" uly="1252" lrx="1180" lry="1269" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r20" ulx="833" uly="302" lrx="934" lry="324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r76" ulx="827" uly="1212" lrx="1011" lry="1232" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r3" ulx="181" uly="347" lrx="197" lry="367" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r105" ulx="1145" uly="1556" lrx="1256" lry="1577" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r46" ulx="1168" uly="656" lrx="1285" lry="678" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r55" ulx="164" uly="1143" lrx="500" lry="1170" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r40" ulx="1168" uly="389" lrx="1300" lry="413" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r41" ulx="1164" uly="433" lrx="1270" lry="457" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r6" ulx="164" uly="475" lrx="197" lry="497" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r79" ulx="822" uly="1333" lrx="964" lry="1357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r37" ulx="1147" uly="262" lrx="1185" lry="277" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r58" ulx="177" uly="1333" lrx="196" lry="1354" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r72" ulx="158" uly="1952" lrx="193" lry="1977" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r11" ulx="164" uly="697" lrx="202" lry="721" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r38" ulx="1170" uly="302" lrx="1297" lry="324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r108" ulx="1145" uly="1687" lrx="1256" lry="1708" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r59" ulx="177" uly="1379" lrx="195" lry="1400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r86" ulx="822" uly="1643" lrx="939" lry="1666" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r81" ulx="825" uly="1423" lrx="933" lry="1445" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r19" ulx="829" uly="258" lrx="871" lry="276" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r77" ulx="825" uly="1250" lrx="860" lry="1268" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r4" ulx="179" uly="391" lrx="197" lry="411" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r84" ulx="825" uly="1556" lrx="929" lry="1578" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r7" ulx="162" uly="520" lrx="198" lry="543" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r109" ulx="1143" uly="1733" lrx="1243" lry="1754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r23" ulx="831" uly="431" lrx="964" lry="457" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r32" ulx="831" uly="835" lrx="935" lry="857" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r44" ulx="1166" uly="564" lrx="1287" lry="589" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r61" ulx="177" uly="1468" lrx="193" lry="1487" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r39" ulx="1166" uly="345" lrx="1297" lry="368" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r90" ulx="827" uly="1820" lrx="945" lry="1844" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r30" ulx="833" uly="745" lrx="935" lry="768" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r26" ulx="829" uly="566" lrx="956" lry="592" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r35" ulx="833" uly="966" lrx="956" lry="990" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r116" ulx="1141" uly="2041" lrx="1277" lry="2067" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r113" ulx="1143" uly="1910" lrx="1256" lry="1933" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r63" ulx="175" uly="1558" lrx="189" lry="1576" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r2" ulx="179" uly="297" lrx="200" lry="320" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r101" ulx="1145" uly="1377" lrx="1245" lry="1399" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r111" ulx="1143" uly="1820" lrx="1257" lry="1843" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r21" ulx="833" uly="345" lrx="958" lry="369" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r8" ulx="164" uly="564" lrx="200" lry="587" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r31" ulx="831" uly="787" lrx="960" lry="812" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r14" ulx="162" uly="833" lrx="202" lry="857" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r18" ulx="831" uly="222" lrx="1014" lry="242" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r68" ulx="160" uly="1775" lrx="191" lry="1797" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r51" ulx="1147" uly="879" lrx="1268" lry="901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r42" ulx="1166" uly="479" lrx="1285" lry="501" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r93" ulx="827" uly="1956" lrx="930" lry="1978" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r53" ulx="1152" uly="964" lrx="1291" lry="989" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r102" ulx="1145" uly="1420" lrx="1256" lry="1443" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r69" ulx="156" uly="1818" lrx="191" lry="1840" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r16" ulx="158" uly="918" lrx="202" lry="944" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r5" ulx="166" uly="435" lrx="195" lry="456" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r24" ulx="831" uly="479" lrx="937" lry="501" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r34" ulx="831" uly="923" lrx="954" lry="948" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r95" ulx="829" uly="2041" lrx="935" lry="2067" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r75" ulx="160" uly="2087" lrx="189" lry="2108" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r107" ulx="1145" uly="1643" lrx="1245" lry="1665" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r22" ulx="833" uly="391" lrx="956" lry="415" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r117" ulx="1143" uly="2091" lrx="1272" lry="2111" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r43" ulx="1168" uly="522" lrx="1289" lry="546" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r80" ulx="827" uly="1375" lrx="933" lry="1401" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r115" ulx="1145" uly="2000" lrx="1277" lry="2022" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r27" ulx="831" uly="612" lrx="950" lry="636" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r87" ulx="825" uly="1689" lrx="931" lry="1712" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r1" ulx="165" uly="224" lrx="246" lry="243" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r17" ulx="160" uly="962" lrx="197" lry="986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r94" ulx="829" uly="1998" lrx="929" lry="2022" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r110" ulx="1143" uly="1775" lrx="1275" lry="1799" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r65" ulx="172" uly="1646" lrx="189" lry="1665" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r114" ulx="1145" uly="1956" lrx="1254" lry="1977" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r9" ulx="162" uly="608" lrx="200" lry="630" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r74" ulx="156" uly="2041" lrx="193" lry="2064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r57" ulx="166" uly="1292" lrx="185" lry="1310" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r100" ulx="1143" uly="1333" lrx="1262" lry="1355" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r97" ulx="1147" uly="1214" lrx="1311" lry="1232" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r47" ulx="1164" uly="698" lrx="1289" lry="721" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r67" ulx="160" uly="1735" lrx="189" lry="1755" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r50" ulx="1150" uly="833" lrx="1268" lry="855" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r99" ulx="1145" uly="1289" lrx="1255" lry="1312" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r66" ulx="172" uly="1689" lrx="191" lry="1709" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r92" ulx="822" uly="1910" lrx="941" lry="1934" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r25" ulx="831" uly="525" lrx="941" lry="548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r0" ulx="1279" uly="139" lrx="1335" lry="160" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r33" ulx="831" uly="879" lrx="943" lry="901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r36" ulx="1149" uly="222" lrx="1316" lry="242" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r13" ulx="162" uly="787" lrx="200" lry="811" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r106" ulx="1143" uly="1598" lrx="1247" lry="1620" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r91" ulx="825" uly="1864" lrx="945" lry="1890" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_r28" ulx="829" uly="656" lrx="933" lry="678" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_212_f1" ulx="133" uly="1200" lrx="1370" lry="1849" rendition="Figure"/>
+			<zone xml:id="facs_212_f0" ulx="118" uly="208" lrx="1350" lry="769" rendition="Figure"/>
+		</surface>
+		<surface xml:id="facs_213" uly="0" ulx="0" lry="2368" lrx="1604">
+			<graphic url="Abl_1981_1__S__0213.tif" width="1604px" height="2368px"/>
+			<zone xml:id="facs_213_r0" ulx="269" uly="147" lrx="325" lry="169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r29" ulx="938" uly="644" lrx="1042" lry="665" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r86" ulx="1257" uly="1932" lrx="1426" lry="1950" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r53" ulx="1278" uly="952" lrx="1397" lry="975" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r54" ulx="1274" uly="996" lrx="1384" lry="1017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r33" ulx="940" uly="952" lrx="1051" lry="975" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r21" ulx="264" uly="1169" lrx="371" lry="1194" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r72" ulx="1257" uly="1548" lrx="1291" lry="1567" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r23" ulx="269" uly="1261" lrx="378" lry="1283" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r46" ulx="1276" uly="506" lrx="1405" lry="531" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r43" ulx="1276" uly="375" lrx="1401" lry="399" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r13" ulx="273" uly="817" lrx="565" lry="843" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r31" ulx="938" uly="775" lrx="1074" lry="799" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r11" ulx="271" uly="729" lrx="498" lry="753" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r84" ulx="938" uly="2051" lrx="1042" lry="2073" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r35" ulx="936" uly="1038" lrx="1055" lry="1062" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r88" ulx="1264" uly="2007" lrx="1410" lry="2029" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r10" ulx="270" uly="685" lrx="498" lry="708" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r27" ulx="938" uly="550" lrx="1063" lry="577" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r28" ulx="940" uly="596" lrx="1045" lry="620" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r47" ulx="1278" uly="552" lrx="1382" lry="574" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r90" ulx="1274" uly="2094" lrx="1412" lry="2118" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r14" ulx="268" uly="862" lrx="738" lry="889" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r4" ulx="488" uly="418" lrx="679" lry="445" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r18" ulx="264" uly="1040" lrx="415" lry="1062" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r77" ulx="263" uly="1928" lrx="380" lry="1947" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r37" ulx="938" uly="1129" lrx="1072" lry="1153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r64" ulx="264" uly="1630" lrx="394" lry="1655" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r5" ulx="490" uly="460" lrx="681" lry="488" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r3" ulx="271" uly="375" lrx="679" lry="403" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r45" ulx="1278" uly="462" lrx="1399" lry="486" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r19" ulx="264" uly="1083" lrx="490" lry="1106" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r22" ulx="266" uly="1217" lrx="514" lry="1239" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r76" ulx="263" uly="1859" lrx="1200" lry="1890" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r82" ulx="935" uly="1965" lrx="979" lry="1984" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r9" ulx="269" uly="639" lrx="419" lry="665" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r56" ulx="1276" uly="1083" lrx="1397" lry="1106" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r68" ulx="936" uly="1588" lrx="1072" lry="1612" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r49" ulx="1278" uly="642" lrx="1403" lry="666" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r25" ulx="938" uly="337" lrx="974" lry="356" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r40" ulx="936" uly="1261" lrx="1072" lry="1285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r7" ulx="265" uly="552" lrx="371" lry="573" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r36" ulx="938" uly="1084" lrx="1072" lry="1107" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r44" ulx="1278" uly="421" lrx="1380" lry="443" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r79" ulx="268" uly="2046" lrx="774" lry="2076" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r59" ulx="1259" uly="1217" lrx="1378" lry="1239" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r8" ulx="269" uly="598" lrx="423" lry="622" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r52" ulx="1278" uly="906" lrx="1391" lry="930" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r74" ulx="1255" uly="1632" lrx="1368" lry="1656" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r73" ulx="1255" uly="1590" lrx="1368" lry="1611" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r42" ulx="1257" uly="335" lrx="1295" lry="355" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r66" ulx="938" uly="1513" lrx="1121" lry="1533" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r51" ulx="1278" uly="775" lrx="1410" lry="798" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r87" ulx="1256" uly="1965" lrx="1293" lry="1982" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r62" ulx="265" uly="1511" lrx="380" lry="1531" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r1" ulx="266" uly="229" lrx="1241" lry="261" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r6" ulx="485" uly="504" lrx="791" lry="535" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r63" ulx="266" uly="1586" lrx="392" lry="1610" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r26" ulx="1057" uly="387" lrx="1071" lry="402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r69" ulx="940" uly="1632" lrx="1051" lry="1656" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r48" ulx="1278" uly="596" lrx="1382" lry="620" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r61" ulx="264" uly="1442" lrx="1333" lry="1473" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r38" ulx="936" uly="1171" lrx="1042" lry="1195" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r83" ulx="936" uly="2005" lrx="1072" lry="2029" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r55" ulx="1276" uly="1040" lrx="1391" lry="1062" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r34" ulx="934" uly="996" lrx="1068" lry="1018" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r67" ulx="934" uly="1550" lrx="971" lry="1569" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r2" ulx="270" uly="296" lrx="383" lry="317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r75" ulx="1255" uly="1673" lrx="1368" lry="1697" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r60" ulx="1259" uly="1261" lrx="1378" lry="1285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r81" ulx="936" uly="1932" lrx="1122" lry="1952" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r20" ulx="268" uly="1129" lrx="458" lry="1152" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r89" ulx="1259" uly="2051" lrx="1403" lry="2073" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r85" ulx="936" uly="2092" lrx="1044" lry="2118" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r58" ulx="1259" uly="1175" lrx="1376" lry="1196" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r41" ulx="1259" uly="302" lrx="1428" lry="320" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r15" ulx="266" uly="906" lrx="673" lry="933" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r16" ulx="270" uly="950" lrx="448" lry="974" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r78" ulx="269" uly="2003" lrx="671" lry="2030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r65" ulx="266" uly="1675" lrx="394" lry="1699" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r50" ulx="1280" uly="685" lrx="1412" lry="709" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r80" ulx="268" uly="2097" lrx="610" lry="2121" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r30" ulx="942" uly="685" lrx="1074" lry="709" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r32" ulx="940" uly="908" lrx="1070" lry="932" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r12" ulx="267" uly="773" lrx="698" lry="801" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r70" ulx="934" uly="1678" lrx="1056" lry="1700" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r71" ulx="1257" uly="1513" lrx="1426" lry="1533" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r24" ulx="938" uly="300" lrx="1123" lry="321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r17" ulx="266" uly="996" lrx="419" lry="1018" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r57" ulx="1274" uly="1129" lrx="1385" lry="1150" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_r39" ulx="934" uly="1217" lrx="1070" lry="1241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_213_f1" ulx="245" uly="1501" lrx="1451" lry="1658" rendition="Figure"/>
+			<zone xml:id="facs_213_f2" ulx="246" uly="1917" lrx="1500" lry="2083" rendition="Figure"/>
+			<zone xml:id="facs_213_f0" ulx="237" uly="288" lrx="1464" lry="985" rendition="Figure"/>
+		</surface>
+		<surface xml:id="facs_214" uly="0" ulx="0" lry="2368" lrx="1597">
+			<graphic url="Abl_1981_1__S__0214.tif" width="1597px" height="2368px"/>
+			<zone xml:id="facs_214_r73" ulx="896" uly="1229" lrx="999" lry="1252" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r57" ulx="896" uly="1119" lrx="1144" lry="1139" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r1" ulx="164" uly="231" lrx="811" lry="260" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r82" ulx="160" uly="1561" lrx="577" lry="1589" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r88" ulx="890" uly="1730" lrx="996" lry="1752" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r74" ulx="895" uly="1273" lrx="998" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r16" ulx="633" uly="517" lrx="767" lry="542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r8" ulx="376" uly="400" lrx="562" lry="419" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r40" ulx="629" uly="790" lrx="667" lry="808" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r44" ulx="160" uly="1006" lrx="794" lry="1033" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r83" ulx="156" uly="1686" lrx="285" lry="1710" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r94" ulx="154" uly="1953" lrx="977" lry="1978" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r51" ulx="904" uly="917" lrx="1032" lry="941" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r9" ulx="375" uly="435" lrx="410" lry="453" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r37" ulx="375" uly="875" lrx="477" lry="896" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r41" ulx="631" uly="827" lrx="767" lry="851" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r63" ulx="374" uly="1229" lrx="467" lry="1252" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r77" ulx="1142" uly="1190" lrx="1177" lry="1208" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r80" ulx="1143" uly="1317" lrx="1248" lry="1339" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r29" ulx="1150" uly="558" lrx="1280" lry="583" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r64" ulx="372" uly="1273" lrx="475" lry="1297" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r7" ulx="164" uly="560" lrx="294" lry="584" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r67" ulx="625" uly="1190" lrx="665" lry="1209" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r84" ulx="158" uly="1728" lrx="285" lry="1753" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r65" ulx="373" uly="1319" lrx="462" lry="1340" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r31" ulx="164" uly="827" lrx="291" lry="851" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r48" ulx="896" uly="789" lrx="934" lry="806" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r0" ulx="1275" uly="147" lrx="1332" lry="170" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r32" ulx="158" uly="871" lrx="291" lry="895" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r100" ulx="1140" uly="2092" lrx="1273" lry="2118" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r68" ulx="631" uly="1229" lrx="731" lry="1252" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r72" ulx="892" uly="1190" lrx="929" lry="1209" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r36" ulx="377" uly="827" lrx="495" lry="850" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r12" ulx="375" uly="560" lrx="500" lry="586" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r71" ulx="896" uly="1156" lrx="1075" lry="1175" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r54" ulx="1146" uly="829" lrx="1280" lry="850" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r59" ulx="154" uly="1271" lrx="287" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r66" ulx="631" uly="1156" lrx="799" lry="1175" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r35" ulx="377" uly="790" lrx="414" lry="806" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r56" ulx="1146" uly="917" lrx="1273" lry="939" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r4" ulx="898" uly="362" lrx="1148" lry="383" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r79" ulx="1148" uly="1271" lrx="1244" lry="1294" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r45" ulx="158" uly="1052" lrx="397" lry="1077" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r46" ulx="372" uly="1121" lrx="629" lry="1141" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r21" ulx="896" uly="435" lrx="929" lry="452" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r90" ulx="1139" uly="1644" lrx="1178" lry="1661" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r70" ulx="629" uly="1319" lrx="700" lry="1340" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r28" ulx="1146" uly="515" lrx="1273" lry="540" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r93" ulx="157" uly="1905" lrx="1255" lry="1934" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r91" ulx="1138" uly="1686" lrx="1269" lry="1708" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r26" ulx="1144" uly="433" lrx="1200" lry="451" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r69" ulx="626" uly="1271" lrx="715" lry="1295" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r98" ulx="1137" uly="2019" lrx="1309" lry="2039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r89" ulx="1139" uly="1613" lrx="1309" lry="1631" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r27" ulx="1152" uly="473" lrx="1273" lry="495" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r52" ulx="1149" uly="752" lrx="1315" lry="770" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r49" ulx="898" uly="827" lrx="1019" lry="851" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r55" ulx="1148" uly="869" lrx="1271" lry="894" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r22" ulx="913" uly="473" lrx="1032" lry="497" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r62" ulx="373" uly="1190" lrx="408" lry="1208" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r23" ulx="900" uly="514" lrx="1017" lry="540" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r60" ulx="160" uly="1315" lrx="287" lry="1340" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r6" ulx="162" uly="516" lrx="291" lry="540" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r96" ulx="888" uly="2053" lrx="924" lry="2070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r10" ulx="379" uly="473" lrx="514" lry="497" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r17" ulx="629" uly="560" lrx="738" lry="584" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r18" ulx="164" uly="648" lrx="446" lry="673" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r53" ulx="1146" uly="790" lrx="1186" lry="806" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r92" ulx="1134" uly="1730" lrx="1240" lry="1752" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r58" ulx="158" uly="1225" lrx="287" lry="1251" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r34" ulx="378" uly="754" lrx="558" lry="772" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r50" ulx="900" uly="873" lrx="998" lry="895" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r33" ulx="160" uly="913" lrx="293" lry="939" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r5" ulx="164" uly="473" lrx="293" lry="497" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r15" ulx="631" uly="473" lrx="767" lry="497" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r86" ulx="890" uly="1646" lrx="925" lry="1665" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r97" ulx="886" uly="2092" lrx="1023" lry="2118" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r20" ulx="897" uly="398" lrx="1080" lry="417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r75" ulx="896" uly="1319" lrx="996" lry="1340" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r85" ulx="890" uly="1611" lrx="1073" lry="1629" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r3" ulx="377" uly="364" lrx="633" lry="385" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r30" ulx="900" uly="719" lrx="1148" lry="738" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r19" ulx="377" uly="719" lrx="631" lry="738" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r42" ulx="633" uly="873" lrx="735" lry="895" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r87" ulx="892" uly="1686" lrx="1025" lry="1708" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r24" ulx="904" uly="562" lrx="1002" lry="585" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r76" ulx="1149" uly="1152" lrx="1312" lry="1172" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r61" ulx="372" uly="1154" lrx="556" lry="1174" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r25" ulx="1150" uly="398" lrx="1315" lry="417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r43" ulx="635" uly="917" lrx="767" lry="939" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r95" ulx="889" uly="2019" lrx="1072" lry="2039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r39" ulx="634" uly="754" lrx="804" lry="772" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r2" ulx="164" uly="296" lrx="377" lry="319" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r11" ulx="375" uly="519" lrx="512" lry="542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r13" ulx="630" uly="400" lrx="803" lry="418" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r38" ulx="377" uly="919" lrx="512" lry="941" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r78" ulx="1145" uly="1227" lrx="1246" lry="1250" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r47" ulx="898" uly="754" lrx="1079" lry="772" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r81" ulx="157" uly="1496" lrx="760" lry="1526" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r99" ulx="1136" uly="2053" lrx="1177" lry="2071" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_r14" ulx="629" uly="435" lrx="667" lry="453" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_214_f2" ulx="159" uly="1998" lrx="1414" lry="2106" rendition="Figure"/>
+			<zone xml:id="facs_214_f1" ulx="141" uly="1599" lrx="1416" lry="1736" rendition="Figure"/>
+			<zone xml:id="facs_214_f0" ulx="153" uly="288" lrx="1427" lry="1029" rendition="Figure"/>
+		</surface>
+	</facsimile><text><body><pb n="210" facs="#facs_211"/>
+			<p>
+				<lb facs="#facs_211_r24"/>Mit Beschluss vom <date when="1980-12-10">10. Dezember
+              1980</date> hat der Regierungsrat für das<lb facs="#facs_211_r27"/>Jahr <date when="1981">1981</date> die Ausrichtung einer Teuerungszulage von 4,5% auf der um<lb facs="#facs_211_r30"/>81/3% (13. Monatsbesoldung) erhöhten Jahresgrundbesoldung 1980
+              an<lb facs="#facs_211_r31"/>das Staatspersonal bewilligt. Die Teuerungszulage wird in
+            die ab<lb facs="#facs_211_r32"/><date when="1981-01-01">1. Januar 1981</date> gültige
+            verordnungsgemässe Jahresgrundbesoldung ein<lb break="no" facs="#facs_211_r34"/>gebaut.</p>
+			<p>
+				<lb facs="#facs_211_r35"/>Die Grundbesoldungen für 1981 betragen:</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_211_r36"/>I. Grundbesoldungen nach Beamtenverordnung<lb facs="#facs_211_r37"/>(Beamte und Verwaltungsangestellte)</head>
+				<figure facs="#facs_211_f0"/>
+				<pb n="211" facs="#facs_212"/>
+				<figure facs="#facs_212_f0"/>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_212_r54"/>II. Grundbesoldungen nach Angestelltenreglement<lb facs="#facs_212_r55"/>(Betriebsangestellte)</head>
+				<figure facs="#facs_212_f1"/>
+			</div>
+			<pb n="212" facs="#facs_213"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_213_r1"/>III. Grundbesoldungen der Angehörigen des Polizeikorps</head>
+				<figure facs="#facs_213_f0"/>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_213_r61"/>V. Grundbesoldungen der Lehrer der kantonalen
+              Mittelschulen</head>
+				<figure facs="#facs_213_f1"/>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_213_r76"/>IV. Grundbesoldungen der Professoren der Universität</head>
+				<figure facs="#facs_213_f2"/>
+			</div>
+			<pb n="213" facs="#facs_214"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_214_r1"/>VI. Besoldungen der Volksschullehrer</head>
+				<figure facs="#facs_214_f0"/>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_214_r81"/>VII. Grundbesoldungen der Pfarrer<lb facs="#facs_214_r82"/>(ohne Gemeindezulagen)</head>
+				<figure facs="#facs_214_f1"/>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_214_r93"/>VIII. Grundbesoldungen der Assistenzärzte sowie der
+                Assistenten<lb facs="#facs_214_r94"/>an den Instituten und Seminarien der
+              Universität</head>
+				<figure facs="#facs_214_f2"/>
+			</div>
+		</body></text></TEI>

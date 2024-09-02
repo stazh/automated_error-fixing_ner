@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-04-08">08.04.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Beschluss des Regierungsrates über die
+          massgebende Besoldung für das Ruhegehalt der Professoren der
+            Universität (vom 19. August
+          1981)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-09-25">25.09.1981</date><ident>StAZH ABl 1981 (S. 1465)</ident><idno>1465</idno><idno type="issue">42</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132436"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_477" uly="0" ulx="0" lry="2369" lrx="1577">
+			<graphic url="Abl_1981_2__S__0477.tif" width="1577px" height="2369px"/>
+			<zone xml:id="facs_477_r14" ulx="786" uly="902" lrx="1014" lry="929" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r38" ulx="235" uly="2004" lrx="527" lry="2030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r11" ulx="150" uly="829" lrx="333" lry="856" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r10" ulx="150" uly="775" lrx="1320" lry="809" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r24" ulx="638" uly="1312" lrx="880" lry="1337" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r19" ulx="151" uly="1000" lrx="542" lry="1029" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r15" ulx="1020" uly="900" lrx="1319" lry="926" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r23" ulx="636" uly="1256" lrx="1157" lry="1285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r27" ulx="999" uly="1356" lrx="1174" lry="1382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r31" ulx="632" uly="1668" lrx="1034" lry="1704" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r9" ulx="150" uly="731" lrx="1317" lry="764" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r32" ulx="158" uly="1754" lrx="234" lry="1784" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r13" ulx="221" uly="904" lrx="778" lry="934" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r12" ulx="352" uly="829" lrx="596" lry="855" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r35" ulx="159" uly="1877" lrx="466" lry="1905" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r7" ulx="237" uly="641" lrx="1314" lry="675" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r22" ulx="358" uly="1170" lrx="623" lry="1201" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r25" ulx="640" uly="1358" lrx="832" lry="1382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r0" ulx="1239" uly="127" lrx="1309" lry="147" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r34" ulx="613" uly="1751" lrx="639" lry="1779" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r3" ulx="146" uly="320" lrx="794" lry="356" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r30" ulx="160" uly="1673" lrx="607" lry="1707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r36" ulx="158" uly="1950" lrx="1337" lry="1983" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r28" ulx="155" uly="1564" lrx="778" lry="1602" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r21" ulx="152" uly="1175" lrx="350" lry="1204" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r26" ulx="995" uly="1304" lrx="1322" lry="1332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r20" ulx="210" uly="1075" lrx="824" lry="1104" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r6" ulx="150" uly="525" lrx="638" lry="558" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r2" ulx="146" uly="262" lrx="1215" lry="301" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r17" ulx="765" uly="945" lrx="1005" lry="975" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r39" ulx="156" uly="2083" lrx="342" lry="2108" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r33" ulx="246" uly="1750" lrx="607" lry="1782" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r37" ulx="156" uly="2008" lrx="216" lry="2033" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r16" ulx="152" uly="950" lrx="738" lry="980" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r8" ulx="150" uly="685" lrx="1317" lry="718" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r29" ulx="157" uly="1618" lrx="1022" lry="1654" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r4" ulx="149" uly="406" lrx="223" lry="435" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r5" ulx="239" uly="402" lrx="523" lry="432" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r1" ulx="143" uly="218" lrx="763" lry="250" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r18" ulx="1015" uly="945" lrx="1319" lry="972" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1465" facs="#facs_477"/>
+			<p>
+				<lb facs="#facs_477_r6"/>Der Regierungsrat beschliesst:</p>
+			<p>
+				<lb facs="#facs_477_r7"/>I. Die für die Bemessung des Ruhegehalts der Professoren der<lb facs="#facs_477_r8"/>Universität Zürich massgebende Besoldung entspricht der um Fr. 15
+            000<lb facs="#facs_477_r9"/>verminderten anrechenbaren Besoldung (§ 15 lit. c der
+            Verordnung<lb facs="#facs_477_r10"/>über die Anstellung und Besoldung der Professoren
+          der Universität<lb facs="#facs_477_r11"/>Zürich vom <date when="1948-06-21">21. Juni
+            1948).</date></p>
+			<p>
+				<lb facs="#facs_477_r13"/>II. Dieser Beschluss tritt auf den <date when="1982-01-01">1.
+            Januar 1982</date> in Kraft. Er findet<lb facs="#facs_477_r16"/>keine Anwendung auf die
+          vor dem <date when="1982-01-01">1. Januar 1982</date> in den Ruhestand<lb facs="#facs_477_r19"/>getretenen Professoren.</p>
+			<p>
+				<lb facs="#facs_477_r20"/>III. Veröffentlichung im Amtsblatt.</p>
+			<p>
+				<lb facs="#facs_477_r21"/>Zürich, den <date when="1981-08-19">19. August 1981</date></p>
+			<p>
+				<lb facs="#facs_477_r23"/>Im Namen des Regierungsrates</p>
+			<p>
+				<lb facs="#facs_477_r24"/>Der Präsident:<lb facs="#facs_477_r25"/>Wiederkehr</p>
+			<p>
+				<lb facs="#facs_477_r26"/>Der Staatsschreiber:<lb facs="#facs_477_r27"/>Roggwiller</p>
+		</body></text></TEI>

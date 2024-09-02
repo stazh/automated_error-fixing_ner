@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Konstituierung des Obergerichts des Kantons Zürich für die zweite Hälfte des Jahres 1982</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-07-16">16.07.1982</date><ident>StAZH ABl 1982 (S. 773-782)</ident><idno>773–782</idno><idno type="issue">30</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132724"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_85" uly="0" ulx="0" lry="2397" lrx="1590">
+			<graphic url="Abl_1982_2__S__0085.tif" width="1590px" height="2397px"/>
+			<zone xml:id="facs_85_r39" ulx="108" uly="1700" lrx="373" lry="1727" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r47" ulx="454" uly="1973" lrx="1010" lry="2004" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r20" ulx="454" uly="948" lrx="708" lry="971" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r23" ulx="164" uly="1071" lrx="1279" lry="1105" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r42" ulx="108" uly="1844" lrx="292" lry="1872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r3" ulx="1216" uly="122" lrx="1266" lry="146" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r35" ulx="458" uly="1492" lrx="1285" lry="1524" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r11" ulx="102" uly="629" lrx="385" lry="657" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r27" ulx="454" uly="1304" lrx="766" lry="1329" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r48" ulx="1019" uly="1973" lrx="1210" lry="2004" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r51" ulx="725" uly="2019" lrx="969" lry="2050" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r40" ulx="110" uly="1782" lrx="339" lry="1805" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r33" ulx="1010" uly="1448" lrx="1156" lry="1476" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r45" ulx="108" uly="1942" lrx="279" lry="1967" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r0" ulx="114" uly="2221" lrx="387" lry="2248" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r8" ulx="864" uly="385" lrx="1275" lry="414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r13" ulx="452" uly="673" lrx="633" lry="696" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r32" ulx="456" uly="1448" lrx="1004" lry="1479" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r41" ulx="458" uly="1780" lrx="637" lry="1803" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r9" ulx="97" uly="435" lrx="667" lry="466" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r37" ulx="518" uly="1544" lrx="706" lry="1572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r4" ulx="97" uly="212" lrx="1170" lry="249" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r5" ulx="102" uly="268" lrx="857" lry="303" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r44" ulx="453" uly="1875" lrx="1244" lry="1907" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r36" ulx="464" uly="1546" lrx="512" lry="1572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r43" ulx="454" uly="1832" lrx="1283" lry="1862" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r1" ulx="393" uly="2219" lrx="606" lry="2244" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r29" ulx="456" uly="1350" lrx="1282" lry="1381" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r6" ulx="156" uly="387" lrx="625" lry="420" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r17" ulx="454" uly="848" lrx="723" lry="874" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r2" ulx="1258" uly="2215" lrx="1287" lry="2234" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r14" ulx="454" uly="717" lrx="764" lry="740" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r50" ulx="459" uly="2023" lrx="716" lry="2052" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r24" ulx="106" uly="1125" lrx="665" lry="1154" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r12" ulx="452" uly="627" lrx="623" lry="652" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r10" ulx="102" uly="546" lrx="718" lry="577" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r21" ulx="104" uly="1004" lrx="336" lry="1029" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r49" ulx="1219" uly="1973" lrx="1285" lry="2002" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r15" ulx="454" uly="760" lrx="662" lry="785" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r22" ulx="456" uly="998" lrx="668" lry="1023" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r7" ulx="643" uly="385" lrx="856" lry="416" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r52" ulx="458" uly="2076" lrx="1048" lry="2106" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r38" ulx="458" uly="1592" lrx="1100" lry="1622" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r34" ulx="1162" uly="1448" lrx="1282" lry="1474" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r46" ulx="454" uly="1930" lrx="1282" lry="1961" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r18" ulx="108" uly="904" lrx="329" lry="932" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r26" ulx="108" uly="1306" lrx="335" lry="1330" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r28" ulx="104" uly="1358" lrx="296" lry="1388" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r31" ulx="104" uly="1459" lrx="279" lry="1483" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r16" ulx="452" uly="806" lrx="648" lry="830" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r30" ulx="454" uly="1400" lrx="890" lry="1426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r19" ulx="102" uly="952" lrx="270" lry="976" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_85_r25" ulx="106" uly="1225" lrx="352" lry="1250" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_86" uly="0" ulx="0" lry="2400" lrx="1596">
+			<graphic url="Abl_1982_2__S__0086.tif" width="1596px" height="2400px"/>
+			<zone xml:id="facs_86_r30" ulx="303" uly="1691" lrx="536" lry="1715" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r13" ulx="308" uly="797" lrx="493" lry="827" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r28" ulx="652" uly="1412" lrx="1300" lry="1445" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r35" ulx="654" uly="1843" lrx="1243" lry="1875" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r31" ulx="654" uly="1695" lrx="843" lry="1719" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r36" ulx="301" uly="1897" lrx="462" lry="1920" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r34" ulx="652" uly="1789" lrx="1290" lry="1821" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r14" ulx="656" uly="802" lrx="1485" lry="831" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r37" ulx="304" uly="1939" lrx="626" lry="1964" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r18" ulx="304" uly="954" lrx="481" lry="977" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r23" ulx="304" uly="1262" lrx="489" lry="1290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r29" ulx="304" uly="1610" lrx="566" lry="1638" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r39" ulx="656" uly="1987" lrx="1479" lry="2016" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r22" ulx="652" uly="1210" lrx="1131" lry="1240" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r6" ulx="658" uly="387" lrx="1075" lry="416" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r2" ulx="314" uly="287" lrx="543" lry="312" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r5" ulx="662" uly="341" lrx="1491" lry="372" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r1" ulx="312" uly="210" lrx="588" lry="233" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r9" ulx="656" uly="487" lrx="910" lry="512" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r0" ulx="314" uly="124" lrx="368" lry="147" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r11" ulx="307" uly="747" lrx="533" lry="771" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r40" ulx="649" uly="2031" lrx="1483" lry="2060" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r27" ulx="658" uly="1354" lrx="1377" lry="1388" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r24" ulx="656" uly="1262" lrx="1481" lry="1294" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r17" ulx="656" uly="897" lrx="1311" lry="928" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r25" ulx="654" uly="1308" lrx="1285" lry="1340" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r21" ulx="305" uly="1208" lrx="520" lry="1234" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r8" ulx="660" uly="439" lrx="1491" lry="470" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r12" ulx="656" uly="749" lrx="943" lry="776" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r10" ulx="306" uly="668" lrx="583" lry="695" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r16" ulx="305" uly="897" lrx="537" lry="922" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r7" ulx="310" uly="441" lrx="482" lry="465" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r19" ulx="656" uly="954" lrx="1400" lry="981" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r15" ulx="656" uly="845" lrx="1452" lry="874" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r33" ulx="654" uly="1747" lrx="1487" lry="1778" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r41" ulx="650" uly="2075" lrx="910" lry="2101" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r4" ulx="312" uly="341" lrx="495" lry="369" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r32" ulx="302" uly="1741" lrx="485" lry="1770" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r38" ulx="644" uly="1941" lrx="1483" lry="1973" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r26" ulx="1293" uly="1312" lrx="1477" lry="1341" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r3" ulx="664" uly="289" lrx="895" lry="317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_86_r20" ulx="306" uly="1131" lrx="551" lry="1157" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_87" uly="0" ulx="0" lry="2400" lrx="1591">
+			<graphic url="Abl_1982_2__S__0087.tif" width="1591px" height="2400px"/>
+			<zone xml:id="facs_87_r47" ulx="114" uly="1987" lrx="272" lry="2012" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r50" ulx="462" uly="2037" lrx="669" lry="2065" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r34" ulx="462" uly="1431" lrx="950" lry="1461" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r51" ulx="112" uly="2095" lrx="287" lry="2120" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r13" ulx="104" uly="712" lrx="292" lry="738" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r25" ulx="109" uly="1154" lrx="425" lry="1181" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r31" ulx="112" uly="1352" lrx="285" lry="1376" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r11" ulx="103" uly="658" lrx="272" lry="681" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r17" ulx="456" uly="799" lrx="1155" lry="830" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r16" ulx="106" uly="810" lrx="348" lry="833" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r48" ulx="461" uly="1983" lrx="627" lry="2008" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r30" ulx="462" uly="1295" lrx="682" lry="1322" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r46" ulx="112" uly="1904" lrx="965" lry="1934" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r1" ulx="100" uly="229" lrx="452" lry="258" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r20" ulx="106" uly="964" lrx="356" lry="993" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r35" ulx="959" uly="1429" lrx="1098" lry="1459" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r26" ulx="112" uly="1200" lrx="294" lry="1229" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r21" ulx="110" uly="1050" lrx="279" lry="1073" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r36" ulx="1107" uly="1427" lrx="1284" lry="1457" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r9" ulx="452" uly="468" lrx="577" lry="490" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r14" ulx="456" uly="702" lrx="1279" lry="732" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r32" ulx="462" uly="1343" lrx="1284" lry="1374" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r41" ulx="462" uly="1672" lrx="626" lry="1697" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r24" ulx="460" uly="1102" lrx="729" lry="1125" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r33" ulx="464" uly="1385" lrx="1280" lry="1417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r52" ulx="460" uly="2089" lrx="788" lry="2119" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r7" ulx="450" uly="412" lrx="644" lry="438" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r29" ulx="112" uly="1299" lrx="419" lry="1324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r43" ulx="462" uly="1722" lrx="977" lry="1753" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r4" ulx="98" uly="364" lrx="336" lry="388" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r45" ulx="462" uly="1777" lrx="784" lry="1807" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r19" ulx="452" uly="856" lrx="1021" lry="885" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r23" ulx="110" uly="1104" lrx="354" lry="1130" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r42" ulx="110" uly="1729" lrx="348" lry="1754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r15" ulx="452" uly="752" lrx="796" lry="776" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r27" ulx="462" uly="1189" lrx="1283" lry="1219" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r44" ulx="110" uly="1783" lrx="290" lry="1808" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r49" ulx="112" uly="2041" lrx="346" lry="2066" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r6" ulx="102" uly="414" lrx="406" lry="440" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r12" ulx="453" uly="654" lrx="690" lry="680" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r22" ulx="460" uly="1047" lrx="725" lry="1072" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r18" ulx="104" uly="864" lrx="279" lry="888" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r37" ulx="458" uly="1479" lrx="663" lry="1506" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r40" ulx="112" uly="1674" lrx="281" lry="1699" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r39" ulx="114" uly="1593" lrx="456" lry="1621" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r38" ulx="671" uly="1479" lrx="856" lry="1506" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r10" ulx="106" uly="579" lrx="396" lry="602" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r28" ulx="460" uly="1241" lrx="875" lry="1267" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r2" ulx="98" uly="310" lrx="267" lry="335" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r0" ulx="1216" uly="135" lrx="1272" lry="158" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r8" ulx="100" uly="470" lrx="333" lry="495" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r3" ulx="450" uly="306" lrx="640" lry="331" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_87_r5" ulx="450" uly="354" lrx="1042" lry="385" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_88" uly="0" ulx="0" lry="2404" lrx="1594">
+			<graphic url="Abl_1982_2__S__0088.tif" width="1594px" height="2404px"/>
+			<zone xml:id="facs_88_r12" ulx="650" uly="758" lrx="1293" lry="786" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r39" ulx="652" uly="2043" lrx="1483" lry="2073" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r32" ulx="297" uly="1813" lrx="754" lry="1841" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r2" ulx="654" uly="306" lrx="845" lry="331" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r23" ulx="652" uly="1321" lrx="1483" lry="1350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r0" ulx="308" uly="145" lrx="358" lry="166" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r40" ulx="652" uly="2089" lrx="991" lry="2116" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r17" ulx="304" uly="1136" lrx="533" lry="1161" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r29" ulx="654" uly="1551" lrx="1481" lry="1581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r19" ulx="304" uly="1190" lrx="485" lry="1216" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r38" ulx="301" uly="2045" lrx="545" lry="2070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r13" ulx="297" uly="813" lrx="495" lry="839" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r28" ulx="652" uly="1507" lrx="1481" lry="1537" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r20" ulx="654" uly="1188" lrx="1485" lry="1217" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r34" ulx="650" uly="1893" lrx="1179" lry="1922" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r22" ulx="654" uly="1278" lrx="1479" lry="1305" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r24" ulx="654" uly="1363" lrx="1481" lry="1393" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r3" ulx="304" uly="475" lrx="698" lry="501" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r6" ulx="300" uly="608" lrx="543" lry="635" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r11" ulx="648" uly="713" lrx="1483" lry="744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r21" ulx="652" uly="1232" lrx="1483" lry="1262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r31" ulx="652" uly="1642" lrx="971" lry="1670" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r9" ulx="652" uly="660" lrx="1423" lry="692" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r33" ulx="299" uly="1893" lrx="533" lry="1918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r5" ulx="652" uly="556" lrx="884" lry="581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r35" ulx="300" uly="1947" lrx="491" lry="1975" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r37" ulx="652" uly="1991" lrx="843" lry="2017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r16" ulx="302" uly="1057" lrx="839" lry="1084" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r25" ulx="648" uly="1413" lrx="1056" lry="1441" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r7" ulx="652" uly="610" lrx="818" lry="637" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r8" ulx="302" uly="663" lrx="483" lry="689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r1" ulx="306" uly="223" lrx="848" lry="252" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r10" ulx="302" uly="717" lrx="548" lry="740" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r26" ulx="299" uly="1465" lrx="587" lry="1492" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r15" ulx="306" uly="998" lrx="779" lry="1030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r14" ulx="648" uly="813" lrx="1479" lry="842" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r30" ulx="654" uly="1597" lrx="1481" lry="1626" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r18" ulx="652" uly="1134" lrx="1043" lry="1163" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r4" ulx="302" uly="554" lrx="470" lry="579" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r27" ulx="652" uly="1463" lrx="1481" lry="1492" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_88_r36" ulx="650" uly="1945" lrx="1481" lry="1977" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_89" uly="0" ulx="0" lry="2399" lrx="1589">
+			<graphic url="Abl_1982_2__S__0089.tif" width="1589px" height="2399px"/>
+			<zone xml:id="facs_89_r34" ulx="137" uly="1659" lrx="948" lry="1689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r3" ulx="454" uly="306" lrx="844" lry="332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r40" ulx="139" uly="1975" lrx="1097" lry="2007" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r38" ulx="139" uly="1869" lrx="1103" lry="1901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r31" ulx="965" uly="1398" lrx="1286" lry="1428" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r14" ulx="458" uly="762" lrx="1283" lry="791" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r16" ulx="462" uly="860" lrx="975" lry="891" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r41" ulx="141" uly="2030" lrx="964" lry="2061" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r32" ulx="471" uly="1450" lrx="648" lry="1479" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r13" ulx="108" uly="771" lrx="294" lry="798" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r23" ulx="461" uly="1156" lrx="930" lry="1188" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r17" ulx="462" uly="910" lrx="1286" lry="942" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r18" ulx="462" uly="960" lrx="859" lry="989" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r37" ulx="139" uly="1815" lrx="1201" lry="1847" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r20" ulx="461" uly="1014" lrx="909" lry="1042" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r8" ulx="460" uly="604" lrx="902" lry="634" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r25" ulx="462" uly="1260" lrx="1288" lry="1289" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r10" ulx="460" uly="660" lrx="882" lry="688" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r30" ulx="809" uly="1402" lrx="957" lry="1431" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r6" ulx="454" uly="400" lrx="1184" lry="430" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r39" ulx="141" uly="1923" lrx="1139" lry="1955" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r2" ulx="106" uly="310" lrx="334" lry="336" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r12" ulx="460" uly="710" lrx="1009" lry="739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r5" ulx="454" uly="352" lrx="1280" lry="383" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r11" ulx="110" uly="717" lrx="350" lry="744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r1" ulx="106" uly="229" lrx="471" lry="255" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r27" ulx="112" uly="1367" lrx="313" lry="1393" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r35" ulx="139" uly="1709" lrx="1203" lry="1740" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r0" ulx="1212" uly="129" lrx="1272" lry="154" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r7" ulx="106" uly="527" lrx="847" lry="559" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r21" ulx="460" uly="1062" lrx="1280" lry="1093" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r4" ulx="104" uly="362" lrx="292" lry="391" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r29" ulx="464" uly="1402" lrx="802" lry="1431" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r36" ulx="137" uly="1765" lrx="880" lry="1794" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r24" ulx="465" uly="1208" lrx="980" lry="1236" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r28" ulx="462" uly="1356" lrx="1289" lry="1388" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r19" ulx="112" uly="1021" lrx="398" lry="1048" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r33" ulx="118" uly="1575" lrx="646" lry="1601" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r42" ulx="137" uly="2082" lrx="1251" lry="2115" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r15" ulx="460" uly="810" lrx="666" lry="838" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r9" ulx="108" uly="667" lrx="277" lry="691" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r22" ulx="462" uly="1106" lrx="1285" lry="1138" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_89_r26" ulx="465" uly="1304" lrx="946" lry="1333" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_90" uly="0" ulx="0" lry="2400" lrx="1595">
+			<graphic url="Abl_1982_2__S__0090.tif" width="1595px" height="2400px"/>
+			<zone xml:id="facs_90_r30" ulx="369" uly="1912" lrx="1467" lry="1942" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r12" ulx="300" uly="808" lrx="1426" lry="844" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r4" ulx="305" uly="379" lrx="1469" lry="415" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r14" ulx="300" uly="1081" lrx="801" lry="1111" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r32" ulx="432" uly="2000" lrx="1474" lry="2033" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r10" ulx="300" uly="700" lrx="1205" lry="734" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r0" ulx="308" uly="141" lrx="358" lry="163" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r16" ulx="373" uly="1220" lrx="804" lry="1248" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r33" ulx="427" uly="2045" lrx="988" lry="2076" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r20" ulx="312" uly="1418" lrx="1219" lry="1453" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r21" ulx="312" uly="1472" lrx="1476" lry="1508" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r7" ulx="304" uly="539" lrx="1346" lry="574" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r23" ulx="312" uly="1572" lrx="579" lry="1599" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r22" ulx="377" uly="1520" lrx="815" lry="1547" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r11" ulx="298" uly="752" lrx="1407" lry="788" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r19" ulx="373" uly="1368" lrx="1265" lry="1399" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r13" ulx="300" uly="1002" lrx="1265" lry="1035" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r17" ulx="314" uly="1268" lrx="1453" lry="1303" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r1" ulx="306" uly="220" lrx="1167" lry="252" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r5" ulx="306" uly="435" lrx="1263" lry="467" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r29" ulx="431" uly="1856" lrx="565" lry="1882" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r18" ulx="312" uly="1322" lrx="1476" lry="1357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r9" ulx="302" uly="649" lrx="1190" lry="680" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r15" ulx="319" uly="1170" lrx="1479" lry="1206" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r25" ulx="373" uly="1681" lrx="1476" lry="1713" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r27" ulx="429" uly="1768" lrx="1474" lry="1802" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r8" ulx="302" uly="593" lrx="1104" lry="625" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r24" ulx="373" uly="1626" lrx="1293" lry="1660" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r3" ulx="307" uly="327" lrx="1263" lry="361" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r28" ulx="431" uly="1812" lrx="1476" lry="1845" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r6" ulx="303" uly="487" lrx="1399" lry="522" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r31" ulx="431" uly="1958" lrx="1467" lry="1987" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r26" ulx="429" uly="1720" lrx="1474" lry="1755" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_90_r2" ulx="304" uly="272" lrx="1061" lry="306" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_91" uly="0" ulx="0" lry="2397" lrx="1591">
+			<graphic url="Abl_1982_2__S__0091.tif" width="1591px" height="2397px"/>
+			<zone xml:id="facs_91_r11" ulx="129" uly="756" lrx="390" lry="782" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r36" ulx="187" uly="1955" lrx="1285" lry="1982" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r12" ulx="187" uly="806" lrx="1282" lry="839" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r37" ulx="191" uly="1998" lrx="1280" lry="2027" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r7" ulx="188" uly="548" lrx="627" lry="580" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r8" ulx="129" uly="602" lrx="924" lry="632" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r38" ulx="187" uly="2042" lrx="439" lry="2073" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r20" ulx="189" uly="1198" lrx="901" lry="1230" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r1" ulx="106" uly="218" lrx="622" lry="249" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r24" ulx="246" uly="1384" lrx="982" lry="1414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r30" ulx="247" uly="1671" lrx="516" lry="1697" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r28" ulx="248" uly="1579" lrx="1286" lry="1610" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r16" ulx="187" uly="1000" lrx="1283" lry="1033" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r14" ulx="187" uly="904" lrx="1284" lry="936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r17" ulx="246" uly="1046" lrx="1280" lry="1076" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r22" ulx="243" uly="1296" lrx="1280" lry="1325" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r33" ulx="241" uly="1811" lrx="1280" lry="1840" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r10" ulx="185" uly="702" lrx="627" lry="728" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r0" ulx="1221" uly="137" lrx="1278" lry="159" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r31" ulx="187" uly="1721" lrx="1269" lry="1753" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r27" ulx="185" uly="1534" lrx="1284" lry="1568" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r34" ulx="246" uly="1859" lrx="598" lry="1888" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r25" ulx="187" uly="1436" lrx="1286" lry="1467" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r32" ulx="246" uly="1767" lrx="1284" lry="1796" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r2" ulx="129" uly="308" lrx="1280" lry="338" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r4" ulx="127" uly="406" lrx="1279" lry="436" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r3" ulx="187" uly="356" lrx="658" lry="385" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r29" ulx="248" uly="1625" lrx="1282" lry="1653" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r6" ulx="125" uly="502" lrx="1271" lry="534" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r15" ulx="246" uly="952" lrx="1003" lry="980" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r21" ulx="183" uly="1250" lrx="1280" lry="1283" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r18" ulx="250" uly="1088" lrx="431" lry="1117" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r35" ulx="127" uly="1905" lrx="1282" lry="1936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r23" ulx="246" uly="1338" lrx="1280" lry="1369" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r5" ulx="189" uly="454" lrx="571" lry="482" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r9" ulx="127" uly="654" lrx="1280" lry="686" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r26" ulx="245" uly="1481" lrx="487" lry="1511" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r19" ulx="191" uly="1144" lrx="1274" lry="1178" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_91_r13" ulx="248" uly="852" lrx="942" lry="880" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_92" uly="0" ulx="0" lry="2400" lrx="1595">
+			<graphic url="Abl_1982_2__S__0092.tif" width="1595px" height="2400px"/>
+			<zone xml:id="facs_92_r6" ulx="391" uly="510" lrx="1490" lry="543" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r2" ulx="333" uly="304" lrx="1111" lry="336" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r24" ulx="379" uly="1506" lrx="1484" lry="1539" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r16" ulx="443" uly="1104" lrx="1484" lry="1138" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r10" ulx="310" uly="774" lrx="813" lry="806" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r4" ulx="389" uly="414" lrx="1490" lry="447" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r20" ulx="387" uly="1308" lrx="1482" lry="1342" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r26" ulx="380" uly="1591" lrx="1323" lry="1626" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r23" ulx="323" uly="1460" lrx="1488" lry="1495" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r3" ulx="394" uly="360" lrx="1288" lry="393" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r29" ulx="439" uly="1745" lrx="1482" lry="1779" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r17" ulx="448" uly="1154" lrx="1075" lry="1184" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r5" ulx="448" uly="458" lrx="1269" lry="490" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r32" ulx="381" uly="1889" lrx="1482" lry="1921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r28" ulx="381" uly="1704" lrx="1484" lry="1733" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r33" ulx="439" uly="1933" lrx="1478" lry="1965" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r36" ulx="380" uly="2083" lrx="502" lry="2108" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r25" ulx="383" uly="1552" lrx="1486" lry="1585" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r1" ulx="314" uly="214" lrx="844" lry="245" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r14" ulx="389" uly="1006" lrx="1405" lry="1039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r0" ulx="314" uly="137" lrx="366" lry="159" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r27" ulx="321" uly="1645" lrx="583" lry="1673" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r31" ulx="442" uly="1835" lrx="1344" lry="1867" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r19" ulx="383" uly="1256" lrx="1211" lry="1288" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r8" ulx="329" uly="606" lrx="1488" lry="643" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r12" ulx="389" uly="916" lrx="514" lry="938" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r30" ulx="439" uly="1793" lrx="1478" lry="1824" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r15" ulx="385" uly="1060" lrx="1488" lry="1096" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r22" ulx="323" uly="1406" lrx="1484" lry="1442" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r11" ulx="329" uly="864" lrx="1490" lry="899" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r7" ulx="447" uly="556" lrx="721" lry="582" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r9" ulx="391" uly="654" lrx="831" lry="680" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r34" ulx="437" uly="1977" lrx="669" lry="2007" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r13" ulx="327" uly="960" lrx="1488" lry="996" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r21" ulx="444" uly="1358" lrx="631" lry="1383" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r18" ulx="381" uly="1199" lrx="1071" lry="1234" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_92_r35" ulx="316" uly="2031" lrx="1482" lry="2065" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_93" uly="0" ulx="0" lry="2400" lrx="1587">
+			<graphic url="Abl_1982_2__S__0093.tif" width="1587px" height="2400px"/>
+			<zone xml:id="facs_93_r11" ulx="241" uly="691" lrx="523" lry="717" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r21" ulx="187" uly="1291" lrx="1278" lry="1321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r23" ulx="185" uly="1383" lrx="1278" lry="1410" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r6" ulx="236" uly="464" lrx="410" lry="489" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r35" ulx="241" uly="1947" lrx="1278" lry="1978" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r7" ulx="179" uly="512" lrx="1276" lry="541" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r16" ulx="183" uly="949" lrx="1009" lry="980" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r22" ulx="185" uly="1337" lrx="1267" lry="1365" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r8" ulx="241" uly="558" lrx="1270" lry="587" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r2" ulx="179" uly="272" lrx="1272" lry="303" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r34" ulx="179" uly="1904" lrx="1280" lry="1934" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r1" ulx="120" uly="229" lrx="1274" lry="256" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r4" ulx="183" uly="370" lrx="1274" lry="401" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r26" ulx="120" uly="1522" lrx="1278" lry="1553" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r36" ulx="243" uly="1997" lrx="414" lry="2022" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r29" ulx="123" uly="1664" lrx="1277" lry="1693" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r10" ulx="243" uly="645" lrx="1263" lry="676" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r28" ulx="179" uly="1614" lrx="465" lry="1644" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r25" ulx="183" uly="1470" lrx="855" lry="1499" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r24" ulx="185" uly="1425" lrx="1276" lry="1455" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r15" ulx="239" uly="899" lrx="413" lry="924" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r5" ulx="241" uly="414" lrx="1276" lry="444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r30" ulx="185" uly="1710" lrx="1276" lry="1739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r19" ulx="104" uly="1160" lrx="617" lry="1189" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r12" ulx="179" uly="743" lrx="1082" lry="774" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r18" ulx="180" uly="1043" lrx="948" lry="1075" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r0" ulx="1219" uly="143" lrx="1263" lry="165" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r3" ulx="181" uly="324" lrx="248" lry="345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r9" ulx="239" uly="602" lrx="1272" lry="631" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r14" ulx="179" uly="850" lrx="1275" lry="881" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r37" ulx="179" uly="2047" lrx="1277" lry="2076" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r31" ulx="185" uly="1752" lrx="1278" lry="1782" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r13" ulx="183" uly="799" lrx="821" lry="827" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r17" ulx="118" uly="997" lrx="1274" lry="1030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r32" ulx="123" uly="1806" lrx="1278" lry="1836" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r38" ulx="243" uly="2091" lrx="1276" lry="2121" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r20" ulx="122" uly="1247" lrx="1282" lry="1278" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r27" ulx="181" uly="1568" lrx="1280" lry="1597" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_93_r33" ulx="181" uly="1856" lrx="435" lry="1882" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_94" uly="0" ulx="0" lry="2401" lrx="1596">
+			<graphic url="Abl_1982_2__S__0094.tif" width="1596px" height="2401px"/>
+			<zone xml:id="facs_94_r35" ulx="960" uly="1961" lrx="1262" lry="1990" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r14" ulx="998" uly="841" lrx="1450" lry="872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r39" ulx="301" uly="2096" lrx="1481" lry="2124" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r32" ulx="306" uly="1915" lrx="553" lry="1943" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r15" ulx="1001" uly="889" lrx="1166" lry="913" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r13" ulx="678" uly="889" lrx="832" lry="913" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r9" ulx="300" uly="702" lrx="497" lry="728" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r7" ulx="441" uly="525" lrx="623" lry="551" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r30" ulx="304" uly="1829" lrx="1481" lry="1857" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r33" ulx="566" uly="1917" lrx="1485" lry="1946" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r4" ulx="383" uly="370" lrx="1286" lry="402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r17" ulx="302" uly="1208" lrx="1327" lry="1242" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r38" ulx="302" uly="2048" lrx="1485" lry="2079" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r22" ulx="397" uly="1444" lrx="635" lry="1476" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r2" ulx="443" uly="275" lrx="1468" lry="304" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r12" ulx="677" uly="841" lrx="922" lry="869" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r8" ulx="381" uly="577" lrx="1208" lry="607" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r6" ulx="381" uly="477" lrx="1483" lry="507" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r3" ulx="443" uly="316" lrx="731" lry="344" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r18" ulx="295" uly="1263" lrx="1450" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r37" ulx="303" uly="2004" lrx="1483" lry="2035" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r21" ulx="300" uly="1446" lrx="377" lry="1476" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r29" ulx="302" uly="1784" lrx="1468" lry="1813" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r36" ulx="1270" uly="1961" lrx="1482" lry="1990" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r1" ulx="445" uly="231" lrx="1479" lry="260" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r16" ulx="302" uly="1110" lrx="393" lry="1137" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r20" ulx="302" uly="1369" lrx="1204" lry="1408" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r31" ulx="301" uly="1871" lrx="1470" lry="1900" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r23" ulx="304" uly="1573" lrx="327" lry="1595" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r11" ulx="681" uly="789" lrx="1170" lry="817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r34" ulx="302" uly="1961" lrx="937" lry="1990" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r25" ulx="658" uly="1652" lrx="979" lry="1679" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r0" ulx="304" uly="147" lrx="358" lry="171" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r28" ulx="301" uly="1738" lrx="1481" lry="1767" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r26" ulx="987" uly="1646" lrx="1483" lry="1676" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r10" ulx="506" uly="702" lrx="727" lry="728" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r24" ulx="358" uly="1652" lrx="635" lry="1679" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r27" ulx="300" uly="1694" lrx="1481" lry="1724" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r19" ulx="308" uly="1315" lrx="1420" lry="1351" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_94_r5" ulx="381" uly="427" lrx="1027" lry="454" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="773" facs="#facs_85"/>
+			<p>
+				<lb facs="#facs_85_r6"/>Das Obergericht hat sich am <date when="1982-06-30">30. Juni
+            1982</date> für die zweite Hälfte des<lb facs="#facs_85_r9"/>Jahres 1982 wie folgt
+          konstituiert:</p>
+			<p>
+				<lb facs="#facs_85_r10"/>Obergerichtspräsident: Dr. Bollinger.</p>
+			<table>
+				<row>
+					<cell>
+						<lb facs="#facs_85_r11"/>Vizepräsidenten:</cell>
+					<cell>
+						<lb facs="#facs_85_r12"/>Dr. Frick,<lb facs="#facs_85_r13"/>Dr. Frank,<lb facs="#facs_85_r14"/>Dr. Armin Huber,<lb facs="#facs_85_r15"/>Dr. Bösiger,<lb facs="#facs_85_r16"/>Dr. Schütz,<lb facs="#facs_85_r17"/>Dr. Borschberg.</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_85_r18"/>Obergerichts<lb break="no" facs="#facs_85_r19"/>schreiber:</cell>
+					<cell>
+						<lb facs="#facs_85_r20"/>Dr. Bühlmann.</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_85_r21"/>Stellvertreter:</cell>
+					<cell>
+						<lb facs="#facs_85_r22"/>Dr. Koeferli.</cell>
+				</row>
+			</table>
+			<p>
+				<lb facs="#facs_85_r23"/>Besetzung der Kammern des Obergerichtes, der angegliederten<lb facs="#facs_85_r24"/>Gerichte und der Kommissionen:</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_85_r25"/>I. Zivilkammer</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_85_r26"/>Vorsitzender:</cell>
+						<cell>
+							<lb facs="#facs_85_r27"/>Dr. Armin Huber.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_85_r28"/>Mitglieder:</cell>
+						<cell>
+							<lb facs="#facs_85_r29"/>Dr. Morf, Dr. Vogel, Dr. Schindler, Dr. Camille<lb facs="#facs_85_r30"/>Schmid und Dr. Bosshart.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_85_r31"/>Sekretäre:</cell>
+						<cell>
+							<lb facs="#facs_85_r32"/>Dr. Tanner, Thomas Müller (bis <date when="--07-31">31.
+                  Juli),</date> Bozzo<lb break="no" facs="#facs_85_r35"/>ne, Stephan Keller, Jucker
+                und Frl. Kneubühler<lb facs="#facs_85_r36"/>(ab <date when="--08-01">1.
+                  August).</date> Sitzungstage: Montag und Donnerstag.</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_85_r39"/>II. Zivilkammer</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_85_r40"/>Vorsitzender:</cell>
+						<cell>
+							<lb facs="#facs_85_r41"/>Dr. Frank.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_85_r42"/>Mitglieder:</cell>
+						<cell>
+							<lb facs="#facs_85_r43"/>Dr. Bachtler, Dr. Theodor Müller, Dr. Spühler,<lb facs="#facs_85_r44"/>Dr. Diener, Dr. Peter Meyer und Dr. Vonrufs.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_85_r45"/>Sekretäre:</cell>
+						<cell>
+							<lb facs="#facs_85_r46"/>Dr. Mazurczak, Frau Wipfli, Gasser, Dr. Pfister,<lb facs="#facs_85_r47"/>Balmer, Schärer, Rolf Huber (bis <date when="--08-31">31.
+                  August)</date> und<lb facs="#facs_85_r50"/>Dr. Kramis (ab <date when="--09-01">1.
+                  September).</date><lb facs="#facs_85_r52"/>Sitzungstage: Dienstag und
+                Freitag.</cell>
+					</row>
+				</table>
+			</div>
+			<pb n="774" facs="#facs_86"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_86_r1"/>III. Zivilkammer</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_86_r2"/>Vorsitzender:</cell>
+						<cell>
+							<lb facs="#facs_86_r3"/>Dr. Bollinger.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_86_r4"/>Mitglieder:</cell>
+						<cell>
+							<lb facs="#facs_86_r5"/>Dr. Robert Meyer, Dr. Forrer, Dr. Werner Moser<lb facs="#facs_86_r6"/>und Dr. Armand Meyer.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_86_r7"/>Sekretäre:</cell>
+						<cell>
+							<lb facs="#facs_86_r8"/>Der Handelsgerichtsschreiber und die Handelsge<lb break="no" facs="#facs_86_r9"/>richtssekretäre.</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_86_r10"/>Anklagekammer</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_86_r11"/>Vorsitzender:</cell>
+						<cell>
+							<lb facs="#facs_86_r12"/>Dr. Hans Meyer.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_86_r13"/>Mitglieder:</cell>
+						<cell>
+							<lb facs="#facs_86_r14"/>Dr. Forrer, Dr. Werner Moser, Dr. Leuthard, Dr.<lb facs="#facs_86_r15"/>Aeppli, Dr. Niklaus Schmid und Dr. Neumann.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_86_r16"/>Stellvertreter:</cell>
+						<cell>
+							<lb facs="#facs_86_r17"/>Dr. Schindler und Dr. Camille Schmid.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_86_r18"/>Sekretäre:</cell>
+						<cell>
+							<lb facs="#facs_86_r19"/>Dr. Jörg Meier, Frl. Kreutzmann und Helm.</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_86_r20"/>I. Strafkammer</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_86_r21"/>Vorsitzende:</cell>
+						<cell>
+							<lb facs="#facs_86_r22"/>Dr. Frick und Dr. Bösiger *.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_86_r23"/>Mitglieder:</cell>
+						<cell>
+							<lb facs="#facs_86_r24"/>Dr. Aeppli *, Dr. Niklaus Schmid *, Dr. Neumann,<lb facs="#facs_86_r25"/>Dr. Spirig, Dr. Kopp und Dr. Sorg (ab <date when="--08-01">1.
+                  August).</date><lb facs="#facs_86_r27"/>* Vornehmlich für
+                  Wirtschaftskriminalfälle.<lb facs="#facs_86_r28"/>Sitzungstage: Montag und
+                Donnerstag.</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_86_r29"/>II. Strafkammer</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_86_r30"/>Vorsitzender:</cell>
+						<cell>
+							<lb facs="#facs_86_r31"/>Dr. Schütz.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_86_r32"/>Mitglieder:</cell>
+						<cell>
+							<lb facs="#facs_86_r33"/>Dr. Hans Meyer, Dr. Portmann, Dr. Leuthard,<lb facs="#facs_86_r34"/>Dr. Ardinay und Dr. Theodor Keller.<lb facs="#facs_86_r35"/>Sitzungstage: Dienstag und Freitag.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_86_r36"/>Sekretäre<lb facs="#facs_86_r37"/>der Strafkammern:</cell>
+						<cell>
+							<lb facs="#facs_86_r38"/>Dr. Landwehr, Dr. Jörg Meier, Seeger, Frau Pfeif<lb break="no" facs="#facs_86_r39"/>fer (halbtags), Weibel, Frl. Kreutzmann, Frl.<lb facs="#facs_86_r40"/>Schweizer, Gmür, Marti, Frl. Vontobel, Frl. Bur<lb break="no" facs="#facs_86_r41"/>kart und Helm.</cell>
+					</row>
+				</table>
+			</div>
+			<pb n="775" facs="#facs_87"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_87_r1"/>Geschworenengericht</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r2"/>Präsident:</cell>
+						<cell>
+							<lb facs="#facs_87_r3"/>Dr. Friedli.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r4"/>Stellvertreter:</cell>
+						<cell>
+							<lb facs="#facs_87_r5"/>Dr. Theodor Keller und Dr. Spirig.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r6"/>Gerichtsschreiber:</cell>
+						<cell>
+							<lb facs="#facs_87_r7"/>Dr. Weller.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r8"/>Stellvertreter:</cell>
+						<cell>
+							<lb facs="#facs_87_r9"/>Weibel.</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_87_r10"/>Revisionskammer</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r11"/>Präsident:</cell>
+						<cell>
+							<lb facs="#facs_87_r12"/>Dr. Bollinger.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r13"/>Mitglieder:</cell>
+						<cell>
+							<lb facs="#facs_87_r14"/>Dr. Borschberg, Dr. Morf, Dr. Hans Meyer und<lb facs="#facs_87_r15"/>Dr. Theodor Keller.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r16"/>Ersatzmänner:</cell>
+						<cell>
+							<lb facs="#facs_87_r17"/>Die übrigen Mitglieder des Obergerichtes.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r18"/>Sekretäre:</cell>
+						<cell>
+							<lb facs="#facs_87_r19"/>Die Sekretäre der Strafkammern.</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_87_r20"/>Handelsgericht</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r21"/>Präsident:</cell>
+						<cell>
+							<lb facs="#facs_87_r22"/>Dr. Wenninger.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r23"/>Vizepräsident:</cell>
+						<cell>
+							<lb facs="#facs_87_r24"/>Dr. Borschberg.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r25"/>Weitere juristische<lb facs="#facs_87_r26"/>Mitglieder:</cell>
+						<cell>
+							<lb facs="#facs_87_r27"/>Dr. Robert Meyer, Dr. Forrer, Dr. Werner Moser<lb facs="#facs_87_r28"/>und Dr. Armand Meyer.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r29"/>Gerichtsschreiber:</cell>
+						<cell>
+							<lb facs="#facs_87_r30"/>Dr. Brunner.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r31"/>Sekretäre:</cell>
+						<cell>
+							<lb facs="#facs_87_r32"/>Dr. Raymann, Frau Mosimann (halbtags), Dr.<lb facs="#facs_87_r33"/>Ott, Nägeli, Scotoni, Dr. Daniel Meyer, Frl. Dr.<lb facs="#facs_87_r34"/>Schaffitz, Frl. Dr. Strehle (bis <date when="--07-31">31.
+                  Juli),</date> Hodel und<lb facs="#facs_87_r37"/>Schätzle (ab <date when="--08-01">1.
+                  August).</date></cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_87_r39"/>Versicherungsgericht</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r40"/>Präsident:</cell>
+						<cell>
+							<lb facs="#facs_87_r41"/>Dr. Morf.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r42"/>Stellvertreter:</cell>
+						<cell>
+							<lb facs="#facs_87_r43"/>Dr. Bösiger und Dr. Bollinger.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r44"/>Sekretäre:</cell>
+						<cell>
+							<lb facs="#facs_87_r45"/>Stieger und Engler.</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_87_r46"/>Schiedsgericht in Krankenversicherungsstreitigkeiten</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r47"/>Obmann:</cell>
+						<cell>
+							<lb facs="#facs_87_r48"/>Dr. Morf.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r49"/>Stellvertreter:</cell>
+						<cell>
+							<lb facs="#facs_87_r50"/>Dr. Bösiger.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_87_r51"/>Sekretäre:</cell>
+						<cell>
+							<lb facs="#facs_87_r52"/>Stieger und Engler.</cell>
+					</row>
+				</table>
+			</div>
+			<pb n="776" facs="#facs_88"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_88_r1"/>Sekretär des Kassationsgerichtes:</head>
+				<p>
+					<lb facs="#facs_88_r2"/>Dr. Lieber.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_88_r3"/>Verwaltungskommission</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_88_r4"/>Präsident:</cell>
+						<cell>
+							<lb facs="#facs_88_r5"/>Dr. Bollinger.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_88_r6"/>Vizepräsident:</cell>
+						<cell>
+							<lb facs="#facs_88_r7"/>Dr. Frick.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_88_r8"/>Mitglieder:</cell>
+						<cell>
+							<lb facs="#facs_88_r9"/>Dr. Vogel, Dr. Spühler und Dr. Peter Meyer.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_88_r10"/>Ersatzmänner:</cell>
+						<cell>
+							<lb facs="#facs_88_r11"/>Dr. Friedli, Dr. Portmann, Dr. Theodor Keller,<lb facs="#facs_88_r12"/>Dr. Niklaus Schmid und Dr. Bosshart.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_88_r13"/>Sekretariat:</cell>
+						<cell>
+							<lb facs="#facs_88_r14"/>Der Obergerichtsschreiber und sein Stellvertreter.</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_88_r15"/>Kommission für die Prüfung</head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_88_r16"/>a) der Rechtsanwaltskandidaten:</head>
+					<table>
+						<row>
+							<cell>
+								<lb facs="#facs_88_r17"/>Vorsitzender:</cell>
+							<cell>
+								<lb facs="#facs_88_r18"/>Oberrichter Dr. Vogel.</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_88_r19"/>Mitglieder:</cell>
+							<cell>
+								<lb facs="#facs_88_r20"/>alt Oberrichter Dr. Thurnherr und Oberrichter<lb facs="#facs_88_r21"/>Dr. Portmann, die Rechtsanwälte Dr. Felix Wiget<lb facs="#facs_88_r22"/>und Dr. Marco Jagmetti, Prof. Dr. Walder und<lb facs="#facs_88_r23"/>Prof. Dr. Hauser, Verwaltungsgerichtspräsident<lb facs="#facs_88_r24"/>Dr. Hans Peter Moser und Verwaltungsgerichtsvi<lb break="no" facs="#facs_88_r25"/>zepräsident Dr. Dietsch.</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_88_r26"/>Ersatzmitglieder:</cell>
+							<cell>
+								<lb facs="#facs_88_r27"/>Die Oberrichter Dr. Spühler, Dr. Werner Moser,<lb facs="#facs_88_r28"/>Dr. Niklaus Schmid und Dr. Neumann, die<lb facs="#facs_88_r29"/>Rechtsanwälte Dr. Robert Karrer, Dr. Wicki und<lb facs="#facs_88_r30"/>Dr. Bettina Girsberger, Prof. Dr. Simonius und<lb facs="#facs_88_r31"/>Prof. Dr. Rehberg.</cell>
+						</row>
+					</table>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_88_r32"/>b) der Notariatskandidaten:</head>
+					<table>
+						<row>
+							<cell>
+								<lb facs="#facs_88_r33"/>Vorsitzender:</cell>
+							<cell>
+								<lb facs="#facs_88_r34"/>Oberrichter Dr. Robert Meyer.</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_88_r35"/>Mitglieder:</cell>
+							<cell>
+								<lb facs="#facs_88_r36"/>Prof. Dr. Meier-Hayoz und alt Notariatsinspektor<lb facs="#facs_88_r37"/>Dr. Huber.</cell>
+						</row>
+						<row>
+							<cell>
+								<lb facs="#facs_88_r38"/>Ersatzmänner:</cell>
+							<cell>
+								<lb facs="#facs_88_r39"/>Oberrichter Dr. Diener, Notar Meier (Wetzikon)<lb facs="#facs_88_r40"/>und Prof. Dr. Stark.</cell>
+						</row>
+					</table>
+				</div>
+			</div>
+			<pb n="777" facs="#facs_89"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_89_r1"/>Bibliothekkommission</head>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_89_r2"/>Vorsitzender:</cell>
+						<cell>
+							<lb facs="#facs_89_r3"/>Oberrichter Dr. Frank.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_89_r4"/>Mitglieder:</cell>
+						<cell>
+							<lb facs="#facs_89_r5"/>Die Oberrichter Dr. Robert Meyer und Dr. Aeppli<lb facs="#facs_89_r6"/>sowie Obergerichtsschreiber Dr. Bühlmann.</cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_89_r7"/>Aufsichtskommission über die Rechtsanwälte</head>
+				<p>
+					<lb facs="#facs_89_r8"/>Vom Obergericht gewählt:</p>
+				<table>
+					<row>
+						<cell>
+							<lb facs="#facs_89_r9"/>Präsident:</cell>
+						<cell>
+							<lb facs="#facs_89_r10"/>Oberrichter Dr. Bachtler.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_89_r11"/>Vizepräsident:</cell>
+						<cell>
+							<lb facs="#facs_89_r12"/>Oberrichter Dr. Theodor Müller.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_89_r13"/>Mitglieder:</cell>
+						<cell>
+							<lb facs="#facs_89_r14"/>Staatsanwalt Dr. Trinkler und Bezirksgerichtsprä<lb break="no" facs="#facs_89_r15"/>sident Späh.<lb facs="#facs_89_r16"/>Von der
+                Anwaltschaft gewählt:<lb facs="#facs_89_r17"/>Die Rechtsanwälte Dr. Meyer-Fröhlich,
+                Dr. Ehrat<lb facs="#facs_89_r18"/>und Dr. Walter Baechi.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_89_r19"/>Ersatzmitglieder:</cell>
+						<cell>
+							<lb facs="#facs_89_r20"/>Vom Obergericht gewählt:<lb facs="#facs_89_r21"/>Die
+                Oberrichter Dr. Aeppli und Dr. Vonrufs,<lb facs="#facs_89_r22"/>Bezirksgerichtspräsident Dr. Bürkli und Bezirks<lb break="no" facs="#facs_89_r23"/>gerichtsvizepräsident Oesch.<lb facs="#facs_89_r24"/>Von der Anwaltschaft
+                  gewählt:<lb facs="#facs_89_r25"/>Die Rechtsanwälte Prof. Dr. Homburger, Dr.<lb facs="#facs_89_r26"/>Reinhard Lutz und Dr. Vieli.</cell>
+					</row>
+					<row>
+						<cell>
+							<lb facs="#facs_89_r27"/>Sekretariat:</cell>
+						<cell>
+							<lb facs="#facs_89_r28"/>Der Obergerichtsschreiber und als Stellvertreter<lb facs="#facs_89_r29"/>Thomas Müller (bis <date when="--07-31">31.
+                Juli),</date> Stephan Keller (ab<lb facs="#facs_89_r32"/><date when="--08-01">1.
+                  August).</date></cell>
+					</row>
+				</table>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_89_r33"/>Ersatzrichter des Obergerichtes:</head>
+				<p>
+					<lb facs="#facs_89_r34"/>1. Dr. Peter Jaeger, Rechtsanwalt, Oberrieden;<lb facs="#facs_89_r35"/>2. Dr. Jakob Hinden, Bezirksgerichtsvizepräsident, Ottenbach;<lb facs="#facs_89_r36"/>3. Prof. Dr. Hans Michael Riemer, Zürich;<lb facs="#facs_89_r37"/>4. Dr. Alfred Ernst, Bezirksgerichtsvizepräsident, Pfaffhausen;<lb facs="#facs_89_r38"/>5. Dr. Wilfried Landwehr, Obergerichtssekretär, Zürich;<lb facs="#facs_89_r39"/>6. Dr.
+            Walo Früh, Bezirksgerichtspräsident, Oberembrach;<lb facs="#facs_89_r40"/>7. Dr. Hans
+            Liechti, Bezirksgerichtsschreiber, Pfäffikon;<lb facs="#facs_89_r41"/>8. Dr. Rico
+            Steinbrüchel, Rechtsanwalt, Zürich;<lb facs="#facs_89_r42"/>9. Dr. Christoph Meili,
+            Bezirksgerichtsvizepräsident, Oberrieden;</p>
+				<pb n="778" facs="#facs_90"/>
+				<p>
+					<lb facs="#facs_90_r1"/>10. Dr. Heinz Knecht, Staatsanwalt, Birmensdorf;<lb facs="#facs_90_r2"/>11. Dr. Karl Ziegler, Rechtsanwalt, Zürich;<lb facs="#facs_90_r3"/>12. Dr. Alfred Tanner, Obergerichtssekretär, Zumikon;<lb facs="#facs_90_r4"/>13. Dr.
+            Eugène Brunner, Handelsgerichtsschreiber, Hombrechtikon;<lb facs="#facs_90_r5"/>14. Dr.
+            Dora Rösli-Hanhart, Rechtsanwalt, Rüschlikon;<lb facs="#facs_90_r6"/>15. Dr. Dieter
+            Hierholzer, Bezirksgerichtsvizepräsident, Bülach;<lb facs="#facs_90_r7"/>16. Dr. Josef
+            Fraefel, Bezirksgerichtsvizepräsident, Feldbach;<lb facs="#facs_90_r8"/>17. Dr. Peter
+            Nobel, Rechtskonsulent, Zürich;<lb facs="#facs_90_r9"/>18. Dr. Robert Thurnherr, alt
+            Oberrichter, Thalwil;<lb facs="#facs_90_r10"/>19. Dr. Daniel Meyer,
+            Obergerichtssekretär, Zürich;<lb facs="#facs_90_r11"/>20. Dr. Hermann Weigold,
+            Bezirksgerichtspräsident, Winterthur.<lb facs="#facs_90_r12"/>(Nrn. 1-10 vom Kantonsrat,
+            Nrn. 11-20 vom Obergericht gewählt).</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_90_r13"/>Geschäftsverteilung unter den Kammern des Obergerichtes</head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_90_r14"/>Die I. Zivilkammer behandelt:</head>
+					<p>
+						<lb facs="#facs_90_r15"/>1. die beim Obergericht als einziger kantonaler Instanz
+                anhängig<lb facs="#facs_90_r16"/>gemachten Zivilprozesse;</p>
+					<p>
+						<lb facs="#facs_90_r17"/>2. die Berufungen gegen Urteile der Bezirksgerichte in
+              Ehesachen;</p>
+					<p>
+						<lb facs="#facs_90_r18"/>3. Berufungen gegen andere Urteile der Bezirksgerichte, mit
+                Aus<lb break="no" facs="#facs_90_r19"/>nahme der Vaterschafts- und
+              Vormundschaftssachen;</p>
+					<p>
+						<lb facs="#facs_90_r20"/>4. die Berufungen gegen Urteile der Arbeitsgerichte;</p>
+					<p>
+						<lb facs="#facs_90_r21"/>5. die Gesuche um Wiederherstellung (Revision) gegenüber
+                ihren<lb facs="#facs_90_r22"/>Urteilen und Beschlüssen;</p>
+					<p>
+						<lb facs="#facs_90_r23"/>6. die Rekurse</p>
+					<p>
+						<lb facs="#facs_90_r24"/>a) gegen Verfügungen der Einzelrichter in Ehesachen,</p>
+					<p>
+						<lb facs="#facs_90_r25"/>b) gegen Verfügungen und Beschlüsse der Arbeitsgerichte und
+                der<lb facs="#facs_90_r26"/>Bezirksgerichte, mit Ausnahme der Vaterschafts -,
+                Vormund<lb break="no" facs="#facs_90_r27"/>schafts -, Nachlass -, Stundungs- und
+              Sanierungssachen sowie der<lb facs="#facs_90_r28"/>Rekurse gegen Entscheide der
+              erstinstanzlichen Aufsichtsbe<lb break="no" facs="#facs_90_r29"/>hörden,</p>
+					<p>
+						<lb facs="#facs_90_r30"/>c) gegen der Berufung unterliegende Urteile der
+                Bezirksgerichte,<lb facs="#facs_90_r31"/>mit Ausnahme der Vaterschafts- und
+                Vormundschaftssachen,<lb facs="#facs_90_r32"/>wenn sie nur mit Bezug auf die Kosten-
+              und Entschädigungsbe<lb break="no" facs="#facs_90_r33"/>stimmungen angefochten
+              werden.</p>
+				</div>
+				<pb n="779" facs="#facs_91"/>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_91_r1"/>Die II. Zivilkammer behandelt:</head>
+					<p>
+						<lb facs="#facs_91_r2"/>1. die Berufungen gegen Urteile der Bezirksgerichte in
+                Vaterschafts<lb break="no" facs="#facs_91_r3"/>und Vormundschaftssachen;</p>
+					<p>
+						<lb facs="#facs_91_r4"/>2. Berufungen gegen andere Urteile der Bezirksgerichte, mit
+                Aus<lb break="no" facs="#facs_91_r5"/>nahme der Ehesachen;</p>
+					<p>
+						<lb facs="#facs_91_r6"/>3. Berufungen gegen Urteile der Einzelrichter im ordentlichen
+              und im<lb facs="#facs_91_r7"/>beschleunigten Verfahren;</p>
+					<p>
+						<lb facs="#facs_91_r8"/>4. Berufungen gegen Urteile der Mietgerichte;</p>
+					<p>
+						<lb facs="#facs_91_r9"/>5. die Gesuche um Wiederherstellung (Revision) gegenüber
+                ihren<lb facs="#facs_91_r10"/>Urteilen und Beschlüssen;</p>
+					<p>
+						<lb facs="#facs_91_r11"/>6. die Rekurse</p>
+					<p>
+						<lb facs="#facs_91_r12"/>a) gegen Verfügungen und Beschlüsse der Bezirksgerichte in<lb facs="#facs_91_r13"/>Vaterschafts- und Vormundschaftssachen,</p>
+					<p>
+						<lb facs="#facs_91_r14"/>b) gegen Verfügungen und Beschlüsse der Bezirksgerichte in<lb facs="#facs_91_r15"/>Nachlass -, Stundungs- und Sanierungssachen,</p>
+					<p>
+						<lb facs="#facs_91_r16"/>c) gegen Verfügungen der Einzelrichter im summarischen
+                Verfah<lb break="no" facs="#facs_91_r17"/>ren (ausser Ehesachen), im ordentlichen
+              und im beschleunigten<lb facs="#facs_91_r18"/>Verfahren,</p>
+					<p>
+						<lb facs="#facs_91_r19"/>d) gegen Verfügungen, Beschlüsse und Urteile der
+              Mietgerichte,</p>
+					<p>
+						<lb facs="#facs_91_r20"/>e) gegen Beschlüsse der Anklagekammer,</p>
+					<p>
+						<lb facs="#facs_91_r21"/>f) gegen Entscheide der erstinstanzlichen Aufsichtsbehörden
+                in<lb facs="#facs_91_r22"/>Schuldbetreibungs- und Konkurssachen, in
+                gemeindeammann<lb break="no" facs="#facs_91_r23"/>amtlichen Sachen, in
+              Viehverschreibungssachen sowie in<lb facs="#facs_91_r24"/>Sachen der Notariate und
+              Grundbuchämter,</p>
+					<p>
+						<lb facs="#facs_91_r25"/>g, gegen Beschlüsse der vertraglichen Schiedsgerichte über
+                ihre<lb facs="#facs_91_r26"/>Zuständigkeit,</p>
+					<p>
+						<lb facs="#facs_91_r27"/>h) gegen der Berufung unterliegende Urteile der
+                Bezirksgerichte<lb facs="#facs_91_r28"/>in Vaterschafts- und Vormundschaftssachen,
+              wenn sie nur mit<lb facs="#facs_91_r29"/>Bezug auf die Kosten- und
+              Entschädigungsbestimmungen ange<lb break="no" facs="#facs_91_r30"/>fochten werden,</p>
+					<p>
+						<lb facs="#facs_91_r31"/>i) gegen der Berufung unterliegende Urteile der Einzelrichter
+                im<lb facs="#facs_91_r32"/>ordentlichen und im beschleunigten Verfahren, wenn sie
+                nur<lb facs="#facs_91_r33"/>mit Bezug auf die Kosten- und
+                Entschädigungsbestimmungen<lb facs="#facs_91_r34"/>angefochten werden;</p>
+					<p>
+						<lb facs="#facs_91_r35"/>7. die Gesuche um amtliche Anweisung (§ 65 GVG und § 17 Abs.
+                2<lb facs="#facs_91_r36"/>ZPO) und um Anweisung eines gemeinsamen Gerichtsstandes<lb facs="#facs_91_r37"/>(§ 14 ZPO) sowie die Bezeichnung von Schiedsrichtern,
+                Sachver<lb break="no" facs="#facs_91_r38"/>ständigen usw.</p>
+				</div>
+				<pb n="780" facs="#facs_92"/>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_92_r1"/>Die III. Zivilkammer behandelt:</head>
+					<p>
+						<lb facs="#facs_92_r2"/>1. die Nichtigkeitsbeschwerden in Zivilsachen</p>
+					<p>
+						<lb facs="#facs_92_r3"/>a) gegen Urteile und Verfügungen der Einzelrichter,</p>
+					<p>
+						<lb facs="#facs_92_r4"/>b) gegen Urteile, Verfügungen und Beschlüsse der Arbeitsge<lb break="no" facs="#facs_92_r5"/>richte, der Mietgerichte und der Bezirksgerichte,</p>
+					<p>
+						<lb facs="#facs_92_r6"/>c) gegen Urteile und Erledigungsbeschlüsse der
+                vertraglichen<lb facs="#facs_92_r7"/>Schiedsgerichte;</p>
+					<p>
+						<lb facs="#facs_92_r8"/>2. die Gesuche um Wiederherstellung (Revision) gegenüber
+                ihren<lb facs="#facs_92_r9"/>Urteilen und Beschlüssen.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_92_r10"/>Die I. Strafkammer behandelt:</head>
+					<p>
+						<lb facs="#facs_92_r11"/>1. die von der Anklagekammer dem Obergericht überwiesenen
+                Straf<lb break="no" facs="#facs_92_r12"/>sachen;</p>
+					<p>
+						<lb facs="#facs_92_r13"/>2. die Berufungen und Nichtigkeitsbeschwerden gegen Urteile
+                der<lb facs="#facs_92_r14"/>Bezirksgerichte, der Gerichtsvorstände und der
+              Einzelrichter</p>
+					<p>
+						<lb facs="#facs_92_r15"/>a) betreffend bundesrechtliche Verbrechen und Vergehen,
+                die<lb facs="#facs_92_r16"/>nicht im Schweizerischen Strafgesetzbuch oder im
+                Betäubungs<lb break="no" facs="#facs_92_r17"/>mittelgesetz unter Strafe gestellt
+              sind,</p>
+					<p>
+						<lb facs="#facs_92_r18"/>b) betreffend Vergehen gegen die Ehre,</p>
+					<p>
+						<lb facs="#facs_92_r19"/>c) betreffend Vergehen nach kantonalem Recht,</p>
+					<p>
+						<lb facs="#facs_92_r20"/>d) betreffend Übertretungen nach eidgenössischem und
+                kantona<lb break="no" facs="#facs_92_r21"/>lem Recht;</p>
+					<p>
+						<lb facs="#facs_92_r22"/>3. die Strafsachen betreffend Kinder, Jugendliche und
+              Minderjährige;</p>
+					<p>
+						<lb facs="#facs_92_r23"/>4. die Gesuche um Wiederaufnahme des Verfahrens (Revision)<lb facs="#facs_92_r24"/>gegenüber Urteilen der Bezirksgerichte bezüglich der in Ziffer
+                2<lb facs="#facs_92_r25"/>lit. a-d und Ziffer 3 genannten Strafsachen, ferner
+                gegenüber<lb facs="#facs_92_r26"/>Urteilen der Einzelrichter und gegenüber
+              Strafbefehlen;</p>
+					<p>
+						<lb facs="#facs_92_r27"/>5. die Rekurse</p>
+					<p>
+						<lb facs="#facs_92_r28"/>a) gegen das Verfahren, die Verfügungen und Beschlüsse der<lb facs="#facs_92_r29"/>Bezirksgerichtspräsidenten, der bezirksgerichtlichen Untersu<lb break="no" facs="#facs_92_r30"/>chungsrichter, der Einzelrichter und der
+              Bezirksgerichte in<lb facs="#facs_92_r31"/>Sachen, die von ihnen erstinstanzlich
+              erledigt werden,</p>
+					<p>
+						<lb facs="#facs_92_r32"/>b) gegen Urteile der Einzelrichter und der Bezirksgerichte,
+                wenn<lb facs="#facs_92_r33"/>sich der Rekurs nur auf die Kostenauflage und die
+                Entschädi<lb break="no" facs="#facs_92_r34"/>gung bezieht;</p>
+					<p>
+						<lb facs="#facs_92_r35"/>6. Gesuche um Rehabilitation und Löschung von
+                Strafregisterein<lb break="no" facs="#facs_92_r36"/>trägen;</p>
+					<pb n="781" facs="#facs_93"/>
+					<p>
+						<lb facs="#facs_93_r1"/>7. soweit es sich um einen von der I. Strafkammer gefällten
+                Entscheid<lb facs="#facs_93_r2"/>handelt oder diese an Stelle des
+              Geschworenengerichtes zu treten<lb facs="#facs_93_r3"/>hat:</p>
+					<p>
+						<lb facs="#facs_93_r4"/>a) Gesuche um nachträgliche Umwandlung nicht vollstreckter<lb facs="#facs_93_r5"/>Bussen in Haft und um nachträgliche Ausschliessung der Um<lb break="no" facs="#facs_93_r6"/>wandlung,</p>
+					<p>
+						<lb facs="#facs_93_r7"/>b) Erlass der Mahnung an den mit bedingtem Strafvollzug
+                Verur<lb break="no" facs="#facs_93_r8"/>teilten, Anordnung des Strafvollzuges und
+              Widerruf der beding<lb break="no" facs="#facs_93_r9"/>ten Löschbarkeit einer Busse im
+              Falle der Nichtbewährung,<lb facs="#facs_93_r10"/>Veranlassung der Löschung des
+              Urteils im Strafregister im<lb facs="#facs_93_r11"/>Bewährungsfalle,</p>
+					<p>
+						<lb facs="#facs_93_r12"/>c) Anordnung des Vollzuges aufgeschobener Strafen,</p>
+					<p>
+						<lb facs="#facs_93_r13"/>d) Aufhebung des Wirtshausverbotes,</p>
+					<p>
+						<lb facs="#facs_93_r14"/>e) nachträglicher Entscheid darüber, ob eine Strafe noch zu
+                voll<lb break="no" facs="#facs_93_r15"/>ziehen sei,</p>
+					<p>
+						<lb facs="#facs_93_r16"/>f) die Begutachtung von Begnadigungsgesuchen;</p>
+					<p>
+						<lb facs="#facs_93_r17"/>8. Beschlüsse, die nach Beendigung des
+                geschworenengerichtlichen<lb facs="#facs_93_r18"/>Verfahrens zu fassen sind (§ 53
+              Abs. 2 GVG).</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_93_r19"/>Die II. Strafkammer behandelt:</head>
+					<p>
+						<lb facs="#facs_93_r20"/>1. die Berufungen und Nichtigkeitsbeschwerden gegen Urteile
+                der<lb facs="#facs_93_r21"/>Bezirksgerichte, der Gerichtsvorstände und der
+                Einzelrichter<lb facs="#facs_93_r22"/>betreffend bundesrechtliche Verbrechen und
+              Vergehen, die im<lb facs="#facs_93_r23"/>Schweizerischen Strafgesetzbuch und im
+                Betäubungsmittelgesetz<lb facs="#facs_93_r24"/>unter Strafe gestellt sind, mit
+              Ausnahme der Strafsachen betreffend<lb facs="#facs_93_r25"/>Kinder, Jugendliche und
+              Minderjährige;</p>
+					<p>
+						<lb facs="#facs_93_r26"/>2. die Gesuche um Wiederaufnahme des Verfahrens
+                (Revision),<lb facs="#facs_93_r27"/>soweit sie nicht der I. Strafkammer oder der
+                Revisionskammer<lb facs="#facs_93_r28"/>zugewiesen sind;</p>
+					<p>
+						<lb facs="#facs_93_r29"/>3. die Beurteilung von Sachen des Geschworenengerichtes, in
+                denen<lb facs="#facs_93_r30"/>nach Wiederaufnahme des Verfahrens zugunsten des
+                Verurteilten<lb facs="#facs_93_r31"/>der Staatsanwalt auf weitere strafrechtliche
+              Verfolgung verzichtet;</p>
+					<p>
+						<lb facs="#facs_93_r32"/>4. soweit es sich um einen von der II. Strafkammer gefällten
+                Ent<lb break="no" facs="#facs_93_r33"/>scheid handelt:</p>
+					<p>
+						<lb facs="#facs_93_r34"/>a) Gesuche um nachträgliche Umwandlung nicht vollstreckter<lb facs="#facs_93_r35"/>Bussen in Haft und um nachträgliche Ausschliessung der Um<lb break="no" facs="#facs_93_r36"/>wandlung,</p>
+					<p>
+						<lb facs="#facs_93_r37"/>b) Erlass der Mahnung an den mit bedingtem Strafvollzug
+                Verur<lb break="no" facs="#facs_93_r38"/>teilten, Anordnung des Strafvollzuges und
+              Widerruf der beding-</p>
+					<pb n="782" facs="#facs_94"/>
+					<p>
+						<lb facs="#facs_94_r1"/>ten Löschbarkeit einer Busse im Falle der Nichtbewährung,<lb facs="#facs_94_r2"/>Veranlassung der Löschung des Urteils im Strafregister im<lb facs="#facs_94_r3"/>Bewährungsfalle,</p>
+					<p>
+						<lb facs="#facs_94_r4"/>c) Anordnung des Vollzuges aufgeschobener Strafen,</p>
+					<p>
+						<lb facs="#facs_94_r5"/>d) Aufhebung des Wirtshausverbotes,</p>
+					<p>
+						<lb facs="#facs_94_r6"/>e) nachträglicher Entscheid darüber, ob eine Strafe noch zu
+                voll<lb break="no" facs="#facs_94_r7"/>ziehen sei,</p>
+					<p>
+						<lb facs="#facs_94_r8"/>f) die Begutachtung von Begnadigungsgesuchen.</p>
+					<p>
+						<lb facs="#facs_94_r9"/>Zürich, den <date when="1982-06-30">30. Juni 1982</date></p>
+					<p>
+						<lb facs="#facs_94_r11"/>Im Namen des Obergerichtes</p>
+					<p>
+						<lb facs="#facs_94_r12"/>Der Präsident:<lb facs="#facs_94_r13"/>Bollinger</p>
+					<p>
+						<lb facs="#facs_94_r14"/>Der Obergerichtsschreiber:<lb facs="#facs_94_r15"/>Bühlmann</p>
+				</div>
+			</div>
+		</body></text></TEI>

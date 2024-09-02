@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] Vom 12. März 1980</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-04-01">01.04.1980</date><ident>StAZH ABl 1980 (S. 408)</ident><idno>408</idno><idno type="issue">27</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131810"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_409" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0409.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_409_r26" ulx="314" uly="1735" lrx="1225" lry="1769" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r37" ulx="429" uly="2297" lrx="539" lry="2328" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r28" ulx="316" uly="1856" lrx="1609" lry="1889" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r1" ulx="397" uly="266" lrx="1601" lry="298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r10" ulx="775" uly="827" lrx="850" lry="855" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r2" ulx="312" uly="314" lrx="1460" lry="349" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r4" ulx="397" uly="391" lrx="1593" lry="426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r6" ulx="312" uly="491" lrx="637" lry="522" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r16" ulx="402" uly="1264" lrx="1600" lry="1295" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r27" ulx="406" uly="1806" lrx="1606" lry="1838" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r18" ulx="316" uly="1362" lrx="1600" lry="1396" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r7" ulx="395" uly="568" lrx="1595" lry="602" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r3" ulx="1472" uly="316" lrx="1595" lry="350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r35" ulx="318" uly="2243" lrx="1610" lry="2278" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r14" ulx="314" uly="1135" lrx="1602" lry="1169" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r20" ulx="935" uly="1412" lrx="1212" lry="1443" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r8" ulx="311" uly="618" lrx="1597" lry="651" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r9" ulx="314" uly="670" lrx="425" lry="700" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r22" ulx="318" uly="1458" lrx="1602" lry="1493" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r12" ulx="397" uly="1039" lrx="1597" lry="1070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r38" ulx="545" uly="2297" lrx="1183" lry="2328" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r21" ulx="1220" uly="1410" lrx="1597" lry="1442" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r24" ulx="404" uly="1612" lrx="906" lry="1644" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r34" ulx="318" uly="2195" lrx="1606" lry="2229" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r17" ulx="314" uly="1312" lrx="1595" lry="1346" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r29" ulx="318" uly="1912" lrx="445" lry="1940" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r32" ulx="316" uly="2079" lrx="541" lry="2108" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r19" ulx="316" uly="1414" lrx="922" lry="1446" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r0" ulx="308" uly="172" lrx="372" lry="196" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r30" ulx="402" uly="1977" lrx="1610" lry="2007" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r15" ulx="316" uly="1185" lrx="1235" lry="1219" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r11" ulx="881" uly="825" lrx="1147" lry="854" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r36" ulx="318" uly="2297" lrx="422" lry="2328" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r25" ulx="402" uly="1685" lrx="1604" lry="1717" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r31" ulx="316" uly="2025" lrx="1612" lry="2058" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r23" ulx="314" uly="1512" lrx="1115" lry="1541" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r13" ulx="314" uly="1087" lrx="1600" lry="1118" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r33" ulx="405" uly="2147" lrx="1611" lry="2180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_409_r5" ulx="310" uly="443" lrx="1598" lry="474" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="408" facs="#facs_409"/>
+			<p>
+				<lb facs="#facs_409_r12"/>Als Extraordinarius mit beschränkter Lehrverpflichtung<lb facs="#facs_409_r13"/>für Kinderchirurgie an der Medizinischen Fakultät der Uni<lb break="no" facs="#facs_409_r14"/>versität Zürich wählte der Regierungsrat PD Dr. Urs G. Stauf<lb break="no" facs="#facs_409_r15"/>fer, von Signau BE und Zürich, in Dübendorf.</p>
+			<p>
+				<lb facs="#facs_409_r16"/>Professor Dr.Ernst Wiesmann, Ordinarius für Medizinische<lb facs="#facs_409_r17"/>Mikrobiologie und Direktor des Instituts für Medizinische<lb facs="#facs_409_r18"/>Mikrobiologie an der Medizinischen Fakultät der Universität,<lb facs="#facs_409_r19"/>ist vom Regierungsrat auf den <date when="1980-03-31">31. März 1980</date> unter Verdankung<lb facs="#facs_409_r22"/>der geleisteten Dienste altershalber entlassen und gleichzeitig<lb facs="#facs_409_r23"/>zum Honorarprofessor ernannt worden.</p>
+			<p>
+				<lb facs="#facs_409_r24"/>Es sind gewählt worden:</p>
+			<p>
+				<lb facs="#facs_409_r25"/>als Oberarzt beim Institut für Pathologie des Universitäts<lb break="no" facs="#facs_409_r26"/>spitals: Dr. Peter Vogt, von und in Rohr AG;</p>
+			<p>
+				<lb facs="#facs_409_r27"/>als Oberärztin am Departement für Frauenheilkunde des<lb facs="#facs_409_r28"/>Universitätsspitals: Dr. Elisabeth Baumann, von Zürich, in Küs<lb break="no" facs="#facs_409_r29"/>nacht;</p>
+			<p>
+				<lb facs="#facs_409_r30"/>als Sekretär beim Sekretariat der AHV-Rekurskommission:<lb facs="#facs_409_r31"/>Andreas Kull, lic. iur ., von Niederlenz AG, in Mutschellen (Be<lb break="no" facs="#facs_409_r32"/>rikon) AG.</p>
+			<p>
+				<lb facs="#facs_409_r33"/>Dorothea Dubs-Sommer, lic. iur ., Sekretärin beim Direk<lb break="no" facs="#facs_409_r34"/>tionssekretariat der Direktion des Innern, wird unter Verdan<lb break="no" facs="#facs_409_r35"/>kung der geleisteten Dienste entsprechend ihrem Gesuch auf<lb facs="#facs_409_r36"/>Ende März aus dem Staatsdienst entlassen.</p>
+		</body></text></TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-18">18.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 67. Sitzung. Montag, 18. August 1980, 8.15 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-10-31">31.10.1980</date><ident>StAZH ABl 1980 (S. 1192)</ident><idno>1192</idno><idno type="issue">78</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132043"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_456" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0456.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_456_r8" ulx="412" uly="727" lrx="956" lry="755" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r23" ulx="409" uly="1612" lrx="867" lry="1646" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r29" ulx="406" uly="1941" lrx="1612" lry="1975" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r22" ulx="407" uly="1541" lrx="727" lry="1569" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r38" ulx="406" uly="2281" lrx="637" lry="2312" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r34" ulx="408" uly="2112" lrx="1310" lry="2144" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r5" ulx="415" uly="529" lrx="686" lry="557" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r15" ulx="412" uly="1068" lrx="1620" lry="1102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r17" ulx="415" uly="1189" lrx="640" lry="1217" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r21" ulx="1256" uly="1437" lrx="1435" lry="1468" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r16" ulx="320" uly="1116" lrx="1241" lry="1151" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r30" ulx="319" uly="1991" lrx="389" lry="2018" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r25" ulx="320" uly="1735" lrx="560" lry="1766" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r31" ulx="421" uly="1989" lrx="685" lry="2021" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r26" ulx="572" uly="1735" lrx="1610" lry="1770" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r36" ulx="318" uly="2162" lrx="1614" lry="2194" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r11" ulx="925" uly="885" lrx="1164" lry="916" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r12" ulx="1185" uly="887" lrx="1614" lry="918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r7" ulx="327" uly="652" lrx="1054" lry="682" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r28" ulx="318" uly="1833" lrx="814" lry="1862" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r3" ulx="329" uly="383" lrx="856" lry="412" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r27" ulx="318" uly="1785" lrx="1616" lry="1820" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r6" ulx="416" uly="602" lrx="1614" lry="635" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r14" ulx="411" uly="1002" lrx="676" lry="1032" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r19" ulx="508" uly="1433" lrx="914" lry="1465" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r9" ulx="412" uly="831" lrx="1620" lry="867" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r24" ulx="406" uly="1685" lrx="1595" lry="1721" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r35" ulx="1345" uly="2116" lrx="1611" lry="2146" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r20" ulx="922" uly="1435" lrx="1247" lry="1467" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r37" ulx="322" uly="2212" lrx="662" lry="2242" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r13" ulx="325" uly="931" lrx="1122" lry="963" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r18" ulx="410" uly="1258" lrx="1614" lry="1289" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r10" ulx="322" uly="881" lrx="889" lry="914" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r4" ulx="417" uly="454" lrx="641" lry="482" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r33" ulx="320" uly="2039" lrx="795" lry="2070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r1" ulx="415" uly="256" lrx="676" lry="287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r2" ulx="416" uly="331" lrx="1622" lry="366" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r0" ulx="325" uly="162" lrx="414" lry="187" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_456_r32" ulx="700" uly="1991" lrx="1618" lry="2025" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1192" facs="#facs_456"/>
+			<p>
+				<lb facs="#facs_456_r22"/>1. Mitteilungen.</p>
+			<p>
+				<lb facs="#facs_456_r23"/>Rückzug einer Motion.</p>
+			<p>
+				<lb facs="#facs_456_r24"/>W. Gräff (SVP, Volketswil) gibt den Rückzug seiner am<lb facs="#facs_456_r25"/><date when="1980-06-02">2. Juni 1980</date> eingereichten Motion betreffend die Ausarbeitung<lb facs="#facs_456_r27"/>eines Inventars über die im Baugebiet gelegenen Landwirt<lb break="no" facs="#facs_456_r28"/>schaftsbetriebe bekannt.</p>
+			<p>
+				<lb facs="#facs_456_r29"/>2. Dringliche Interpellation Dr. Kurt Müller (FDP, Meilen)<lb facs="#facs_456_r30"/>vom <date when="1980-06-23">23. Juni 1980</date> betreffend die Jugendkrawalle in der Stadt<lb facs="#facs_456_r33"/>Zürich (Beantwortung).</p>
+			<p>
+				<lb facs="#facs_456_r34"/>Regierungsrat J. Stucki beantwortet die am <date when="1980-06-23">23. Juni 1980</date><lb facs="#facs_456_r36"/>begründete Interpellation - als Präsident und namens des<lb facs="#facs_456_r37"/>Regierungsrates.</p>
+			<p>
+				<lb facs="#facs_456_r38"/>Diskussion.</p>
+		</body></text></TEI>

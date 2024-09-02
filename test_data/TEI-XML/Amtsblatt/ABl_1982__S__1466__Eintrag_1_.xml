@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] vom 10. November 1982</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-12-17">17.12.1982</date><ident>StAZH ABl 1982 (S. 1466, Eintrag 1)</ident><idno>1466</idno><idno type="issue">51</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132901"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_778" uly="0" ulx="0" lry="2336" lrx="1587">
+			<graphic url="Abl_1982_2__S__0778.tif" width="1587px" height="2336px"/>
+			<zone xml:id="facs_778_r13" ulx="239" uly="566" lrx="1223" lry="597" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r5" ulx="1178" uly="291" lrx="1423" lry="318" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r12" ulx="243" uly="518" lrx="1422" lry="551" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r26" ulx="248" uly="1162" lrx="1028" lry="1191" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r48" ulx="254" uly="2052" lrx="692" lry="2080" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r27" ulx="250" uly="1212" lrx="1429" lry="1243" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r19" ulx="246" uly="839" lrx="1430" lry="872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r22" ulx="246" uly="979" lrx="874" lry="1006" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r7" ulx="246" uly="379" lrx="998" lry="410" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r8" ulx="1017" uly="379" lrx="1268" lry="407" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r29" ulx="250" uly="1306" lrx="542" lry="1334" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r1" ulx="631" uly="208" lrx="686" lry="233" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r33" ulx="721" uly="1412" lrx="1043" lry="1439" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r15" ulx="245" uly="662" lrx="1428" lry="695" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r43" ulx="256" uly="1827" lrx="1434" lry="1858" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r23" ulx="246" uly="1027" lrx="1428" lry="1059" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r3" ulx="244" uly="291" lrx="807" lry="321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r17" ulx="246" uly="750" lrx="1423" lry="784" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r36" ulx="252" uly="1587" lrx="1267" lry="1620" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r39" ulx="253" uly="1733" lrx="387" lry="1764" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r44" ulx="256" uly="1871" lrx="1438" lry="1902" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r37" ulx="256" uly="1642" lrx="1433" lry="1671" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r51" ulx="255" uly="2102" lrx="392" lry="2126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r20" ulx="248" uly="881" lrx="1428" lry="915" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r11" ulx="246" uly="477" lrx="1426" lry="508" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r47" ulx="256" uly="2002" lrx="1434" lry="2035" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r42" ulx="256" uly="1790" lrx="665" lry="1816" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r41" ulx="644" uly="1731" lrx="807" lry="1759" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r50" ulx="961" uly="2050" lrx="1439" lry="2078" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r25" ulx="246" uly="1116" lrx="1428" lry="1149" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r34" ulx="252" uly="1498" lrx="1433" lry="1530" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r46" ulx="255" uly="1963" lrx="663" lry="1992" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r2" ulx="706" uly="202" lrx="1038" lry="230" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r0" ulx="246" uly="125" lrx="316" lry="147" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r24" ulx="248" uly="1071" lrx="1426" lry="1102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r18" ulx="243" uly="793" lrx="1426" lry="829" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r32" ulx="642" uly="1419" lrx="700" lry="1441" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r4" ulx="832" uly="291" lrx="1165" lry="321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r21" ulx="250" uly="929" lrx="1428" lry="963" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r14" ulx="246" uly="616" lrx="1422" lry="650" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r6" ulx="246" uly="333" lrx="1425" lry="365" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r10" ulx="241" uly="437" lrx="369" lry="461" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r28" ulx="246" uly="1258" lrx="1424" lry="1288" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r40" ulx="396" uly="1733" lrx="638" lry="1763" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r16" ulx="246" uly="706" lrx="1422" lry="738" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r31" ulx="736" uly="1302" lrx="1393" lry="1332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r38" ulx="254" uly="1683" lrx="1436" lry="1717" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r9" ulx="1280" uly="377" lrx="1424" lry="404" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r30" ulx="548" uly="1306" lrx="728" lry="1334" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r35" ulx="252" uly="1544" lrx="1433" lry="1576" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r45" ulx="253" uly="1912" lrx="1436" lry="1946" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_778_r49" ulx="709" uly="2050" lrx="942" lry="2078" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1466" facs="#facs_778"/>
+			<p>
+				<lb facs="#facs_778_r3"/>Die in der Volksabstimmung vom <date when="1982-09-26">26.
+              September 1982</date> angenommene<lb facs="#facs_778_r6"/>Änderung des
+            Einführungsgesetzes zum Bundesgesetz über die Kran<lb break="no" facs="#facs_778_r7"/>ken- und Unfallversicherung wurde auf den <date when="1983-01-01">1. Januar
+              1983</date> in Kraft<lb facs="#facs_778_r10"/>gesetzt.<lb facs="#facs_778_r11"/>Der
+            Regierungsrat beantragt dem Kantonsrat, für den Ausbau der<lb facs="#facs_778_r12"/>Land- und Hauswirtschaftlichen Schule Weinland in Winterthur-Wülf<lb break="no" facs="#facs_778_r13"/>lingen einen Kredit von 13,95 Mio. Franken zu bewilligen.<lb facs="#facs_778_r14"/>Der Regierungsrat hat Prof. Dr. Jan A. Fischer, von
+            Schaffhausen, in<lb facs="#facs_778_r15"/>Küsnacht, Assistenzprofessor für Innere
+            Medizin, speziell Calciummeta<lb break="no" facs="#facs_778_r16"/>bolismus und
+            Stoffwechselstörungen in der Orthopädie, zum Extraordi<lb break="no" facs="#facs_778_r17"/>narius ad personam für Innere Medizin mit besonderer
+              Berücksichti<lb break="no" facs="#facs_778_r18"/>gung des Calcium-Stoffwechsels an der
+            Medizinischen Fakultät der<lb facs="#facs_778_r19"/>Universität gewählt. Prof. Fischer
+            ist seit 1976 Assistenzprofessor. Er ist<lb facs="#facs_778_r20"/>Gründer und Leiter des
+            Forschungslabors für Calcium-Stoffwechsel der<lb facs="#facs_778_r21"/>Orthopädischen
+            Universitätsklinik Balgrist und des Departements für<lb facs="#facs_778_r22"/>Innere
+            Medizin am Universitätsspital.<lb facs="#facs_778_r23"/>Dr. Hermann-Josef Richard
+            Forneck, deutscher Staatsangehöriger, ist<lb facs="#facs_778_r24"/>als Seminarlehrer
+            (Erziehungswissenschafter für die Sekundarlehreraus<lb break="no" facs="#facs_778_r25"/>bildung) bei der Direktion der Sekundar- und Fachlehrerausbildung an<lb facs="#facs_778_r26"/>der Universität Zürich (SFA) gewählt worden.<lb facs="#facs_778_r27"/>Walter Frei, Sekretär mit besondern Aufgaben bei der Abteilung
+              Volks<lb break="no" facs="#facs_778_r28"/>schule der Erziehungsdirektion, ist unter
+            Verdankung der geleisteten<lb facs="#facs_778_r29"/>Dienste auf Ende Dezember aus dem Staatsdienst entlassen worden.</p>
+		</body></text></TEI>

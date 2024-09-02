@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 199. Sitzung. Montag, 15. November 1982, 14.30 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1983-02-25">25.02.1983</date><ident>StAZH ABl 1983 (S. 220)</ident><idno>220</idno><idno type="issue">8</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132966"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_221" uly="0" ulx="0" lry="2392" lrx="1605">
+			<graphic url="Abl_1983_1__S__0221.tif" width="1605px" height="2392px"/>
+			<zone xml:id="facs_221_r36" ulx="310" uly="1548" lrx="1221" lry="1580" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r13" ulx="327" uly="560" lrx="526" lry="589" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r35" ulx="312" uly="1496" lrx="1192" lry="1526" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r34" ulx="312" uly="1450" lrx="1492" lry="1482" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r10" ulx="929" uly="437" lrx="1221" lry="465" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r9" ulx="400" uly="437" lrx="904" lry="465" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r18" ulx="525" uly="870" lrx="1282" lry="903" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r15" ulx="1006" uly="606" lrx="1484" lry="632" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r2" ulx="393" uly="237" lrx="1063" lry="266" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r19" ulx="450" uly="964" lrx="821" lry="994" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r46" ulx="308" uly="2012" lrx="683" lry="2042" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r41" ulx="309" uly="1783" lrx="1232" lry="1814" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r16" ulx="1008" uly="652" lrx="1244" lry="677" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r3" ulx="1081" uly="237" lrx="1367" lry="266" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r29" ulx="650" uly="1214" lrx="1177" lry="1242" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r38" ulx="840" uly="1660" lrx="1178" lry="1690" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r30" ulx="314" uly="1270" lrx="464" lry="1293" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r44" ulx="306" uly="1914" lrx="1488" lry="1945" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r28" ulx="312" uly="1212" lrx="644" lry="1242" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r26" ulx="1217" uly="1125" lrx="1493" lry="1153" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r12" ulx="401" uly="481" lrx="1277" lry="510" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r32" ulx="313" uly="1358" lrx="419" lry="1382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r25" ulx="910" uly="1125" lrx="1211" lry="1154" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r14" ulx="535" uly="558" lrx="815" lry="586" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r24" ulx="314" uly="1125" lrx="879" lry="1154" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r7" ulx="315" uly="391" lrx="385" lry="418" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r21" ulx="1177" uly="964" lrx="1350" lry="992" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r22" ulx="314" uly="1033" lrx="1493" lry="1064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r45" ulx="343" uly="1962" lrx="973" lry="1992" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r20" ulx="829" uly="964" lrx="1170" lry="994" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r5" ulx="398" uly="279" lrx="1490" lry="309" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r31" ulx="312" uly="1308" lrx="1494" lry="1339" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r8" ulx="393" uly="391" lrx="1492" lry="422" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r11" ulx="1229" uly="437" lrx="1491" lry="465" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r39" ulx="1186" uly="1660" lrx="1343" lry="1688" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r6" ulx="400" uly="329" lrx="842" lry="355" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r1" ulx="314" uly="239" lrx="387" lry="264" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r48" ulx="312" uly="2110" lrx="1494" lry="2142" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r42" ulx="306" uly="1827" lrx="1486" lry="1858" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r4" ulx="1375" uly="237" lrx="1488" lry="265" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r17" ulx="1008" uly="695" lrx="1298" lry="721" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r27" ulx="311" uly="1164" lrx="1477" lry="1198" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r23" ulx="313" uly="1079" lrx="1494" lry="1110" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r43" ulx="347" uly="1873" lrx="627" lry="1899" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r47" ulx="312" uly="2064" lrx="1486" lry="2098" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r40" ulx="310" uly="1733" lrx="566" lry="1758" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r37" ulx="460" uly="1658" lrx="831" lry="1689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r33" ulx="316" uly="1406" lrx="846" lry="1437" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_221_r0" ulx="312" uly="156" lrx="368" lry="180" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="220" facs="#facs_221"/>
+			<p>
+				<lb facs="#facs_221_r22"/>3. Beschluss des Kantonsrates über die Bewilligung eines Kredites für<lb facs="#facs_221_r23"/>den Bau der Umfahrungsstrasse Eglisau, Stadtforen bis Chrüzstrasse<lb facs="#facs_221_r24"/>(Antrag des Regierungsrates vom <date when="1981-08-19">19. August 1981,</date> Amtsblatt 1981,<lb facs="#facs_221_r27"/>Textteil, Seite 1433, und abgeänderter Antrag der Kommission vom<lb facs="#facs_221_r28"/><date when="1982-09-28">28. September 1982</date> Amtsblatt, Textteil, Seite 1136)</p>
+			<p>
+				<lb facs="#facs_221_r30"/>Eintreten</p>
+			<p>
+				<lb facs="#facs_221_r31"/>Der Rat beschliesst mit 75:34 Stimmen, auf die Vorlage 2457 a einzu<lb break="no" facs="#facs_221_r32"/>treten.</p>
+			<p>
+				<lb facs="#facs_221_r33"/>Abstimmung über Rückweisung</p>
+			<p>
+				<lb facs="#facs_221_r34"/>Für Rückweisung an den Regierungsrat stimmen 59 Ratsmitglieder, für<lb facs="#facs_221_r35"/>Behandlung der Vorlage stimmen 58 Ratsmitglieder.</p>
+			<p>
+				<lb facs="#facs_221_r36"/>Die Vorlage ist an den Regierungsrat zurückgewiesen.</p>
+		</body></text></TEI>

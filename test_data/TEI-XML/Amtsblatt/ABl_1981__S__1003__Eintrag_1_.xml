@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-04-08">08.04.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] vom 18. März 1981</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-05-22">22.05.1981</date><ident>StAZH ABl 1981 (S. 1003, Eintrag 1)</ident><idno>1003</idno><idno type="issue">26</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132314"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_15" uly="0" ulx="0" lry="2372" lrx="1577">
+			<graphic url="Abl_1981_2__S__0015.tif" width="1577px" height="2372px"/>
+			<zone xml:id="facs_15_r22" ulx="128" uly="1354" lrx="1299" lry="1383" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r15" ulx="129" uly="946" lrx="1134" lry="976" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r26" ulx="127" uly="1575" lrx="1003" lry="1606" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r23" ulx="127" uly="1398" lrx="1285" lry="1427" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r35" ulx="125" uly="2065" lrx="1289" lry="2096" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r0" ulx="1228" uly="143" lrx="1295" lry="165" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r32" ulx="123" uly="1909" lrx="1296" lry="1939" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r34" ulx="125" uly="2021" lrx="1295" lry="2050" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r17" ulx="129" uly="1046" lrx="533" lry="1074" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r19" ulx="556" uly="1227" lrx="615" lry="1249" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r7" ulx="129" uly="554" lrx="926" lry="583" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r1" ulx="210" uly="223" lrx="1207" lry="263" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r12" ulx="129" uly="806" lrx="1295" lry="832" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r33" ulx="125" uly="1955" lrx="579" lry="1982" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r13" ulx="129" uly="848" lrx="1295" lry="877" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r21" ulx="129" uly="1313" lrx="1295" lry="1339" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r29" ulx="127" uly="1730" lrx="1293" lry="1760" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r27" ulx="127" uly="1644" lrx="1295" lry="1672" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r9" ulx="131" uly="654" lrx="1203" lry="680" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r2" ulx="565" uly="329" lrx="623" lry="351" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r11" ulx="128" uly="750" lrx="986" lry="778" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r20" ulx="636" uly="1221" lrx="878" lry="1246" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r24" ulx="125" uly="1488" lrx="1297" lry="1517" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r30" ulx="125" uly="1775" lrx="702" lry="1804" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r3" ulx="646" uly="325" lrx="876" lry="350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r5" ulx="125" uly="456" lrx="859" lry="486" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r16" ulx="127" uly="996" lrx="1299" lry="1026" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r8" ulx="129" uly="606" lrx="1297" lry="638" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r6" ulx="131" uly="508" lrx="1299" lry="539" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r31" ulx="120" uly="1867" lrx="1295" lry="1893" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r14" ulx="129" uly="900" lrx="1297" lry="929" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r28" ulx="125" uly="1688" lrx="1295" lry="1717" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r4" ulx="129" uly="412" lrx="1293" lry="441" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r18" ulx="125" uly="1096" lrx="1225" lry="1126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r25" ulx="129" uly="1532" lrx="1301" lry="1562" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_15_r10" ulx="131" uly="706" lrx="1299" lry="732" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1003" facs="#facs_15"/>
+			<p>
+				<lb facs="#facs_15_r4"/>als Oberarzt an der Chirurgischen Klinik B des
+            Universitätsspitals: Dr.<lb facs="#facs_15_r5"/>Gianni Rigoni, von Gorduno TI, in
+            Zürich;</p>
+			<p>
+				<lb facs="#facs_15_r6"/>als Oberarzt an der Dermatologischen Klinik des
+              Universitätsspitals:<lb facs="#facs_15_r7"/>Dr. Mario Stieger, von Oberriet SG, in
+            Zürich;</p>
+			<p>
+				<lb facs="#facs_15_r8"/>als Oberarzt an der Medizinischen Poliklinik des
+            Universitätsspitals: Dr.<lb facs="#facs_15_r9"/>Otto Hess, von Wald und
+            Illnau-Effretikon, in Illnau-Effretikon;</p>
+			<p>
+				<lb facs="#facs_15_r10"/>als ausserordentlicher Bezirksanwalt bei der
+              Bezirksanwaltschaft<lb facs="#facs_15_r11"/>Zürich: Dr. iur. Hugo Horvath, von und in
+            Zürich;</p>
+			<p>
+				<lb facs="#facs_15_r12"/>als ausserordentlicher Bezirksanwalt mit Amtsbefugnis für das
+              ganze<lb facs="#facs_15_r13"/>Kantonsgebiet: Georg Staub, lic. iur ., von
+            Hombrechtikon, in Meilen;</p>
+			<p>
+				<lb facs="#facs_15_r14"/>als Sekretär im Sekretariat der Steuer-Rekurskommission:
+              Bernhard<lb facs="#facs_15_r15"/>Greminger, lic. iur ., von Stein a. Rh. und Zürich,
+            in Zürich;</p>
+			<p>
+				<lb facs="#facs_15_r16"/>als Chef der Registerabteilung des Steueramtes: Hans Gibel, von
+              Tur<lb break="no" facs="#facs_15_r17"/>benthal, in Feuerthalen;</p>
+			<p>
+				<lb facs="#facs_15_r18"/>als Steuerkommissär: Robert Meisterhans, von und in
+            Winterthur.</p>
+		</body></text></TEI>

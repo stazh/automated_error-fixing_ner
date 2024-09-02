@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-18">18.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 65. Sitzung. Montag, 30. Juni 1980, 14.30 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-10-24">24.10.1980</date><ident>StAZH ABl 1980 (S. 1159)</ident><idno>1159</idno><idno type="issue">76</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132034"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_423" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0423.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_423_r20" ulx="230" uly="1283" lrx="493" lry="1312" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r0" ulx="1345" uly="168" lrx="1429" lry="192" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r11" ulx="389" uly="972" lrx="804" lry="1005" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r9" ulx="909" uly="664" lrx="1371" lry="695" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r3" ulx="277" uly="312" lrx="1434" lry="348" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r12" ulx="810" uly="972" lrx="1082" lry="1005" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r26" ulx="141" uly="1641" lrx="448" lry="1666" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r2" ulx="268" uly="266" lrx="1433" lry="300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r7" ulx="850" uly="560" lrx="1433" lry="589" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r13" ulx="1089" uly="970" lrx="1288" lry="1003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r14" ulx="235" uly="1068" lrx="1435" lry="1102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r5" ulx="279" uly="464" lrx="506" lry="495" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r34" ulx="668" uly="2068" lrx="976" lry="2098" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r37" ulx="168" uly="2202" lrx="1444" lry="2235" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r22" ulx="145" uly="1393" lrx="716" lry="1426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r31" ulx="235" uly="1947" lrx="820" lry="1977" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r21" ulx="233" uly="1345" lrx="1442" lry="1378" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r16" ulx="147" uly="1170" lrx="427" lry="1203" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r4" ulx="278" uly="364" lrx="1185" lry="396" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r35" ulx="983" uly="2068" lrx="1166" lry="2096" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r23" ulx="227" uly="1462" lrx="462" lry="1490" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r36" ulx="235" uly="2133" lrx="902" lry="2165" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r8" ulx="991" uly="610" lrx="1297" lry="639" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r6" ulx="520" uly="460" lrx="856" lry="494" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r18" ulx="708" uly="1168" lrx="1429" lry="1199" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r28" ulx="750" uly="1779" lrx="1073" lry="1812" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r1" ulx="191" uly="270" lrx="258" lry="300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r30" ulx="235" uly="1881" lrx="552" lry="1909" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r19" ulx="146" uly="1218" lrx="1121" lry="1251" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r38" ulx="233" uly="2254" lrx="1435" lry="2286" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r29" ulx="1081" uly="1779" lrx="1259" lry="1811" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r27" ulx="329" uly="1781" lrx="741" lry="1813" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r17" ulx="456" uly="1170" lrx="691" lry="1200" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r33" ulx="143" uly="2068" lrx="660" lry="2098" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r10" ulx="337" uly="877" lrx="1242" lry="913" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r25" ulx="233" uly="1583" lrx="1438" lry="1615" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r32" ulx="229" uly="2016" lrx="1420" lry="2048" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r39" ulx="235" uly="2310" lrx="352" lry="2335" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r24" ulx="232" uly="1523" lrx="510" lry="1552" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_423_r15" ulx="145" uly="1120" lrx="1427" lry="1151" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1159" facs="#facs_423"/>
+			<p>
+				<lb facs="#facs_423_r14"/>19. Postulat Prof. Dr. Franz Hafner (SP, Wetzikon), Dr.<lb facs="#facs_423_r15"/>Annette Birchmeier (SP, Fällanden) und Dr. Ursula Leemann<lb facs="#facs_423_r16"/>(SP, Egg) vom <date when="1980-05-05">5. Mai 1980</date> betreffend die Volksabstimmungen<lb facs="#facs_423_r19"/>über die Umfahrungen von Wetzikon und Uster.</p>
+			<p>
+				<lb facs="#facs_423_r20"/>Begründung.<lb facs="#facs_423_r21"/>Regierungsrat A. Sigrist nimmt namens des Regierungs<lb break="no" facs="#facs_423_r22"/>rates zum Postulat Stellung.</p>
+			<p>
+				<lb facs="#facs_423_r23"/>Diskussion.<lb facs="#facs_423_r24"/>Abstimmung.<lb facs="#facs_423_r25"/>Der Rat beschliesst mit 63 : 37 Stimmen, das Postulat nicht<lb facs="#facs_423_r26"/>zu überweisen.</p>
+		</body></text></TEI>

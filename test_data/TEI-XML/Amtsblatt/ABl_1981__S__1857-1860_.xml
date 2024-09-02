@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-04-08">08.04.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>B. Der Gegenvorschlag des Kantonsrates Gesetz über die direkten Steuern (Steuergesetz) (Änderung)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-12-08">08.12.1981</date><ident>StAZH ABl 1981 (S. 1857-1860)</ident><idno>1857–1860</idno><idno type="issue">55</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132520"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_869" uly="0" ulx="0" lry="2364" lrx="1578">
+			<graphic url="Abl_1981_2__S__0869.tif" width="1578px" height="2364px"/>
+			<zone xml:id="facs_869_r15" ulx="132" uly="825" lrx="1298" lry="857" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r9" ulx="131" uly="612" lrx="1294" lry="646" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r18" ulx="137" uly="1100" lrx="471" lry="1129" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r30" ulx="694" uly="1492" lrx="1302" lry="1521" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r3" ulx="138" uly="331" lrx="371" lry="367" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r7" ulx="131" uly="527" lrx="1296" lry="556" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r5" ulx="462" uly="481" lrx="689" lry="510" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r17" ulx="133" uly="1021" lrx="300" lry="1047" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r14" ulx="131" uly="779" lrx="1284" lry="811" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r22" ulx="137" uly="1313" lrx="725" lry="1343" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r27" ulx="135" uly="1444" lrx="1301" lry="1475" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r32" ulx="131" uly="1580" lrx="1307" lry="1609" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r12" ulx="1313" uly="783" lrx="1452" lry="808" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r45" ulx="125" uly="2128" lrx="573" lry="2157" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r25" ulx="133" uly="1357" lrx="1303" lry="1387" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r44" ulx="181" uly="2086" lrx="1294" lry="2115" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r16" ulx="127" uly="873" lrx="253" lry="901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r6" ulx="696" uly="483" lrx="1298" lry="512" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r21" ulx="135" uly="1269" lrx="1304" lry="1300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r31" ulx="131" uly="1536" lrx="1300" lry="1565" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r24" ulx="1015" uly="1315" lrx="1307" lry="1344" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r34" ulx="131" uly="1665" lrx="1300" lry="1697" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r41" ulx="211" uly="1801" lrx="1080" lry="1831" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r36" ulx="900" uly="1713" lrx="1095" lry="1742" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r10" ulx="129" uly="658" lrx="1200" lry="689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r2" ulx="137" uly="279" lrx="1104" lry="316" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r1" ulx="133" uly="227" lrx="982" lry="262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r40" ulx="135" uly="1803" lrx="204" lry="1828" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r23" ulx="754" uly="1317" lrx="1000" lry="1345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r19" ulx="191" uly="1179" lrx="1304" lry="1210" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r38" ulx="131" uly="1759" lrx="1133" lry="1788" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r4" ulx="187" uly="483" lrx="446" lry="510" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r26" ulx="131" uly="1400" lrx="1305" lry="1431" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r35" ulx="130" uly="1709" lrx="885" lry="1741" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r11" ulx="1315" uly="746" lrx="1515" lry="772" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r20" ulx="133" uly="1225" lrx="1307" lry="1254" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r42" ulx="123" uly="1924" lrx="1265" lry="1956" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r39" ulx="1159" uly="1759" lrx="1300" lry="1787" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r0" ulx="1226" uly="143" lrx="1298" lry="166" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r8" ulx="133" uly="569" lrx="1300" lry="599" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r33" ulx="127" uly="1623" lrx="1302" lry="1654" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r13" ulx="185" uly="740" lrx="1300" lry="770" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r28" ulx="131" uly="1492" lrx="452" lry="1520" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r43" ulx="129" uly="2005" lrx="531" lry="2033" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r29" ulx="475" uly="1490" lrx="685" lry="1521" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_869_r37" ulx="1100" uly="1713" lrx="1305" lry="1741" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_870" uly="0" ulx="0" lry="2364" lrx="1584">
+			<graphic url="Abl_1981_2__S__0870.tif" width="1584px" height="2364px"/>
+			<zone xml:id="facs_870_r28" ulx="268" uly="1565" lrx="1448" lry="1594" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r10" ulx="273" uly="721" lrx="921" lry="753" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r26" ulx="323" uly="1475" lrx="1448" lry="1505" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r21" ulx="268" uly="1244" lrx="1449" lry="1275" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r5" ulx="327" uly="419" lrx="1447" lry="449" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r13" ulx="268" uly="892" lrx="1446" lry="920" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r35" ulx="273" uly="1988" lrx="1447" lry="2020" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r27" ulx="266" uly="1519" lrx="1452" lry="1550" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r33" ulx="320" uly="1899" lrx="1448" lry="1929" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r17" ulx="266" uly="1067" lrx="1448" lry="1098" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r12" ulx="269" uly="846" lrx="1450" lry="875" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r4" ulx="325" uly="366" lrx="754" lry="397" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r7" ulx="266" uly="508" lrx="1445" lry="539" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r23" ulx="268" uly="1334" lrx="1448" lry="1364" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r20" ulx="270" uly="1202" lrx="1444" lry="1230" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r30" ulx="270" uly="1655" lrx="1269" lry="1683" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r19" ulx="268" uly="1156" lrx="1450" lry="1186" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r16" ulx="270" uly="1023" lrx="1447" lry="1052" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r3" ulx="268" uly="318" lrx="1449" lry="351" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r11" ulx="325" uly="802" lrx="1442" lry="830" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r31" ulx="270" uly="1774" lrx="1338" lry="1806" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r36" ulx="270" uly="2032" lrx="1444" lry="2064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r22" ulx="268" uly="1290" lrx="1446" lry="1319" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r32" ulx="273" uly="1821" lrx="589" lry="1848" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r2" ulx="325" uly="273" lrx="885" lry="299" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r37" ulx="273" uly="2076" lrx="1448" lry="2107" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r9" ulx="268" uly="598" lrx="441" lry="623" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r24" ulx="272" uly="1375" lrx="1445" lry="1409" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r8" ulx="270" uly="552" lrx="1446" lry="583" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r29" ulx="272" uly="1603" lrx="1448" lry="1638" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r25" ulx="268" uly="1425" lrx="1210" lry="1453" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r1" ulx="266" uly="225" lrx="1446" lry="255" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r15" ulx="268" uly="979" lrx="1447" lry="1009" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r14" ulx="268" uly="933" lrx="1448" lry="964" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r6" ulx="266" uly="464" lrx="1446" lry="494" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r34" ulx="270" uly="1944" lrx="1450" lry="1975" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r0" ulx="267" uly="145" lrx="338" lry="168" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_870_r18" ulx="266" uly="1113" lrx="1444" lry="1143" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_871" uly="0" ulx="0" lry="2362" lrx="1578">
+			<graphic url="Abl_1981_2__S__0871.tif" width="1578px" height="2362px"/>
+			<zone xml:id="facs_871_r15" ulx="193" uly="860" lrx="1054" lry="891" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r31" ulx="195" uly="1532" lrx="1304" lry="1564" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r25" ulx="139" uly="1257" lrx="1307" lry="1291" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r10" ulx="133" uly="629" lrx="1303" lry="660" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r38" ulx="139" uly="1961" lrx="1305" lry="1990" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r3" ulx="137" uly="318" lrx="1303" lry="349" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r22" ulx="137" uly="1127" lrx="1301" lry="1158" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r21" ulx="137" uly="1081" lrx="1303" lry="1112" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r1" ulx="133" uly="231" lrx="1299" lry="262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r27" ulx="133" uly="1348" lrx="1303" lry="1380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r4" ulx="135" uly="362" lrx="1302" lry="394" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r17" ulx="133" uly="904" lrx="1302" lry="935" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r37" ulx="135" uly="1917" lrx="1303" lry="1947" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r18" ulx="137" uly="948" lrx="1304" lry="980" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r41" ulx="135" uly="2095" lrx="1307" lry="2127" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r0" ulx="1227" uly="143" lrx="1300" lry="166" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r32" ulx="137" uly="1580" lrx="1129" lry="1612" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r29" ulx="137" uly="1434" lrx="1294" lry="1467" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r23" ulx="135" uly="1169" lrx="1304" lry="1202" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r28" ulx="137" uly="1394" lrx="1305" lry="1425" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r39" ulx="137" uly="2005" lrx="1309" lry="2036" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r36" ulx="137" uly="1872" lrx="1307" lry="1902" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r6" ulx="133" uly="452" lrx="1303" lry="483" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r40" ulx="139" uly="2053" lrx="1307" lry="2082" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r8" ulx="135" uly="539" lrx="1301" lry="571" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r26" ulx="137" uly="1302" lrx="1303" lry="1334" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r33" ulx="137" uly="1705" lrx="1111" lry="1735" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r14" ulx="135" uly="808" lrx="1242" lry="839" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r24" ulx="133" uly="1215" lrx="1304" lry="1247" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r12" ulx="135" uly="719" lrx="1303" lry="749" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r5" ulx="133" uly="406" lrx="1301" lry="439" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r7" ulx="135" uly="496" lrx="1298" lry="526" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r20" ulx="133" uly="1038" lrx="1302" lry="1070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r13" ulx="133" uly="763" lrx="1305" lry="793" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r19" ulx="133" uly="992" lrx="1300" lry="1022" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r34" ulx="193" uly="1786" lrx="1311" lry="1815" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r35" ulx="135" uly="1830" lrx="1309" lry="1858" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r16" ulx="1073" uly="858" lrx="1302" lry="888" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r9" ulx="133" uly="581" lrx="1303" lry="615" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r30" ulx="137" uly="1484" lrx="759" lry="1513" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r11" ulx="135" uly="675" lrx="1302" lry="704" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_871_r2" ulx="135" uly="275" lrx="1301" lry="305" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_872" uly="0" ulx="0" lry="2367" lrx="1584">
+			<graphic url="Abl_1981_2__S__0872.tif" width="1584px" height="2367px"/>
+			<zone xml:id="facs_872_r6" ulx="268" uly="527" lrx="958" lry="562" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r39" ulx="1112" uly="2104" lrx="1294" lry="2133" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r1" ulx="270" uly="231" lrx="1450" lry="261" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r13" ulx="270" uly="795" lrx="1429" lry="829" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r0" ulx="273" uly="150" lrx="343" lry="172" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r11" ulx="323" uly="708" lrx="1447" lry="740" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r14" ulx="323" uly="847" lrx="1446" lry="881" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r22" ulx="266" uly="1212" lrx="1442" lry="1243" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r33" ulx="270" uly="1910" lrx="466" lry="1939" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r21" ulx="323" uly="1170" lrx="1444" lry="1200" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r32" ulx="264" uly="1783" lrx="758" lry="1812" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r23" ulx="266" uly="1258" lrx="1444" lry="1289" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r7" ulx="325" uly="608" lrx="1046" lry="641" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r2" ulx="270" uly="270" lrx="1444" lry="304" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r25" ulx="259" uly="1425" lrx="476" lry="1454" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r29" ulx="262" uly="1639" lrx="1200" lry="1671" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r37" ulx="754" uly="2100" lrx="949" lry="2126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r27" ulx="266" uly="1548" lrx="1442" lry="1581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r24" ulx="262" uly="1302" lrx="1383" lry="1332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r38" ulx="1110" uly="2058" lrx="1448" lry="2086" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r15" ulx="266" uly="895" lrx="1446" lry="926" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r19" ulx="266" uly="1070" lrx="1444" lry="1103" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r5" ulx="268" uly="406" lrx="485" lry="435" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r3" ulx="270" uly="316" lrx="1436" lry="350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r17" ulx="266" uly="981" lrx="1442" lry="1014" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r9" ulx="1296" uly="612" lrx="1448" lry="643" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r30" ulx="323" uly="1691" lrx="1444" lry="1723" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r35" ulx="756" uly="2002" lrx="1279" lry="2034" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r8" ulx="1067" uly="614" lrx="1290" lry="643" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r16" ulx="268" uly="939" lrx="1446" lry="971" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r4" ulx="270" uly="362" lrx="1450" lry="394" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r10" ulx="264" uly="652" lrx="1203" lry="687" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r12" ulx="266" uly="752" lrx="1446" lry="784" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r34" ulx="477" uly="1912" lrx="804" lry="1940" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r31" ulx="269" uly="1737" lrx="1448" lry="1768" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r18" ulx="264" uly="1031" lrx="1444" lry="1059" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r26" ulx="320" uly="1506" lrx="1440" lry="1537" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r28" ulx="264" uly="1598" lrx="1442" lry="1628" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r36" ulx="750" uly="2056" lrx="996" lry="2083" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_872_r20" ulx="261" uly="1116" lrx="1186" lry="1148" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1857" facs="#facs_869"/>
+			<p>
+				<lb facs="#facs_869_r4"/>Mit Antrag vom <date when="1981-03-11">11. März 1981</date> hat
+          der Regierungsrat eine Gesetzes<lb break="no" facs="#facs_869_r7"/>vorlage zur
+          Teilrevision des Steuergesetzes verabschiedet. Die in den<lb facs="#facs_869_r8"/>Art. I-V
+          formulierten Anträge (Amtsblatt 1981 S. 707-714; Separat<lb break="no" facs="#facs_869_r9"/>druck S. 7-14) bilden unverändert auch den Gegenvorschlag des Kan<lb break="no" facs="#facs_869_r10"/>tonsrates zu dieser Vorlage. Art. I wird zudem wie folgt
+          ergänzt:</p>
+			<p>
+				<add type="marginal" place="right">
+					<lb facs="#facs_869_r11"/>c) Dienstalters<lb break="no" facs="#facs_869_r12"/>geschenke</add>
+			</p>
+			<p>
+				<lb facs="#facs_869_r13"/>§ 21. Dienstaltersgeschenke, die nach mindestens
+            zwanzigjähriger<lb facs="#facs_869_r14"/>Dauer eines Arbeitsverhältnisses ausgerichtet
+          werden, sind nur in dem<lb facs="#facs_869_r15"/>Umfang steuerbar, in dem sie
+          zusammengerechnet Fr. 7000 .- über<lb break="no" facs="#facs_869_r16"/>steigen.</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_869_r17"/>Weisung</head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_869_r18"/>I. Vorbemerkungen</head>
+					<p>
+						<lb facs="#facs_869_r19"/>Der Regierungsrat hat sich in diesem Jahr bereits wiederholt
+                mit<lb facs="#facs_869_r20"/>Vorstössen von Volk, Parlament und privaten Verbänden
+              befasst, die<lb facs="#facs_869_r21"/>eine Änderung der geltenden Steuerordnung
+              verlangen. Antrag und<lb facs="#facs_869_r22"/>Weisung des Regierungsrates vom <date when="1981-03-11">11. März 1981</date> (Amtsblatt 1981,<lb facs="#facs_869_r25"/>S.
+              700ff.) befassen sich mit nicht weniger als 2 Volksinitiativen,<lb facs="#facs_869_r26"/>14 Motionen und 33 Postulaten, die im Hinblick auf die
+                bevorstehende<lb facs="#facs_869_r27"/>Änderung des Steuergesetzes eingereicht
+              worden sind. In einem ergän<lb break="no" facs="#facs_869_r28"/>zenden Antrag vom
+                <date when="1981-07-15">15. Juli 1981</date> (Amtsblatt 1981, S. 1317) nimmt der<lb facs="#facs_869_r31"/>Regierungsrat zu drei weiteren Volksinitiativen sowie zur
+                Motion<lb facs="#facs_869_r32"/>Nr. 2015 und zu den Einzelinitiativen Erich und
+              Margot Werder-Walder<lb facs="#facs_869_r33"/>sowie Jürg A. Soldan Stellung. Die
+              vorliegende Volksinitiative und die<lb facs="#facs_869_r34"/>Motion Nr. 2033 (vgl.
+              Ziffer III) wurden dem Regierungsrat erst nach<lb facs="#facs_869_r35"/>Verabschiedung
+              der ergänzenden Vorlage vom <date when="1981-07-15">15. Juli 1981</date> zum
+                Bericht<lb facs="#facs_869_r38"/>und Antrag überwiesen, weshalb Antrag und Weisung
+              vom <date when="1981-03-11">11. März<lb facs="#facs_869_r40"/>1981</date> durch eine
+              weitere Vorlage ergänzt werden müssen.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_869_r42"/>II. Die Volksinitiative «für Rechtsgleichheit in der
+              Steuerbelastung»</head>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_869_r43"/>A. Die Initiativbegehren</head>
+						<p>
+							<lb facs="#facs_869_r44"/>Die Volksinitiative fordert eine Ergänzung der
+                  Kantonsverfassung.<lb facs="#facs_869_r45"/>Sie enthält zwei Begehren:</p>
+						<pb n="1858" facs="#facs_870"/>
+						<p>
+							<lb facs="#facs_870_r1"/>1. Keine stärkere Steuerbelastung für erwerbstätige
+                Ehepaare im Ver<lb break="no" facs="#facs_870_r2"/>gleich zu unverheirateten
+                Paaren.</p>
+						<p>
+							<lb facs="#facs_870_r3"/>2. Zusätzliche Entlastung von Ehepaaren mit Kindern, falls
+                die Ehe<lb break="no" facs="#facs_870_r4"/>frau nicht erwerbstätig ist.</p>
+						<p>
+							<lb facs="#facs_870_r5"/>Zur Begründung des ersten Begehrens führen die Initianten
+                  lediglich<lb facs="#facs_870_r6"/>aus, nach dem heute geltenden Steuergesetz seien
+                erwerbstätige Ehe<lb break="no" facs="#facs_870_r7"/>paare und Familien gegenüber im
+                Konkubinat lebenden Paaren stark<lb facs="#facs_870_r8"/>benachteiligt. Zum zweiten
+                Begehren fehlt eine Stellungnahme der<lb facs="#facs_870_r9"/>Initianten.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_870_r10"/>B. Zur Frage der Verfassungsänderung</head>
+						<p>
+							<lb facs="#facs_870_r11"/>Für das zürcherische Steuerrecht finden sich die
+                Grundlagen in<lb facs="#facs_870_r12"/>Art. 19 der Kantonsverfassung. Es sind - nach
+                der Bezeichnung des<lb facs="#facs_870_r13"/>zweiten Abschnittes der Verfassung -
+                «volks- und staatswirtschaftliche<lb facs="#facs_870_r14"/>Grundsätze». Sie richten
+                sich vor allem an den Gesetzgeber, weisen der<lb facs="#facs_870_r15"/>Steuerpolitik
+                Weg und Richtung. Für die Rechtsanwendung im Einzel<lb break="no" facs="#facs_870_r16"/>fall lässt sich im allgemeinen aus der Verfassung keine
+                konkrete Lösung<lb facs="#facs_870_r17"/>gewinnen. Die Verfassung bedarf
+                notwendigerweise der Konkretisie<lb break="no" facs="#facs_870_r18"/>rung durch die
+                Steuergesetze. Diese bestimmen das Wie; sie führen aus,<lb facs="#facs_870_r19"/>in
+                welcher Weise die Steuerpflichtigen ihren Beitrag an die Lasten des<lb facs="#facs_870_r20"/>Staates und der Gemeinden leisten sollen. In die Verfassung
+                  sollen<lb facs="#facs_870_r21"/>grundsätzlich nur allgemeine Leitsätze, die
+                Grundideen der Staatsord<lb break="no" facs="#facs_870_r22"/>nung aufgenommen
+                werden. Dem Gesetzgeber muss ein möglichst<lb facs="#facs_870_r23"/>grosser Freiraum
+                zugestanden werden. Nur so ist gewährleistet, dass die<lb facs="#facs_870_r24"/>Verfassung - ohne Revision - die jeweiligen politischen, ökonomischen<lb facs="#facs_870_r25"/>und gesellschaftlichen Veränderungen überdauern kann.</p>
+						<p>
+							<lb facs="#facs_870_r26"/>Ohne die grosse Bedeutung der von den Initianten
+                  aufgegriffenen<lb facs="#facs_870_r27"/>Frage zu verkennen, muss in diesem Lichte
+                betrachtet doch festgestellt<lb facs="#facs_870_r28"/>werden, dass zur sachgerechten
+                Steuerbelastung der Ehepaare und<lb facs="#facs_870_r29"/>Familien keine
+                Verfassungsänderung notwendig ist. Es handelt sich hier<lb facs="#facs_870_r30"/>um
+                eine Frage, die auf Gesetzesstufe geregelt werden muss.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_870_r31"/>C. Die Besteuerung der erwerbstätigen Ehegatten im
+                Verhältnis zu<lb facs="#facs_870_r32"/>Konkubinatspaaren</head>
+						<p>
+							<lb facs="#facs_870_r33"/>Die Entlastung der Ehegatten ist sachlich begründet. Der
+                  Regie<lb break="no" facs="#facs_870_r34"/>rungsrat schlägt in konsequenter
+                Verfolgung des bei der letzten Geset<lb break="no" facs="#facs_870_r35"/>zesrevision
+                eingeschlagenen Weges eine weitere Entlastung des verhei<lb break="no" facs="#facs_870_r36"/>rateten Steuerpflichtigen gegenüber dem Alleinstehenden vor.
+                Die Ent<lb break="no" facs="#facs_870_r37"/>lastung des verheirateten Paares im
+                Vergleich zum Alleinstehenden</p>
+						<pb n="1859" facs="#facs_871"/>
+						<p>
+							<lb facs="#facs_871_r1"/>wirkt sich zwangsläufig auch auf das Konkubinatspaar aus.
+                Die zwischen<lb facs="#facs_871_r2"/>dem Ehepaar und dem Konkubinatspaar bei
+                gleichem Einkommen<lb facs="#facs_871_r3"/>bestehenden Steuerbelastungsunterschiede
+                werden weitgehend gemil<lb break="no" facs="#facs_871_r4"/>dert (vgl. dazu
+                Belastungsvergleiche im Amtsblatt 1981, S. 834; Separat<lb break="no" facs="#facs_871_r5"/>druck S. 134). Allerdings ist das Konkubinatspaar auch nach
+                dem regie<lb break="no" facs="#facs_871_r6"/>rungsrätlichen Vorschlag gegenüber dem
+                Ehepaar noch bevorteilt.<lb facs="#facs_871_r7"/>Diese Unebenheit muss in Kauf
+                genommen werden. Bei hohen Einkom<lb break="no" facs="#facs_871_r8"/>men könnte sie
+                nur dann ausgeschaltet werden, wenn der Alleinste<lb break="no" facs="#facs_871_r9"/>hende im Vergleich zum verheirateten Steuerpflichtigen über Gebühr<lb facs="#facs_871_r10"/>belastet würde. Eine völlige Gleichstellung im Bereiche der
+                  Steuern<lb facs="#facs_871_r11"/>vom Einkommen und Vermögen liesse sich nur durch
+                  gemeinsame<lb facs="#facs_871_r12"/>Veranlagung des Konkubinatspaares - analog der
+                  Ehegattenbesteue<lb break="no" facs="#facs_871_r13"/>rung - erreichen. Es braucht
+                nicht besonders begründet zu werden, dass<lb facs="#facs_871_r14"/>eine solche
+                Lösung verwaltungstechnisch nicht zu bewältigen wäre.</p>
+						<p>
+							<lb facs="#facs_871_r15"/>Wie bereits in der Weisung zur Gesetzesvorlage vom <date when="1981-03-11">11. März 1981</date><lb facs="#facs_871_r17"/>einlässlich
+                dargelegt wurde (vgl. Amtsblatt 1981, S. 822; Separatdruck<lb facs="#facs_871_r18"/>S. 122), werden die meisten Paare kaum des fiskalischen Vorteils des<lb facs="#facs_871_r19"/>Konkubinats wegen auf die umfassende rechtliche und
+                finanzielle Bes<lb break="no" facs="#facs_871_r20"/>serstellung und Sicherheit,
+                welche ihnen das Institut der Ehe bietet,<lb facs="#facs_871_r21"/>verzichten. Die
+                im Konkubinat lebenden Personen sind von manchen<lb facs="#facs_871_r22"/>Vorteilen
+                ausgeschlossen, die den Verheirateten zustehen. Zu erwähnen<lb facs="#facs_871_r23"/>sind die Leistungen aus Personalversicherungen, die erbrechtlichen und<lb facs="#facs_871_r24"/>güterrechtlichen Folgen, die Ansprüche gegenüber der
+                  Sozialversicher<lb facs="#facs_871_r25"/>rung, nicht zuletzt aber auch die
+                steuerlichen Folgen der Ehe wie<lb facs="#facs_871_r26"/>Aufhebung der steuerlichen
+                Schranken innerhalb der Familie, steuerli<lb break="no" facs="#facs_871_r27"/>che
+                Privilegierung der güterrechtlichen Ansprüche des überlebenden<lb facs="#facs_871_r28"/>Ehegatten, Steuerbefreiung des Ehepartners bei der
+                  Erbschaftssteuer.<lb facs="#facs_871_r29"/>Insgesamt sind diese Vorteile weit
+                gewichtiger als die allenfalls beim<lb facs="#facs_871_r30"/>Konkubinat erwirkte
+                Steuerersparnis.</p>
+						<p>
+							<lb facs="#facs_871_r31"/>Dem ersten Initiativbegehren ist deshalb in materieller
+                Hinsicht mit<lb facs="#facs_871_r32"/>dem regierungsrätlichen Vorschlag weitgehend
+                entsprochen.</p>
+					</div>
+					<div type="subtitle" n="3">
+						<head type="subtitle" n="3">
+							<lb facs="#facs_871_r33"/>D. Die Besteuerung des Einverdienerhaushalts mit
+                Kindern</head>
+						<p>
+							<lb facs="#facs_871_r34"/>Nach dem zweiten Begehren der Initiative sollen Ehepaare
+                  mit<lb facs="#facs_871_r35"/>Kindern zusätzlich entlastet werden, falls die
+                Ehefrau nicht erwerbstätig<lb facs="#facs_871_r36"/>ist. Es kann vermutet werden,
+                dass die Initianten damit bewirken<lb facs="#facs_871_r37"/>wollen, dass sich die
+                Mutter vermehrt der Erziehung der Kinder widmet.<lb facs="#facs_871_r38"/>Dieses
+                Begehren zielt in dieselbe Richtung wie das Postulat Nr. 1892,<lb facs="#facs_871_r39"/>das einen Abzug für die nicht erwerbstätige Ehefrau fordert.
+                  Die<lb facs="#facs_871_r40"/>Gründe, welche der Regierungsrat zur Ablehnung dieses
+                  Postulates<lb facs="#facs_871_r41"/>angeführt hat, führen auch zur Ablehnung des
+                zweiten Initiativbegeh-</p>
+						<pb n="1860" facs="#facs_872"/>
+						<p>
+							<lb facs="#facs_872_r1"/>rens. Das Begehren ist mit dem Grundsatz der Besteuerung
+                nach der<lb facs="#facs_872_r2"/>wirtschaftlichen Leistungsfähigkeit nicht in
+                Einklang zu bringen.<lb facs="#facs_872_r3"/>Benachteiligt wären jene Familien, bei
+                denen beide Ehegatten dem<lb facs="#facs_872_r4"/>Erwerb nachgehen müssen
+                (ausführlich: Amtsblatt 1981, S. 772; Separt<lb break="no" facs="#facs_872_r5"/>druck S. 72).</p>
+					</div>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_872_r6"/>III. Das Dienstaltersgeschenk (§ 21 StG)</head>
+					<p>
+						<lb facs="#facs_872_r7"/>Der Kantonsrat hat dem Regierungsrat am <date when="1981-06-29">29. Juni 1981</date> folgende<lb facs="#facs_872_r10"/>Motion (Nr.
+              2033) zum Bericht und Antrag überwiesen:</p>
+					<p>
+						<lb facs="#facs_872_r11"/>Der Regierungsrat wird beauftragt, bei der bevorstehenden
+                Steuer<lb break="no" facs="#facs_872_r12"/>gesetzrevision den seit vielen Jahren
+              unveränderten steuerfreien Betrag<lb facs="#facs_872_r13"/>von Fr. 5000 .- des
+              Dienstaltersgeschenkes der Teuerung anzupassen.</p>
+					<p>
+						<lb facs="#facs_872_r14"/>§ 21 StG sieht Steuererleichterungen vor für
+                Dienstaltersgeschenke,<lb facs="#facs_872_r15"/>die vom Arbeitgeber nach mindestens
+              zwanzigjähriger Dauer des<lb facs="#facs_872_r16"/>Dienstverhältnisses ausgerichtet
+              werden. Von solchen zur Belohnung<lb facs="#facs_872_r17"/>langjähriger Dienste beim
+              gleichen Arbeitgeber ausgerichteten Zuwen<lb break="no" facs="#facs_872_r18"/>dungen
+              sind insgesamt Fr. 5000 .- steuerfrei. Ist das Dienstaltersge<lb break="no" facs="#facs_872_r19"/>schenk kleiner, so kann der nicht ausgeschöpfte steuerfreie
+              Betrag für<lb facs="#facs_872_r20"/>spätere Zuwendungen in Anspruch genommen
+              werden.</p>
+					<p>
+						<lb facs="#facs_872_r21"/>Der steuerfreie Betrag für Dienstaltersgeschenke wurde
+                letztmals<lb facs="#facs_872_r22"/>bei der Gesetzesrevision 1970 von Fr. 3000 .- auf
+              Fr. 5000 .- erhöht.<lb facs="#facs_872_r23"/>Deshalb ist heute eine Erhöhung auf Fr.
+              7000 .- angemessen. Es ist<lb facs="#facs_872_r24"/>dadurch mit einem Steuerausfall
+              von 0.7 Mio. Franken zu rechnen.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_872_r25"/>IV. Anträge</head>
+					<p>
+						<lb facs="#facs_872_r26"/>Der Regierungsrat beantragt dem Kantonsrat, die
+                Volksinitiative<lb facs="#facs_872_r27"/>«für Rechtsgleichheit in der
+              Steuerbelastung» zur Ablehnung und den<lb facs="#facs_872_r28"/>als Gegenvorschlag
+              ausgearbeiteten und mit dem vorliegenden Antrag<lb facs="#facs_872_r29"/>ergänzten
+              Gesetzesentwurf zur Annahme zu empfehlen.</p>
+					<p>
+						<lb facs="#facs_872_r30"/>Die Motion Nr. 2033 zur Revision des Steuergesetzes ist im
+                Rahmen<lb facs="#facs_872_r31"/>des Gesetzesentwurfes materiell behandelt und
+              verwirklicht worden. Sie<lb facs="#facs_872_r32"/>ist als erledigt abzuschreiben.</p>
+					<p>
+						<lb facs="#facs_872_r33"/>Zürich, den <date when="1981-11-11">11. November
+              1981</date></p>
+					<p>
+						<lb facs="#facs_872_r35"/>Im Namen des Regierungsrates</p>
+					<p>
+						<lb facs="#facs_872_r36"/>Der Präsident:<lb facs="#facs_872_r37"/>Wiederkehr</p>
+					<p>
+						<lb facs="#facs_872_r38"/>Der Staatsschreiber:<lb facs="#facs_872_r39"/>Roggwiller</p>
+				</div>
+			</div>
+		</body></text></TEI>

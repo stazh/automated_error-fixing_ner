@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Erneuerungswahlen der Mitglieder der evangelisch-reformierten Kirchensynode und Bezirkskirchenpflegen</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1983-05-06">06.05.1983</date><ident>StAZH ABl 1983 (S. 473-485)</ident><idno>473–485</idno><idno type="issue">18</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5133040"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_474" uly="0" ulx="0" lry="2390" lrx="1597">
+			<graphic url="Abl_1983_1__S__0474.tif" width="1597px" height="2390px"/>
+			<zone xml:id="facs_474_r17" ulx="114" uly="852" lrx="498" lry="878" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r29" ulx="118" uly="1516" lrx="1123" lry="1547" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r40" ulx="173" uly="2106" lrx="512" lry="2134" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r11" ulx="110" uly="541" lrx="1288" lry="572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r12" ulx="116" uly="585" lrx="966" lry="616" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r27" ulx="114" uly="1408" lrx="1205" lry="1440" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r28" ulx="118" uly="1462" lrx="1129" lry="1494" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r7" ulx="170" uly="454" lrx="667" lry="483" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r39" ulx="116" uly="2060" lrx="1131" lry="2090" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r16" ulx="110" uly="804" lrx="1290" lry="834" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r9" ulx="927" uly="454" lrx="1282" lry="482" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r32" ulx="116" uly="1666" lrx="1165" lry="1697" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r23" ulx="110" uly="1166" lrx="1260" lry="1198" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r0" ulx="112" uly="2227" lrx="386" lry="2253" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r33" ulx="173" uly="1714" lrx="371" lry="1741" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r18" ulx="114" uly="900" lrx="337" lry="926" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r25" ulx="118" uly="1302" lrx="348" lry="1331" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r30" ulx="175" uly="1566" lrx="371" lry="1592" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r1" ulx="391" uly="2223" lrx="590" lry="2249" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r21" ulx="112" uly="1060" lrx="1113" lry="1092" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r3" ulx="1223" uly="133" lrx="1275" lry="157" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r13" ulx="986" uly="585" lrx="1284" lry="613" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r22" ulx="114" uly="1114" lrx="1230" lry="1146" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r24" ulx="116" uly="1252" lrx="798" lry="1282" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r37" ulx="116" uly="1952" lrx="1282" lry="1983" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r6" ulx="110" uly="329" lrx="969" lry="365" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r38" ulx="116" uly="2006" lrx="1257" lry="2038" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r4" ulx="116" uly="229" lrx="513" lry="261" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r31" ulx="116" uly="1612" lrx="1253" lry="1646" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r26" ulx="118" uly="1356" lrx="1291" lry="1388" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r2" ulx="1257" uly="2225" lrx="1284" lry="2243" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r5" ulx="110" uly="275" lrx="986" lry="311" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r14" ulx="110" uly="635" lrx="394" lry="663" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r34" ulx="118" uly="1796" lrx="938" lry="1825" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r8" ulx="690" uly="454" lrx="921" lry="483" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r35" ulx="118" uly="1844" lrx="347" lry="1871" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r20" ulx="114" uly="1008" lrx="1166" lry="1039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r15" ulx="110" uly="727" lrx="408" lry="755" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r19" ulx="114" uly="956" lrx="1055" lry="984" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r36" ulx="120" uly="1898" lrx="1066" lry="1931" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_474_r10" ulx="110" uly="495" lrx="1284" lry="527" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_475" uly="0" ulx="0" lry="2394" lrx="1604">
+			<graphic url="Abl_1983_1__S__0475.tif" width="1604px" height="2394px"/>
+			<zone xml:id="facs_475_r29" ulx="310" uly="1731" lrx="1391" lry="1762" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r21" ulx="310" uly="1287" lrx="1489" lry="1321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r15" ulx="310" uly="977" lrx="1477" lry="1009" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r9" ulx="310" uly="658" lrx="1489" lry="690" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r6" ulx="308" uly="481" lrx="1492" lry="513" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r26" ulx="306" uly="1573" lrx="1351" lry="1603" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r36" ulx="308" uly="2112" lrx="1118" lry="2143" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r18" ulx="310" uly="1137" lrx="1483" lry="1168" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r16" ulx="312" uly="1025" lrx="538" lry="1054" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r22" ulx="367" uly="1337" lrx="497" lry="1365" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r7" ulx="362" uly="527" lrx="498" lry="556" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r31" ulx="310" uly="1837" lrx="1418" lry="1868" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r5" ulx="314" uly="427" lrx="1451" lry="462" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r19" ulx="308" uly="1191" lrx="1487" lry="1221" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r4" ulx="314" uly="375" lrx="1451" lry="408" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r2" ulx="314" uly="260" lrx="539" lry="289" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r28" ulx="310" uly="1679" lrx="1257" lry="1708" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r0" ulx="312" uly="135" lrx="371" lry="157" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r30" ulx="308" uly="1783" lrx="1403" lry="1815" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r35" ulx="305" uly="2071" lrx="1474" lry="2100" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r25" ulx="308" uly="1516" lrx="1429" lry="1548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r23" ulx="306" uly="1410" lrx="1018" lry="1442" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r1" ulx="310" uly="212" lrx="1013" lry="246" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r3" ulx="312" uly="320" lrx="1489" lry="355" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r17" ulx="312" uly="1083" lrx="1364" lry="1114" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r11" ulx="308" uly="747" lrx="542" lry="777" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r20" ulx="367" uly="1237" lrx="577" lry="1265" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r24" ulx="310" uly="1458" lrx="538" lry="1487" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r33" ulx="308" uly="1962" lrx="536" lry="1993" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r34" ulx="308" uly="2023" lrx="1487" lry="2055" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r32" ulx="304" uly="1916" lrx="1047" lry="1947" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r12" ulx="311" uly="808" lrx="1490" lry="840" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r8" ulx="314" uly="575" lrx="1481" lry="609" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r13" ulx="308" uly="856" lrx="1474" lry="885" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r14" ulx="310" uly="900" lrx="1120" lry="929" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r27" ulx="308" uly="1623" lrx="1462" lry="1656" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_475_r10" ulx="313" uly="702" lrx="765" lry="731" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_476" uly="0" ulx="0" lry="2393" lrx="1601">
+			<graphic url="Abl_1983_1__S__0476.tif" width="1601px" height="2393px"/>
+			<zone xml:id="facs_476_r10" ulx="108" uly="667" lrx="1241" lry="700" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r21" ulx="112" uly="1298" lrx="341" lry="1329" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r9" ulx="108" uly="614" lrx="1218" lry="648" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r1" ulx="106" uly="210" lrx="820" lry="241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r20" ulx="112" uly="1250" lrx="1267" lry="1282" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r19" ulx="112" uly="1204" lrx="1286" lry="1236" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r30" ulx="168" uly="1750" lrx="381" lry="1777" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r13" ulx="108" uly="848" lrx="806" lry="879" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r3" ulx="112" uly="312" lrx="1224" lry="347" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r26" ulx="112" uly="1550" lrx="1179" lry="1584" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r18" ulx="114" uly="1111" lrx="1149" lry="1144" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r23" ulx="166" uly="1411" lrx="298" lry="1434" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r25" ulx="168" uly="1505" lrx="408" lry="1530" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r4" ulx="108" uly="362" lrx="1211" lry="398" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r32" ulx="114" uly="1853" lrx="1284" lry="1883" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r2" ulx="108" uly="258" lrx="337" lry="289" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r28" ulx="167" uly="1655" lrx="471" lry="1681" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r11" ulx="112" uly="719" lrx="1283" lry="754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r35" ulx="172" uly="2001" lrx="239" lry="2023" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r33" ulx="168" uly="1909" lrx="300" lry="1933" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r5" ulx="108" uly="419" lrx="1281" lry="453" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r36" ulx="112" uly="2049" lrx="1161" lry="2082" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r17" ulx="114" uly="1056" lrx="1204" lry="1091" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r29" ulx="112" uly="1698" lrx="1090" lry="1732" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r31" ulx="110" uly="1800" lrx="1163" lry="1833" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r6" ulx="166" uly="473" lrx="293" lry="501" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r12" ulx="165" uly="775" lrx="227" lry="799" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r0" ulx="1219" uly="120" lrx="1275" lry="144" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r14" ulx="112" uly="898" lrx="339" lry="929" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r16" ulx="112" uly="1002" lrx="1257" lry="1038" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r8" ulx="169" uly="573" lrx="294" lry="601" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r22" ulx="112" uly="1356" lrx="1279" lry="1389" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r24" ulx="114" uly="1452" lrx="1129" lry="1483" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r34" ulx="112" uly="1948" lrx="1286" lry="1981" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r27" ulx="112" uly="1605" lrx="1075" lry="1637" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r15" ulx="110" uly="952" lrx="1202" lry="984" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_476_r7" ulx="110" uly="516" lrx="1281" lry="551" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_477" uly="0" ulx="0" lry="2393" lrx="1605">
+			<graphic url="Abl_1983_1__S__0477.tif" width="1605px" height="2393px"/>
+			<zone xml:id="facs_477_r13" ulx="316" uly="852" lrx="1409" lry="886" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r9" ulx="314" uly="623" lrx="1315" lry="655" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r35" ulx="365" uly="2032" lrx="596" lry="2060" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r25" ulx="314" uly="1538" lrx="1494" lry="1567" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r34" ulx="310" uly="1986" lrx="1486" lry="2020" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r3" ulx="316" uly="304" lrx="548" lry="332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r7" ulx="314" uly="514" lrx="1402" lry="548" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r28" ulx="366" uly="1680" lrx="637" lry="1705" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r15" ulx="314" uly="1002" lrx="1395" lry="1036" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r20" ulx="316" uly="1263" lrx="1492" lry="1292" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r32" ulx="308" uly="1880" lrx="1340" lry="1912" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r33" ulx="310" uly="1934" lrx="1374" lry="1966" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r11" ulx="312" uly="748" lrx="1158" lry="779" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r14" ulx="314" uly="906" lrx="1491" lry="966" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r24" ulx="310" uly="1475" lrx="543" lry="1505" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r16" ulx="314" uly="1058" lrx="1350" lry="1089" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r2" ulx="315" uly="260" lrx="485" lry="285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r29" ulx="310" uly="1732" lrx="1470" lry="1761" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r22" ulx="314" uly="1384" lrx="1486" lry="1416" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r5" ulx="373" uly="412" lrx="633" lry="436" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r12" ulx="318" uly="792" lrx="543" lry="821" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r8" ulx="314" uly="566" lrx="1373" lry="603" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r18" ulx="371" uly="1165" lrx="438" lry="1187" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r6" ulx="312" uly="460" lrx="1304" lry="495" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r0" ulx="316" uly="133" lrx="375" lry="155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r27" ulx="310" uly="1632" lrx="1489" lry="1665" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r19" ulx="314" uly="1209" lrx="1248" lry="1239" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r4" ulx="314" uly="362" lrx="1289" lry="397" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r23" ulx="308" uly="1429" lrx="1232" lry="1460" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r1" ulx="316" uly="214" lrx="1496" lry="246" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r26" ulx="370" uly="1586" lrx="468" lry="1610" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r10" ulx="313" uly="702" lrx="1492" lry="736" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r21" ulx="370" uly="1307" lrx="1017" lry="1336" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r30" ulx="314" uly="1782" lrx="1490" lry="1817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r31" ulx="368" uly="1832" lrx="750" lry="1860" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_477_r17" ulx="310" uly="1110" lrx="1490" lry="1143" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_478" uly="0" ulx="0" lry="2393" lrx="1597">
+			<graphic url="Abl_1983_1__S__0478.tif" width="1597px" height="2393px"/>
+			<zone xml:id="facs_478_r9" ulx="131" uly="656" lrx="1180" lry="688" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r10" ulx="127" uly="710" lrx="1240" lry="741" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r11" ulx="127" uly="762" lrx="1283" lry="793" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r16" ulx="125" uly="1013" lrx="1280" lry="1043" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r23" ulx="108" uly="1398" lrx="360" lry="1426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r0" ulx="1221" uly="141" lrx="1273" lry="165" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r20" ulx="114" uly="1217" lrx="1261" lry="1247" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r13" ulx="125" uly="860" lrx="1280" lry="892" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r33" ulx="127" uly="1938" lrx="1033" lry="1966" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r21" ulx="108" uly="1271" lrx="1136" lry="1302" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r29" ulx="126" uly="1734" lrx="964" lry="1764" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r2" ulx="106" uly="275" lrx="1282" lry="307" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r8" ulx="123" uly="606" lrx="1082" lry="635" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r22" ulx="108" uly="1350" lrx="1280" lry="1381" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r7" ulx="165" uly="554" lrx="362" lry="582" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r14" ulx="129" uly="917" lrx="1287" lry="946" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r35" ulx="127" uly="2032" lrx="1288" lry="2064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r30" ulx="131" uly="1786" lrx="1116" lry="1817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r5" ulx="112" uly="450" lrx="362" lry="479" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r31" ulx="127" uly="1838" lrx="1138" lry="1869" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r34" ulx="168" uly="1984" lrx="441" lry="2010" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r18" ulx="127" uly="1113" lrx="1097" lry="1142" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r15" ulx="170" uly="963" lrx="289" lry="990" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r3" ulx="162" uly="327" lrx="239" lry="350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r24" ulx="114" uly="1457" lrx="1284" lry="1487" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r27" ulx="108" uly="1625" lrx="1282" lry="1656" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r4" ulx="110" uly="402" lrx="1278" lry="431" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r25" ulx="110" uly="1502" lrx="1274" lry="1533" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r1" ulx="110" uly="223" lrx="1143" lry="255" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r17" ulx="168" uly="1067" lrx="285" lry="1090" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r12" ulx="168" uly="812" lrx="412" lry="840" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r19" ulx="114" uly="1165" lrx="1036" lry="1194" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r36" ulx="170" uly="2084" lrx="293" lry="2113" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r28" ulx="108" uly="1671" lrx="360" lry="1702" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r26" ulx="110" uly="1546" lrx="906" lry="1575" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r6" ulx="129" uly="508" lrx="1269" lry="537" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_478_r32" ulx="167" uly="1882" lrx="552" lry="1915" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_479" uly="0" ulx="0" lry="2394" lrx="1599">
+			<graphic url="Abl_1983_1__S__0479.tif" width="1599px" height="2394px"/>
+			<zone xml:id="facs_479_r9" ulx="364" uly="622" lrx="644" lry="649" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r18" ulx="306" uly="1093" lrx="537" lry="1123" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r10" ulx="308" uly="675" lrx="1484" lry="705" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r17" ulx="306" uly="1050" lrx="475" lry="1073" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r1" ulx="327" uly="231" lrx="1490" lry="263" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r5" ulx="325" uly="425" lrx="1495" lry="457" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r16" ulx="306" uly="1002" lrx="1488" lry="1034" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r26" ulx="366" uly="1512" lrx="494" lry="1537" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r36" ulx="310" uly="2041" lrx="1488" lry="2072" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r34" ulx="362" uly="1937" lrx="637" lry="1961" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r30" ulx="306" uly="1733" lrx="537" lry="1761" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r15" ulx="366" uly="929" lrx="494" lry="955" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r37" ulx="368" uly="2087" lrx="550" lry="2114" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r23" ulx="310" uly="1358" lrx="1263" lry="1389" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r27" ulx="304" uly="1564" lrx="1342" lry="1592" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r3" ulx="327" uly="329" lrx="1492" lry="359" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r12" ulx="306" uly="770" lrx="1480" lry="802" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r0" ulx="307" uly="147" lrx="364" lry="170" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r32" ulx="358" uly="1837" lrx="637" lry="1865" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r24" ulx="310" uly="1412" lrx="1459" lry="1443" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r25" ulx="308" uly="1466" lrx="1484" lry="1496" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r29" ulx="306" uly="1685" lrx="1081" lry="1714" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r38" ulx="306" uly="2137" lrx="1428" lry="2168" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r28" ulx="306" uly="1641" lrx="1409" lry="1672" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r33" ulx="302" uly="1889" lrx="1296" lry="1920" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r35" ulx="306" uly="1987" lrx="1373" lry="2018" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r7" ulx="323" uly="525" lrx="1484" lry="557" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r13" ulx="310" uly="827" lrx="1207" lry="856" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r8" ulx="310" uly="577" lrx="1265" lry="607" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r20" ulx="364" uly="1202" lrx="494" lry="1228" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r31" ulx="310" uly="1793" lrx="1296" lry="1824" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r4" ulx="366" uly="377" lrx="494" lry="404" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r6" ulx="366" uly="472" lrx="496" lry="500" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r2" ulx="370" uly="279" lrx="496" lry="305" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r14" ulx="308" uly="877" lrx="1484" lry="910" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r11" ulx="366" uly="720" lrx="913" lry="750" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r21" ulx="306" uly="1250" lrx="1474" lry="1283" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r22" ulx="308" uly="1304" lrx="1484" lry="1336" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_479_r19" ulx="308" uly="1154" lrx="1486" lry="1184" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_480" uly="0" ulx="0" lry="2391" lrx="1599">
+			<graphic url="Abl_1983_1__S__0480.tif" width="1599px" height="2391px"/>
+			<zone xml:id="facs_480_r29" ulx="125" uly="1709" lrx="337" lry="1733" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r17" ulx="120" uly="1056" lrx="1294" lry="1090" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r19" ulx="118" uly="1156" lrx="350" lry="1186" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r16" ulx="177" uly="988" lrx="447" lry="1011" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r14" ulx="176" uly="888" lrx="448" lry="915" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r3" ulx="120" uly="314" lrx="359" lry="344" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r32" ulx="125" uly="1857" lrx="1296" lry="1890" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r12" ulx="133" uly="783" lrx="1087" lry="817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r24" ulx="120" uly="1419" lrx="1293" lry="1454" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r18" ulx="120" uly="1106" lrx="907" lry="1134" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r28" ulx="124" uly="1650" lrx="1300" lry="1685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r26" ulx="120" uly="1521" lrx="1031" lry="1553" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r13" ulx="133" uly="835" lrx="1148" lry="869" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r10" ulx="137" uly="685" lrx="1065" lry="717" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r8" ulx="135" uly="579" lrx="1210" lry="610" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r20" ulx="125" uly="1209" lrx="1291" lry="1241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r33" ulx="181" uly="1907" lrx="373" lry="1933" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r4" ulx="135" uly="366" lrx="1274" lry="398" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r25" ulx="175" uly="1471" lrx="640" lry="1500" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r2" ulx="118" uly="262" lrx="1032" lry="294" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r37" ulx="125" uly="2107" lrx="1014" lry="2139" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r9" ulx="131" uly="633" lrx="1218" lry="665" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r15" ulx="118" uly="933" lrx="1198" lry="965" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r34" ulx="120" uly="1955" lrx="1222" lry="1990" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r35" ulx="125" uly="2007" lrx="1296" lry="2042" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r31" ulx="125" uly="1805" lrx="1263" lry="1837" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r21" ulx="120" uly="1263" lrx="1197" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r27" ulx="123" uly="1573" lrx="1029" lry="1605" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r11" ulx="173" uly="737" lrx="448" lry="763" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r6" ulx="135" uly="473" lrx="1180" lry="505" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r5" ulx="137" uly="421" lrx="1139" lry="453" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r30" ulx="127" uly="1751" lrx="352" lry="1780" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r22" ulx="120" uly="1317" lrx="1234" lry="1349" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r0" ulx="1227" uly="133" lrx="1284" lry="154" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r1" ulx="116" uly="216" lrx="1284" lry="248" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r23" ulx="123" uly="1367" lrx="1295" lry="1400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r7" ulx="135" uly="525" lrx="1257" lry="558" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_480_r36" ulx="180" uly="2063" lrx="282" lry="2088" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_481" uly="0" ulx="0" lry="2394" lrx="1605">
+			<graphic url="Abl_1983_1__S__0481.tif" width="1605px" height="2394px"/>
+			<zone xml:id="facs_481_r2" ulx="312" uly="260" lrx="439" lry="285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r26" ulx="304" uly="1498" lrx="531" lry="1528" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r14" ulx="366" uly="872" lrx="494" lry="898" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r29" ulx="295" uly="1658" lrx="1332" lry="1692" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r16" ulx="308" uly="977" lrx="1277" lry="1009" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r30" ulx="296" uly="1712" lrx="1233" lry="1744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r17" ulx="306" uly="1029" lrx="1319" lry="1061" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r19" ulx="306" uly="1133" lrx="1486" lry="1168" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r38" ulx="356" uly="2112" lrx="579" lry="2139" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r28" ulx="354" uly="1608" lrx="562" lry="1633" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r1" ulx="310" uly="212" lrx="1493" lry="247" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r31" ulx="300" uly="1764" lrx="1281" lry="1799" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r36" ulx="358" uly="2016" lrx="432" lry="2042" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r15" ulx="325" uly="923" lrx="1350" lry="957" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r21" ulx="302" uly="1233" lrx="1402" lry="1268" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r22" ulx="304" uly="1285" lrx="1482" lry="1319" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r23" ulx="359" uly="1335" lrx="556" lry="1362" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r7" ulx="363" uly="514" lrx="634" lry="541" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r33" ulx="295" uly="1862" lrx="1346" lry="1894" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r27" ulx="297" uly="1560" lrx="1334" lry="1594" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r4" ulx="329" uly="364" lrx="1459" lry="398" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r20" ulx="359" uly="1181" lrx="490" lry="1207" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r24" ulx="299" uly="1412" lrx="1479" lry="1444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r0" ulx="312" uly="135" lrx="358" lry="156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r8" ulx="327" uly="566" lrx="1288" lry="600" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r35" ulx="300" uly="1973" lrx="1475" lry="2002" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r25" ulx="299" uly="1454" lrx="469" lry="1482" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r5" ulx="327" uly="418" lrx="1150" lry="450" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r6" ulx="327" uly="468" lrx="1342" lry="502" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r3" ulx="314" uly="304" lrx="564" lry="332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r32" ulx="354" uly="1810" lrx="680" lry="1837" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r11" ulx="360" uly="718" lrx="558" lry="748" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r13" ulx="320" uly="825" lrx="1484" lry="859" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r18" ulx="304" uly="1081" lrx="1486" lry="1114" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r9" ulx="325" uly="620" lrx="1424" lry="654" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r12" ulx="325" uly="770" lrx="1252" lry="805" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r34" ulx="296" uly="1914" lrx="1444" lry="1949" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r37" ulx="296" uly="2066" lrx="1363" lry="2100" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_481_r10" ulx="325" uly="675" lrx="1486" lry="707" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_482" uly="0" ulx="0" lry="2391" lrx="1601">
+			<graphic url="Abl_1983_1__S__0482.tif" width="1601px" height="2391px"/>
+			<zone xml:id="facs_482_r30" ulx="125" uly="1865" lrx="1092" lry="1896" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r24" ulx="125" uly="1548" lrx="1272" lry="1578" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r22" ulx="129" uly="1442" lrx="1295" lry="1471" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r35" ulx="177" uly="2145" lrx="477" lry="2170" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r21" ulx="127" uly="1382" lrx="351" lry="1409" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r29" ulx="125" uly="1813" lrx="1284" lry="1844" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r34" ulx="120" uly="2099" lrx="1131" lry="2129" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r12" ulx="131" uly="900" lrx="1234" lry="929" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r32" ulx="120" uly="1992" lrx="429" lry="2020" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r15" ulx="182" uly="1052" lrx="380" lry="1077" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r1" ulx="132" uly="216" lrx="1009" lry="250" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r14" ulx="125" uly="1008" lrx="1192" lry="1036" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r16" ulx="127" uly="1102" lrx="1138" lry="1133" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r9" ulx="129" uly="740" lrx="1154" lry="770" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r3" ulx="131" uly="341" lrx="1298" lry="371" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r26" ulx="125" uly="1655" lrx="1284" lry="1684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r5" ulx="126" uly="431" lrx="681" lry="462" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r7" ulx="126" uly="633" lrx="675" lry="661" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r31" ulx="177" uly="1913" lrx="376" lry="1938" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r2" ulx="131" uly="279" lrx="358" lry="310" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r11" ulx="127" uly="848" lrx="1243" lry="877" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r6" ulx="127" uly="554" lrx="554" lry="582" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r10" ulx="129" uly="794" lrx="1251" lry="823" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r17" ulx="125" uly="1156" lrx="1123" lry="1186" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r20" ulx="125" uly="1336" lrx="692" lry="1364" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r0" ulx="1243" uly="141" lrx="1294" lry="164" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r13" ulx="125" uly="952" lrx="1253" lry="984" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r27" ulx="122" uly="1707" lrx="1253" lry="1736" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r19" ulx="182" uly="1259" lrx="379" lry="1282" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r4" ulx="133" uly="387" lrx="1299" lry="417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r23" ulx="125" uly="1494" lrx="1097" lry="1525" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r25" ulx="123" uly="1600" lrx="1227" lry="1631" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r8" ulx="122" uly="679" lrx="358" lry="707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r33" ulx="122" uly="2040" lrx="352" lry="2067" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r28" ulx="125" uly="1761" lrx="1163" lry="1789" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_482_r18" ulx="122" uly="1211" lrx="1215" lry="1241" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_483" uly="0" ulx="0" lry="2394" lrx="1605">
+			<graphic url="Abl_1983_1__S__0483.tif" width="1605px" height="2394px"/>
+			<zone xml:id="facs_483_r18" ulx="291" uly="1148" lrx="1361" lry="1178" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r37" ulx="300" uly="2091" lrx="1150" lry="2119" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r8" ulx="300" uly="612" lrx="1476" lry="640" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r29" ulx="298" uly="1677" lrx="545" lry="1701" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r17" ulx="293" uly="1096" lrx="1199" lry="1125" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r30" ulx="300" uly="1718" lrx="528" lry="1748" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r35" ulx="298" uly="1983" lrx="1449" lry="2014" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r16" ulx="300" uly="1037" lrx="523" lry="1065" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r24" ulx="293" uly="1398" lrx="1269" lry="1428" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r5" ulx="298" uly="422" lrx="1476" lry="453" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r7" ulx="302" uly="550" lrx="525" lry="577" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r33" ulx="293" uly="1877" lrx="1224" lry="1908" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r22" ulx="298" uly="1300" lrx="1478" lry="1330" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r2" ulx="300" uly="270" lrx="1479" lry="302" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r27" ulx="298" uly="1548" lrx="1275" lry="1577" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r19" ulx="298" uly="1202" lrx="1475" lry="1231" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r28" ulx="356" uly="1595" lrx="629" lry="1621" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r32" ulx="354" uly="1825" lrx="747" lry="1853" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r20" ulx="349" uly="1250" lrx="460" lry="1275" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r23" ulx="349" uly="1348" lrx="746" lry="1376" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r3" ulx="358" uly="318" lrx="467" lry="345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r31" ulx="302" uly="1781" lrx="1238" lry="1810" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r11" ulx="352" uly="752" lrx="685" lry="781" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r0" ulx="298" uly="141" lrx="354" lry="162" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r4" ulx="295" uly="370" lrx="1451" lry="400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r38" ulx="298" uly="2141" lrx="1342" lry="2172" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r1" ulx="295" uly="218" lrx="1334" lry="249" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r13" ulx="298" uly="858" lrx="1238" lry="889" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r15" ulx="295" uly="991" lrx="556" lry="1019" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r10" ulx="294" uly="708" lrx="1306" lry="739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r6" ulx="300" uly="506" lrx="587" lry="531" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r12" ulx="295" uly="804" lrx="1352" lry="834" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r14" ulx="295" uly="910" lrx="1369" lry="941" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r21" ulx="471" uly="1250" lrx="812" lry="1276" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r9" ulx="352" uly="662" lrx="431" lry="684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r26" ulx="354" uly="1498" lrx="579" lry="1523" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r25" ulx="298" uly="1452" lrx="1273" lry="1480" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r34" ulx="298" uly="1929" lrx="1419" lry="1958" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_483_r36" ulx="295" uly="2037" lrx="1263" lry="2067" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_484" uly="0" ulx="0" lry="2392" lrx="1604">
+			<graphic url="Abl_1983_1__S__0484.tif" width="1604px" height="2392px"/>
+			<zone xml:id="facs_484_r31" ulx="133" uly="1823" lrx="1128" lry="1853" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r26" ulx="137" uly="1562" lrx="1307" lry="1593" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r21" ulx="193" uly="1273" lrx="629" lry="1302" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r33" ulx="137" uly="1950" lrx="367" lry="1978" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r8" ulx="135" uly="587" lrx="1305" lry="618" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r30" ulx="133" uly="1768" lrx="1310" lry="1799" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r36" ulx="135" uly="2158" lrx="1283" lry="2189" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r24" ulx="135" uly="1460" lrx="427" lry="1488" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r4" ulx="135" uly="383" lrx="1279" lry="414" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r28" ulx="133" uly="1660" lrx="1301" lry="1691" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r9" ulx="192" uly="635" lrx="454" lry="663" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r12" ulx="132" uly="823" lrx="365" lry="849" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r15" ulx="193" uly="973" lrx="323" lry="1001" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r2" ulx="135" uly="272" lrx="365" lry="300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r1" ulx="135" uly="227" lrx="383" lry="253" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r14" ulx="135" uly="925" lrx="1308" lry="955" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r7" ulx="189" uly="545" lrx="301" lry="569" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r23" ulx="137" uly="1379" lrx="1273" lry="1410" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r29" ulx="133" uly="1716" lrx="1291" lry="1749" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r27" ulx="193" uly="1616" lrx="319" lry="1642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r20" ulx="137" uly="1229" lrx="1145" lry="1258" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r32" ulx="133" uly="1904" lrx="454" lry="1930" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r5" ulx="137" uly="435" lrx="1228" lry="467" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r35" ulx="131" uly="2106" lrx="1126" lry="2135" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r18" ulx="193" uly="1123" lrx="606" lry="1152" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r17" ulx="139" uly="1077" lrx="1128" lry="1107" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r34" ulx="137" uly="2008" lrx="1308" lry="2064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r10" ulx="131" uly="687" lrx="859" lry="718" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r22" ulx="135" uly="1323" lrx="1299" lry="1358" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r0" ulx="1249" uly="143" lrx="1305" lry="166" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r16" ulx="133" uly="1023" lrx="1287" lry="1053" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r13" ulx="135" uly="868" lrx="369" lry="896" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r25" ulx="141" uly="1506" lrx="362" lry="1534" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r3" ulx="135" uly="331" lrx="1192" lry="362" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r19" ulx="137" uly="1173" lrx="1099" lry="1203" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r11" ulx="135" uly="737" lrx="1084" lry="768" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_484_r6" ulx="139" uly="489" lrx="1310" lry="520" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_485" uly="0" ulx="0" lry="2392" lrx="1611">
+			<graphic url="Abl_1983_1__S__0485.tif" width="1611px" height="2392px"/>
+			<zone xml:id="facs_485_r11" ulx="293" uly="743" lrx="518" lry="770" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r13" ulx="289" uly="856" lrx="1469" lry="888" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r28" ulx="291" uly="1689" lrx="583" lry="1716" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r0" ulx="298" uly="135" lrx="350" lry="157" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r5" ulx="293" uly="420" lrx="1334" lry="453" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r8" ulx="293" uly="575" lrx="1321" lry="604" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r16" ulx="291" uly="1016" lrx="1300" lry="1049" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r35" ulx="289" uly="2044" lrx="1403" lry="2077" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r15" ulx="291" uly="962" lrx="1342" lry="994" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r30" ulx="293" uly="1798" lrx="1275" lry="1829" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r24" ulx="287" uly="1467" lrx="1281" lry="1502" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r10" ulx="295" uly="698" lrx="633" lry="726" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r29" ulx="289" uly="1737" lrx="527" lry="1767" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r14" ulx="289" uly="908" lrx="1165" lry="942" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r27" ulx="348" uly="1614" lrx="477" lry="1642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r4" ulx="293" uly="366" lrx="1334" lry="399" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r36" ulx="281" uly="2096" lrx="1417" lry="2131" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r6" ulx="298" uly="473" lrx="1471" lry="506" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r18" ulx="293" uly="1143" lrx="516" lry="1170" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r23" ulx="285" uly="1414" lrx="1238" lry="1447" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r19" ulx="291" uly="1202" lrx="1469" lry="1235" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r33" ulx="345" uly="1939" lrx="587" lry="1966" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r26" ulx="289" uly="1566" lrx="1469" lry="1599" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r25" ulx="350" uly="1512" lrx="765" lry="1542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r2" ulx="356" uly="260" lrx="468" lry="287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r12" ulx="291" uly="802" lrx="1379" lry="835" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r3" ulx="291" uly="312" lrx="1260" lry="346" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r34" ulx="289" uly="1989" lrx="1217" lry="2023" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r31" ulx="345" uly="1846" lrx="611" lry="1871" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r22" ulx="293" uly="1362" lrx="1402" lry="1393" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r17" ulx="294" uly="1093" lrx="546" lry="1123" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r20" ulx="289" uly="1256" lrx="1467" lry="1290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r32" ulx="287" uly="1894" lrx="1252" lry="1929" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r1" ulx="293" uly="216" lrx="1475" lry="248" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r9" ulx="348" uly="618" lrx="624" lry="644" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r21" ulx="291" uly="1308" lrx="1306" lry="1340" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_485_r7" ulx="349" uly="520" lrx="812" lry="546" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_486" uly="0" ulx="0" lry="2392" lrx="1601">
+			<graphic url="Abl_1983_1__S__0486.tif" width="1601px" height="2392px"/>
+			<zone xml:id="facs_486_r6" ulx="120" uly="354" lrx="1289" lry="382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r16" ulx="116" uly="960" lrx="1288" lry="988" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r11" ulx="950" uly="664" lrx="1119" lry="689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r9" ulx="325" uly="529" lrx="521" lry="557" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r20" ulx="118" uly="1095" lrx="398" lry="1123" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r13" ulx="177" uly="918" lrx="625" lry="945" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r34" ulx="114" uly="1904" lrx="154" lry="1929" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r2" ulx="439" uly="218" lrx="652" lry="246" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r14" ulx="644" uly="918" lrx="871" lry="945" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r18" ulx="118" uly="1050" lrx="971" lry="1078" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r3" ulx="660" uly="218" lrx="1292" lry="246" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r24" ulx="172" uly="1348" lrx="834" lry="1380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r28" ulx="175" uly="1564" lrx="881" lry="1592" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r38" ulx="173" uly="2060" lrx="708" lry="2091" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r1" ulx="179" uly="220" lrx="421" lry="247" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r32" ulx="170" uly="1760" lrx="1021" lry="1789" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r29" ulx="173" uly="1608" lrx="800" lry="1637" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r21" ulx="114" uly="1191" lrx="404" lry="1219" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r27" ulx="173" uly="1508" lrx="706" lry="1539" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r4" ulx="118" uly="260" lrx="1279" lry="292" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r37" ulx="171" uly="2014" lrx="717" lry="2048" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r12" ulx="116" uly="827" lrx="796" lry="860" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r0" ulx="1232" uly="137" lrx="1288" lry="159" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r5" ulx="122" uly="306" lrx="1290" lry="336" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r10" ulx="950" uly="618" lrx="1288" lry="645" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r36" ulx="175" uly="1964" lrx="791" lry="1994" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r23" ulx="174" uly="1306" lrx="804" lry="1335" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r26" ulx="175" uly="1464" lrx="761" lry="1495" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r35" ulx="165" uly="1900" lrx="419" lry="1930" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r17" ulx="118" uly="1004" lrx="1292" lry="1033" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r33" ulx="173" uly="1804" lrx="735" lry="1833" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r31" ulx="174" uly="1706" lrx="662" lry="1734" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r15" ulx="877" uly="918" lrx="1292" lry="945" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r25" ulx="175" uly="1410" lrx="837" lry="1442" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r22" ulx="173" uly="1250" lrx="734" lry="1283" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r7" ulx="118" uly="395" lrx="1038" lry="426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r30" ulx="173" uly="1662" lrx="706" lry="1690" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r19" ulx="992" uly="1050" lrx="1288" lry="1078" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_486_r8" ulx="118" uly="529" lrx="316" lry="558" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="473" facs="#facs_474"/>
+			<p>
+				<lb facs="#facs_474_r7"/>Auf die Ausschreibungen vom <date when="1983-03-18">18. März 1983</date> im kantonalen Amts<lb break="no" facs="#facs_474_r10"/>blatt hin sind der Direktion des Innern die nachstehenden Wahlvor<lb break="no" facs="#facs_474_r11"/>schläge eingereicht worden. Sie werden in Anwendung von § 70 des<lb facs="#facs_474_r12"/>Gesetzes über die Wahlen und Abstimmungen vom <date when="1955-12-04">4. Dezember 1955</date><lb facs="#facs_474_r14"/>bekanntgemacht.</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_474_r15"/>I. Kirchensynode</head>
+				<p>
+					<lb facs="#facs_474_r16"/>Wahlkreis I, Stadt Zürich, Stadtkreis 2 und links der Limmat liegender<lb facs="#facs_474_r17"/>Teil des Stadtkreises 1:</p>
+				<p>
+					<lb facs="#facs_474_r18"/>(5 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_474_r19"/>1. Hess Walter, Pfarrer, St. Peterhofstatt 2, 8001 Zürich</p>
+				<p>
+					<lb facs="#facs_474_r20"/>2. Hollenstein Erich, Pfarrer, Kilchbergstrasse 19, 8038 Zürich</p>
+				<p>
+					<lb facs="#facs_474_r21"/>3. Lang Alice, Hausfrau, Marchwartstrasse 71, 8038 Zürich</p>
+				<p>
+					<lb facs="#facs_474_r22"/>4. Lamprecht Doris, Hausfrau, Leimbacherstrasse 25, 8041 Zürich</p>
+				<p>
+					<lb facs="#facs_474_r23"/>5. Rohr Hans, Chefsteuerkommissär, Rieterstrasse 114, 8002 Zürich</p>
+				<p>
+					<lb facs="#facs_474_r24"/>Wahlkreis II, Stadt Zürich, Stadtkreis 3:</p>
+				<p>
+					<lb facs="#facs_474_r25"/>(6 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_474_r26"/>1. Bärtschi Hans, Gemeindehelfer, Albisriederstrasse 183, 8003 Zürich</p>
+				<p>
+					<lb facs="#facs_474_r27"/>2. Maurer Hanna, Hausfrau, Schweighofstrasse 193, 8045 Zürich</p>
+				<p>
+					<lb facs="#facs_474_r28"/>3. Maurer Hans W ., Dr ., Pfarrer, Meiliweg 22, 8055 Zürich</p>
+				<p>
+					<lb facs="#facs_474_r29"/>4. Schädler Werner, Gew .- Lehrer, Leonhard-Ragaz-Weg 7,<lb facs="#facs_474_r30"/>8055 Zürich</p>
+				<p>
+					<lb facs="#facs_474_r31"/>5. Steinberger Roland, EDV-Koordinator, Meiliweg 7, 8055 Zürich</p>
+				<p>
+					<lb facs="#facs_474_r32"/>6. Zuberbühler Hans, kfm. Angestellter, Kalkbreitestrasse 76,<lb facs="#facs_474_r33"/>8003 Zürich</p>
+				<p>
+					<lb facs="#facs_474_r34"/>Wahlkreis III, Stadt Zürich, Stadtkreise 4 und 5:</p>
+				<p>
+					<lb facs="#facs_474_r35"/>(4 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_474_r36"/>1. Hirzel Conrad, Pfarrer, Bullingerplatz 3, 8004 Zürich</p>
+				<p>
+					<lb facs="#facs_474_r37"/>2. Müller Paul. Masch .- Ing ., Herdernstrasse 16, 8004 Zürich (bisher)</p>
+				<p>
+					<lb facs="#facs_474_r38"/>3. Muggli Adolf, Monteurchef, Ottostrasse 31, 8005 Zürich (bisher)</p>
+				<p>
+					<lb facs="#facs_474_r39"/>4. Roth Robert, Kontrolleur, Hermann-Greulich-Strasse 74,<lb facs="#facs_474_r40"/>8004 Zürich (bisher)</p>
+				<pb n="474" facs="#facs_475"/>
+				<p>
+					<lb facs="#facs_475_r1"/>Wahlkreis IV, Stadt Zürich, Stadtkreis 6:</p>
+				<p>
+					<lb facs="#facs_475_r2"/>(5 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_475_r3"/>1. Albrecht Walter, Pfarrer, Blümlisalpstrasse 6, 8006 Zürich (bisher)</p>
+				<p>
+					<lb facs="#facs_475_r4"/>2. Gugger Eric, Verwalter, Sonneggstrasse 66, 8006 Zürich (bisher)</p>
+				<p>
+					<lb facs="#facs_475_r5"/>3. Lautenbach Hugo, Pfarrer, Schürbungert 3, 8057 Zürich (bisher)</p>
+				<p>
+					<lb facs="#facs_475_r6"/>4. Neukomm Robert, Forstingenieur, Häderlihof 11, 8057 Zürich<lb facs="#facs_475_r7"/>(bisher)</p>
+				<p>
+					<lb facs="#facs_475_r8"/>5. Schellenberg Werner, Bauingenieur, Kinkelstrasse 24, 8006 Zürich</p>
+				<p>
+					<lb facs="#facs_475_r9"/>Wahlkreis V, Stadt Zürich, Stadtkreis 7 und rechts der Limmat liegen<lb break="no" facs="#facs_475_r10"/>der Teil des Stadtkreises 1:</p>
+				<p>
+					<lb facs="#facs_475_r11"/>(6 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_475_r12"/>Weil die Zahl der Vorgeschlagenen die Zahl der zu Wählenden über<lb break="no" facs="#facs_475_r13"/>steigt, wird die Wahl im ordentlichen Verfahren, das heisst mit einem<lb facs="#facs_475_r14"/>Wahlzettel ohne Namenseindruck, durchgeführt.</p>
+				<p>
+					<lb facs="#facs_475_r15"/>Wahlkreis VI, Stadt Zürich, Stadtkreis 8, und die Gemeinde Zollikon</p>
+				<p>
+					<lb facs="#facs_475_r16"/>(4 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_475_r17"/>1. Borsari Eduard, Rechtsanwalt, Seestrasse 31, 8702 Zollikon</p>
+				<p>
+					<lb facs="#facs_475_r18"/>2. Daeniker-Pfister Sonja, Hausfrau, Witellikerstrasse 6, 8702 Zollikon</p>
+				<p>
+					<lb facs="#facs_475_r19"/>3. Leemann René, Primarlehrer, Neuackerstrasse 29, 8125 Zolliker<lb break="no" facs="#facs_475_r20"/>berg (bisher)</p>
+				<p>
+					<lb facs="#facs_475_r21"/>4. Sundin-Wyss Erika, Pfarrer, Weiherweg 8, 8125 Zollikerberg<lb facs="#facs_475_r22"/>(bisher)</p>
+				<p>
+					<lb facs="#facs_475_r23"/>Wahlkreis VII, Stadt Zürich, Stadtkreis 9:</p>
+				<p>
+					<lb facs="#facs_475_r24"/>(7 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_475_r25"/>1. Keller Albert, Hausverwalter, Rossackerstrasse 83, 8047 Zürich</p>
+				<p>
+					<lb facs="#facs_475_r26"/>2. Metzger Irma, Hausfrau, Mühlezelgstrasse 38, 8047 Zürich</p>
+				<p>
+					<lb facs="#facs_475_r27"/>3. Michelsen Ejnar, Dr. ing. chem ., Badenerstrasse 670, 8048 Zürich</p>
+				<p>
+					<lb facs="#facs_475_r28"/>4. Müller Bruno, Pfarrer, Herrligstrasse 29, 8048 Zürich</p>
+				<p>
+					<lb facs="#facs_475_r29"/>5. Müller Ulrich, Gemeindehelfer, Hätzlergasse 30, 8048 Zürich</p>
+				<p>
+					<lb facs="#facs_475_r30"/>6. Schenkel Ariane, Hausfrau, Altstetterstrasse 126, 8048 Zürich</p>
+				<p>
+					<lb facs="#facs_475_r31"/>7. Schmied Heinz, Kaufmann, Alfred-Strebel-Weg 8, 8047 Zürich</p>
+				<p>
+					<lb facs="#facs_475_r32"/>Wahlkreis VIII, Stadt Zürich, Stadtkreis 10:</p>
+				<p>
+					<lb facs="#facs_475_r33"/>(5 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_475_r34"/>Weil die Zahl der Vorgeschlagenen die Zahl der zu Wählenden über<lb break="no" facs="#facs_475_r35"/>steigt, wird die Wahl im ordentlichen Verfahren, das heisst mit einem<lb facs="#facs_475_r36"/>Wahlzettel ohne Namenseindruck, durchgeführt.</p>
+				<pb n="475" facs="#facs_476"/>
+				<p>
+					<lb facs="#facs_476_r1"/>Wahlkreis IX, Stadt Zürich, Stadtkreis 11:</p>
+				<p>
+					<lb facs="#facs_476_r2"/>(7 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_476_r3"/>1. Berg Erwin, Pfarrer, Oerlikonerstrasse 95, 8057 Zürich (bisher)</p>
+				<p>
+					<lb facs="#facs_476_r4"/>2. Fischer Beat, Pfarrer, Holderbachweg 25, 8046 Zürich (bisher)</p>
+				<p>
+					<lb facs="#facs_476_r5"/>3. Götti Werner, Sekundarlehrer, Eigenwasenstrasse 60, 8052 Zürich<lb facs="#facs_476_r6"/>(bisher)</p>
+				<p>
+					<lb facs="#facs_476_r7"/>4. Leutenegger Margrit, Hausfrau, Rümlangstrasse 86, 8052 Zürich<lb facs="#facs_476_r8"/>(bisher)</p>
+				<p>
+					<lb facs="#facs_476_r9"/>5. Mühlemann Felix, Pfarrer, Sperletweg 63, 8052 Zürich (bisher)</p>
+				<p>
+					<lb facs="#facs_476_r10"/>6. Sauter Elisabeth, Hausfrau, Ringstrasse 60, 8057 Zürich (bisher)</p>
+				<p>
+					<lb facs="#facs_476_r11"/>7. Wyler Georg, Dr. oec. publ ., Prokurist, Furttalstrasse 68, 8046 Zü<lb break="no" facs="#facs_476_r12"/>rich</p>
+				<p>
+					<lb facs="#facs_476_r13"/>Wahlkreis X, Stadt Zürich, Stadtkreis 12:</p>
+				<p>
+					<lb facs="#facs_476_r14"/>(4 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_476_r15"/>1. Putre Elsbeth, Hausfrau, Luchswiesenstrasse 197, 8051 Zürich</p>
+				<p>
+					<lb facs="#facs_476_r16"/>2. Rüegger Jürg, Chemiker HTL, Altwiesenstrasse 140, 8051 Zürich</p>
+				<p>
+					<lb facs="#facs_476_r17"/>3. Tanner Hansjürg, Abteilungsleiter, Dreispitz 113, 8050 Zürich</p>
+				<p>
+					<lb facs="#facs_476_r18"/>4. Wilhelm Erika, Hausfrau, Stettbachstrasse 56, 8051 Zürich</p>
+				<p>
+					<lb facs="#facs_476_r19"/>Wahlkreis XI, Limmattal, umfassend die Gemeinden des Bezirkes<lb facs="#facs_476_r20"/>Zürich, mit Ausnahme der Stadt Zürich und der Gemeinde Zollikon:</p>
+				<p>
+					<lb facs="#facs_476_r21"/>(9 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_476_r22"/>1. Andrist Walter, Schulhausabwart, Büelstrasse 15, 8103 Untereng<lb break="no" facs="#facs_476_r23"/>stringen</p>
+				<p>
+					<lb facs="#facs_476_r24"/>2. Bach-Giezendanner Ursula, Hausfrau, Badenerstrasse 57,<lb facs="#facs_476_r25"/>8952 Schlieren</p>
+				<p>
+					<lb facs="#facs_476_r26"/>3. Egli Werner, Sigrist/Hauswart, Poststrasse 50, 8953 Dietikon</p>
+				<p>
+					<lb facs="#facs_476_r27"/>4. Flückiger Rudolf, kfm. Angestellter, Stationsstrasse 6,<lb facs="#facs_476_r28"/>8903 Birmensdorf</p>
+				<p>
+					<lb facs="#facs_476_r29"/>5. Heuss-Burckhardt Ursula, Dr. phil ., Husackerstrasse 5,<lb facs="#facs_476_r30"/>8142 Uitikon</p>
+				<p>
+					<lb facs="#facs_476_r31"/>6. Isenring Ruth, Hausfrau, Schützenstrasse 40, 8953 Dietikon</p>
+				<p>
+					<lb facs="#facs_476_r32"/>7. Peter Heidi, Gemeindehelferin a. D ., Im Hochrain 2, 8102 Obereng<lb break="no" facs="#facs_476_r33"/>stringen</p>
+				<p>
+					<lb facs="#facs_476_r34"/>8. Rindlisbacher Fritz, Abteilungschef, Bodenfeldstrasse 24, 8902 Ur<lb break="no" facs="#facs_476_r35"/>dorf</p>
+				<p>
+					<lb facs="#facs_476_r36"/>9. Thüring Heinz, Pfarrer, Uitikonerstrasse 20, 8952 Schlieren</p>
+				<pb n="476" facs="#facs_477"/>
+				<p>
+					<lb facs="#facs_477_r1"/>Wahlkreis XII, Affoltern, umfassend die Gemeinden des Bezirkes<lb facs="#facs_477_r2"/>Affoltern:</p>
+				<p>
+					<lb facs="#facs_477_r3"/>(5 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_477_r4"/>1. Bachofner Werner, El .- Ing. HTL, Schachenmatten 17,<lb facs="#facs_477_r5"/>8906 Bonstetten</p>
+				<p>
+					<lb facs="#facs_477_r6"/>2. Boeck Walter, Architekt, Sägiweg 9, 8915 Hausen a.A.</p>
+				<p>
+					<lb facs="#facs_477_r7"/>3. Büchi Elisabeth, Hausfrau, Im Gjuch 2, 8932 Mettmenstetten</p>
+				<p>
+					<lb facs="#facs_477_r8"/>4. Hürlimann Christoph, Pfarrer, Pfarrhaus, 8926 Kappel a. A.</p>
+				<p>
+					<lb facs="#facs_477_r9"/>5. Wachter Diethelm, Pfarrer, Chileweg 12, 8912 Obfelden</p>
+				<p>
+					<lb facs="#facs_477_r10"/>Wahlkreis XIII, Horgen, umfassend die Gemeinden Horgen, Hirzel,<lb facs="#facs_477_r11"/>Hütten, Richterswil, Schönenberg und Wädenswil:</p>
+				<p>
+					<lb facs="#facs_477_r12"/>(7 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_477_r13"/>1. Angst Walter, Pfarrer, Schönenbergstrasse 7, 8820 Wädenswil</p>
+				<p>
+					<lb facs="#facs_477_r14"/>2. Kellenberger-Baer Maja, Berufsberaterin/Hausfrau, Joh .- Hirt-Strasse 27, 8804 Au-Wädenswil</p>
+				<p>
+					<lb facs="#facs_477_r15"/>3. Luz Rudolf, Ing. HTL, Hintere Etzelstrasse 28, 8810 Horgen</p>
+				<p>
+					<lb facs="#facs_477_r16"/>4. Maag-Renz Helen, Hausfrau, Püntstrasse 24, 8810 Horgen</p>
+				<p>
+					<lb facs="#facs_477_r17"/>5. Rüegsegger-Dürig Rosmarie, Hausfrau, Eggstrasse 36, 8833 Samsta<lb break="no" facs="#facs_477_r18"/>gern</p>
+				<p>
+					<lb facs="#facs_477_r19"/>6. Wipf Thomas, Pfarrer, Pfarrhaus, 8821 Schönenberg</p>
+				<p>
+					<lb facs="#facs_477_r20"/>7. Zwygart-Germann Vroni, Hauswirtschaftslehrerin/Hausfrau,<lb facs="#facs_477_r21"/>Schlossbergstrasse 23, 8820 Wädenswil</p>
+				<p>
+					<lb facs="#facs_477_r22"/>Wahlkreis XIV, Thalwil, umfassend die Gemeinden Thalwil, Adliswil,<lb facs="#facs_477_r23"/>Kilchberg, Langnau a. A ., Oberrieden und Rüschlikon:</p>
+				<p>
+					<lb facs="#facs_477_r24"/>(9 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_477_r25"/>1. Gamper-Matt Verena, Hausfrau, Alte Landstrasse 59, 8942 Ober<lb break="no" facs="#facs_477_r26"/>rieden</p>
+				<p>
+					<lb facs="#facs_477_r27"/>2. Hodel-Sägesser Elisabeth, Kindergärtnerin, Nidelbadstrasse 100,<lb facs="#facs_477_r28"/>8803 Rüschlikon</p>
+				<p>
+					<lb facs="#facs_477_r29"/>3. Hunziker Willy, Betriebsleiter, Schwandelstrasse 16, 8800 Thalwil</p>
+				<p>
+					<lb facs="#facs_477_r30"/>4. Kilchsperger Gladi, Dr.med. vet ., Mikrobiologe, Gartendörfliweg<lb facs="#facs_477_r31"/>10, 8135 Langnau a. A.</p>
+				<p>
+					<lb facs="#facs_477_r32"/>5. Kriesi Werner, Pfarrer, Schwandelstrasse 28, 8800 Thalwil</p>
+				<p>
+					<lb facs="#facs_477_r33"/>6. Paur Dieter, dipl. Ing ., Alte Landstrasse 21, 8802 Kilchberg</p>
+				<p>
+					<lb facs="#facs_477_r34"/>7. Rahn Bernhard, Prof. Dr. phil ., Mittelschullehrer, Pfeifenweid 2,<lb facs="#facs_477_r35"/>8134 Adliswil</p>
+				<pb n="477" facs="#facs_478"/>
+				<p>
+					<lb facs="#facs_478_r1"/>8. Schmitz Jakob, Landwirt, Baldernstrasse 22, 8134 Adliswil</p>
+				<p>
+					<lb facs="#facs_478_r2"/>9. Vedder-Aschmann Brigitte, Hausfrau, Dorfstrasse 90, 8802 Kilch<lb break="no" facs="#facs_478_r3"/>berg</p>
+				<p>
+					<lb facs="#facs_478_r4"/>Wahlkreis XV, Meilen, umfassend die Gemeinden des Bezirkes Meilen:</p>
+				<p>
+					<lb facs="#facs_478_r5"/>(12 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_478_r6"/>1. Bretscher Walter, Lehrer, Blattenackerstrasse 5, 8618 Oetwil am<lb facs="#facs_478_r7"/>See (bisher)</p>
+				<p>
+					<lb facs="#facs_478_r8"/>2. Buol Paul, Pfarrer, Glärnischstrasse 11, 8700 Küsnacht</p>
+				<p>
+					<lb facs="#facs_478_r9"/>3. Elmer Erika, Hausfrau, Schirmensee, 8714 Feldbach (bisher)</p>
+				<p>
+					<lb facs="#facs_478_r10"/>4. Meyer Werner, Instr .- Offizier, Zürichstrasse 150, 8700 Küsnacht</p>
+				<p>
+					<lb facs="#facs_478_r11"/>5. Müller Katharina, Handelslehrerin, Glärnischstrasse 212, 8708 Män<lb break="no" facs="#facs_478_r12"/>nedorf (bisher)</p>
+				<p>
+					<lb facs="#facs_478_r13"/>6. Natsch Walter, Dr. iur ., Habüelstrasse 161, 8704 Herrliberg (bisher)</p>
+				<p>
+					<lb facs="#facs_478_r14"/>7. von Orelli Lucius, Pfarrer, Mittelwiesstrasse 2, 8708 Männedorf<lb facs="#facs_478_r15"/>(bisher)</p>
+				<p>
+					<lb facs="#facs_478_r16"/>8. Pfenninger Armin, Chemiker, Alte Landstrasse 39, 8707 Uetikon<lb facs="#facs_478_r17"/>am See</p>
+				<p>
+					<lb facs="#facs_478_r18"/>9. Sommer Ernst F ., Lehrer, Bergstrasse 191, 8706 Meilen</p>
+				<p>
+					<lb facs="#facs_478_r19"/>10. Thümena Margrit, Hausfrau, Rain 3, 8126 Zumikon</p>
+				<p>
+					<lb facs="#facs_478_r20"/>11. Walser Hans-Rudolf, Pfarrer, Drusbergstrasse 19, 8703 Erlenbach</p>
+				<p>
+					<lb facs="#facs_478_r21"/>12. Zeller Willy, Redaktor, Rinistrasse 11, 8712 Stäfa (bisher)</p>
+				<p>
+					<lb facs="#facs_478_r22"/>Wahlkreis XVI, Hinwil, umfassend die Gemeinden des Bezirkes Hinwil:</p>
+				<p>
+					<lb facs="#facs_478_r23"/>(11 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_478_r24"/>Weil die Zahl der Vorgeschlagenen die Zahl der zu Wählenden über<lb break="no" facs="#facs_478_r25"/>steigt, wird die Wahl im ordentlichen Verfahren, das heisst mit einem<lb facs="#facs_478_r26"/>Wahlzettel ohne Namenseindruck durchgeführt.</p>
+				<p>
+					<lb facs="#facs_478_r27"/>Wahlkreis XVII, Uster, umfassend die Gemeinden des Bezirkes Uster:</p>
+				<p>
+					<lb facs="#facs_478_r28"/>(14 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_478_r29"/>1. Attinger Ernst, Dekan, Kirchweg 3, 8124 Maur</p>
+				<p>
+					<lb facs="#facs_478_r30"/>2. Bernoulli Peter, Pfarrer, Lindenstrasse 25, 8606 Nänikon</p>
+				<p>
+					<lb facs="#facs_478_r31"/>3. Frick Gerhard, Dr ., Gymnasiallehrer, Oberlandstrasse 20,<lb facs="#facs_478_r32"/>8133 Esslingen (bisher)</p>
+				<p>
+					<lb facs="#facs_478_r33"/>4. Gebs William, Sozialarbeiter, Bühlwiesenstrasse 20,<lb facs="#facs_478_r34"/>8600 Dübendorf</p>
+				<p>
+					<lb facs="#facs_478_r35"/>5. Jauch Fritz, Personalchef, In Huebwiesen 5, 8600 Dübendorf<lb facs="#facs_478_r36"/>(bisher)</p>
+				<pb n="478" facs="#facs_479"/>
+				<p>
+					<lb facs="#facs_479_r1"/>6. Klöpfer Willi, Betriebsleiter, Sonnenbergstrasse 86, 8610 Uster<lb facs="#facs_479_r2"/>(bisher)</p>
+				<p>
+					<lb facs="#facs_479_r3"/>7. Meyer-Singer Elisabeth, Hausfrau, Rothstrasse 9, 8610 Uster<lb facs="#facs_479_r4"/>(bisher)</p>
+				<p>
+					<lb facs="#facs_479_r5"/>8. Odinga Robert, Fabrikant, Im Chrummacher 5, 8604 Volketswil<lb facs="#facs_479_r6"/>(bisher)</p>
+				<p>
+					<lb facs="#facs_479_r7"/>9. Rutz Hansjörg, Jugendberater, Rigiweg 12, 8604 Volketswil (bisher)</p>
+				<p>
+					<lb facs="#facs_479_r8"/>10. Schaffner Marianne, Hausfrau, Pfaffensteinstrasse 17,<lb facs="#facs_479_r9"/>8122 Pfaffhausen</p>
+				<p>
+					<lb facs="#facs_479_r10"/>11. Schmid Hans Heinrich, Prof. Dr ., Universitätsdozent, In der Halden<lb facs="#facs_479_r11"/>11, 8603 Schwerzenbach (bisher)</p>
+				<p>
+					<lb facs="#facs_479_r12"/>12. Stüssi Alfred, Verleger, Zürichstrasse 59, 8122 Pfaffhausen (bisher)</p>
+				<p>
+					<lb facs="#facs_479_r13"/>13. Wichser Jürg, Pfarrer, Pfarrain 7, 8604 Volketswil</p>
+				<p>
+					<lb facs="#facs_479_r14"/>14. Wuest-Streit Elisabeth, Hausfrau, Chileweg 5, 8044 Gockhausen<lb facs="#facs_479_r15"/>(bisher)</p>
+				<p>
+					<lb facs="#facs_479_r16"/>Wahlkreis XVIII, Pfäffikon, umfassend die Gemeinden des Bezirkes<lb facs="#facs_479_r17"/>Pfäffikon:</p>
+				<p>
+					<lb facs="#facs_479_r18"/>(7 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_479_r19"/>1. Bosshard Nelly, Hausfrau, Schriberweidstrasse 21, 8330 Pfäffikon<lb facs="#facs_479_r20"/>(bisher)</p>
+				<p>
+					<lb facs="#facs_479_r21"/>2. Fisler Peter, Blindenseelsorger, Im Baumgarten 3, 8307 Effretikon</p>
+				<p>
+					<lb facs="#facs_479_r22"/>3. Heusser Elsa, Hausfrau, Chüeferistrasse 1, 8320 Fehraltorf (bisher)</p>
+				<p>
+					<lb facs="#facs_479_r23"/>4. Linsi Traugott, Pfarrer, Gublen, 8494 Bauma (bisher)</p>
+				<p>
+					<lb facs="#facs_479_r24"/>5. Meier Alice, Hausfrau, Stuketenstrasse 8, 8332 Russikon (bisher)</p>
+				<p>
+					<lb facs="#facs_479_r25"/>6. Widler Robert, Sekundarlehrer, Mülihalde 58, 8484 Weisslingen<lb facs="#facs_479_r26"/>(bisher)</p>
+				<p>
+					<lb facs="#facs_479_r27"/>7. Wyss Elisabeth, Hausfrau, Dorfstrasse 16, 8307 Effretikon</p>
+				<p>
+					<lb facs="#facs_479_r28"/>Wahlkreis XIX, Winterthur-Stadt, umfassend die Kirchgemeinden<lb facs="#facs_479_r29"/>Winterthur-Stadt und Winterthur-Mattenbach:</p>
+				<p>
+					<lb facs="#facs_479_r30"/>(5 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_479_r31"/>1. Bachmann Walter, Feinmechaniker, Hulfteggstrasse 43,<lb facs="#facs_479_r32"/>8400 Winterthur</p>
+				<p>
+					<lb facs="#facs_479_r33"/>2. Beck Beat, Masch .- Ing ., Verkaufsleiter, Jakobstrasse 5,<lb facs="#facs_479_r34"/>8400 Winterthur</p>
+				<p>
+					<lb facs="#facs_479_r35"/>3. Dieterle Theodor, Pfarrer, Ruhtalstrasse 9, 8400 Winterthur</p>
+				<p>
+					<lb facs="#facs_479_r36"/>4. Ehrensperger Alfred, Dr. theol ., Pfarrer, Sonnenbergstrasse 9, 8400<lb facs="#facs_479_r37"/>Winterthur</p>
+				<p>
+					<lb facs="#facs_479_r38"/>5. Wanger Fritz, Kaufmann, Geiselweidstrasse 9, 8400 Winterthur</p>
+				<pb n="479" facs="#facs_480"/>
+				<p>
+					<lb facs="#facs_480_r1"/>Wahlkreis XX, Winterthur-Vororte, umfassend die Kirchgemeinden<lb facs="#facs_480_r2"/>Oberwinterthur, Seen, Töss, Veltheim und Wülflingen:</p>
+				<p>
+					<lb facs="#facs_480_r3"/>(10 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_480_r4"/>1. Bührer Wilhelm, Pfarrer, Äckerwiesenstrasse 16, 8400 Winterthur</p>
+				<p>
+					<lb facs="#facs_480_r5"/>2. Fahrni Hans, Diakon, Am Iberghang 43, 8405 Winterthur</p>
+				<p>
+					<lb facs="#facs_480_r6"/>3. Fehr Robert, Kaufmann, Klosterstrasse 47, 8406 Winterthur</p>
+				<p>
+					<lb facs="#facs_480_r7"/>4. Freitag Claire, Hausmutter, Wieshofstrasse 102, 8408 Winterthur</p>
+				<p>
+					<lb facs="#facs_480_r8"/>5. Fröhlich Walter, Beamter, Steinackerweg 16, 8405 Winterthur</p>
+				<p>
+					<lb facs="#facs_480_r9"/>6. Gerecke Erich, Pfarrer, Alte Römerstrasse 5, 8404 Winterthur</p>
+				<p>
+					<lb facs="#facs_480_r10"/>7. Hauri Erich, Liegenschaftenverwalter, Stollenweg 10,<lb facs="#facs_480_r11"/>8400 Winterthur</p>
+				<p>
+					<lb facs="#facs_480_r12"/>8. Jucker Alice, Organistin, Weidweg 5, 8405 Winterthur</p>
+				<p>
+					<lb facs="#facs_480_r13"/>9. Sigrist Hans, lic. iur ., Gerichtssekretär, Hohlandstrasse 10,<lb facs="#facs_480_r14"/>8404 Winterthur</p>
+				<p>
+					<lb facs="#facs_480_r15"/>10. Trechsel Max, Dr. iur ., Rechtsanwalt, Zinzikerbergstrasse 18,<lb facs="#facs_480_r16"/>8404 Winterthur</p>
+				<p>
+					<lb facs="#facs_480_r17"/>Wahlkreis XXI, Winterthur-Land, umfassend die Gemeinden des<lb facs="#facs_480_r18"/>Bezirkes Winterthur, mit Ausnahme der Stadt:</p>
+				<p>
+					<lb facs="#facs_480_r19"/>(7 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_480_r20"/>1. Baumann-Gritti Annina, Hausfrau, Gladiolenstrasse, 8472 Seuzach</p>
+				<p>
+					<lb facs="#facs_480_r21"/>2. Leuzinger Ernst, Werkmeister, Sunnegüetli, 8352 Räterschen</p>
+				<p>
+					<lb facs="#facs_480_r22"/>3. Mettler Willi, Architekt HTL, Lüssweg 15, 8542 Wiesendangen</p>
+				<p>
+					<lb facs="#facs_480_r23"/>4. Oberholzer Werner, Textiltechniker, Ebnetstrasse 42, 8474 Dinhard</p>
+				<p>
+					<lb facs="#facs_480_r24"/>5. Rietiker-Frey Susi, Arbeitsschullehrerin und Hausfrau, Rötel<lb break="no" facs="#facs_480_r25"/>strasse 17, 8413 Neftenbach</p>
+				<p>
+					<lb facs="#facs_480_r26"/>6. Suter Paul, Pfarrer, Kirchstrasse 2, 8483 Kollbrunn</p>
+				<p>
+					<lb facs="#facs_480_r27"/>7. Wüthrich Hans, Landwirt, 8353 Hofstetten b. Elgg</p>
+				<p>
+					<lb facs="#facs_480_r28"/>Wahlkreis XXII, Andelfingen, umfassend die Gemeinden des Bezirkes<lb facs="#facs_480_r29"/>Andelfingen:</p>
+				<p>
+					<lb facs="#facs_480_r30"/>(5 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_480_r31"/>1. Graf-Briner Elsbeth, Hausfrau/Kaufmann, 8476 Unterstammheim</p>
+				<p>
+					<lb facs="#facs_480_r32"/>2. Hartmann Hanspeter, dipl. Maschinen-Konstrukteur, Oberdorf,<lb facs="#facs_480_r33"/>8416 Flaach</p>
+				<p>
+					<lb facs="#facs_480_r34"/>3. Oggenfuss Hans-Peter, Kaufmann, Sunnenberg, 8247 Dachsen</p>
+				<p>
+					<lb facs="#facs_480_r35"/>4. Pfister Siegfried, Lehrer, Theodor-Gubler-Strasse, 8450 Andel<lb break="no" facs="#facs_480_r36"/>fingen</p>
+				<p>
+					<lb facs="#facs_480_r37"/>5. Reich Rudolf, Pfarrer, Pfarrhaus, 8460 Marthalen</p>
+				<pb n="480" facs="#facs_481"/>
+				<p>
+					<lb facs="#facs_481_r1"/>Wahlkreis XXIII, Bülach, umfassend die Gemeinden des Bezirkes<lb facs="#facs_481_r2"/>Bülach:</p>
+				<p>
+					<lb facs="#facs_481_r3"/>(15 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_481_r4"/>1. Amstutz Kurt, Flugverkehrsleiter, Sechtbachweg 31, 8180 Bülach</p>
+				<p>
+					<lb facs="#facs_481_r5"/>2. Angst Roman, Pfarrer, Dorfstrasse, 8197 Rafz</p>
+				<p>
+					<lb facs="#facs_481_r6"/>3. Bolleter Marianne, Lehrerin/Hausfrau, Talackerstrasse 77,<lb facs="#facs_481_r7"/>8152 Glattbrugg</p>
+				<p>
+					<lb facs="#facs_481_r8"/>4. Briner Jakob, Dr. med ., Trottenstrasse 28, 8180 Bülach</p>
+				<p>
+					<lb facs="#facs_481_r9"/>5. Giger Rudolf, Sekundarlehrer, Taleggstrasse 10, 8424 Embrach</p>
+				<p>
+					<lb facs="#facs_481_r10"/>6. Glättli Hansruedi, Samenhändler, Rotackerstrasse 29, 8304 Wallisel<lb break="no" facs="#facs_481_r11"/>len (bisher)</p>
+				<p>
+					<lb facs="#facs_481_r12"/>7. Hänseler Karl, Notar, Höhenweg, 8197 Rafz (bisher)</p>
+				<p>
+					<lb facs="#facs_481_r13"/>8. Hartmann Hans, Werkmeister, Schaffhauserstrasse 13, 8193 Eglisau<lb facs="#facs_481_r14"/>(bisher)</p>
+				<p>
+					<lb facs="#facs_481_r15"/>9. Meier Walter, Pfarrer, Dorfstrasse, 8305 Dietlikon (bisher)</p>
+				<p>
+					<lb facs="#facs_481_r16"/>10. Meili Peter, Dr. med ., Dorfstrasse 51, 8427 Freienstein</p>
+				<p>
+					<lb facs="#facs_481_r17"/>11. Pfister Hanni, Hausfrau, Säntisstrasse 5, 8304 Wallisellen</p>
+				<p>
+					<lb facs="#facs_481_r18"/>12. Rutherfoord Monika, Hausfrau, Brunnenstrasse 3, 8303 Bassersdorf</p>
+				<p>
+					<lb facs="#facs_481_r19"/>13. Waldburger Georg, Pfarrer, Lebernstrasse 10, 8309 Nürensdorf<lb facs="#facs_481_r20"/>(bisher)</p>
+				<p>
+					<lb facs="#facs_481_r21"/>14. Weber Anny, Hausfrau, Bürglenstrasse 467, 8196 Wil (bisher)</p>
+				<p>
+					<lb facs="#facs_481_r22"/>15. Wohlwend Rico, Flugverkehrsleiter, Dietlikerstrasse 36, 8302 Klo<lb break="no" facs="#facs_481_r23"/>ten (bisher)</p>
+				<p>
+					<lb facs="#facs_481_r24"/>Wahlkreis XXIV, Dielsdorf, umfassend die Gemeinden des Bezirkes<lb facs="#facs_481_r25"/>Dielsdorf:</p>
+				<p>
+					<lb facs="#facs_481_r26"/>(8 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_481_r27"/>1. Brandenberger-Frick Regula, Lehrerin, Chälenstrasse 505,<lb facs="#facs_481_r28"/>8433 Weiach</p>
+				<p>
+					<lb facs="#facs_481_r29"/>2. Dütsch Adolf, Dr. phil ., Gässlistrasse 17, 8172 Niederglatt</p>
+				<p>
+					<lb facs="#facs_481_r30"/>3. Lanz Beat, Pfarrer, Pfarrhaus, 8166 Niederweningen</p>
+				<p>
+					<lb facs="#facs_481_r31"/>4. Lorenz Melanie, Bibliothekarin, Appenzellerstrasse 77,<lb facs="#facs_481_r32"/>8049 Zürich-Höngg</p>
+				<p>
+					<lb facs="#facs_481_r33"/>5. Mathys Felix, Pfarrer, Wehntalerstrasse 21, 8157 Dielsdorf</p>
+				<p>
+					<lb facs="#facs_481_r34"/>6. Meili Walter, Religionslehrer, Stegacherstrasse, 8165 Schleinikon</p>
+				<p>
+					<lb facs="#facs_481_r35"/>7. Thommen-Streuli Mädi, Hausfrau, Rosenstrasse 32, 8105 Regens<lb break="no" facs="#facs_481_r36"/>dorf</p>
+				<p>
+					<lb facs="#facs_481_r37"/>8. Wagnière-Escher Marie-Louise, Hausfrau, Heitligstrasse 12,<lb facs="#facs_481_r38"/>8173 Neerach</p>
+				<pb n="481" facs="#facs_482"/>
+				<p>
+					<lb facs="#facs_482_r1"/>Wahlkreis XXV, Französische Kirchgemeinschaften:</p>
+				<p> (3 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_482_r3"/>Die Wahl der Vertreter der französischen Kirchgemeinschaften erfolgt<lb facs="#facs_482_r4"/>durch eine gemeinsame Mitgliederversammlung dieser Kirchgemein<lb break="no" facs="#facs_482_r5"/>schaften im geheimen Verfahren.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_482_r6"/>II. Bezirkskirchenpflegen</head>
+				<p>
+					<lb facs="#facs_482_r7"/>Bezirk Zürich links der Limmat:</p>
+				<p>
+					<lb facs="#facs_482_r8"/>(9 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_482_r9"/>1. Affolter Theodor, Zugführer, Gutstrasse 114, 8055 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r10"/>2. Hegetschweiler Annie, Hausfrau, Sihlweidstrasse 4, 8041 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r11"/>3. Hofmann Jakob, Werkmeister, Feldblumenweg 20, 8048 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r12"/>4. Knoblauch Heinz, Primarlehrer, Ginsterstrasse 49, 8047 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r13"/>5. Mischler Werner, Personalchef, Bullingerstrasse 73, 8004 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r14"/>6. Müller Maria, a. Gemeindehelferin, Ausstellungsstrasse 105,<lb facs="#facs_482_r15"/>8031 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r16"/>7. Müller Otmar, a. Reallehrer, Hegenmatt 39, 8038 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r17"/>8. Walder Karl, Pfarrer, Stauffacherstrasse 10, 8004 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r18"/>9. Zbinden Bernhard, Betriebsbeamter, Bernhard-Jäggi-Weg 57,<lb facs="#facs_482_r19"/>8055 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r20"/>Bezirk Zürich rechts der Limmat:</p>
+				<p>
+					<lb facs="#facs_482_r21"/>(9 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_482_r22"/>1. Augsburger Walter, Kanzleisekretär, Neptunstrasse 31, 8032 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r23"/>2. Cabalzar Peter, Pfarrer, Schienhutgasse 6, 8001 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r24"/>3. Constam Anna Margrit, Hausfrau, Herzogstrasse 18, 8044 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r25"/>4. Friedli Walter, Landwirt, Sennhofstrasse 69, 8125 Zollikerberg</p>
+				<p>
+					<lb facs="#facs_482_r26"/>5. Götti Werner, Sekundarlehrer, Eigenwasenstrasse 16, 8052 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r27"/>6. Johner Antoinette, Sekretärin, Reinacherstrasse 18, 8032 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r28"/>7. Lienhard Ernst, Pfarrer, Altwiesenstrasse 178, 8051 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r29"/>8. Tuchschmid Hanspeter, Sekretär, Drusbergstrasse 32, 8053 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r30"/>9. Wyder Ernst, Dr. oec ., Handelslehrer, Grabenwies 25,<lb facs="#facs_482_r31"/>8057 Zürich</p>
+				<p>
+					<lb facs="#facs_482_r32"/>Bezirk Limmattal:</p>
+				<p>
+					<lb facs="#facs_482_r33"/>(5 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_482_r34"/>1. Braun Peter, dipl. Maschinentechniker, Ruggenstrasse 9,<lb facs="#facs_482_r35"/>8903 Birmensdorf</p>
+				<pb n="482" facs="#facs_483"/>
+				<p>
+					<lb facs="#facs_483_r1"/>2. Giuliato Ruth, Hausfrau, Suracherstrasse 36, 8142 Uitikon</p>
+				<p>
+					<lb facs="#facs_483_r2"/>3. Haab Markus, Architekt HTL, Rebackerstrasse 657, 8955 Oetwil<lb facs="#facs_483_r3"/>a. d. L.</p>
+				<p>
+					<lb facs="#facs_483_r4"/>4. Hintermann Théo, Buchdrucker, Bahnhofstrasse 93, 8902 Urdorf</p>
+				<p>
+					<lb facs="#facs_483_r5"/>5. Morf Arnold, Dr ., Oberrichter, Anemonenstrasse 23, 8953 Dietikon</p>
+				<p>
+					<lb facs="#facs_483_r6"/>Bezirk Affoltern:</p>
+				<p>
+					<lb facs="#facs_483_r7"/>(5 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_483_r8"/>1. Bührer Andres, Primarlehrer, Zwillikerstrasse 7, 8910 Affoltern<lb facs="#facs_483_r9"/>a. A.</p>
+				<p>
+					<lb facs="#facs_483_r10"/>2. Haegi Hans Rudolf, Ing. agr. ETH, Hasenbühlstrasse 52,<lb facs="#facs_483_r11"/>8910 Affoltern a. A.</p>
+				<p>
+					<lb facs="#facs_483_r12"/>3. Hartmann Heidi, Hausfrau, Walserstrasse 1, 8912 Obfelden</p>
+				<p>
+					<lb facs="#facs_483_r13"/>4. Hüppi Ruth, Hausfrau, Untermättli, 8913 Ottenbach</p>
+				<p>
+					<lb facs="#facs_483_r14"/>5. Mauch Ulrich, Pfarrer, Albisstrasse 10, 8932 Mettmenstetten</p>
+				<p>
+					<lb facs="#facs_483_r15"/>Bezirk Horgen:</p>
+				<p>
+					<lb facs="#facs_483_r16"/>(7 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_483_r17"/>1. Jantz Erwin, Chauffeur, bei der Post, 8821 Hütten</p>
+				<p>
+					<lb facs="#facs_483_r18"/>2. Merian Albert, El .- Ing ., Alte Landstrasse 137, 8800 Thalwil</p>
+				<p>
+					<lb facs="#facs_483_r19"/>3. Rusterholz-Fröhlich Frieda, med. Laborantin/Hausfrau, Alte Land<lb break="no" facs="#facs_483_r20"/>strasse</p>
+				<p> 78, 8942 Oberrieden</p>
+				<p>
+					<lb facs="#facs_483_r22"/>4. Schäppi-Frey Dora, Religionslehrerin/Hausfrau, Allmendgütli<lb break="no" facs="#facs_483_r23"/>strasse 25, 8810 Horgen</p>
+				<p>
+					<lb facs="#facs_483_r24"/>5. Schefer Fritz, Pfarrer, Dorfstrasse 115, 8802 Kilchberg</p>
+				<p>
+					<lb facs="#facs_483_r25"/>6. Spörri Martin, Taubstummenlehrer, Bernhofstrasse 51,<lb facs="#facs_483_r26"/>8134 Adliswil</p>
+				<p>
+					<lb facs="#facs_483_r27"/>7. Stricker Margrith, Krankenschwester, Bodenstrasse 10,<lb facs="#facs_483_r28"/>8805 Richterswil</p>
+				<p>
+					<lb facs="#facs_483_r29"/>Bezirk Meilen:</p>
+				<p>
+					<lb facs="#facs_483_r30"/>(7 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_483_r31"/>1. Engler Ernst, Tiefbautechniker, Schulhausstrasse 39,<lb facs="#facs_483_r32"/>8703 Erlenbach (bisher)</p>
+				<p>
+					<lb facs="#facs_483_r33"/>2. Glaser Harry, Dr. iur ., Morgental 1, 8126 Zumikon</p>
+				<p>
+					<lb facs="#facs_483_r34"/>3. Haerle Irma, Hausfrau, Im Koller 16, 8706 Feldmeilen (bisher)</p>
+				<p>
+					<lb facs="#facs_483_r35"/>4. Hug Walter, dipl. Ing. ETH, Schiedhaldensteig 2, 8700 Küsnacht</p>
+				<p>
+					<lb facs="#facs_483_r36"/>5. Rahn Susanne, Hausfrau, Im Gsteig 36, 8713 Uerikon</p>
+				<p>
+					<lb facs="#facs_483_r37"/>6. Strub Hans, Pfarrer, Boldern, 8708 Männedorf</p>
+				<p>
+					<lb facs="#facs_483_r38"/>7. Weber Hans, Lehrer, Schulhausstrasse 74, 8704 Herrliberg</p>
+				<pb n="483" facs="#facs_484"/>
+				<p>
+					<lb facs="#facs_484_r1"/>Bezirk Hinwil:</p>
+				<p>
+					<lb facs="#facs_484_r2"/>(7 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_484_r3"/>1. Bée-Jost Lilo, Bibliothekarin, Eggstrasse 22, 8620 Wetzikon</p>
+				<p>
+					<lb facs="#facs_484_r4"/>2. Gräser Heinz, Betriebsleiter, Schönenbergstrasse 17, 8340 Hinwil</p>
+				<p>
+					<lb facs="#facs_484_r5"/>3. Lamezan Elfriede, Hausfrau, Eschenmattstrasse 22, 8630 Rüti</p>
+				<p>
+					<lb facs="#facs_484_r6"/>4. Maier-Oberholzer Irene, Hausfrau, Grossweid, 8607 Aathal-See<lb break="no" facs="#facs_484_r7"/>gräben</p>
+				<p>
+					<lb facs="#facs_484_r8"/>5. Mengelt Marie-Claire, Buchhalterin/Hausfrau, Esslingerstrasse 28,<lb facs="#facs_484_r9"/>8627 Grüningen</p>
+				<p>
+					<lb facs="#facs_484_r10"/>6. Morf Werner, Pfarrer, 8497 Fischenthal</p>
+				<p>
+					<lb facs="#facs_484_r11"/>7. Rutz Esther, Lehrerin, Neuwiesstrasse 20, 8636 Wald</p>
+				<p>
+					<lb facs="#facs_484_r12"/>Bezirk Uster:</p>
+				<p>
+					<lb facs="#facs_484_r13"/>(7 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_484_r14"/>1. Berchtold-Winz Lina, Hausfrau, Alpenblickstrasse 3, 8610 Uster<lb facs="#facs_484_r15"/>(bisher)</p>
+				<p>
+					<lb facs="#facs_484_r16"/>2. Forrer Jörg, El .- Ing. HTL, Saatwiesenstrasse 18, 8600 Dübendorf</p>
+				<p>
+					<lb facs="#facs_484_r17"/>3. Ramming Hans, Dr ., Redaktor, Sunnhaldenstrasse 30b,<lb facs="#facs_484_r18"/>8600 Dübendorf (bisher)</p>
+				<p>
+					<lb facs="#facs_484_r19"/>4. Rühli Hans Peter, Pfarrer, Forchstrasse 129, 8132 Egg</p>
+				<p>
+					<lb facs="#facs_484_r20"/>5. Schulthess Emil, Bankangestellter, Weibelacherstrasse 5,<lb facs="#facs_484_r21"/>8617 Mönchaltorf (bisher)</p>
+				<p>
+					<lb facs="#facs_484_r22"/>6. Tappolet Peter, Pfarrer, Unterbühlenstrasse 17, 8610 Uster (bisher)</p>
+				<p>
+					<lb facs="#facs_484_r23"/>7. Teutsch Jürg, Bibliothekar, Meierwis 8, 8606 Greifensee (bisher)</p>
+				<p>
+					<lb facs="#facs_484_r24"/>Bezirk Pfäffikon:</p>
+				<p>
+					<lb facs="#facs_484_r25"/>(5 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_484_r26"/>1. Germann Werner, Sekundarlehrer, Gartenstrasse 2, 8330 Pfäffikon<lb facs="#facs_484_r27"/>(bisher)</p>
+				<p>
+					<lb facs="#facs_484_r28"/>2. Pfister Alfred, Techniker, Bachtelstrasse 21, 8330 Pfäffikon (bisher)</p>
+				<p>
+					<lb facs="#facs_484_r29"/>3. Spillmann Heinrich, Pfarrer, Pfarrhaus, 8336 Oberhittnau (bisher)</p>
+				<p>
+					<lb facs="#facs_484_r30"/>4. Randegger Hansruedi, Primarlehrer, Eichhaldenstrasse 2, 8492 Wila</p>
+				<p>
+					<lb facs="#facs_484_r31"/>5. Wipf Edith, Hausfrau, Rebenstrasse 33, 8307 Effretikon</p>
+				<p>
+					<lb facs="#facs_484_r32"/>Bezirk Winterthur:</p>
+				<p>
+					<lb facs="#facs_484_r33"/>(9 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_484_r34"/>1. Asper Hans, alt Sekundarlehrer, Gassenacker, 8545 Rickenbach-Sulz</p>
+				<p>
+					<lb facs="#facs_484_r35"/>2. Bader Karl, Pfarrer, Mythenstrasse 49, 8400 Winterthur</p>
+				<p>
+					<lb facs="#facs_484_r36"/>3. Kronbach-Rutschmann Ruth, Hausfrau, 8479 Rutschwil-Dägerlen</p>
+				<pb n="484" facs="#facs_485"/>
+				<p>
+					<lb facs="#facs_485_r1"/>4. Neeser-Fornasier Marta, Hausfrau, Stationsstrasse 97, 8542 Wiesen<lb break="no" facs="#facs_485_r2"/>dangen</p>
+				<p>
+					<lb facs="#facs_485_r3"/>5. Renfer Fritz, Primarlehrer, Höhenstrasse 9, 8353 Elgg</p>
+				<p>
+					<lb facs="#facs_485_r4"/>6. Schweizer Walter, Beamter, Kornweg 12, 8405 Winterthur</p>
+				<p>
+					<lb facs="#facs_485_r5"/>7. Siegrist Hans, lic. iur ., Hohlandstrasse 10, 8404 Winterthur</p>
+				<p>
+					<lb facs="#facs_485_r6"/>8. Weibel-Morach Gertrud, Lehrerin/Hausfrau, Schauenbergstrasse 7,<lb facs="#facs_485_r7"/>8352 Schottikon-Räterschen</p>
+				<p>
+					<lb facs="#facs_485_r8"/>9. Wettstein-Furrer Annemarie, Hausfrau, Tösstalstrasse 60,<lb facs="#facs_485_r9"/>8400 Winterthur</p>
+				<p>
+					<lb facs="#facs_485_r10"/>Bezirk Andelfingen:</p>
+				<p>
+					<lb facs="#facs_485_r11"/>(5 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_485_r12"/>1. Fuchs Peter, Primarlehrer, Untergries, 8450 Kleinandelfingen</p>
+				<p>
+					<lb facs="#facs_485_r13"/>2. Hess-Kyburz Rosmarie, Seminarleiterin, Sunnenberg, 8447 Dachsen</p>
+				<p>
+					<lb facs="#facs_485_r14"/>3. Keller Walter, Landwirt, Hausen, 8475 Ossingen</p>
+				<p>
+					<lb facs="#facs_485_r15"/>4. Koller Werner, Zollbeamter, Haldenweg, 8245 Feuerthalen</p>
+				<p>
+					<lb facs="#facs_485_r16"/>5. Wachter Bernhard, Pfarrer, Pfarrhaus, 8450 Andelfingen</p>
+				<p>
+					<lb facs="#facs_485_r17"/>Bezirk Bülach:</p>
+				<p>
+					<lb facs="#facs_485_r18"/>(7 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_485_r19"/>1. Baur Hans, technischer Beamter, Höhenweg 494, 8197 Rafz (bisher)</p>
+				<p>
+					<lb facs="#facs_485_r20"/>2. Christmann Erich, Pfarrer, Schulstrasse 2, 8152 Glattbrugg (bisher)</p>
+				<p>
+					<lb facs="#facs_485_r21"/>3. Fehr Thea, Hausbeamtin, Hohrütistrasse 67, 8302 Kloten</p>
+				<p>
+					<lb facs="#facs_485_r22"/>4. Flachsmann Karl, Pfarrer, Riedenerstrasse 74, 8304 Wallisellen</p>
+				<p>
+					<lb facs="#facs_485_r23"/>5. Hagger Regula, Lehrerin, Marktgasse 8, 8180 Bülach</p>
+				<p>
+					<lb facs="#facs_485_r24"/>6. Schifferle Bernhard, Hochbautechniker, Geisslooweg 3,<lb facs="#facs_485_r25"/>8303 Bassersdorf (bisher)</p>
+				<p>
+					<lb facs="#facs_485_r26"/>7. Spühler Edwin, Landwirt, Edelmannstrasse 16, 8194 Wasterkingen<lb facs="#facs_485_r27"/>(bisher)</p>
+				<p>
+					<lb facs="#facs_485_r28"/>Bezirk Dielsdorf:</p>
+				<p>
+					<lb facs="#facs_485_r29"/>(5 Mitglieder)</p>
+				<p>
+					<lb facs="#facs_485_r30"/>1. Balsiger Hans-Rudolf, Sekundarlehrer, Bodenacher 10,<lb facs="#facs_485_r31"/>8112 Otelfingen</p>
+				<p>
+					<lb facs="#facs_485_r32"/>2. Bliggenstorfer Edwin, kfm. Angestellter, Chilestieg 9,<lb facs="#facs_485_r33"/>8153 Rümlang</p>
+				<p>
+					<lb facs="#facs_485_r34"/>3. Hübsch Lorenz, Pfarrer, Im Eichi, 8172 Niederglatt</p>
+				<p>
+					<lb facs="#facs_485_r35"/>4. Schatzmann Willi, a. Pfarrer, Im Chaltacher 2, 8162 Steinmaur</p>
+				<p>
+					<lb facs="#facs_485_r36"/>5. Weber Edith, Hausfrau, Langfurrenstrasse 14, 8105 Regensdorf</p>
+				<pb n="485" facs="#facs_486"/>
+				<p>
+					<lb facs="#facs_486_r1"/>Werden bis am <date when="1983-05-13">13. Mai 1983</date> der Direktion des Innern keine weite<lb break="no" facs="#facs_486_r4"/>ren, von mindestens 15 Stimmberechtigten mit politischem Wohnsitz im<lb facs="#facs_486_r5"/>betreffenden Wahlkreis bzw. Bezirk unterzeichneten Wahlvorschläge<lb facs="#facs_486_r6"/>eingereicht, so werden die Namen der Vorgeschlagenen auf die den<lb facs="#facs_486_r7"/>Stimmberechtigten zuzustellenden Wahlzettel gedruckt.</p>
+				<p>
+					<lb facs="#facs_486_r8"/>Zürich, den <date when="1983-05-03">3. Mai 1983</date></p>
+				<p>
+					<lb facs="#facs_486_r10"/>Direktion des Innern<lb facs="#facs_486_r11"/>Bachmann</p>
+			</div>
+		</body></text></TEI>

@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-03-15">15.03.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Verordnung über die kantonale
+            Strafanstalt Regensdorf (Änderung) (vom
+              1. April 1981)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-04-24">24.04.1981</date><ident>StAZH ABl 1981 (S. 655-662)</ident><idno>655–662</idno><idno type="issue">18</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132269"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_656" uly="0" ulx="0" lry="2370" lrx="1595">
+			<graphic url="Abl_1981_1__S__0656.tif" width="1595px" height="2370px"/>
+			<zone xml:id="facs_656_r26" ulx="139" uly="1259" lrx="1305" lry="1288" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r25" ulx="191" uly="1213" lrx="1305" lry="1244" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r27" ulx="135" uly="1304" lrx="1301" lry="1334" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r42" ulx="137" uly="1838" lrx="1301" lry="1866" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r43" ulx="132" uly="1880" lrx="1135" lry="1911" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r46" ulx="1330" uly="2032" lrx="1524" lry="2051" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r5" ulx="232" uly="396" lrx="469" lry="426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r16" ulx="139" uly="858" lrx="1303" lry="888" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r29" ulx="191" uly="1402" lrx="1305" lry="1432" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r12" ulx="1332" uly="812" lrx="1441" lry="836" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r30" ulx="133" uly="1440" lrx="1310" lry="1475" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r19" ulx="1332" uly="1031" lrx="1551" lry="1059" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r23" ulx="139" uly="1115" lrx="1305" lry="1146" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r35" ulx="1327" uly="1700" lrx="1469" lry="1720" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r39" ulx="133" uly="1702" lrx="1313" lry="1733" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r34" ulx="1326" uly="1663" lrx="1430" lry="1690" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r36" ulx="1328" uly="1730" lrx="1536" lry="1749" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r3" ulx="145" uly="316" lrx="378" lry="351" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r49" ulx="134" uly="2051" lrx="1301" lry="2079" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r17" ulx="139" uly="906" lrx="1301" lry="933" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r1" ulx="143" uly="212" lrx="385" lry="243" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r4" ulx="141" uly="400" lrx="216" lry="426" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r2" ulx="139" uly="264" lrx="1015" lry="299" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r37" ulx="1326" uly="1757" lrx="1526" lry="1779" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r48" ulx="133" uly="2005" lrx="1308" lry="2036" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r32" ulx="136" uly="1534" lrx="1305" lry="1564" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r28" ulx="135" uly="1346" lrx="1000" lry="1378" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r45" ulx="1328" uly="2003" lrx="1459" lry="2022" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r8" ulx="137" uly="694" lrx="200" lry="719" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r41" ulx="133" uly="1792" lrx="1298" lry="1822" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r21" ulx="195" uly="1027" lrx="1294" lry="1058" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r22" ulx="139" uly="1071" lrx="1307" lry="1102" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r6" ulx="141" uly="521" lrx="629" lry="550" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r24" ulx="133" uly="1163" lrx="777" lry="1191" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r7" ulx="227" uly="646" lrx="1311" lry="675" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r15" ulx="138" uly="814" lrx="1306" lry="844" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r9" ulx="221" uly="689" lrx="498" lry="719" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r20" ulx="1330" uly="1069" lrx="1462" lry="1095" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r10" ulx="506" uly="689" lrx="904" lry="720" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r40" ulx="133" uly="1746" lrx="1312" lry="1777" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r11" ulx="1330" uly="775" lrx="1522" lry="802" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r33" ulx="133" uly="1586" lrx="232" lry="1611" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r18" ulx="141" uly="946" lrx="379" lry="975" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r14" ulx="193" uly="769" lrx="1303" lry="800" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r0" ulx="1255" uly="137" lrx="1311" lry="160" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r47" ulx="184" uly="1961" lrx="1305" lry="1990" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r13" ulx="1329" uly="842" lrx="1517" lry="864" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r44" ulx="1326" uly="1967" lrx="1480" lry="1991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r38" ulx="189" uly="1657" lrx="1303" lry="1687" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_656_r31" ulx="139" uly="1490" lrx="1303" lry="1519" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_657" uly="0" ulx="0" lry="2370" lrx="1601">
+			<graphic url="Abl_1981_1__S__0657.tif" width="1601px" height="2370px"/>
+			<zone xml:id="facs_657_r20" ulx="282" uly="1090" lrx="1457" lry="1119" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r18" ulx="280" uly="990" lrx="1338" lry="1021" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r37" ulx="337" uly="1613" lrx="1459" lry="1644" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r26" ulx="41" uly="1361" lrx="214" lry="1380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r36" ulx="41" uly="1657" lrx="122" lry="1675" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r30" ulx="281" uly="1348" lrx="529" lry="1375" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r13" ulx="337" uly="760" lrx="1452" lry="788" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r41" ulx="281" uly="1792" lrx="1463" lry="1820" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r19" ulx="339" uly="1042" lrx="1457" lry="1074" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r9" ulx="337" uly="589" lrx="1455" lry="622" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r45" ulx="283" uly="1978" lrx="1459" lry="2007" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r43" ulx="337" uly="1888" lrx="1457" lry="1918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r23" ulx="41" uly="1267" lrx="241" lry="1287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r17" ulx="338" uly="946" lrx="1457" lry="975" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r2" ulx="282" uly="260" lrx="1455" lry="292" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r25" ulx="45" uly="1327" lrx="235" lry="1347" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r22" ulx="285" uly="1177" lrx="1314" lry="1208" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r14" ulx="281" uly="804" lrx="1455" lry="834" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r39" ulx="283" uly="1700" lrx="1455" lry="1731" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r29" ulx="282" uly="1300" lrx="1457" lry="1333" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r4" ulx="283" uly="350" lrx="1455" lry="381" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r21" ulx="283" uly="1133" lrx="1459" lry="1163" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r31" ulx="337" uly="1400" lrx="1452" lry="1430" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r11" ulx="283" uly="679" lrx="1400" lry="710" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r7" ulx="283" uly="491" lrx="1455" lry="524" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r33" ulx="285" uly="1488" lrx="1459" lry="1519" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r5" ulx="283" uly="396" lrx="1197" lry="427" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r44" ulx="281" uly="1932" lrx="1455" lry="1963" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r40" ulx="283" uly="1748" lrx="1461" lry="1776" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r1" ulx="283" uly="216" lrx="1452" lry="247" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r16" ulx="279" uly="892" lrx="1050" lry="921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r28" ulx="337" uly="1256" lrx="1459" lry="1287" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r38" ulx="279" uly="1657" lrx="1452" lry="1686" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r24" ulx="43" uly="1298" lrx="243" lry="1318" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r0" ulx="280" uly="135" lrx="333" lry="156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r10" ulx="283" uly="635" lrx="1457" lry="665" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r8" ulx="283" uly="544" lrx="488" lry="567" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r46" ulx="283" uly="2021" lrx="820" lry="2050" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r32" ulx="283" uly="1444" lrx="1455" lry="1474" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r6" ulx="341" uly="450" lrx="1457" lry="478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r3" ulx="283" uly="308" lrx="1455" lry="336" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r42" ulx="281" uly="1836" lrx="1367" lry="1865" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r35" ulx="41" uly="1623" lrx="216" lry="1642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r15" ulx="283" uly="850" lrx="1457" lry="880" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r34" ulx="283" uly="1536" lrx="476" lry="1561" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r12" ulx="43" uly="767" lrx="218" lry="788" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_657_r27" ulx="44" uly="1396" lrx="154" lry="1416" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_658" uly="0" ulx="0" lry="2369" lrx="1593">
+			<graphic url="Abl_1981_1__S__0658.tif" width="1593px" height="2369px"/>
+			<zone xml:id="facs_658_r38" ulx="204" uly="1541" lrx="446" lry="1568" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r31" ulx="149" uly="1254" lrx="1153" lry="1285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r24" ulx="1335" uly="1022" lrx="1458" lry="1048" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r13" ulx="1332" uly="660" lrx="1434" lry="682" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r20" ulx="205" uly="810" lrx="1321" lry="839" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r2" ulx="1338" uly="258" lrx="1479" lry="283" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r34" ulx="204" uly="1333" lrx="804" lry="1364" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r21" ulx="153" uly="852" lrx="1318" lry="885" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r41" ulx="204" uly="1691" lrx="552" lry="1717" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r33" ulx="1336" uly="1379" lrx="1499" lry="1397" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r32" ulx="1338" uly="1341" lrx="1488" lry="1362" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r35" ulx="150" uly="1389" lrx="352" lry="1417" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r26" ulx="149" uly="1023" lrx="1319" lry="1053" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r15" ulx="147" uly="570" lrx="1325" lry="600" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r8" ulx="152" uly="450" lrx="437" lry="480" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r12" ulx="1344" uly="627" lrx="1499" lry="648" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r17" ulx="208" uly="668" lrx="1324" lry="699" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r18" ulx="149" uly="712" lrx="1315" lry="744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r25" ulx="206" uly="979" lrx="1326" lry="1010" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r29" ulx="152" uly="1164" lrx="1319" lry="1194" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r0" ulx="1267" uly="135" lrx="1319" lry="159" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r44" ulx="203" uly="1843" lrx="398" lry="1870" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r14" ulx="206" uly="525" lrx="1316" lry="555" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r4" ulx="156" uly="258" lrx="1328" lry="289" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r46" ulx="202" uly="1946" lrx="1319" lry="1976" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r22" ulx="148" uly="902" lrx="610" lry="927" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r43" ulx="145" uly="1798" lrx="1317" lry="1826" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r23" ulx="1336" uly="983" lrx="1515" lry="1010" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r1" ulx="1338" uly="220" lrx="1520" lry="246" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r7" ulx="153" uly="402" lrx="1321" lry="431" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r28" ulx="208" uly="1120" lrx="1317" lry="1150" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r3" ulx="210" uly="216" lrx="1317" lry="246" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r37" ulx="148" uly="1493" lrx="1317" lry="1524" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r42" ulx="148" uly="1743" lrx="819" lry="1773" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r27" ulx="152" uly="1070" lrx="1123" lry="1098" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r11" ulx="1346" uly="597" lrx="1482" lry="617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r5" ulx="154" uly="302" lrx="758" lry="334" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r30" ulx="152" uly="1210" lrx="1317" lry="1238" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r45" ulx="141" uly="1896" lrx="594" lry="1924" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r6" ulx="212" uly="356" lrx="1321" lry="385" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r36" ulx="145" uly="1439" lrx="700" lry="1471" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r40" ulx="146" uly="1645" lrx="1320" lry="1676" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r47" ulx="148" uly="1991" lrx="1315" lry="2021" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r10" ulx="1334" uly="570" lrx="1464" lry="593" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r48" ulx="148" uly="2037" lrx="794" lry="2067" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r16" ulx="151" uly="618" lrx="293" lry="642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r39" ulx="148" uly="1591" lrx="1121" lry="1622" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r19" ulx="150" uly="760" lrx="225" lry="784" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_658_r9" ulx="1334" uly="533" lrx="1528" lry="557" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_659" uly="0" ulx="0" lry="2369" lrx="1603">
+			<graphic url="Abl_1981_1__S__0659.tif" width="1603px" height="2369px"/>
+			<zone xml:id="facs_659_r21" ulx="273" uly="1052" lrx="1444" lry="1084" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r12" ulx="33" uly="750" lrx="149" lry="768" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r4" ulx="268" uly="341" lrx="1445" lry="371" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r33" ulx="270" uly="1585" lrx="1448" lry="1616" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r8" ulx="326" uly="537" lrx="1444" lry="567" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r24" ulx="273" uly="1198" lrx="806" lry="1223" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r36" ulx="275" uly="1729" lrx="1446" lry="1757" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r9" ulx="273" uly="581" lrx="1442" lry="613" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r17" ulx="35" uly="931" lrx="107" lry="948" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r2" ulx="273" uly="254" lrx="1446" lry="285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r10" ulx="270" uly="631" lrx="402" lry="655" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r26" ulx="327" uly="1275" lrx="1450" lry="1304" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r0" ulx="270" uly="133" lrx="321" lry="151" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r28" ulx="275" uly="1362" lrx="1446" lry="1395" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r20" ulx="275" uly="1006" lrx="1449" lry="1038" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r5" ulx="275" uly="389" lrx="775" lry="416" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r38" ulx="329" uly="1827" lrx="1449" lry="1856" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r1" ulx="325" uly="208" lrx="1446" lry="239" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r15" ulx="270" uly="795" lrx="1446" lry="826" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r11" ulx="30" uly="716" lrx="180" lry="736" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r40" ulx="270" uly="1914" lrx="1448" lry="1945" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r23" ulx="331" uly="1150" lrx="1446" lry="1179" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r35" ulx="335" uly="1685" lrx="1444" lry="1713" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r30" ulx="272" uly="1452" lrx="1445" lry="1481" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r34" ulx="273" uly="1631" lrx="1167" lry="1661" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r42" ulx="327" uly="2012" lrx="1189" lry="2045" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r41" ulx="273" uly="1960" lrx="1361" lry="1991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r27" ulx="273" uly="1318" lrx="1450" lry="1351" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r31" ulx="272" uly="1498" lrx="1446" lry="1529" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r16" ulx="274" uly="841" lrx="760" lry="868" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r39" ulx="275" uly="1873" lrx="1446" lry="1901" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r14" ulx="273" uly="752" lrx="1444" lry="781" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r7" ulx="268" uly="487" lrx="603" lry="515" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r25" ulx="34" uly="1287" lrx="120" lry="1304" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r19" ulx="276" uly="964" lrx="1449" lry="994" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r22" ulx="274" uly="1104" lrx="462" lry="1126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r18" ulx="327" uly="918" lrx="1448" lry="949" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r3" ulx="275" uly="300" lrx="1443" lry="328" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r6" ulx="331" uly="439" lrx="1444" lry="469" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r13" ulx="325" uly="708" lrx="1444" lry="738" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r37" ulx="275" uly="1773" lrx="1442" lry="1802" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r29" ulx="273" uly="1408" lrx="1452" lry="1438" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_659_r32" ulx="274" uly="1541" lrx="1448" lry="1571" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_660" uly="0" ulx="0" lry="2371" lrx="1595">
+			<graphic url="Abl_1981_1__S__0660.tif" width="1595px" height="2371px"/>
+			<zone xml:id="facs_660_r16" ulx="152" uly="868" lrx="268" lry="894" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r1" ulx="154" uly="210" lrx="389" lry="235" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r8" ulx="154" uly="491" lrx="1317" lry="522" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r29" ulx="1344" uly="1368" lrx="1531" lry="1392" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r40" ulx="1338" uly="1916" lrx="1523" lry="1940" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r32" ulx="150" uly="1414" lrx="1315" lry="1446" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r11" ulx="208" uly="635" lrx="948" lry="663" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r6" ulx="149" uly="383" lrx="1220" lry="416" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r39" ulx="150" uly="1837" lrx="494" lry="1864" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r43" ulx="206" uly="1916" lrx="1323" lry="1943" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r21" ulx="147" uly="989" lrx="1316" lry="1019" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r18" ulx="1340" uly="947" lrx="1542" lry="973" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r37" ulx="206" uly="1745" lrx="1320" lry="1773" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r24" ulx="1338" uly="1162" lrx="1526" lry="1185" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r27" ulx="148" uly="1256" lrx="300" lry="1281" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r33" ulx="148" uly="1462" lrx="583" lry="1490" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r25" ulx="204" uly="1158" lrx="1321" lry="1187" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r28" ulx="1340" uly="1329" lrx="1484" lry="1354" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r0" ulx="1263" uly="127" lrx="1315" lry="146" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r22" ulx="150" uly="1035" lrx="1317" lry="1063" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r34" ulx="148" uly="1585" lrx="707" lry="1616" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r31" ulx="146" uly="1368" lrx="1325" lry="1402" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r9" ulx="204" uly="533" lrx="748" lry="564" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r12" ulx="206" uly="685" lrx="1318" lry="716" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r38" ulx="145" uly="1787" lrx="1315" lry="1818" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r23" ulx="149" uly="1079" lrx="260" lry="1104" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r15" ulx="152" uly="818" lrx="1318" lry="849" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r10" ulx="148" uly="589" lrx="1317" lry="617" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r42" ulx="1336" uly="1983" lrx="1488" lry="2003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r5" ulx="204" uly="341" lrx="1321" lry="369" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r3" ulx="1338" uly="341" lrx="1490" lry="366" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r7" ulx="150" uly="435" lrx="856" lry="469" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r20" ulx="204" uly="945" lrx="1315" lry="973" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r2" ulx="152" uly="262" lrx="506" lry="289" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r36" ulx="1336" uly="1745" lrx="1532" lry="1772" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r19" ulx="1339" uly="977" lrx="1532" lry="999" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r13" ulx="148" uly="731" lrx="1316" lry="760" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r44" ulx="148" uly="1956" lrx="1316" lry="1988" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r30" ulx="204" uly="1329" lrx="1316" lry="1357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r41" ulx="1340" uly="1954" lrx="1519" lry="1979" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r45" ulx="148" uly="2002" lrx="721" lry="2033" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r14" ulx="152" uly="777" lrx="1315" lry="805" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r4" ulx="1342" uly="379" lrx="1501" lry="398" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r26" ulx="152" uly="1202" lrx="1318" lry="1231" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_660_r35" ulx="152" uly="1662" lrx="1177" lry="1693" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_661" uly="0" ulx="0" lry="2370" lrx="1602">
+			<graphic url="Abl_1981_1__S__0661.tif" width="1602px" height="2370px"/>
+			<zone xml:id="facs_661_r17" ulx="329" uly="925" lrx="811" lry="952" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r25" ulx="326" uly="1367" lrx="1443" lry="1396" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r12" ulx="273" uly="681" lrx="1445" lry="712" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r28" ulx="272" uly="1500" lrx="930" lry="1528" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r27" ulx="272" uly="1454" lrx="1445" lry="1484" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r1" ulx="329" uly="210" lrx="1445" lry="241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r14" ulx="273" uly="781" lrx="1443" lry="811" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r36" ulx="30" uly="1898" lrx="179" lry="1918" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r11" ulx="269" uly="629" lrx="1439" lry="660" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r32" ulx="272" uly="1671" lrx="798" lry="1698" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r35" ulx="275" uly="1811" lrx="682" lry="1840" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r39" ulx="275" uly="1936" lrx="1445" lry="1964" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r23" ulx="271" uly="1286" lrx="719" lry="1315" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r33" ulx="333" uly="1721" lrx="1447" lry="1751" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r7" ulx="35" uly="519" lrx="191" lry="538" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r37" ulx="31" uly="1934" lrx="189" lry="1951" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r22" ulx="273" uly="1167" lrx="386" lry="1194" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r15" ulx="327" uly="827" lrx="1443" lry="855" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r40" ulx="277" uly="1982" lrx="1124" lry="2009" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r0" ulx="273" uly="133" lrx="325" lry="154" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r31" ulx="271" uly="1625" lrx="1447" lry="1654" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r19" ulx="271" uly="1023" lrx="1443" lry="1051" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r6" ulx="34" uly="485" lrx="212" lry="506" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r24" ulx="33" uly="1373" lrx="144" lry="1393" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r10" ulx="273" uly="577" lrx="1275" lry="606" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r18" ulx="323" uly="975" lrx="1441" lry="1005" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r8" ulx="327" uly="479" lrx="1443" lry="509" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r26" ulx="275" uly="1411" lrx="1451" lry="1440" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r13" ulx="331" uly="729" lrx="1382" lry="757" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r2" ulx="272" uly="258" lrx="1028" lry="286" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r30" ulx="327" uly="1577" lrx="1445" lry="1610" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r38" ulx="327" uly="1888" lrx="1447" lry="1922" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r29" ulx="31" uly="1588" lrx="196" lry="1609" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r9" ulx="275" uly="523" lrx="903" lry="552" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r16" ulx="275" uly="877" lrx="1446" lry="908" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r21" ulx="325" uly="1119" lrx="1445" lry="1148" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r4" ulx="273" uly="356" lrx="1445" lry="383" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r3" ulx="331" uly="310" lrx="1441" lry="337" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r34" ulx="275" uly="1767" lrx="1449" lry="1795" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r5" ulx="271" uly="398" lrx="988" lry="427" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_661_r20" ulx="269" uly="1073" lrx="430" lry="1098" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_662" uly="0" ulx="0" lry="2370" lrx="1594">
+			<graphic url="Abl_1981_1__S__0662.tif" width="1594px" height="2370px"/>
+			<zone xml:id="facs_662_r26" ulx="164" uly="1183" lrx="1325" lry="1214" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r42" ulx="161" uly="1878" lrx="653" lry="1907" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r5" ulx="1350" uly="423" lrx="1527" lry="444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r24" ulx="218" uly="1094" lrx="1327" lry="1125" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r30" ulx="158" uly="1371" lrx="1213" lry="1399" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r32" ulx="218" uly="1450" lrx="1333" lry="1478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r13" ulx="164" uly="642" lrx="718" lry="671" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r11" ulx="163" uly="552" lrx="1332" lry="581" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r9" ulx="1343" uly="550" lrx="1478" lry="574" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r23" ulx="162" uly="1042" lrx="579" lry="1070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r14" ulx="214" uly="694" lrx="1325" lry="723" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r31" ulx="1346" uly="1454" lrx="1498" lry="1478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r43" ulx="220" uly="1930" lrx="1329" lry="1958" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r33" ulx="156" uly="1496" lrx="1323" lry="1526" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r19" ulx="216" uly="862" lrx="1327" lry="893" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r10" ulx="218" uly="508" lrx="1310" lry="536" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r15" ulx="164" uly="739" lrx="1328" lry="769" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r12" ulx="164" uly="598" lrx="1323" lry="624" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r17" ulx="1346" uly="867" lrx="1505" lry="892" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r3" ulx="164" uly="306" lrx="366" lry="333" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r38" ulx="158" uly="1707" lrx="1287" lry="1736" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r35" ulx="162" uly="1586" lrx="935" lry="1612" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r27" ulx="160" uly="1236" lrx="264" lry="1258" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r40" ulx="214" uly="1790" lrx="1331" lry="1817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r25" ulx="160" uly="1140" lrx="1327" lry="1171" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r2" ulx="158" uly="260" lrx="1329" lry="288" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r39" ulx="1343" uly="1790" lrx="1479" lry="1817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r6" ulx="216" uly="383" lrx="1323" lry="412" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r8" ulx="1342" uly="512" lrx="1475" lry="537" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r16" ulx="162" uly="785" lrx="1285" lry="812" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r28" ulx="222" uly="1281" lrx="1325" lry="1309" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r21" ulx="160" uly="952" lrx="1325" lry="982" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r7" ulx="162" uly="431" lrx="354" lry="456" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r36" ulx="1346" uly="1667" lrx="1496" lry="1694" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r18" ulx="1348" uly="906" lrx="1497" lry="931" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r37" ulx="216" uly="1663" lrx="1327" lry="1692" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r29" ulx="160" uly="1329" lrx="1323" lry="1357" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r44" ulx="156" uly="1978" lrx="504" lry="2003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r4" ulx="1343" uly="389" lrx="1519" lry="413" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r20" ulx="160" uly="908" lrx="1336" lry="939" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r34" ulx="162" uly="1540" lrx="1323" lry="1569" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r1" ulx="218" uly="214" lrx="1329" lry="245" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r0" ulx="1271" uly="135" lrx="1327" lry="156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r22" ulx="160" uly="996" lrx="1325" lry="1027" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_662_r41" ulx="159" uly="1834" lrx="1323" lry="1862" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_663" uly="0" ulx="0" lry="2370" lrx="1601">
+			<graphic url="Abl_1981_1__S__0663.tif" width="1601px" height="2370px"/>
+			<zone xml:id="facs_663_r24" ulx="321" uly="1267" lrx="1430" lry="1296" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r1" ulx="26" uly="216" lrx="158" lry="237" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r29" ulx="742" uly="1590" lrx="846" lry="1614" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r31" ulx="744" uly="1688" lrx="923" lry="1713" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r3" ulx="318" uly="210" lrx="819" lry="237" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r9" ulx="25" uly="533" lrx="168" lry="551" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r4" ulx="264" uly="260" lrx="800" lry="290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r16" ulx="262" uly="831" lrx="1275" lry="861" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r11" ulx="264" uly="537" lrx="1440" lry="565" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r7" ulx="262" uly="412" lrx="446" lry="438" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r22" ulx="904" uly="1185" lrx="1096" lry="1216" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r18" ulx="260" uly="929" lrx="1033" lry="959" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r27" ulx="740" uly="1488" lrx="1263" lry="1519" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r20" ulx="318" uly="1060" lrx="581" lry="1090" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r15" ulx="316" uly="785" lrx="1434" lry="816" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r19" ulx="318" uly="1006" lrx="902" lry="1037" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r25" ulx="261" uly="1400" lrx="456" lry="1428" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r21" ulx="339" uly="1184" lrx="885" lry="1216" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r12" ulx="262" uly="589" lrx="355" lry="609" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r30" ulx="742" uly="1642" lrx="1077" lry="1669" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r6" ulx="321" uly="366" lrx="1440" lry="397" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r23" ulx="1102" uly="1188" lrx="1250" lry="1216" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r10" ulx="321" uly="491" lrx="1436" lry="522" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r26" ulx="469" uly="1400" lrx="681" lry="1428" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r14" ulx="25" uly="792" lrx="200" lry="813" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r5" ulx="266" uly="316" lrx="1036" lry="345" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r2" ulx="30" uly="250" lrx="154" lry="265" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r0" ulx="262" uly="127" lrx="316" lry="149" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r8" ulx="27" uly="502" lrx="218" lry="520" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r13" ulx="261" uly="704" lrx="710" lry="734" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r17" ulx="314" uly="883" lrx="1436" lry="914" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_663_r28" ulx="744" uly="1542" lrx="983" lry="1569" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="655" facs="#facs_656"/>
+			<p>
+				<lb facs="#facs_656_r6"/>Der Regierungsrat beschliesst:</p>
+			<p>
+				<lb facs="#facs_656_r7"/>I. Die Verordnung über die kantonale Strafanstalt Regensdorf<lb facs="#facs_656_r8"/>vom <date when="1975-02-12">12. Februar 1975</date> wird wie
+            folgt geändert:</p>
+			<p>
+				<add type="marginal" place="right">
+					<lb facs="#facs_656_r11"/>Aufteilung der<lb facs="#facs_656_r12"/>Arbeits<lb break="no" facs="#facs_656_r13"/>entschädigung</add>
+			</p>
+			<p>
+				<lb facs="#facs_656_r14"/>§ 18. Vom Verdienstanteil wird dem Gefangenen monatlich ein<lb facs="#facs_656_r15"/>von der Justizdirektion festzulegender Betrag, jedoch höchstens
+              ein<lb facs="#facs_656_r16"/>Drittel, bar ausbezahlt. Der Rest wird dem Gefangenen
+              gutgeschrieben<lb facs="#facs_656_r17"/>und angemessen verzinst. Die Höhe seines
+            Guthabens wird ihm monat<lb break="no" facs="#facs_656_r18"/>lich mitgeteilt.</p>
+			<p>
+				<add type="marginal" place="right">
+					<lb facs="#facs_656_r19"/>Verwendung des<lb facs="#facs_656_r20"/>Bargeldes</add>
+			</p>
+			<p>
+				<lb facs="#facs_656_r21"/>§ 19. Über den ausbezahlten Barbetrag kann der Gefangene im<lb facs="#facs_656_r22"/>Rahmen der Hausordnung frei verfügen. Insbesondere sind daraus
+              die<lb facs="#facs_656_r23"/>Anschaffungen des täglichen Bedarfs, Briefporti und
+              Telefonspesen<lb facs="#facs_656_r24"/>sowie die Urlaubskosten, zu bezahlen.</p>
+			<p>
+				<lb facs="#facs_656_r25"/>Die Justizdirektion legt den maximalen Bargeldbetrag fest, den
+              die<lb facs="#facs_656_r26"/>Gefangenen besitzen dürfen. Mehrbeträge sind sofort
+            abzuliefern. Sie<lb facs="#facs_656_r27"/>werden dem Gefangenen separat gutgeschrieben
+            und verzinst. Er kann<lb facs="#facs_656_r28"/>darüber im Rahmen der Hausordnung frei
+            verfügen.</p>
+			<p>
+				<lb facs="#facs_656_r29"/>Die Deckung der Kosten vorsätzlich oder grobfahrlässig
+              verursach<lb break="no" facs="#facs_656_r30"/>ter Sachbeschädigungen sowie derjenigen,
+            die im Zusammenhang mit<lb facs="#facs_656_r31"/>Entweichungen entstehen, erfolgt in
+            angemessenem Umfang zu Lasten<lb facs="#facs_656_r32"/>des für die Barauszahlung
+            vorgesehenen Anteils der Arbeitsentschädi<lb break="no" facs="#facs_656_r33"/>gung.</p>
+			<p>
+				<add type="marginal" place="right">
+					<lb facs="#facs_656_r34"/>Für die<lb facs="#facs_656_r35"/>Entlassung<lb facs="#facs_656_r36"/>reservierter Teil<lb facs="#facs_656_r37"/>des Guthabens</add>
+			</p>
+			<p>
+				<lb facs="#facs_656_r38"/>§ 20. Die Hälfte des Verdienstanteiles wird auf einem
+              Sperrkonto<lb facs="#facs_656_r39"/>für die Entlassung reserviert. Die Direktion der
+            Strafanstalt kann auf<lb facs="#facs_656_r40"/>Gesuch des Gefangenen Ausgaben zu Lasten
+            des Sperrkontos bewilli<lb break="no" facs="#facs_656_r41"/>gen, wenn ein ausreichender
+            Betrag für die Entlassung sichergestellt ist,<lb facs="#facs_656_r42"/>und wenn die
+            Ausgaben für die Sicherung des wirtschaftlichen Fortkom<lb break="no" facs="#facs_656_r43"/>mens des Gefangenen nach der Entlassung erforderlich sind.</p>
+			<p>
+				<add type="marginal" place="right">
+					<lb facs="#facs_656_r44"/>Reserve für<lb facs="#facs_656_r45"/>besondere<lb facs="#facs_656_r46"/>Aufwendungen</add>
+			</p>
+			<p>
+				<lb facs="#facs_656_r47"/>§ 21. Der Rest des Verdienstanteils wird dem Gefangenen als<lb facs="#facs_656_r48"/>Reserve für besondere Aufwendungen gutgeschrieben und
+              ebenfalls<lb facs="#facs_656_r49"/>verzinst. Er kann insbesondere für Zuschüsse an die
+            Urlaubskosten und</p>
+			<pb n="656" facs="#facs_657"/>
+			<p>
+				<lb facs="#facs_657_r1"/>die Aufrechterhaltung der Beziehungen zur Familie in
+              besonderen<lb facs="#facs_657_r2"/>Fällen, die Erfüllung von Unterstützungspflichten,
+            die Wiedergutma<lb break="no" facs="#facs_657_r3"/>chung des angerichteten Schadens und
+            die Schuldentilgung sowie für<lb facs="#facs_657_r4"/>notwendige Anschaffungen von
+            Effekten, die Zahnbehandlung und die<lb facs="#facs_657_r5"/>Zahlung von
+            Versicherungsprämien verwendet werden.</p>
+			<p>
+				<lb facs="#facs_657_r6"/>Zur Inanspruchnahme der Reserve für besondere Aufwendungen
+              ist<lb facs="#facs_657_r7"/>die Zustimmung des Gefangenen und der Direktion der
+              Strafanstalt<lb facs="#facs_657_r8"/>erforderlich.</p>
+			<p>
+				<lb facs="#facs_657_r9"/>Beim Eintritt vorhandenes Bargeld und während des Aufenthalts
+              in<lb facs="#facs_657_r10"/>der Strafanstalt eingehende Beträge werden je zur Hälfte
+            der Reserve<lb facs="#facs_657_r11"/>für besondere Aufwendungen und dem Sperrkonto
+            gutgeschrieben.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_657_r12"/>Freizeitarbeit</add>
+			</p>
+			<p>
+				<lb facs="#facs_657_r13"/>§ 23. Gefangenen, die am Arbeitsplatz ausreichende
+              Leistungen<lb facs="#facs_657_r14"/>erbringen, wird nach Möglichkeit Gelegenheit zur
+            Freizeitarbeit gebo<lb break="no" facs="#facs_657_r15"/>ten; Betreuung und Ausbildung
+            dürfen jedoch durch die Verrichtung<lb facs="#facs_657_r16"/>von Freizeitarbeit nicht
+            beeinträchtigt werden.</p>
+			<p>
+				<lb facs="#facs_657_r17"/>Der Erlös aus der Freizeitarbeit wird je zur Hälfte der
+            Reserve für<lb facs="#facs_657_r18"/>besondere Aufwendungen und dem Sperrkonto
+            gutgeschrieben.</p>
+			<p>
+				<lb facs="#facs_657_r19"/>Bei verschuldeten oder unterstützungspflichtigen Gefangenen
+            ist die<lb facs="#facs_657_r20"/>Zuteilung von Freizeitarbeit nur zulässig, wenn sie
+            sich mit der Verwen<lb break="no" facs="#facs_657_r21"/>dung eines angemessenen Teils
+            des Erlöses für Schuldendeckung oder<lb facs="#facs_657_r22"/>Erfüllung von
+            Unterstützungspflichten einverstanden erklären.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_657_r23"/>Radioapparate,<lb facs="#facs_657_r24"/>Grammophone,<lb facs="#facs_657_r25"/>Tonbandgeräte<lb facs="#facs_657_r26"/>und Fernseh<lb break="no" facs="#facs_657_r27"/>apparate</add>
+			</p>
+			<p>
+				<lb facs="#facs_657_r28"/>§ 31. Gutqualifizierten Gefangenen wird von der Direktion
+              der<lb facs="#facs_657_r29"/>Strafanstalt der Besitz von Grammophonen und
+            Tonbandgeräten in der<lb facs="#facs_657_r30"/>Zelle gestattet.</p>
+			<p>
+				<lb facs="#facs_657_r31"/>Die Justizdirektion kann unter der gleichen Voraussetzung
+              den<lb facs="#facs_657_r32"/>Besitz von Fernsehgeräten in der Zelle zulassen. Die
+            Direktion der<lb facs="#facs_657_r33"/>Strafanstalt erlässt die notwendigen Weisungen
+            über Art und Anschluss<lb facs="#facs_657_r34"/>der Geräte.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_657_r35"/>Behandlungs<lb break="no" facs="#facs_657_r36"/>kosten</add>
+			</p>
+			<p>
+				<lb facs="#facs_657_r37"/>§ 33. Die Kosten für Spitalaufenthalt und aufwendige
+              Behandlung<lb facs="#facs_657_r38"/>nicht auf den Strafvollzug zurückgehender
+            Krankheiten oder wegen<lb facs="#facs_657_r39"/>Folgen vorher erlittener Unfälle werden
+            von den für den Gefangenen<lb facs="#facs_657_r40"/>zuständigen Fürsorgebehörden
+            bezogen, soweit er selbst nicht in der<lb facs="#facs_657_r41"/>Lage ist, für die Kosten
+            ganz oder teilweise aufzukommen. Dies gilt<lb facs="#facs_657_r42"/>auch für die
+            Beschaffung von Prothesen, Brillen und dergleichen.</p>
+			<p>
+				<lb facs="#facs_657_r43"/>Die durch absichtlich verursachte Krankheiten oder Verletzung
+              ent<lb break="no" facs="#facs_657_r44"/>stehenden Behandlungskosten werden dem
+            Gefangenen angemessen<lb facs="#facs_657_r45"/>belastet; das gleiche gilt für
+            vorsätzlich oder grobfahrlässig verursachte<lb facs="#facs_657_r46"/>Verletzung anderer
+            Gefangener.</p>
+			<pb n="657" facs="#facs_658"/>
+			<p>
+				<add type="marginal" place="right">
+					<lb facs="#facs_658_r1"/>Zahnärztliche<lb facs="#facs_658_r2"/>Betreuung</add>
+			</p>
+			<p>
+				<lb facs="#facs_658_r3"/>§ 34. Zahnärztliche Behandlung erfolgt nur, soweit sie
+              während<lb facs="#facs_658_r4"/>des Vollzugs von Strafen und Massnahmen erforderlich
+            wird. Hinsicht<lb break="no" facs="#facs_658_r5"/>lich der Kosten gilt § 33
+            sinngemäss.</p>
+			<p>
+				<lb facs="#facs_658_r6"/>Andere zahnärztliche Arbeiten werden vorgenommen, wenn die<lb facs="#facs_658_r7"/>Belastung des zahnärztlichen Dienstes dies erlaubt und die
+              Kostentra<lb break="no" facs="#facs_658_r8"/>gung geregelt ist.</p>
+			<p>
+				<add type="marginal" place="right">
+					<lb facs="#facs_658_r9"/>Medikamente,<lb facs="#facs_658_r10"/>und Diät,<lb facs="#facs_658_r11"/>Verbot von<lb facs="#facs_658_r12"/>Alkohol und<lb facs="#facs_658_r13"/>Drogen</add>
+			</p>
+			<p>
+				<lb facs="#facs_658_r14"/>§ 39. Die Gefangenen dürfen lediglich die von den
+              Anstaltsärzten<lb facs="#facs_658_r15"/>zugelassenen oder verschriebenen Medikamente
+            besitzen und ein<lb break="no" facs="#facs_658_r16"/>nehmen.</p>
+			<p>
+				<lb facs="#facs_658_r17"/>Diätkost wird nur aufgrund ärztlicher Anordnung abgegeben.
+              Vor<lb break="no" facs="#facs_658_r18"/>behalten bleiben Sonderregelungen aufgrund der
+              Religionszugehörig<lb break="no" facs="#facs_658_r19"/>keit.</p>
+			<p>
+				<lb facs="#facs_658_r20"/>Besitz und Genuss von Alkohol und Drogen sind untersagt.
+              Die<lb facs="#facs_658_r21"/>Anstaltsärzte führen auf Weisung des Direktors die
+            notwendigen medi<lb break="no" facs="#facs_658_r22"/>zinischen Kontrollen durch.</p>
+			<p>
+				<add type="marginal" place="right">
+					<lb facs="#facs_658_r23"/>Verhalten der<lb facs="#facs_658_r24"/>Besucher</add>
+			</p>
+			<p>
+				<lb facs="#facs_658_r25"/>§ 49. Ohne vorgängige Bewilligung der Direktion der
+              Strafanstalt<lb facs="#facs_658_r26"/>dürfen die Besucher den Gefangenen keine
+            Schriftstücke oder andere<lb facs="#facs_658_r27"/>Gegenstände übergeben oder von diesen
+            entgegennehmen.</p>
+			<p>
+				<lb facs="#facs_658_r28"/>Ausgenommen sind lediglich die Artikel, die von der
+            Strafanstalt in<lb facs="#facs_658_r29"/>den Besuchsräumlichkeiten verkauft werden, und
+            Schriftstücke, die<lb facs="#facs_658_r30"/>Sozialarbeiter in amtlicher Funktion,
+            Vormünder und Rechtsanwälte in<lb facs="#facs_658_r31"/>Ausübung ihres Mandates
+            übergeben oder entgegennehmen.</p>
+			<p>
+				<add type="marginal" place="right">
+					<lb facs="#facs_658_r32"/>Disziplinar<lb break="no" facs="#facs_658_r33"/>massnahmen</add>
+			</p>
+			<p>
+				<lb facs="#facs_658_r34"/>§ 58. Disziplinarmassnahmen sind:</p>
+			<p>
+				<lb facs="#facs_658_r35"/>a) Verweis;</p>
+			<p>
+				<lb facs="#facs_658_r36"/>b) Entzug von Vergünstigungen;</p>
+			<p>
+				<lb facs="#facs_658_r37"/>c) Ausschluss von Veranstaltungen, Schule und Freizeitkursen
+            bis zu<lb facs="#facs_658_r38"/>drei Monaten;</p>
+			<p>
+				<lb facs="#facs_658_r39"/>d) Kürzung des zur Auszahlung gelangenden Barbetrages;</p>
+			<p>
+				<lb facs="#facs_658_r40"/>e) Beschränkung oder Entzug des Korrespondenz- und
+              Besuchsrechts<lb facs="#facs_658_r41"/>bis zu drei Monaten;</p>
+			<p>
+				<lb facs="#facs_658_r42"/>f) Urlaubssperre bis zu sechs Monaten;</p>
+			<p>
+				<lb facs="#facs_658_r43"/>g) Bussen bis zum Betrag des Maximalansatzes der monatlichen
+              Bar<lb break="no" facs="#facs_658_r44"/>auszahlung;</p>
+			<p>
+				<lb facs="#facs_658_r45"/>h) Arrest bis zu 20 Tagen.</p>
+			<p>
+				<lb facs="#facs_658_r46"/>Die Kürzung des zur Auszahlung gelangenden Betrags darf nur
+              bei<lb facs="#facs_658_r47"/>Disziplinarvergehen angeordnet werden, die mit Besitz und
+              Verwen<lb break="no" facs="#facs_658_r48"/>dung dieser Beträge zusammenhängen.</p>
+			<pb n="658" facs="#facs_659"/>
+			<p>
+				<lb facs="#facs_659_r1"/>Die Beschränkung oder der Entzug des Korrespondenz- und<lb facs="#facs_659_r2"/>Besuchsrechtes sowie die Urlaubssperre dürfen nur bei
+              Disziplinarver<lb break="no" facs="#facs_659_r3"/>gehen angeordnet werden, die mit der
+            Ausübung dieser Rechte zusam<lb break="no" facs="#facs_659_r4"/>menhängen. Vorbehalten
+            bleibt in jedem Fall der Verkehr mit Behör<lb break="no" facs="#facs_659_r5"/>den und
+            dem Rechtsvertreter.</p>
+			<p>
+				<lb facs="#facs_659_r6"/>Arrest darf nur bei schweren oder wiederholten
+              Disziplinarvergehen<lb facs="#facs_659_r7"/>angeordnet werden.</p>
+			<p>
+				<lb facs="#facs_659_r8"/>Mehrere Disziplinarstrafen können miteinander verbunden
+              werden,<lb facs="#facs_659_r9"/>doch dürfen nicht gleichzeitig Arrest und eine Busse
+              ausgesprochen<lb facs="#facs_659_r10"/>werden.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_659_r11"/>Disziplinar<lb break="no" facs="#facs_659_r12"/>verfahren</add>
+			</p>
+			<p>
+				<lb facs="#facs_659_r13"/>§ 59. Nachdem der Betroffene angehört worden ist, fällt der
+              Direk<lb break="no" facs="#facs_659_r14"/>tor den Disziplinarentscheid. Dieser wird
+            dem Gefangenen mit Begrün<lb break="no" facs="#facs_659_r15"/>dung schriftlich, im Falle
+            eines Verweises mündlich mitgeteilt, unter<lb facs="#facs_659_r16"/>Hinweis auf das
+            Rekursrecht.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_659_r17"/>Busse</add>
+			</p>
+			<p>
+				<lb facs="#facs_659_r18"/>§ 60. Die Busse wird von dem für die Barauszahlung
+              vorgesehenen<lb facs="#facs_659_r19"/>Drittel des Verdienstanteils bezogen. Bis zu
+            ihrer vollständigen Bezah<lb break="no" facs="#facs_659_r20"/>lung wird dem Gefangenen
+            kein Bargeldbetrag ausbezahlt, unter Vorbe<lb break="no" facs="#facs_659_r21"/>halt des
+            für die Deckung unumgänglicher Auslagen notwendigen Mini<lb break="no" facs="#facs_659_r22"/>malbetrags.</p>
+			<p>
+				<lb facs="#facs_659_r23"/>Die von den Gefangenen entrichteten Geldbussen fallen dem
+              Ethi<lb break="no" facs="#facs_659_r24"/>schen Fonds der Strafanstalt zu.</p>
+			<p>
+				<add type="marginal" place="left">
+					<lb facs="#facs_659_r25"/>Arrest</add>
+			</p>
+			<p>
+				<lb facs="#facs_659_r26"/>§ 61. Der Arrest wird grundsätzlich in einer Normalzelle
+              vollzo<lb break="no" facs="#facs_659_r27"/>gen, in der sich nur das Bett und die für
+            Hygiene und Verpflegung<lb facs="#facs_659_r28"/>unumgänglichen Gegenstände befinden.
+            Der Gefangene bleibt von<lb facs="#facs_659_r29"/>Arbeit, Freizeitbeschäftigung,
+            Veranstaltungen und Einkauf ausge<lb break="no" facs="#facs_659_r30"/>schlossen. Er
+            erhält keine Zeitungen und Bücher, darf weder rauchen<lb facs="#facs_659_r31"/>noch
+            Briefe schreiben oder empfangen und bleibt von Besuchen und<lb facs="#facs_659_r32"/>Urlaub ausgeschlossen. Vorbehalten bleiben der Briefverkehr mit<lb facs="#facs_659_r33"/>Behörden und dem Rechtsvertreter in hängigen Verfahren und
+              Frist<lb break="no" facs="#facs_659_r34"/>sachen sowie die Gewährung dringlicher
+            Sachurlaube.</p>
+			<p>
+				<lb facs="#facs_659_r35"/>Dem Gefangenen kann vom Direktor die Verrichtung von Arbeit
+              in<lb facs="#facs_659_r36"/>der Zelle, der Besitz von Büchern und ein eingeschränkter
+              Briefverkehr<lb facs="#facs_659_r37"/>bewilligt werden, wenn dies in seinem Interesse
+            erforderlich erscheint.</p>
+			<p>
+				<lb facs="#facs_659_r38"/>Der Arrest wird in einer besonders dafür bestimmten Zelle
+              vollzo<lb break="no" facs="#facs_659_r39"/>gen, wenn die persönliche Sicherheit des
+            Gefangenen oder die Anstalts<lb break="no" facs="#facs_659_r40"/>sicherheit dies
+            erfordern, oder wenn der Gefangene während des<lb facs="#facs_659_r41"/>Arrestvollzuges
+            durch sein Verhalten andere Gefangene belästigt.</p>
+			<p>
+				<lb facs="#facs_659_r42"/>Der Gefangene spaziert während des Arrests allein.</p>
+			<pb n="659" facs="#facs_660"/>
+			<p>
+				<lb facs="#facs_660_r1"/>Titel vor § 65:</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_660_r2"/>X. Anstaltssicherheit</head>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_660_r3"/>Sicherheits<lb break="no" facs="#facs_660_r4"/>massnahmen</add>
+				</p>
+				<p>
+					<lb facs="#facs_660_r5"/>§ 65. Der Direktor der Strafanstalt erlässt die für die
+              Wahrung der<lb facs="#facs_660_r6"/>Sicherheit notwendigen Weisungen. Dazu gehören
+              insbesondere:</p>
+				<p>
+					<lb facs="#facs_660_r7"/>a) die Regelung der Zutrittsberechtigung;</p>
+				<p>
+					<lb facs="#facs_660_r8"/>b) die Anordnung von Kontrollen von Personal, Gefangenen und
+                Besu<lb break="no" facs="#facs_660_r9"/>chern sowie des Warenverkehrs;</p>
+				<p>
+					<lb facs="#facs_660_r10"/>c) der Erlass von Bestimmungen für das Verhalten von
+              Personal und<lb facs="#facs_660_r11"/>Gefangenen bei besondern Vorkommnissen.</p>
+				<p>
+					<lb facs="#facs_660_r12"/>Der Direktor kann unter gleichzeitiger Mitteilung an die
+                Justizdirek<lb break="no" facs="#facs_660_r13"/>tion die Rechte, welche Personal,
+              Gefangenen und Besuchern aufgrund<lb facs="#facs_660_r14"/>dieser Verordnung zustehen,
+              mit sofortiger Wirkung vorübergehend<lb facs="#facs_660_r15"/>einschränken, wenn dies
+              zur Wahrung der Anstaltssicherheit erforder<lb break="no" facs="#facs_660_r16"/>lich
+              ist.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_660_r18"/>Anordnung des</add>
+				</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_660_r18"/>Anordnung des<lb facs="#facs_660_r19"/>Waffentragens</add>
+				</p>
+				<p>
+					<lb facs="#facs_660_r20"/>§ 66. Die Justizdirektion kann anordnen, dass dafür
+              geeignete und<lb facs="#facs_660_r21"/>ausgebildete Beamte und Angestellte der
+              Strafanstalt bei besondern<lb facs="#facs_660_r22"/>dienstlichen Verrichtungen
+              Schusswaffen oder andere Waffen zu tragen<lb facs="#facs_660_r23"/>haben.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_660_r24"/>Waffeneinsatz</add>
+				</p>
+				<p>
+					<lb facs="#facs_660_r25"/>§ 67. Der Einsatz von Waffen und entsprechenden Geräten
+                ist<lb facs="#facs_660_r26"/>diesen Beamten und Angestellten nur zur Notwehr oder
+                Notwehrhilfe<lb facs="#facs_660_r27"/>gestattet.</p>
+				<p>
+					<add type="marginal" place="right">
+						<lb facs="#facs_660_r28"/>Verbot des<lb facs="#facs_660_r29"/>Waffentragens</add>
+				</p>
+				<p>
+					<lb facs="#facs_660_r30"/>§ 68. Andern Personen als den gemäss § 66 bezeichneten
+                Beamten<lb facs="#facs_660_r31"/>und Angestellten ist das Mitführen und Aufbewahren
+              von Waffen auf<lb facs="#facs_660_r32"/>dem Areal der Strafanstalt untersagt.
+              Sonderregelungen für Polizeibe<lb break="no" facs="#facs_660_r33"/>amte bleiben
+              vorbehalten.</p>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_660_r34"/>XI. Organisation der Strafanstalt</head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_660_r35"/>A. Justizdirektion und Ausschuss der
+                Strafvollzugskommission</head>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_660_r36"/>Justizdirektion</add>
+					</p>
+					<p>
+						<lb facs="#facs_660_r37"/>§ 69. Die Strafanstalt ist der Justizdirektion
+                unterstellt. Diese wird<lb facs="#facs_660_r38"/>in den Belangen der Strafanstalt
+                von einem Ausschuss der Strafvollzugs<lb break="no" facs="#facs_660_r39"/>kommission
+                beraten.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_660_r40"/>Ausschuss der<lb facs="#facs_660_r41"/>Strafvollzugs<lb break="no" facs="#facs_660_r42"/>kommission</add>
+					</p>
+					<p>
+						<lb facs="#facs_660_r43"/>§ 70. Der Ausschuss der Strafvollzugskommission für die
+                  Strafan<lb break="no" facs="#facs_660_r44"/>stalt Regensdorf besteht aus sechs von
+                dieser gewählten Mitgliedern und<lb facs="#facs_660_r45"/>wird vom Justizdirektor
+                präsidiert.</p>
+					<pb n="660" facs="#facs_661"/>
+					<p>
+						<lb facs="#facs_661_r1"/>Das Protokoll führt ein Sekretär der Justizdirektion, der
+                den Ver<lb break="no" facs="#facs_661_r2"/>handlungen mit beratender Stimme
+                beiwohnt.</p>
+					<p>
+						<lb facs="#facs_661_r3"/>Der Direktor der Strafanstalt und sein Stellvertreter
+                nehmen an den<lb facs="#facs_661_r4"/>Sitzungen des Ausschusses mit beratender
+                Stimme teil. Weitere Beamte<lb facs="#facs_661_r5"/>der Strafanstalt können
+                zugezogen werden.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_661_r6"/>Aufgaben des<lb facs="#facs_661_r7"/>Ausschusses</add>
+					</p>
+					<p>
+						<lb facs="#facs_661_r8"/>§ 71. Zu den Aufgaben des Ausschusses gehören neben der
+                  Bera<lb break="no" facs="#facs_661_r9"/>tung der Justizdirektion insbesondere:</p>
+					<p>
+						<lb facs="#facs_661_r10"/>a) Stellungnahme zu wichtigen Fragen des
+                Anstaltsbetriebs;</p>
+					<p>
+						<lb facs="#facs_661_r11"/>b) regelmässige Besuche in der Strafanstalt und in der
+                Kolonie Ringwil;</p>
+					<p>
+						<lb facs="#facs_661_r12"/>c) Prüfung von Jahresbericht, Rechnung und Budget der
+                  Strafanstalt,<lb facs="#facs_661_r13"/>der Kolonie Ringwil und der
+                Zentralwäscherei der Strafanstalt;</p>
+					<p>
+						<lb facs="#facs_661_r14"/>d) Begutachtung von Gesuchen um bedingte Entlassung durch
+                  den<lb facs="#facs_661_r15"/>ganzen Ausschuss oder durch Abteilungen von je drei
+                Mitgliedern;</p>
+					<p>
+						<lb facs="#facs_661_r16"/>e) Prüfung der reglementskonformen Verwendung der Mittel
+                des Ethi<lb break="no" facs="#facs_661_r17"/>schen Fonds der Strafanstalt.</p>
+					<p>
+						<lb facs="#facs_661_r18"/>Die Mitglieder des Ausschusses sind berechtigt, mit jedem
+                  Beamten<lb facs="#facs_661_r19"/>oder Angestellten und Insassen ohne Anwesenheit
+                eines Dritten zu<lb facs="#facs_661_r20"/>sprechen.</p>
+					<p>
+						<lb facs="#facs_661_r21"/>Sie unterliegen der in der Beamtenverordnung statuierten
+                  Schweige<lb break="no" facs="#facs_661_r22"/>pflicht.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_661_r23"/>B. Beamte und Angestellte</head>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_661_r24"/>Direktor</add>
+					</p>
+					<p>
+						<lb facs="#facs_661_r25"/>§ 72. Dem Direktor obliegt die Gesamtleitung der
+                Strafanstalt und<lb facs="#facs_661_r26"/>der Kolonie Ringwil. Er ist für alle
+                Entscheidungen innerhalb der<lb facs="#facs_661_r27"/>Strafanstalt zuständig, die
+                nicht durch diese Verordnung oder andere<lb facs="#facs_661_r28"/>Erlasse andern
+                Stellen zugewiesen sind.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_661_r29"/>Organisation</add>
+					</p>
+					<p>
+						<lb facs="#facs_661_r30"/>§ 73. Die Justizdirektion legt die innere Organisation der
+                  Strafan<lb break="no" facs="#facs_661_r31"/>stalt und die damit zusammenhängenden
+                Pflichten und Befugnisse der<lb facs="#facs_661_r32"/>Beamten und Angestellten
+                fest.</p>
+					<p>
+						<lb facs="#facs_661_r33"/>Der Direktor ist für den richtigen Einsatz, die notwendige
+                  Ausbil<lb break="no" facs="#facs_661_r34"/>dung und die Überwachung der Beamten
+                und Angestellten in ihrer<lb facs="#facs_661_r35"/>Tätigkeit verantwortlich.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_661_r36"/>Disziplinar<lb break="no" facs="#facs_661_r37"/>massnahmen</add>
+					</p>
+					<p>
+						<lb facs="#facs_661_r38"/>§ 74. Der Direktor führt die Disziplinaruntersuchungen
+                  gegen<lb facs="#facs_661_r39"/>Beamte und Angestellte der Strafanstalt und stellt
+                der Justizdirektion<lb facs="#facs_661_r40"/>Antrag über auszufällende
+                Disziplinarmassnahmen.</p>
+					<pb n="661" facs="#facs_662"/>
+					<p>
+						<lb facs="#facs_662_r1"/>Fälle, in denen die Verhängung eines Verweises oder einer
+                Busse bis<lb facs="#facs_662_r2"/>zu Fr. 200 .- als ausreichend zu betrachten ist,
+                erledigt er in eigener<lb facs="#facs_662_r3"/>Kompetenz.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_662_r4"/>Stellvertreter<lb facs="#facs_662_r5"/>des
+                  Direktors</add>
+					</p>
+					<p>
+						<lb facs="#facs_662_r6"/>§ 75. Der Stellvertreter des Direktors wird von der
+                  Justizdirektion<lb facs="#facs_662_r7"/>bezeichnet.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_662_r8"/>Beamten<lb break="no" facs="#facs_662_r9"/>konferenz</add>
+					</p>
+					<p>
+						<lb facs="#facs_662_r10"/>§ 76. Die Beamtenkonferenz besteht aus dem Direktor,
+                  seinem<lb facs="#facs_662_r11"/>Stellvertreter und den die Bereiche Ausbildung,
+                Personelles, Sicherheit<lb facs="#facs_662_r12"/>und Sozialdienst leitenden Beamten.
+                Weitere Mitarbeiter können durch<lb facs="#facs_662_r13"/>den Direktor beigezogen
+                werden.</p>
+					<p>
+						<lb facs="#facs_662_r14"/>Die Beamtenkonferenz begutachtet zuhanden der
+                Justizdirektion die<lb facs="#facs_662_r15"/>Gesuche der Insassen um bedingte
+                Entlassung. Justizdirektion und<lb facs="#facs_662_r16"/>Direktor können ihr die
+                Behandlung weiterer Geschäfte übertragen.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_662_r17"/>Beamte und<lb facs="#facs_662_r18"/>Angestellte</add>
+					</p>
+					<p>
+						<lb facs="#facs_662_r19"/>§ 77. Die Beamten und Angestellten der Strafanstalt sind
+                über die<lb facs="#facs_662_r20"/>allgemeinen beamtenrechtlichen Verpflichtungen
+                hinaus gehalten,<lb facs="#facs_662_r21"/>innerhalb und ausserhalb ihres
+                Tätigkeitsbereiches alles zu unterlassen,<lb facs="#facs_662_r22"/>was ihre
+                Autorität und Stellung gegenüber den Gefangenen in Mitlei<lb break="no" facs="#facs_662_r23"/>denschaft ziehen könnte.</p>
+					<p>
+						<lb facs="#facs_662_r24"/>Rechtsgeschäfte aller Art mit Insassen der Strafanstalt
+                sind ihnen<lb facs="#facs_662_r25"/>ohne vorgängige schriftliche Bewilligung durch
+                den Direktor untersagt;<lb facs="#facs_662_r26"/>Rechtsgeschäfte mit ehemaligen
+                Insassen haben sie dem Direktor mitzu<lb break="no" facs="#facs_662_r27"/>teilen.</p>
+					<p>
+						<lb facs="#facs_662_r28"/>Werden Beamte und Angestellte der Strafanstalt in eine
+                  Strafunter<lb break="no" facs="#facs_662_r29"/>suchung wegen Verbrechen oder
+                Vergehen einbezogen oder wegen<lb facs="#facs_662_r30"/>solcher bestraft, ist dies
+                dem Direktor unverzüglich mitzuteilen.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_662_r31"/>Ausbildung</add>
+					</p>
+					<p>
+						<lb facs="#facs_662_r32"/>§ 78. Die Beamten und Angestellten der Strafanstalt sind
+                  ver<lb break="no" facs="#facs_662_r33"/>pflichtet, an den von der Direktion
+                bezeichneten Aus- und Weiterbil<lb break="no" facs="#facs_662_r34"/>dungsveranstaltungen teilzunehmen, auch wenn diese eine zeitlich<lb facs="#facs_662_r35"/>beschränkte Ortsabwesenheit nach sich ziehen.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_662_r36"/>Ausrüstung</add>
+					</p>
+					<p>
+						<lb facs="#facs_662_r37"/>§ 79. Die Strafanstalt stellt den Beamten und Angestellten
+                  die<lb facs="#facs_662_r38"/>erforderlichen Dienstkleider und weitere Ausrüstung
+                zur Verfügung.</p>
+					<p>
+						<add type="marginal" place="right">
+							<lb facs="#facs_662_r39"/>Hilfskasse</add>
+					</p>
+					<p>
+						<lb facs="#facs_662_r40"/>§ 80. Für die Beamten und Angestellten der Strafanstalt
+                  besteht<lb facs="#facs_662_r41"/>eine Hilfskasse, die Beiträge an die Kosten von
+                Kuren und ärztlichen<lb facs="#facs_662_r42"/>Massnahmen gewähren kann.</p>
+					<p>
+						<lb facs="#facs_662_r43"/>Über Beitragsgesuche entscheidet der Direktor nach
+                Anhörung des<lb facs="#facs_662_r44"/>Personalausschusses.</p>
+					<pb n="662" facs="#facs_663"/>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_663_r1"/>Mittel der<lb facs="#facs_663_r2"/>Hilfskasse</add>
+					</p>
+					<p>
+						<lb facs="#facs_663_r3"/>§ 81. In die Hilfskasse fallen</p>
+					<p>
+						<lb facs="#facs_663_r4"/>a) die Zinsen ihres Vermögens;</p>
+					<p>
+						<lb facs="#facs_663_r5"/>b) allfällige Beiträge des Staates und Privater.</p>
+					<p>
+						<lb facs="#facs_663_r6"/>Der Personalausschuss nimmt jährlich Einsicht in die
+                Rechnung der<lb facs="#facs_663_r7"/>Hilfskasse.</p>
+					<p>
+						<add type="marginal" place="left">
+							<lb facs="#facs_663_r8"/>Nebenamtliche<lb facs="#facs_663_r9"/>Mitarbeiter</add>
+					</p>
+					<p>
+						<lb facs="#facs_663_r10"/>§ 82. Hinsichtlich ihrer Tätigkeit in der Strafanstalt
+                  unterstehen<lb facs="#facs_663_r11"/>auch die nebenamtlichen Mitarbeiter den
+                Bestimmungen dieser Verord<lb break="no" facs="#facs_663_r12"/>nung.</p>
+				</div>
+			</div>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_663_r13"/>XII. Schlussbestimmungen</head>
+				<p>
+					<add type="marginal" place="left">
+						<lb facs="#facs_663_r14"/>Hausordnung</add>
+				</p>
+				<p>
+					<lb facs="#facs_663_r15"/>§ 83. Aufgrund dieser Verordnung erlässt die
+                Justizdirektion<lb facs="#facs_663_r16"/>Hausordnungen für die Strafanstalt und die
+              Kolonie Ringwil.</p>
+				<p>
+					<lb facs="#facs_663_r17"/>Die Hausordnungen enthalten die für den geordneten
+                Anstaltsbe<lb break="no" facs="#facs_663_r18"/>trieb notwendigen
+              Ausführungsbestimmungen.</p>
+				<p>
+					<lb facs="#facs_663_r19"/>Die §§ 84-116 werden aufgehoben.</p>
+				<p>
+					<lb facs="#facs_663_r20"/>§ 117 wird § 87.</p>
+				<p>
+					<lb facs="#facs_663_r21"/>II. Diese Änderungen treten am <date when="1981-05-01">1.
+                Mai 1981</date> in Kraft.</p>
+				<p>
+					<lb facs="#facs_663_r24"/>III. Veröffentlichung im Amtsblatt und in der
+              Gesetzessammlung.</p>
+				<p>
+					<lb facs="#facs_663_r25"/>Zürich, den <date when="1981-04-01">1. April 1981</date></p>
+				<p>
+					<lb facs="#facs_663_r27"/>Im Namen des Regierungsrates</p>
+				<p>
+					<lb facs="#facs_663_r28"/>Der Präsident:<lb facs="#facs_663_r29"/>Stucki</p>
+				<p>
+					<lb facs="#facs_663_r30"/>Der Staatsschreiber:<lb facs="#facs_663_r31"/>Roggwiller</p>
+			</div>
+		</body></text></TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] vom 1. September 1982</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-11-12">12.11.1982</date><ident>StAZH ABl 1982 (S. 1267, Eintrag 2)</ident><idno>1267</idno><idno type="issue">45</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132850"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_579" uly="0" ulx="0" lry="2398" lrx="1585">
+			<graphic url="Abl_1982_2__S__0579.tif" width="1585px" height="2398px"/>
+			<zone xml:id="facs_579_r3" ulx="796" uly="260" lrx="1013" lry="289" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r11" ulx="108" uly="691" lrx="840" lry="720" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r4" ulx="110" uly="312" lrx="1282" lry="342" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r24" ulx="112" uly="1268" lrx="1281" lry="1299" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r42" ulx="114" uly="1981" lrx="925" lry="2010" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r36" ulx="114" uly="1691" lrx="284" lry="1720" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r37" ulx="291" uly="1687" lrx="878" lry="1717" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r8" ulx="106" uly="556" lrx="1282" lry="586" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r29" ulx="362" uly="1452" lrx="1288" lry="1485" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r40" ulx="108" uly="1887" lrx="1288" lry="1921" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r34" ulx="112" uly="1595" lrx="1274" lry="1626" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r18" ulx="623" uly="931" lrx="1274" lry="958" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r44" ulx="1078" uly="2031" lrx="1285" lry="2058" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r33" ulx="629" uly="1543" lrx="907" lry="1572" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r39" ulx="581" uly="1804" lrx="897" lry="1831" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r31" ulx="114" uly="1545" lrx="369" lry="1574" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r45" ulx="113" uly="2075" lrx="1288" lry="2108" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r38" ulx="500" uly="1806" lrx="561" lry="1832" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r41" ulx="114" uly="1935" lrx="1285" lry="1965" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r0" ulx="1203" uly="135" lrx="1278" lry="157" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r2" ulx="110" uly="262" lrx="786" lry="290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r7" ulx="600" uly="470" lrx="872" lry="498" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r13" ulx="108" uly="787" lrx="1282" lry="817" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r9" ulx="106" uly="602" lrx="1281" lry="631" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r17" ulx="471" uly="933" lrx="617" lry="960" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r10" ulx="110" uly="645" lrx="1281" lry="676" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r15" ulx="110" uly="885" lrx="1285" lry="914" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r5" ulx="108" uly="358" lrx="1066" lry="388" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r6" ulx="521" uly="472" lrx="579" lry="499" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r21" ulx="110" uly="1133" lrx="1282" lry="1165" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r35" ulx="112" uly="1641" lrx="1285" lry="1672" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r22" ulx="110" uly="1179" lrx="1285" lry="1209" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r27" ulx="114" uly="1412" lrx="1270" lry="1441" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r28" ulx="112" uly="1458" lrx="354" lry="1487" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r30" ulx="110" uly="1495" lrx="1286" lry="1527" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r20" ulx="579" uly="1045" lrx="894" lry="1074" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r1" ulx="108" uly="214" lrx="1280" lry="244" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r16" ulx="108" uly="933" lrx="465" lry="960" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r32" ulx="377" uly="1543" lrx="622" lry="1574" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r46" ulx="112" uly="2129" lrx="494" lry="2155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r26" ulx="108" uly="1360" lrx="563" lry="1389" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r14" ulx="108" uly="839" lrx="1284" lry="871" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r25" ulx="114" uly="1310" lrx="1282" lry="1342" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r19" ulx="498" uly="1052" lrx="560" lry="1078" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r12" ulx="108" uly="741" lrx="1285" lry="773" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r23" ulx="112" uly="1225" lrx="1281" lry="1255" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_579_r43" ulx="114" uly="2033" lrx="1053" lry="2063" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1267" facs="#facs_579"/>
+			<p>
+				<lb facs="#facs_579_r21"/>Der Regierungsrat unterbreitet dem Kantonsrat vorläufig keine
+              weitere<lb facs="#facs_579_r22"/>Vorlage über die Ausrichtung einer Reallohnerhöhung
+            an das Staatsper<lb break="no" facs="#facs_579_r23"/>sonal. Ausschlaggebend für diesen
+            Beschluss sind die gesamtwirtschaft<lb break="no" facs="#facs_579_r24"/>liche
+            Entwicklung und die neue Sachlage bezüglich wöchentlicher<lb facs="#facs_579_r25"/>Arbeitszeit, nachdem der Bundesrat für das Bundespersonal eine<lb facs="#facs_579_r26"/>Reduktion beschlossen hat.<lb facs="#facs_579_r27"/>Der Regierungsrat hat einen Teil
+            der in der Volksabstimmung vom<lb facs="#facs_579_r28"/><date when="1980-04-27">27.
+              April 1980</date> -angenommenen Änderungen des Gesetzes über die<lb facs="#facs_579_r30"/>Verkehrsabgaben und den Vollzug des Strassenverkehrsrechtes
+              des<lb facs="#facs_579_r31"/>Bundes auf den <date when="1983-01-01">1. Januar
+              1983</date> in Kraft gesetzt.<lb facs="#facs_579_r34"/>Werner Debrunner, Ständiger
+            wissenschaftlicher Mitarbeiter beim<lb facs="#facs_579_r35"/>Staatsarchiv, ist unter
+            Verdankung der geleisteten Dienste auf Ende<lb facs="#facs_579_r36"/>September in den Ruhestand versetzt worden.</p>
+		</body></text></TEI>

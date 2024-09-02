@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-18">18.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus den Verhandlungen des Regierungsrates] Vom 16. Juli 1980</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-08-22">22.08.1980</date><ident>StAZH ABl 1980 (S. 888, Eintrag 2)</ident><idno>888</idno><idno type="issue">59</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131951"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_152" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0152.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_152_r27" ulx="1339" uly="1766" lrx="1625" lry="1801" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r14" ulx="802" uly="1037" lrx="868" lry="1066" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r8" ulx="445" uly="506" lrx="674" lry="538" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r12" ulx="1068" uly="714" lrx="1550" lry="746" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r2" ulx="435" uly="256" lrx="1599" lry="291" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r31" ulx="904" uly="2035" lrx="1155" lry="2064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r22" ulx="326" uly="1527" lrx="754" lry="1557" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r25" ulx="412" uly="1720" lrx="1625" lry="1757" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r35" ulx="639" uly="2291" lrx="960" lry="2321" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r33" ulx="331" uly="2235" lrx="1636" lry="2270" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r5" ulx="1387" uly="350" lrx="1609" lry="382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r24" ulx="320" uly="1666" lrx="789" lry="1694" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r9" ulx="685" uly="502" lrx="1004" lry="535" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r36" ulx="975" uly="2285" lrx="1633" lry="2317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r15" ulx="895" uly="1033" lrx="1124" lry="1064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r28" ulx="412" uly="1837" lrx="1607" lry="1872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r29" ulx="327" uly="1891" lrx="915" lry="1925" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r10" ulx="1018" uly="595" lrx="1608" lry="628" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r11" ulx="1162" uly="654" lrx="1458" lry="683" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r18" ulx="316" uly="1300" lrx="1619" lry="1337" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r34" ulx="333" uly="2293" lrx="627" lry="2324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r16" ulx="408" uly="1197" lrx="909" lry="1230" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r13" ulx="418" uly="920" lrx="1506" lry="964" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r6" ulx="445" uly="410" lrx="545" lry="439" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r32" ulx="414" uly="2189" lrx="1631" lry="2223" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r20" ulx="408" uly="1418" lrx="1602" lry="1456" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r19" ulx="318" uly="1358" lrx="1108" lry="1390" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r1" ulx="347" uly="264" lrx="416" lry="294" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r30" ulx="802" uly="2037" lrx="877" lry="2065" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r0" ulx="305" uly="168" lrx="370" lry="192" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r26" ulx="327" uly="1768" lrx="1318" lry="1805" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r17" ulx="408" uly="1254" lrx="1619" lry="1290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r3" ulx="437" uly="304" lrx="1607" lry="339" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r4" ulx="439" uly="352" lrx="1359" lry="391" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r23" ulx="412" uly="1606" lrx="1605" lry="1641" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r7" ulx="554" uly="408" lrx="647" lry="439" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_152_r21" ulx="322" uly="1466" lrx="1622" lry="1505" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="888" facs="#facs_152"/>
+			<p>
+				<lb facs="#facs_152_r32"/>Dr. iur. Rudolf Iseli, Sekretär beim Steueramt, wird unter<lb facs="#facs_152_r33"/>Verdankung der geleisteten Dienste entsprechend seinem Ge<lb break="no" facs="#facs_152_r34"/>such auf Ende <date when="1980-11">November 1980</date> aus dem Staatsdienst entlassen.</p>
+		</body></text></TEI>

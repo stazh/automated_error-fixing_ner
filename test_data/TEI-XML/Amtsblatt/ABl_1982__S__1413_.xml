@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Reglement über die Zulagen und
+            Entschädigungen bei der Kantonspolizei (Änderung) (vom 17. November
+            1982)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-12-10">10.12.1982</date><ident>StAZH ABl 1982 (S. 1413)</ident><idno>1413</idno><idno type="issue">50</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132883"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_725" uly="0" ulx="0" lry="2334" lrx="1608">
+			<graphic url="Abl_1982_2__S__0725.tif" width="1608px" height="2334px"/>
+			<zone xml:id="facs_725_r3" ulx="185" uly="300" lrx="652" lry="337" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r14" ulx="667" uly="800" lrx="884" lry="830" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r26" ulx="661" uly="1281" lrx="903" lry="1308" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r39" ulx="236" uly="1910" lrx="453" lry="1938" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r10" ulx="525" uly="685" lrx="848" lry="715" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r15" ulx="1138" uly="806" lrx="1354" lry="832" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r19" ulx="254" uly="921" lrx="702" lry="952" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r46" ulx="1061" uly="2056" lrx="1161" lry="2088" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r17" ulx="665" uly="848" lrx="869" lry="874" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r49" ulx="240" uly="2146" lrx="1349" lry="2183" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r28" ulx="1019" uly="1277" lrx="1352" lry="1307" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r7" ulx="187" uly="556" lrx="679" lry="589" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r31" ulx="180" uly="1542" lrx="1015" lry="1576" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r44" ulx="241" uly="2054" lrx="830" lry="2086" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r6" ulx="281" uly="435" lrx="628" lry="465" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r11" ulx="856" uly="687" lrx="1253" lry="717" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r21" ulx="971" uly="927" lrx="1117" lry="954" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r43" ulx="1142" uly="2015" lrx="1345" lry="2043" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r33" ulx="175" uly="1690" lrx="769" lry="1721" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r2" ulx="187" uly="250" lrx="988" lry="290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r35" ulx="1130" uly="1694" lrx="1343" lry="1722" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r30" ulx="179" uly="1502" lrx="558" lry="1529" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r9" ulx="185" uly="685" lrx="504" lry="714" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r45" ulx="846" uly="2054" lrx="1053" lry="2087" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r37" ulx="176" uly="1819" lrx="613" lry="1847" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r42" ulx="932" uly="2015" lrx="1136" lry="2043" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r41" ulx="237" uly="1963" lrx="1349" lry="2027" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r24" ulx="446" uly="1137" lrx="715" lry="1165" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r25" ulx="663" uly="1225" lrx="1184" lry="1256" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r18" ulx="1142" uly="850" lrx="1353" lry="877" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r34" ulx="786" uly="1692" lrx="1122" lry="1722" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r36" ulx="176" uly="1733" lrx="479" lry="1761" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r0" ulx="1285" uly="116" lrx="1359" lry="139" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r48" ulx="234" uly="2102" lrx="1347" lry="2138" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r13" ulx="181" uly="800" lrx="385" lry="826" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r47" ulx="191" uly="2104" lrx="227" lry="2132" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r4" ulx="185" uly="354" lrx="421" lry="391" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r8" ulx="275" uly="637" lrx="1363" lry="673" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r5" ulx="185" uly="437" lrx="263" lry="467" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r38" ulx="193" uly="1908" lrx="229" lry="1936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r1" ulx="189" uly="200" lrx="413" lry="233" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r12" ulx="241" uly="735" lrx="1358" lry="770" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r22" ulx="241" uly="1002" lrx="1351" lry="1035" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r20" ulx="721" uly="925" lrx="963" lry="953" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r29" ulx="1019" uly="1329" lrx="1199" lry="1356" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r32" ulx="175" uly="1635" lrx="419" lry="1661" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r27" ulx="663" uly="1325" lrx="771" lry="1352" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r40" ulx="191" uly="1963" lrx="229" lry="1991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r16" ulx="183" uly="843" lrx="408" lry="872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_725_r23" ulx="183" uly="1135" lrx="437" lry="1164" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1413" facs="#facs_725"/>
+			<p>
+				<lb facs="#facs_725_r7"/>Der Regierungsrat beschliesst:</p>
+			<p>
+				<lb facs="#facs_725_r8"/>I. Das Reglement über die Zulagen und Entschädigungen bei der<lb facs="#facs_725_r9"/>Kantonspolizei vom <date when="1974-12-11">11. Dezember 1974</date>
+          wird wie folgt geändert:</p>
+			<p>
+				<lb facs="#facs_725_r12"/>§ 8 Abs. 1. Die Dienstzulage beträgt je nach Tätigkeit
+          monatlich:</p>
+			<table>
+				<row>
+					<cell>
+						<lb facs="#facs_725_r13"/>a) Fr. 634 .-</cell>
+					<cell>
+						<lb facs="#facs_725_r14"/>c) Fr. 478.75</cell>
+					<cell>
+						<lb facs="#facs_725_r15"/>e) Fr. 323.50</cell>
+				</row>
+				<row>
+					<cell>
+						<lb facs="#facs_725_r16"/>b) Fr. 556.25</cell>
+					<cell>
+						<lb facs="#facs_725_r17"/>d) Fr. 401 .-</cell>
+					<cell>
+						<lb facs="#facs_725_r18"/>f) Fr. 245.75</cell>
+				</row>
+			</table>
+			<p>
+				<lb facs="#facs_725_r19"/>II. Die Änderung tritt am <date when="1983-01-01">1. Januar
+            1983</date> in Kraft.</p>
+			<p>
+				<lb facs="#facs_725_r22"/>III. Veröffentlichung im Amtsblatt und in der
+          Gesetzessammlung.</p>
+			<p>
+				<lb facs="#facs_725_r23"/>Zürich, den 17. <date when="1982-11">November 1982</date></p>
+			<p>
+				<lb facs="#facs_725_r25"/>Im Namen des Regierungsrates</p>
+			<p>
+				<lb facs="#facs_725_r26"/>Der Präsident:<lb facs="#facs_725_r27"/>Gilgen</p>
+			<p>
+				<lb facs="#facs_725_r28"/>Der Staatsschreiber:<lb facs="#facs_725_r29"/>Roggwiller</p>
+		</body></text></TEI>

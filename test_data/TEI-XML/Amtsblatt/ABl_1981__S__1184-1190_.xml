@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-04-08">08.04.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>2448 Beschluss des Kantonsrates über die Bestellung der Kanzlei des kantonalen Ombudsmanns (Änderung) (vom …)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-08-14">14.08.1981</date><ident>StAZH ABl 1981 (S. 1184-1190)</ident><idno>1184–1190</idno><idno type="issue">34</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132379"/><note>Vorlagen-Nr. 2448</note></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_196" uly="0" ulx="0" lry="2371" lrx="1584">
+			<graphic url="Abl_1981_2__S__0196.tif" width="1584px" height="2371px"/>
+			<zone xml:id="facs_196_r8" ulx="250" uly="541" lrx="1429" lry="575" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r19" ulx="733" uly="1143" lrx="925" lry="1167" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r14" ulx="249" uly="822" lrx="404" lry="846" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r29" ulx="725" uly="1398" lrx="910" lry="1424" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r13" ulx="306" uly="775" lrx="1425" lry="807" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r17" ulx="733" uly="1043" lrx="1252" lry="1074" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r28" ulx="245" uly="1395" lrx="708" lry="1423" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r15" ulx="248" uly="952" lrx="443" lry="979" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r21" ulx="1090" uly="1145" lrx="1271" lry="1173" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r11" ulx="250" uly="677" lrx="1427" lry="710" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r5" ulx="253" uly="408" lrx="1427" lry="443" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r25" ulx="247" uly="1654" lrx="550" lry="1683" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r4" ulx="310" uly="366" lrx="1417" lry="400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r22" ulx="245" uly="1479" lrx="335" lry="1507" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r26" ulx="247" uly="1704" lrx="486" lry="1739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r23" ulx="243" uly="1548" lrx="806" lry="1578" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r9" ulx="252" uly="585" lrx="1427" lry="620" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r2" ulx="254" uly="266" lrx="1427" lry="300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r12" ulx="249" uly="720" lrx="929" lry="752" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r16" ulx="454" uly="954" lrx="648" lry="980" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r32" ulx="243" uly="2070" lrx="425" lry="2094" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r18" ulx="733" uly="1097" lrx="975" lry="1123" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r6" ulx="253" uly="454" lrx="1427" lry="487" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r20" ulx="1086" uly="1100" lrx="1421" lry="1126" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r30" ulx="248" uly="1910" lrx="510" lry="1935" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r27" ulx="243" uly="1785" lrx="314" lry="1809" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r31" ulx="239" uly="1987" lrx="1181" lry="2019" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r3" ulx="249" uly="310" lrx="335" lry="335" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r0" ulx="254" uly="141" lrx="325" lry="162" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r1" ulx="253" uly="222" lrx="1425" lry="257" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r7" ulx="251" uly="497" lrx="1423" lry="529" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r10" ulx="250" uly="631" lrx="1425" lry="664" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_196_r24" ulx="242" uly="1597" lrx="1180" lry="1635" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_197" uly="0" ulx="0" lry="2355" lrx="1576">
+			<graphic url="Abl_1981_2__S__0197.tif" width="1576px" height="2355px"/>
+			<zone xml:id="facs_197_r19" ulx="231" uly="1273" lrx="1326" lry="1305" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r16" ulx="170" uly="1133" lrx="1327" lry="1163" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r36" ulx="237" uly="1721" lrx="1330" lry="1753" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r27" ulx="1229" uly="1588" lrx="1327" lry="1614" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r15" ulx="151" uly="1060" lrx="318" lry="1085" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r44" ulx="175" uly="2017" lrx="1328" lry="2045" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r10" ulx="231" uly="550" lrx="773" lry="576" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r4" ulx="148" uly="252" lrx="1319" lry="285" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r32" ulx="1033" uly="1631" lrx="1327" lry="1659" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r29" ulx="479" uly="1631" lrx="752" lry="1662" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r6" ulx="227" uly="356" lrx="611" lry="384" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r33" ulx="235" uly="1679" lrx="794" lry="1707" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r14" ulx="209" uly="831" lrx="1293" lry="863" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r24" ulx="235" uly="1544" lrx="1330" lry="1576" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r11" ulx="223" uly="627" lrx="1324" lry="657" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r28" ulx="235" uly="1638" lrx="463" lry="1665" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r26" ulx="969" uly="1588" lrx="1224" lry="1615" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r30" ulx="767" uly="1631" lrx="825" lry="1661" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r22" ulx="231" uly="1429" lrx="1063" lry="1457" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r25" ulx="233" uly="1590" lrx="961" lry="1620" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r35" ulx="1025" uly="1677" lrx="1327" lry="1705" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r43" ulx="239" uly="1954" lrx="1011" lry="1984" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r18" ulx="235" uly="1229" lrx="1326" lry="1260" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r41" ulx="823" uly="1909" lrx="1048" lry="1936" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r17" ulx="230" uly="1175" lrx="1320" lry="1207" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r8" ulx="233" uly="448" lrx="1321" lry="478" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r0" ulx="1246" uly="125" lrx="1315" lry="147" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r1" ulx="237" uly="210" lrx="894" lry="241" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r5" ulx="150" uly="306" lrx="397" lry="332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r37" ulx="235" uly="1765" lrx="1330" lry="1795" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r9" ulx="229" uly="496" lrx="996" lry="523" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r42" ulx="1059" uly="1906" lrx="1332" lry="1934" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r20" ulx="233" uly="1317" lrx="1227" lry="1350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r38" ulx="231" uly="1821" lrx="461" lry="1847" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r7" ulx="231" uly="404" lrx="1318" lry="434" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r3" ulx="1180" uly="208" lrx="1319" lry="233" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r34" ulx="817" uly="1677" lrx="1008" lry="1706" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r12" ulx="148" uly="679" lrx="291" lry="703" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r31" ulx="831" uly="1631" lrx="1022" lry="1661" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r13" ulx="210" uly="752" lrx="1319" lry="781" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r39" ulx="235" uly="1865" lrx="1332" lry="1894" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r40" ulx="235" uly="1909" lrx="800" lry="1938" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r2" ulx="915" uly="210" lrx="1174" lry="236" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r45" ulx="237" uly="2056" lrx="1330" lry="2089" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r21" ulx="170" uly="1381" lrx="1323" lry="1412" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_197_r23" ulx="235" uly="1498" lrx="1319" lry="1531" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_198" uly="0" ulx="0" lry="2370" lrx="1581">
+			<graphic url="Abl_1981_2__S__0198.tif" width="1581px" height="2370px"/>
+			<zone xml:id="facs_198_r34" ulx="317" uly="1617" lrx="1418" lry="1649" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r4" ulx="327" uly="264" lrx="1426" lry="298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r39" ulx="1291" uly="1803" lrx="1366" lry="1832" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r16" ulx="320" uly="769" lrx="1422" lry="805" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r22" ulx="321" uly="1065" lrx="1422" lry="1098" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r44" ulx="314" uly="1986" lrx="1414" lry="2017" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r38" ulx="314" uly="1794" lrx="1284" lry="1829" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r19" ulx="260" uly="921" lrx="1422" lry="956" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r13" ulx="326" uly="637" lrx="1420" lry="671" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r18" ulx="322" uly="858" lrx="1011" lry="890" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r23" ulx="317" uly="1104" lrx="970" lry="1139" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r29" ulx="323" uly="1386" lrx="1405" lry="1419" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r24" ulx="317" uly="1158" lrx="1418" lry="1195" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r33" ulx="319" uly="1573" lrx="1417" lry="1605" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r42" ulx="317" uly="1894" lrx="1418" lry="1926" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r45" ulx="319" uly="2030" lrx="1414" lry="2060" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r40" ulx="1370" uly="1805" lrx="1418" lry="1832" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r20" ulx="319" uly="967" lrx="1424" lry="1000" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r25" ulx="321" uly="1206" lrx="1422" lry="1240" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r9" ulx="641" uly="462" lrx="1426" lry="494" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r37" ulx="319" uly="1748" lrx="1418" lry="1783" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r10" ulx="328" uly="504" lrx="1428" lry="536" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r26" ulx="322" uly="1250" lrx="1422" lry="1284" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r35" ulx="319" uly="1661" lrx="1420" lry="1694" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r32" ulx="319" uly="1517" lrx="1395" lry="1549" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r43" ulx="318" uly="1936" lrx="1414" lry="1971" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r8" ulx="269" uly="460" lrx="634" lry="487" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r30" ulx="320" uly="1427" lrx="1418" lry="1461" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r12" ulx="327" uly="594" lrx="1420" lry="626" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r6" ulx="328" uly="352" lrx="1426" lry="387" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r21" ulx="324" uly="1010" lrx="1097" lry="1044" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r3" ulx="1351" uly="229" lrx="1416" lry="257" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r1" ulx="330" uly="216" lrx="986" lry="251" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r28" ulx="319" uly="1342" lrx="1418" lry="1374" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r36" ulx="318" uly="1705" lrx="1418" lry="1738" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r17" ulx="321" uly="812" lrx="1422" lry="850" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r2" ulx="1009" uly="225" lrx="1343" lry="255" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r31" ulx="321" uly="1475" lrx="1418" lry="1506" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r7" ulx="329" uly="400" lrx="752" lry="428" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r41" ulx="319" uly="1840" lrx="919" lry="1869" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r11" ulx="324" uly="548" lrx="1424" lry="580" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r14" ulx="321" uly="683" lrx="1424" lry="715" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r46" ulx="312" uly="2071" lrx="1416" lry="2103" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r15" ulx="325" uly="725" lrx="1422" lry="761" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r5" ulx="328" uly="308" lrx="1428" lry="341" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r27" ulx="317" uly="1296" lrx="1414" lry="1329" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_198_r0" ulx="249" uly="137" lrx="321" lry="158" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_199" uly="0" ulx="0" lry="2358" lrx="1575">
+			<graphic url="Abl_1981_2__S__0199.tif" width="1575px" height="2358px"/>
+			<zone xml:id="facs_199_r21" ulx="241" uly="1171" lrx="1335" lry="1206" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r142" ulx="943" uly="2018" lrx="970" lry="2034" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r108" ulx="1106" uly="1669" lrx="1114" lry="1679" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r0" ulx="1249" uly="133" lrx="1322" lry="155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r137" ulx="877" uly="2016" lrx="904" lry="2035" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r8" ulx="239" uly="525" lrx="1330" lry="561" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r104" ulx="1010" uly="1626" lrx="1041" lry="1644" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r159" ulx="1293" uly="1765" lrx="1335" lry="1783" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r56" ulx="574" uly="1845" lrx="602" lry="1861" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r165" ulx="1162" uly="1870" lrx="1197" lry="1891" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r32" ulx="770" uly="1521" lrx="895" lry="1541" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r157" ulx="1166" uly="1767" lrx="1193" lry="1786" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r92" ulx="872" uly="1697" lrx="902" lry="1716" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r36" ulx="245" uly="1634" lrx="329" lry="1652" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r41" ulx="570" uly="1661" lrx="604" lry="1681" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r118" ulx="943" uly="1801" lrx="970" lry="1819" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r14" ulx="240" uly="846" lrx="775" lry="874" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r25" ulx="735" uly="1263" lrx="1334" lry="1294" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r15" ulx="179" uly="900" lrx="1331" lry="931" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r75" ulx="718" uly="1701" lrx="745" lry="1719" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r97" ulx="812" uly="1813" lrx="822" lry="1824" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r72" ulx="641" uly="1663" lrx="675" lry="1683" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r82" ulx="645" uly="1843" lrx="672" lry="1861" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r134" ulx="804" uly="1980" lrx="833" lry="2000" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r173" ulx="1222" uly="2013" lrx="1266" lry="2032" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r86" ulx="643" uly="1982" lrx="673" lry="2000" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r17" ulx="241" uly="996" lrx="1334" lry="1028" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r27" ulx="241" uly="1390" lrx="360" lry="1411" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r66" ulx="504" uly="1984" lrx="533" lry="2004" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r61" ulx="572" uly="1911" lrx="599" lry="1931" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r150" ulx="1218" uly="1659" lrx="1261" lry="1677" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r84" ulx="645" uly="1911" lrx="675" lry="1931" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r171" ulx="1224" uly="1980" lrx="1264" lry="1997" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r154" ulx="1164" uly="1730" lrx="1193" lry="1748" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r78" ulx="647" uly="1772" lrx="674" lry="1790" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r117" ulx="1108" uly="1778" lrx="1116" lry="1789" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r90" ulx="820" uly="1672" lrx="834" lry="1685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r38" ulx="570" uly="1628" lrx="600" lry="1646" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r144" ulx="631" uly="2074" lrx="670" lry="2091" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r20" ulx="241" uly="1132" lrx="1333" lry="1164" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r95" ulx="812" uly="1778" lrx="823" lry="1791" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r18" ulx="237" uly="1038" lrx="1335" lry="1075" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r135" ulx="872" uly="1982" lrx="904" lry="2002" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r106" ulx="941" uly="1659" lrx="970" lry="1677" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r89" ulx="872" uly="1628" lrx="899" lry="1646" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r168" ulx="1220" uly="1907" lrx="1260" lry="1925" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r133" ulx="872" uly="1947" lrx="904" lry="1966" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r123" ulx="941" uly="1874" lrx="972" lry="1893" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r73" ulx="714" uly="1663" lrx="743" lry="1681" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r151" ulx="1289" uly="1657" lrx="1329" lry="1675" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r158" ulx="1220" uly="1765" lrx="1262" lry="1783" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r59" ulx="243" uly="1920" lrx="385" lry="1938" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r64" ulx="574" uly="1949" lrx="602" lry="1966" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r153" ulx="1291" uly="1692" lrx="1333" lry="1709" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r37" ulx="514" uly="1640" lrx="520" lry="1649" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r63" ulx="506" uly="1951" lrx="531" lry="1969" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r102" ulx="872" uly="1876" lrx="904" lry="1897" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r26" ulx="243" uly="1315" lrx="487" lry="1342" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r152" ulx="1164" uly="1695" lrx="1264" lry="1715" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r67" ulx="577" uly="1986" lrx="602" lry="2003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r155" ulx="1218" uly="1726" lrx="1260" lry="1745" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r6" ulx="233" uly="435" lrx="1327" lry="470" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r149" ulx="1164" uly="1657" lrx="1195" lry="1676" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r10" ulx="235" uly="619" lrx="1331" lry="680" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r141" ulx="1097" uly="1978" lrx="1125" lry="1998" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r7" ulx="233" uly="481" lrx="1330" lry="515" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r167" ulx="1162" uly="1907" lrx="1195" lry="1925" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r34" ulx="1064" uly="1519" lrx="1189" lry="1537" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r48" ulx="241" uly="1776" lrx="285" lry="1794" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r113" ulx="1012" uly="1732" lrx="1043" lry="1750" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r76" ulx="643" uly="1734" lrx="672" lry="1755" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r101" ulx="812" uly="1884" lrx="822" lry="1897" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r96" ulx="872" uly="1770" lrx="904" lry="1789" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r70" ulx="574" uly="2018" lrx="602" lry="2039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r162" ulx="1297" uly="1799" lrx="1333" lry="1815" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r107" ulx="1010" uly="1659" lrx="1041" lry="1679" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r35" ulx="472" uly="1569" lrx="1331" lry="1593" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r40" ulx="512" uly="1676" lrx="520" lry="1684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r54" ulx="245" uly="1847" lrx="289" lry="1863" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r81" ulx="720" uly="1807" lrx="741" lry="1824" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r166" ulx="1220" uly="1872" lrx="1263" lry="1890" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r13" ulx="235" uly="794" lrx="1329" lry="827" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r170" ulx="1164" uly="1980" lrx="1195" lry="1998" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r19" ulx="239" uly="1086" lrx="1333" lry="1118" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r74" ulx="641" uly="1697" lrx="670" lry="1716" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r119" ulx="1014" uly="1801" lrx="1039" lry="1816" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r128" ulx="1094" uly="1907" lrx="1125" lry="1925" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r163" ulx="1164" uly="1838" lrx="1195" lry="1856" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r33" ulx="1064" uly="1480" lrx="1214" lry="1502" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r51" ulx="243" uly="1811" lrx="295" lry="1829" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r77" ulx="716" uly="1734" lrx="747" lry="1754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r99" ulx="812" uly="1851" lrx="822" lry="1862" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r69" ulx="502" uly="2020" lrx="531" lry="2039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r126" ulx="872" uly="1909" lrx="902" lry="1929" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r100" ulx="872" uly="1838" lrx="900" lry="1859" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r88" ulx="812" uly="1638" lrx="820" lry="1648" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r124" ulx="1114" uly="1880" lrx="1128" lry="1895" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r79" ulx="718" uly="1770" lrx="744" lry="1788" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r71" ulx="643" uly="1632" lrx="672" lry="1649" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r52" ulx="512" uly="1818" lrx="522" lry="1827" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r11" ulx="237" uly="704" lrx="1327" lry="738" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r114" ulx="1106" uly="1738" lrx="1116" lry="1749" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r91" ulx="870" uly="1665" lrx="897" lry="1682" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r136" ulx="799" uly="2011" lrx="829" lry="2032" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r44" ulx="570" uly="1697" lrx="602" lry="1716" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r121" ulx="945" uly="1842" lrx="971" lry="1861" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r47" ulx="572" uly="1734" lrx="604" lry="1754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r30" ulx="468" uly="1526" lrx="600" lry="1544" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r12" ulx="239" uly="750" lrx="1327" lry="782" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r39" ulx="245" uly="1669" lrx="345" lry="1688" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r164" ulx="1220" uly="1836" lrx="1262" lry="1854" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r1" ulx="235" uly="216" lrx="1324" lry="250" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r22" ulx="237" uly="1219" lrx="1334" lry="1253" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r140" ulx="943" uly="1982" lrx="972" lry="2000" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r4" ulx="235" uly="350" lrx="1328" lry="382" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r94" ulx="870" uly="1734" lrx="899" lry="1752" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r62" ulx="243" uly="1955" lrx="354" lry="1973" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r85" ulx="647" uly="1951" lrx="677" lry="1969" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r130" ulx="493" uly="2076" lrx="533" lry="2093" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r139" ulx="1095" uly="1945" lrx="1128" lry="1963" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r28" ulx="245" uly="1436" lrx="625" lry="1460" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r58" ulx="575" uly="1880" lrx="600" lry="1897" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r172" ulx="1164" uly="2013" lrx="1195" lry="2030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r23" ulx="239" uly="1271" lrx="516" lry="1299" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r60" ulx="503" uly="1913" lrx="529" lry="1931" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r148" ulx="1289" uly="1624" lrx="1329" lry="1640" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r112" ulx="945" uly="1732" lrx="972" lry="1749" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r53" ulx="574" uly="1807" lrx="599" lry="1827" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r2" ulx="233" uly="260" lrx="1322" lry="294" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r131" ulx="560" uly="2074" lrx="604" lry="2092" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r146" ulx="1164" uly="1624" lrx="1193" lry="1642" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r161" ulx="1222" uly="1801" lrx="1264" lry="1819" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r127" ulx="943" uly="1911" lrx="972" lry="1929" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r132" ulx="804" uly="1945" lrx="833" lry="1964" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r16" ulx="241" uly="946" lrx="899" lry="978" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r3" ulx="233" uly="302" lrx="1329" lry="337" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r103" ulx="943" uly="1626" lrx="968" lry="1644" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r156" ulx="1290" uly="1726" lrx="1329" lry="1744" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r125" ulx="804" uly="1911" lrx="831" lry="1929" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r65" ulx="243" uly="1988" lrx="381" lry="2007" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r5" ulx="235" uly="394" lrx="1325" lry="428" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r129" ulx="245" uly="2078" lrx="314" lry="2096" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r68" ulx="245" uly="2022" lrx="379" lry="2041" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r143" ulx="1099" uly="2013" lrx="1124" lry="2030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r110" ulx="1010" uly="1692" lrx="1039" lry="1711" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r138" ulx="943" uly="1947" lrx="970" lry="1965" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r55" ulx="514" uly="1855" lrx="522" lry="1865" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r45" ulx="244" uly="1742" lrx="314" lry="1761" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r169" ulx="1166" uly="1943" lrx="1264" lry="1962" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r29" ulx="474" uly="1488" lrx="604" lry="1508" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r116" ulx="1008" uly="1765" lrx="1041" lry="1786" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r87" ulx="645" uly="2020" lrx="674" lry="2038" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r160" ulx="1166" uly="1801" lrx="1195" lry="1819" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r46" ulx="512" uly="1749" lrx="520" lry="1757" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r83" ulx="645" uly="1878" lrx="673" lry="1897" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r31" ulx="770" uly="1486" lrx="968" lry="1506" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r9" ulx="233" uly="573" lrx="1327" lry="606" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r122" ulx="1106" uly="1847" lrx="1116" lry="1858" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r49" ulx="512" uly="1782" lrx="522" lry="1792" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r57" ulx="247" uly="1884" lrx="341" lry="1902" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r98" ulx="872" uly="1805" lrx="902" lry="1823" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r105" ulx="1106" uly="1634" lrx="1116" lry="1645" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r111" ulx="1106" uly="1705" lrx="1116" lry="1716" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r43" ulx="512" uly="1711" lrx="520" lry="1721" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r80" ulx="647" uly="1809" lrx="677" lry="1827" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r145" ulx="793" uly="2074" lrx="972" lry="2093" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r93" ulx="812" uly="1745" lrx="822" lry="1756" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r50" ulx="577" uly="1774" lrx="602" lry="1790" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r24" ulx="535" uly="1269" lrx="717" lry="1297" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r115" ulx="945" uly="1770" lrx="968" lry="1788" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r120" ulx="1106" uly="1811" lrx="1118" lry="1824" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r109" ulx="943" uly="1695" lrx="968" lry="1713" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r147" ulx="1233" uly="1622" lrx="1264" lry="1640" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_r42" ulx="243" uly="1705" lrx="310" lry="1722" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_199_f0" ulx="220" uly="1478" lrx="1413" lry="1910" rendition="Figure"/>
+		</surface>
+		<surface xml:id="facs_200" uly="0" ulx="0" lry="2369" lrx="1584">
+			<graphic url="Abl_1981_2__S__0200.tif" width="1584px" height="2369px"/>
+			<zone xml:id="facs_200_r42" ulx="651" uly="1264" lrx="1425" lry="1298" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r3" ulx="339" uly="316" lrx="1436" lry="348" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r53" ulx="323" uly="1770" lrx="650" lry="1800" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r62" ulx="323" uly="2046" lrx="1421" lry="2078" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r55" ulx="323" uly="1871" lrx="1425" lry="1903" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r0" ulx="256" uly="143" lrx="329" lry="166" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r48" ulx="325" uly="1533" lrx="1422" lry="1564" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r2" ulx="339" uly="272" lrx="1433" lry="303" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r24" ulx="925" uly="825" lrx="1075" lry="844" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r44" ulx="326" uly="1354" lrx="1427" lry="1386" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r6" ulx="337" uly="456" lrx="1250" lry="491" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r35" ulx="332" uly="979" lrx="765" lry="1004" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r8" ulx="335" uly="504" lrx="1275" lry="534" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r5" ulx="335" uly="408" lrx="829" lry="436" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r50" ulx="262" uly="1637" lrx="1421" lry="1668" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r46" ulx="327" uly="1441" lrx="1424" lry="1473" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r45" ulx="328" uly="1400" lrx="1429" lry="1430" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r61" ulx="996" uly="2006" lrx="1425" lry="2037" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r15" ulx="925" uly="718" lrx="1081" lry="738" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r39" ulx="330" uly="1166" lrx="1429" lry="1198" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r25" ulx="1310" uly="827" lrx="1340" lry="846" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r56" ulx="329" uly="1912" lrx="1423" lry="1944" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r7" ulx="1258" uly="464" lrx="1429" lry="493" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r28" ulx="1308" uly="862" lrx="1342" lry="883" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r58" ulx="331" uly="2000" lrx="641" lry="2029" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r26" ulx="334" uly="856" lrx="631" lry="878" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r30" ulx="921" uly="898" lrx="1046" lry="917" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r9" ulx="334" uly="560" lrx="456" lry="584" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r12" ulx="925" uly="666" lrx="1008" lry="686" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r34" ulx="1323" uly="938" lrx="1340" lry="955" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r21" ulx="927" uly="789" lrx="1074" lry="809" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r18" ulx="926" uly="754" lrx="1077" lry="775" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r22" ulx="1310" uly="791" lrx="1340" lry="812" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r36" ulx="1296" uly="989" lrx="1338" lry="1006" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r10" ulx="333" uly="608" lrx="854" lry="632" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r23" ulx="331" uly="821" lrx="687" lry="843" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r1" ulx="274" uly="225" lrx="1432" lry="258" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r20" ulx="337" uly="785" lrx="594" lry="806" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r63" ulx="320" uly="2091" lrx="1425" lry="2125" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r47" ulx="329" uly="1485" lrx="1427" lry="1517" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r57" ulx="318" uly="1956" lrx="1411" lry="1989" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r54" ulx="322" uly="1821" lrx="1422" lry="1855" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r32" ulx="331" uly="927" lrx="637" lry="950" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r27" ulx="922" uly="860" lrx="1090" lry="881" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r29" ulx="333" uly="891" lrx="543" lry="914" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r16" ulx="1310" uly="722" lrx="1338" lry="741" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r11" ulx="335" uly="660" lrx="442" lry="681" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r37" ulx="329" uly="1075" lrx="1430" lry="1108" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r38" ulx="330" uly="1123" lrx="1429" lry="1155" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r13" ulx="1298" uly="670" lrx="1392" lry="689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r43" ulx="329" uly="1310" lrx="1426" lry="1343" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r17" ulx="335" uly="750" lrx="564" lry="770" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r40" ulx="331" uly="1214" lrx="762" lry="1242" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r33" ulx="923" uly="933" lrx="1085" lry="952" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r41" ulx="330" uly="1262" lrx="639" lry="1290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r49" ulx="326" uly="1575" lrx="1419" lry="1608" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r51" ulx="323" uly="1681" lrx="1423" lry="1713" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r14" ulx="335" uly="714" lrx="456" lry="734" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r19" ulx="1310" uly="756" lrx="1342" lry="777" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r52" ulx="323" uly="1727" lrx="1423" lry="1759" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r31" ulx="1310" uly="898" lrx="1340" lry="916" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r4" ulx="337" uly="360" lrx="1436" lry="392" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r59" ulx="650" uly="2002" lrx="806" lry="2031" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_r60" ulx="814" uly="2004" lrx="987" lry="2033" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_200_f0" ulx="329" uly="644" lrx="1439" lry="906" rendition="Figure"/>
+		</surface>
+		<surface xml:id="facs_201" uly="0" ulx="0" lry="2360" lrx="1574">
+			<graphic url="Abl_1981_2__S__0201.tif" width="1574px" height="2360px"/>
+			<zone xml:id="facs_201_r30" ulx="198" uly="1582" lrx="696" lry="1610" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r13" ulx="202" uly="790" lrx="1290" lry="819" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r34" ulx="252" uly="1778" lrx="1125" lry="1807" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r4" ulx="203" uly="362" lrx="725" lry="391" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r23" ulx="195" uly="1242" lrx="444" lry="1270" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r8" ulx="200" uly="550" lrx="1294" lry="578" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r20" ulx="201" uly="1109" lrx="1288" lry="1139" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r15" ulx="199" uly="879" lrx="1294" lry="907" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r0" ulx="1219" uly="148" lrx="1290" lry="171" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r17" ulx="200" uly="967" lrx="1288" lry="997" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r35" ulx="258" uly="1830" lrx="1286" lry="1861" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r26" ulx="198" uly="1405" lrx="1290" lry="1432" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r33" ulx="191" uly="1730" lrx="1290" lry="1762" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r1" ulx="204" uly="227" lrx="1294" lry="257" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r2" ulx="203" uly="271" lrx="1295" lry="301" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r16" ulx="204" uly="921" lrx="1290" lry="952" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r29" ulx="195" uly="1534" lrx="1286" lry="1566" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r11" ulx="202" uly="700" lrx="1294" lry="728" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r14" ulx="201" uly="829" lrx="1295" lry="863" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r5" ulx="204" uly="414" lrx="1294" lry="445" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r31" ulx="200" uly="1636" lrx="1291" lry="1664" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r19" ulx="199" uly="1061" lrx="1291" lry="1093" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r10" ulx="139" uly="654" lrx="1290" lry="685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r25" ulx="199" uly="1350" lrx="314" lry="1375" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r27" ulx="195" uly="1446" lrx="1290" lry="1477" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r40" ulx="254" uly="2061" lrx="1286" lry="2092" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r22" ulx="195" uly="1198" lrx="1292" lry="1227" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r32" ulx="195" uly="1680" lrx="1176" lry="1709" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r36" ulx="254" uly="1878" lrx="1289" lry="1904" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r41" ulx="251" uly="2105" lrx="1127" lry="2136" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r24" ulx="123" uly="1303" lrx="1290" lry="1333" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r37" ulx="258" uly="1922" lrx="1288" lry="1950" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r18" ulx="200" uly="1019" lrx="1292" lry="1048" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r6" ulx="204" uly="460" lrx="1295" lry="489" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r7" ulx="199" uly="504" lrx="1293" lry="533" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r3" ulx="202" uly="316" lrx="1295" lry="347" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r12" ulx="200" uly="742" lrx="1294" lry="774" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r9" ulx="201" uly="594" lrx="1157" lry="621" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r21" ulx="198" uly="1154" lrx="1292" lry="1182" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r39" ulx="250" uly="2020" lrx="1286" lry="2047" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r38" ulx="254" uly="1968" lrx="514" lry="1993" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_201_r28" ulx="198" uly="1494" lrx="1288" lry="1524" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_202" uly="0" ulx="0" lry="2371" lrx="1581">
+			<graphic url="Abl_1981_2__S__0202.tif" width="1581px" height="2371px"/>
+			<zone xml:id="facs_202_r14" ulx="362" uly="856" lrx="1457" lry="888" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r5" ulx="356" uly="422" lrx="1393" lry="453" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r23" ulx="362" uly="1266" lrx="1453" lry="1300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r27" ulx="369" uly="1462" lrx="1464" lry="1491" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r26" ulx="369" uly="1416" lrx="1464" lry="1445" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r21" ulx="362" uly="1175" lrx="1464" lry="1208" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r25" ulx="367" uly="1370" lrx="1465" lry="1401" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r0" ulx="281" uly="160" lrx="350" lry="181" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r32" ulx="1145" uly="1816" lrx="1466" lry="1841" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r28" ulx="371" uly="1504" lrx="1466" lry="1536" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r19" ulx="360" uly="1087" lrx="1458" lry="1120" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r29" ulx="371" uly="1548" lrx="1384" lry="1582" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r4" ulx="417" uly="375" lrx="855" lry="404" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r16" ulx="365" uly="956" lrx="1460" lry="986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r33" ulx="1149" uly="1868" lrx="1369" lry="1893" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r15" ulx="361" uly="906" lrx="1092" lry="934" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r12" ulx="362" uly="768" lrx="1460" lry="799" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r13" ulx="360" uly="814" lrx="1460" lry="843" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r30" ulx="287" uly="1687" lrx="413" lry="1714" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r3" ulx="415" uly="322" lrx="1460" lry="356" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r6" ulx="356" uly="475" lrx="1458" lry="505" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r22" ulx="362" uly="1225" lrx="1464" lry="1254" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r17" ulx="360" uly="1000" lrx="1463" lry="1030" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r31" ulx="421" uly="1687" lrx="634" lry="1712" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r18" ulx="363" uly="1045" lrx="1464" lry="1077" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r11" ulx="283" uly="725" lrx="1460" lry="754" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r8" ulx="417" uly="564" lrx="913" lry="595" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r9" ulx="356" uly="616" lrx="1461" lry="647" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r24" ulx="365" uly="1314" lrx="876" lry="1343" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r7" ulx="416" uly="520" lrx="1460" lry="550" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r10" ulx="419" uly="666" lrx="1049" lry="695" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r20" ulx="360" uly="1133" lrx="1464" lry="1165" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r1" ulx="354" uly="237" lrx="1456" lry="268" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_202_r2" ulx="417" uly="279" lrx="1455" lry="311" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1184" facs="#facs_196"/>
+			<p>
+				<add place="above" type="remark">
+					<lb facs="#facs_196_r28"/>Antrag des Ombudsmanns vom <date when="1981-07-13">13. Juli
+              1981</date></add>
+			</p>
+			<p>
+				<lb facs="#facs_196_r30"/>Der Kantonsrat,</p>
+			<p>
+				<lb facs="#facs_196_r31"/>nach Einsichtnahme in einen Antrag des Ombudsmanns</p>
+			<p>
+				<lb facs="#facs_196_r32"/>beschliesst:</p>
+			<pb n="1185" facs="#facs_197"/>
+			<p>
+				<lb facs="#facs_197_r1"/>I. Der Beschluss des Kantonsrates vom <date when="1978-01-30">30.
+            Januar 1978</date> über die<lb facs="#facs_197_r4"/>Bestellung des kantonalen
+          Ombudsmanns und seiner Kanzlei wird wie<lb facs="#facs_197_r5"/>folgt geändert:</p>
+			<p>
+				<lb facs="#facs_197_r6"/>I. und II. unverändert.</p>
+			<p>
+				<lb facs="#facs_197_r7"/>III. Für die Kanzlei des Ombudsmanns wird eine Stelle der
+            Klassen<lb facs="#facs_197_r8"/>12/16, eine Stelle der Klassen 4/6 und eine
+          Halbtagsstelle der<lb facs="#facs_197_r9"/>Klassen 3/5 der Beamtenverordnung
+          bewilligt.</p>
+			<p>
+				<lb facs="#facs_197_r10"/>Ziffern IV. und V. unverändert.</p>
+			<p>
+				<lb facs="#facs_197_r11"/>II. Dieser Beschluss tritt mit seiner Veröffentlichung im
+            Amtsblatt<lb facs="#facs_197_r12"/>in Kraft.</p>
+			<p>
+				<lb facs="#facs_197_r13"/>III. Veröffentlichung im Amtsblatt und in der
+          Gesetzessammlung.</p>
+			<p>
+				<lb facs="#facs_197_r14"/>IV. Mitteilung an den Regierungsrat und an den Ombudsmann.</p>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_197_r15"/>Weisung</head>
+				<p>
+					<lb facs="#facs_197_r16"/>1. Gemäss § 88 Abs. 2 des Verwaltungsrechtspflegegesetzes legt
+              der<lb facs="#facs_197_r17"/>Kantonsrat den Stellenplan für die Kanzlei des
+            Ombudsmanns fest.<lb facs="#facs_197_r18"/>Mit dem Kantonsratsbeschluss vom 30.1.1978
+            wurden für die Kanz<lb break="no" facs="#facs_197_r19"/>lei des Ombudsmanns eine Stelle
+            der Klassen 4/6 und eine Halb<lb break="no" facs="#facs_197_r20"/>tagsstelle der Klassen
+            3/5 der Beamtenverordnung bewilligt.</p>
+				<p>
+					<lb facs="#facs_197_r21"/>2. Am 1.9.1978 hat der Ombudsmann seine Arbeit aufgenommen.<lb facs="#facs_197_r22"/>Der Arbeitsanfall war von Anfang an recht gross.</p>
+				<p>
+					<lb facs="#facs_197_r23"/>Es war davon ausgegangen worden, dass zu Beginn mit einem<lb facs="#facs_197_r24"/>grösseren Anfall von aufgestauten Geschäften zu rechnen sei.
+              Dies<lb facs="#facs_197_r25"/>traf dann auch für die Monate September bis <date when="1978-11">November 1978</date> zu. In<lb facs="#facs_197_r28"/>den Monaten <date when="1978-12">Dezember 1978</date> bis <date when="1979-03">März 1979</date> war eine
+              gewisse<lb facs="#facs_197_r33"/>Normalisierung festzustellen, ab <date when="1979-04">April 1979</date> nahmen aber die<lb facs="#facs_197_r36"/>Geschäfte weiter zu. Die
+            rechtzeitige und gründliche Bearbeitung<lb facs="#facs_197_r37"/>war schon bald, trotz
+            grossem Einsatz der Beteiligten, nicht mehr<lb facs="#facs_197_r38"/>gewährleistet.</p>
+				<p>
+					<lb facs="#facs_197_r39"/>Zur Abhilfe drängte sich die Schaffung einer
+              Sachbearbeiterstelle<lb facs="#facs_197_r40"/>auf. Der Ombudsmann stellte am <date when="1980-03-03">3. März 1980</date> dem Kantonsrat<lb facs="#facs_197_r43"/>den
+            Antrag auf Schaffung einer Sekretärstelle.</p>
+				<p>
+					<lb facs="#facs_197_r44"/>3. Das Büro des Kantonsrates hörte den Ombudsmann und
+              seinen<lb facs="#facs_197_r45"/>Ersatzmann an und stellte den Antrag bis nach der
+            Behandlung des</p>
+				<pb n="1186" facs="#facs_198"/>
+				<p>
+					<lb facs="#facs_198_r1"/>Tätigkeitsberichtes 1978/79 zurück. Am <date when="1980-09-29">29. September 1980</date> kam<lb facs="#facs_198_r4"/>dann der Antrag auf Schaffung
+            einer Sekretärstelle vor den Kan<lb break="no" facs="#facs_198_r5"/>tonsrat. Dieser
+            beschloss mit 62 zu 51 Stimmen auf den durch das<lb facs="#facs_198_r6"/>Büro des
+            Kantonsrates bezüglich Einstufung etwas modifizierten<lb facs="#facs_198_r7"/>Antrag
+            nicht einzutreten.</p>
+				<p>
+					<lb facs="#facs_198_r8"/>4. Der Ombudsmann</p>
+				<p> versuchte den Empfehlungen bezüglich Verein<lb break="no" facs="#facs_198_r10"/>fachung der Geschäftserledigung nachzukommen. Dies ist zum Teil<lb facs="#facs_198_r11"/>dadurch denkbar, dass der Ombudsmann den Beschwerdeführer<lb facs="#facs_198_r12"/>nur berät bezüglich seiner weiteren Möglichkeiten des
+              Vorgehens,<lb facs="#facs_198_r13"/>ohne dass er die Angelegenheit mit der Behörde
+            bzw. der Verwal<lb break="no" facs="#facs_198_r14"/>tung bespricht. Von dieser
+            Möglichkeit machte der Ombudsmann<lb facs="#facs_198_r15"/>im Jahre 1980 vermehrt
+            Gebrauch. Die bald dreijährige Erfahrung<lb facs="#facs_198_r16"/>in der
+            Ombudsmann-Tätigkeit zeigt jedoch, dass mit diesem Vorge<lb break="no" facs="#facs_198_r17"/>hen keinesfalls die Hoffnungen erfüllt werden können, die auf
+              die<lb facs="#facs_198_r18"/>Institution Ombudsmann gesetzt werden.</p>
+				<p>
+					<lb facs="#facs_198_r19"/>5. Es wurde auch empfohlen, den Ersatzmann, der nebenamtlich
+              tätig<lb facs="#facs_198_r20"/>ist, vermehrt einzusetzen. Dabei ist vorerst auf § 87
+            Abs. 2 des<lb facs="#facs_198_r21"/>Verwaltungsrechtspflegegesetzes zu verweisen.</p>
+				<p>
+					<lb facs="#facs_198_r22"/>«Ersatzleute amten nur, wenn der Ombudsmann seine Obliegen<lb break="no" facs="#facs_198_r23"/>heiten nicht rechtzeitig erfüllen kann.»</p>
+				<p>
+					<lb facs="#facs_198_r24"/>Bei der Schaffung des Gesetzes ging man davon aus, dass
+              Ersatz<lb break="no" facs="#facs_198_r25"/>leute zu wählen seien für den Fall, dass
+            der Ombudsmann über<lb facs="#facs_198_r26"/>längere Zeit infolge Krankheit oder Ferien
+            ausfällt. Es war nicht<lb facs="#facs_198_r27"/>die Meinung, dass, wenn der erste
+            Ombudsmann ausgelastet sei,<lb facs="#facs_198_r28"/>parallel dazu weitere Ombudsmänner
+            einzusetzen wären. Dies<lb facs="#facs_198_r29"/>widerspricht auch dem Charakter dieser
+            Institution. Dies geht im<lb facs="#facs_198_r30"/>übrigen auch daraus hervor, dass die
+            einschränkenden Bestimmun<lb break="no" facs="#facs_198_r31"/>gen gemäss § 8 des
+            Gesetzes über die Wahlen und Abstimmungen<lb facs="#facs_198_r32"/>nur für den
+            Ombudsmann gelten, nicht aber für die Ersatzleute.</p>
+				<p>
+					<lb facs="#facs_198_r33"/>Aufgrund der zunehmenden Pendenzen liess sich der vermehrte<lb facs="#facs_198_r34"/>Einsatz des Ersatzmannes dennoch nicht vermeiden. Während er<lb facs="#facs_198_r35"/>im Jahre 1978 nicht zum Einsatz kam, waren es 1979 total 44<lb facs="#facs_198_r36"/>Stunden (im ersten Halbjahr 10 Stunden, im zweiten Halbjahr
+              34<lb facs="#facs_198_r37"/>Stunden) und im Jahre 1980 total 102 Stunden (im ersten
+              Halbjahr<lb facs="#facs_198_r38"/>44 Stunden und im zweiten Halbjahr 58 Stunden). Im
+            Jahre <date when="1981">1981</date> ist<lb facs="#facs_198_r41"/>eine weitere Zunahme
+            festzustellen.</p>
+				<p>
+					<lb facs="#facs_198_r42"/>Es ist davon auszugehen, dass damit die Einsatzmöglichkeiten
+              des<lb facs="#facs_198_r43"/>nebenamtlich tätigen Ersatzmannes für den Normalfall
+              weitgehend<lb facs="#facs_198_r44"/>ausgeschöpft sind. Wenn der Ombudsmann über
+            längere Zeit,<lb facs="#facs_198_r45"/>beispielsweise aus gesundheitlichen Gründen oder
+            Ferien, ausfallen<lb facs="#facs_198_r46"/>würde, müsste sich der Ersatzmann
+            selbstredend wesentlich ver-</p>
+				<pb n="1187" facs="#facs_199"/>
+				<p>
+					<lb facs="#facs_199_r1"/>mehrt für die Ombudsmann-Tätigkeit freistellen. Aber gerade
+              hier<lb facs="#facs_199_r2"/>sei auch festgehalten, dass das Funktionieren einer
+              längerdauern<lb break="no" facs="#facs_199_r3"/>den Stellvertretung nur gewährleistet
+            sein wird, wenn die Kanzlei<lb facs="#facs_199_r4"/>des Ombudsmanns die erforderliche
+            personelle Infrastruktur<lb facs="#facs_199_r5"/>besitzt. Eine Steigerung des Einsatzes
+            des nebenamtlichen Ersatz<lb break="no" facs="#facs_199_r6"/>mannes in dem Masse, dass
+            die neuen Geschäfte rechtzeitig erledigt<lb facs="#facs_199_r7"/>und die Pendenzen
+            wesentlich abgebaut werden könnten, ist nicht<lb facs="#facs_199_r8"/>möglich. Eine
+            solche Einsatzsteigerung für den Ersatzmann, die<lb facs="#facs_199_r9"/>praktisch zu
+            einer Vollzeitbeschäftigung führen müsste, ist neben<lb facs="#facs_199_r10"/>den
+            finanziellen Aspekten auch aus der Natur der Ombudsmann-Tätigkeit gar nicht anzustreben.
+            Die eigenen Erfahrungen des<lb facs="#facs_199_r11"/>Ombudsmanns und auch Vergleiche mit
+            ausländischen Ombuds<lb break="no" facs="#facs_199_r12"/>mann-Institutionen ergeben,
+            dass ein Sekretär den Ombudsmann<lb facs="#facs_199_r13"/>wesentlich entlasten kann,
+            damit sich dieser vermehrt seinen spezi<lb break="no" facs="#facs_199_r14"/>fischen
+            Aufgaben widmen kann.</p>
+				<p>
+					<lb facs="#facs_199_r15"/>6. In Tabelle 1 ist die Entwicklung der angelegten,
+              abgeschlossenen<lb facs="#facs_199_r16"/>und unerledigten Geschäfte dargestellt.</p>
+				<p>
+					<lb facs="#facs_199_r17"/>Die Zahl der monatlich eingehenden Geschäfte ist
+              selbstverständ<lb break="no" facs="#facs_199_r18"/>lich gewissen Schwankungen
+            unterworfen. Über die Tätigkeit von<lb facs="#facs_199_r19"/>34 Monaten gesehen, ist
+            jedoch keinesfalls ein Rückgang festzustel<lb break="no" facs="#facs_199_r20"/>len. Die
+            eingehenden Geschäfte, mit denen sich der Ombudsmann<lb facs="#facs_199_r21"/>zu
+            befassen hat, übersteigen weiterhin die Möglichkeiten der frist<lb break="no" facs="#facs_199_r22"/>gerechten Behandlung, so dass die Zahl der Pendenzen laufend<lb facs="#facs_199_r23"/>zunimmt. Ende <date when="1981-06">Juni 1981</date> betrug die
+            Zahl der unerledigten<lb facs="#facs_199_r26"/>Geschäfte 167.</p>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_199_r27"/>Tabelle 1</head>
+					<p>
+						<lb facs="#facs_199_r28"/>Allgemeine Geschäftsstatistik</p>
+					<figure facs="#facs_199_f0"/>
+					<pb n="1188" facs="#facs_200"/>
+					<p>
+						<lb facs="#facs_200_r1"/>7. Im Tätigkeitsgebiet des Ombudsmanns ist eine rasche
+                Geschäftser<lb break="no" facs="#facs_200_r2"/>ledigung von grosser Bedeutung, da
+              viele Beschwerden die zeitliche<lb facs="#facs_200_r3"/>Verzögerung zum Gegenstand
+              haben. Auch kann die umgehende<lb facs="#facs_200_r4"/>Erledigung in manchen Fällen
+              Rekurse vermeiden, deren Erhe<lb break="no" facs="#facs_200_r5"/>bung an Fristen
+              gebunden ist.</p>
+					<p>
+						<lb facs="#facs_200_r6"/>In Tabelle 2 sind die unerledigten Geschäfte per Ende <date when="1981-06">Juni 1981,</date><lb facs="#facs_200_r8"/>nach dem Zeitpunkt ihres
+              Einganges, zusammengestellt.</p>
+					<p>
+						<lb facs="#facs_200_r9"/>Tabelle 2<lb facs="#facs_200_r10"/>Pendente Geschäfte per
+              Ende Juni 1981</p>
+					<figure facs="#facs_200_f0"/>
+					<p>
+						<lb facs="#facs_200_r37"/>Da sich die Erledigung eines relativ grossen Teils der
+                Geschäfte<lb facs="#facs_200_r38"/>nicht aufschieben lässt, kommt der Ombudsmann im
+              Falle der<lb facs="#facs_200_r39"/>Überlastung bei anderen Geschäften, die einen
+              gewissen Aufschub<lb facs="#facs_200_r40"/>ertragen, stark in Verzug.</p>
+					<p>
+						<lb facs="#facs_200_r41"/>Der Ombudsmann</p>
+					<p> sollte seine Geschäfte in der Regel innerhalb<lb facs="#facs_200_r43"/>von drei
+              Monaten abschliessen können, um dem Bürger und der<lb facs="#facs_200_r44"/>Verwaltung
+              den erhofften Nutzen zu bringen. Bei komplizierten<lb facs="#facs_200_r45"/>Anliegen
+              sollte die Erledigung mindestens innerhalb von sechs<lb facs="#facs_200_r46"/>Monaten
+              möglich sein. Beim derzeitigen Personalbestand nehmen<lb facs="#facs_200_r47"/>aber
+              die Geschäfte, die länger als drei bzw. sechs Monate vorlie<lb break="no" facs="#facs_200_r48"/>gen, laufend zu. Dies ist nicht nur für die Hilfesuchenden,
+                sondern<lb facs="#facs_200_r49"/>auch für den Ombudsmann eine völlig unbefriedigende
+              Situation.</p>
+					<p>
+						<lb facs="#facs_200_r50"/>8. Im weiteren ist darauf hinzuweisen, dass mit dem
+                Bekanntwerden<lb facs="#facs_200_r51"/>der Institution Ombudsmann vermehrt Auskünfte
+              zu erteilen sind,<lb facs="#facs_200_r52"/>die nachher nicht in der Statistik als
+              eigentliche Geschäfte in<lb facs="#facs_200_r53"/>Erscheinung treten.</p>
+					<p>
+						<lb facs="#facs_200_r54"/>Im VRG § 91 Abs. 2 ist vorgesehen, dass der Ombudsmann
+                auch<lb facs="#facs_200_r55"/>von sich aus tätig werden kann. Zurzeit ist dies
+              völlig unmöglich, da<lb facs="#facs_200_r56"/>die beim Ombudsmann vorgebrachten
+              Beschwerden Vorrang<lb facs="#facs_200_r57"/>haben müssen. Gemäss Geschäftsstatistik
+              wurden in der Zeit vom<lb facs="#facs_200_r58"/><date when="1978-09-01">1. September
+                1978</date> bis Ende <date when="1981-06">Juni 1981</date> 1383 Geschäfte
+                angelegt,<lb facs="#facs_200_r62"/>darunter sind nur drei Geschäfte, die der
+              Ombudsmann von sich<lb facs="#facs_200_r63"/>aus an die Hand genommen hat. Dieses
+              Tätigwerden ergab sich in</p>
+					<pb n="1189" facs="#facs_201"/>
+					<p>
+						<lb facs="#facs_201_r1"/>allen drei Fällen im Anschluss an die Erledigung von
+                eigentlichen<lb facs="#facs_201_r2"/>Beschwerdefällen. Die jetzige Situation ist in
+              dieser Hinsicht unbe<lb break="no" facs="#facs_201_r3"/>friedigend, auch wenn
+              richtigerweise die Selbstanhandnahme die<lb facs="#facs_201_r4"/>seltene Ausnahme
+              bleiben soll.</p>
+					<p>
+						<lb facs="#facs_201_r5"/>Es wäre überdies von Vorteil, wenn der Ombudsmann
+                gelegentlich<lb facs="#facs_201_r6"/>Zeit fände, um in Verwaltungsabteilungen, die
+              eine besonders<lb facs="#facs_201_r7"/>publikumsintensive Tätigkeit haben,
+              vorzusprechen, um berech<lb break="no" facs="#facs_201_r8"/>tigte Wünsche allgemeiner
+              Natur darzulegen. Im weiteren sollte<lb facs="#facs_201_r9"/>zusätzliche
+              Öffentlichkeitsarbeit geleistet werden können.</p>
+					<p>
+						<lb facs="#facs_201_r10"/>9. Bei der Schaffung der Institution Ombudsmann ging man im
+                Kan<lb break="no" facs="#facs_201_r11"/>ton Zürich davon aus, dass diese Institution
+              ihre Aufgaben mit<lb facs="#facs_201_r12"/>einem Minimum an Personal erfüllen könne.
+              Diese Haltung hat<lb facs="#facs_201_r13"/>auch der Ombudsmann, als damaliger
+              Präsident der vorberatenden<lb facs="#facs_201_r14"/>Kommission des Kantonsrates,
+              eingenommen. Diese Auffassung<lb facs="#facs_201_r15"/>vertritt er auch heute noch. Es
+              zeigt sich nun aber immer mehr,<lb facs="#facs_201_r16"/>dass die erste Zuteilung von
+              Personal zwar für den Anfang knapp<lb facs="#facs_201_r17"/>genügte, jedoch für die
+              weitere Zukunft zu klein bemessen wurde.<lb facs="#facs_201_r18"/>Der Ombudsmann ist
+              der Meinung, dass die Schaffung einer quali<lb break="no" facs="#facs_201_r19"/>fizierten Sachbearbeiterstelle für lange Zeit genügen sollte, um der<lb facs="#facs_201_r20"/>Institution die Voraussetzungen zu geben, ihre Aufgaben
+                gründlich<lb facs="#facs_201_r21"/>und zeitgerecht zu erledigen. Offen bleibt noch
+              die Frage, ob<lb facs="#facs_201_r22"/>gelegentlich die Zahl der
+              Sekretariatsmitarbeiterinnen von 1,5 auf 2<lb facs="#facs_201_r23"/>zu erhöhen
+              ist.</p>
+					<p>
+						<lb facs="#facs_201_r24"/>10. Was die Aufgaben des Sekretärs betrifft, sei hier
+              folgendes festge<lb break="no" facs="#facs_201_r25"/>halten:</p>
+					<p>
+						<lb facs="#facs_201_r26"/>Der Verkehr mit den Beschwerdeführern und den Behörden
+                ist<lb facs="#facs_201_r27"/>Sache des Ombudsmanns. Im speziellen sind die
+                abschliessende<lb facs="#facs_201_r28"/>Stellungnahme, das Inspektionsrecht und die
+                Zeichnungsbefugnis<lb facs="#facs_201_r29"/>grundsätzlich dem Ombudsmann und, bei
+              dessen Verhinderung,<lb facs="#facs_201_r30"/>dem Ersatzmann vorbehalten.</p>
+					<p>
+						<lb facs="#facs_201_r31"/>Der hat Ombudsmann, soweit dies im einzelnen Fall<lb facs="#facs_201_r32"/>sinnvoll ist, vor allem in folgenden Bereichen zu
+              entlasten:</p>
+					<p>
+						<lb facs="#facs_201_r33"/>- Studium der schriftlich eingereichten Beschwerden,
+                Vorschläge<lb facs="#facs_201_r34"/>zuhanden des Ombudsmanns für deren
+              Behandlung;</p>
+					<p>
+						<lb facs="#facs_201_r35"/>- Vorschläge für die Formulierung von Fragen an die
+                Behörden<lb facs="#facs_201_r36"/>aufgrund der Protokollnotizen des Ombudsmanns
+              anlässlich der<lb facs="#facs_201_r37"/>Vorsprache von Beschwerdeführern und anhand
+              der einge<lb break="no" facs="#facs_201_r38"/>reichten Akten;</p>
+					<p>
+						<lb facs="#facs_201_r39"/>- Studium umfangreicher Aktendossiers, die der Ombudsmann<lb facs="#facs_201_r40"/>von Behörden zur Einsicht verlangt hat, und Auszug der zur<lb facs="#facs_201_r41"/>Behandlung der Beschwerden wichtigen Unterlagen;</p>
+					<pb n="1190" facs="#facs_202"/>
+					<p>
+						<lb facs="#facs_202_r1"/>- Studium der von der Beschwerde aufgeworfenen
+                Rechtsfragen<lb facs="#facs_202_r2"/>(Zuständigkeit des Ombudsmanns und materielle
+                Prüfung),<lb facs="#facs_202_r3"/>zum Beispiel Beibringung der notwendigen
+              gesetzlichen Grund<lb break="no" facs="#facs_202_r4"/>lagen und Gerichtsurteile;</p>
+					<p>
+						<lb facs="#facs_202_r5"/>- Rechtliche Überprüfung von eingeholten Stellungnahmen;</p>
+					<p>
+						<lb facs="#facs_202_r6"/>- Mithilfe bei der schriftlichen Ausarbeitung der
+                abschliessenden<lb facs="#facs_202_r7"/>Berichte an den Beschwerdeführer und an die
+                überprüfte<lb facs="#facs_202_r8"/>Behörde (VRG § 92 Abs. 3);</p>
+					<p>
+						<lb facs="#facs_202_r9"/>- Mitarbeit bei der Abfassung des Tätigkeitsberichtes und bei
+                der<lb facs="#facs_202_r10"/>Erledigung administrativer Aufgaben.</p>
+					<p>
+						<lb facs="#facs_202_r11"/>11. Was die Kosten betrifft, ist davon auszugehen, dass die
+                vorhande<lb break="no" facs="#facs_202_r12"/>nen Räumlichkeiten für einen weiteren
+              Arbeitsplatz genügen.<lb facs="#facs_202_r13"/>Nebst den zusätzlichen Lohnkosten sind
+              damit nur unbedeutende<lb facs="#facs_202_r14"/>Mehraufwendungen zu erwarten, die den
+              Rahmen des Budgets<lb facs="#facs_202_r15"/>1981 voraussichtlich nicht sprengen
+              werden.</p>
+					<p>
+						<lb facs="#facs_202_r16"/>Unter Berücksichtigung der vielfältigen, anspruchsvollen
+                Aufgaben<lb facs="#facs_202_r17"/>ist im Vergleich zu anderen Bereichen des Kantons
+              mindestens eine<lb facs="#facs_202_r18"/>Einreihung dieser Sekretärstelle in die
+              Klassen 12/16 der Beamten<lb break="no" facs="#facs_202_r19"/>verordnung notwendig.
+              Der relativ breite Bereich dieser Klassen<lb facs="#facs_202_r20"/>sollte es
+              ermöglichen, einen Mitarbeiter zu finden, der bereit ist,<lb facs="#facs_202_r21"/>diese Aufgaben über eine längere Zeit zu übernehmen. Es ist die<lb facs="#facs_202_r22"/>feste Absicht des Ombudsmanns, diesen Einstufungsrahmen
+                auszu<lb break="no" facs="#facs_202_r23"/>schöpfen, das heisst, dass eine Anstellung
+              nach Möglichkeit im<lb facs="#facs_202_r24"/>unteren Bereich erfolgen wird.</p>
+					<p>
+						<lb facs="#facs_202_r25"/>Für die wohlwollende Prüfung meines Gesuches danke ich
+                Ihnen<lb facs="#facs_202_r26"/>auch im Namen der beim Ombudsmann Hilfesuchenden
+                bestens.<lb facs="#facs_202_r27"/>Sie können versichert sein, dass der Ombudsmann
+              diesen zweiten<lb facs="#facs_202_r28"/>Antrag erst nach reiflichen Überlegungen,
+              unter dem Druck der zu<lb facs="#facs_202_r29"/>bewältigenden Aufgaben und der zu
+              hohen Pendenzen stellt.</p>
+					<p>
+						<lb facs="#facs_202_r30"/>Zürich, <date when="1981-07-13">13. Juli 1981</date></p>
+					<p>
+						<lb facs="#facs_202_r32"/>Der Ombudsmann:<lb facs="#facs_202_r33"/>Dr. A. Wirth</p>
+				</div>
+			</div>
+		</body></text></TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 25. Sitzung. Montag, 15. Oktober 1979</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-01-18">18.01.1980</date><ident>StAZH ABl 1980 (S. 56)</ident><idno>56</idno><idno type="issue">4</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5131706"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_57" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_1__S__0057.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_57_r28" ulx="375" uly="1445" lrx="1570" lry="1486" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r23" ulx="377" uly="1158" lrx="1575" lry="1200" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r7" ulx="527" uly="506" lrx="1579" lry="545" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r8" ulx="294" uly="554" lrx="487" lry="583" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r29" ulx="287" uly="1491" lrx="1582" lry="1532" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r19" ulx="452" uly="1025" lrx="870" lry="1058" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r22" ulx="377" uly="1104" lrx="708" lry="1132" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r10" ulx="1454" uly="652" lrx="1583" lry="684" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r48" ulx="281" uly="2320" lrx="1425" lry="2353" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r17" ulx="289" uly="854" lrx="524" lry="882" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r2" ulx="552" uly="324" lrx="970" lry="360" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r39" ulx="280" uly="1950" lrx="1575" lry="1989" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r36" ulx="371" uly="1756" lrx="650" lry="1782" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r44" ulx="787" uly="2152" lrx="1189" lry="2184" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r0" ulx="295" uly="143" lrx="337" lry="167" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r13" ulx="372" uly="754" lrx="1387" lry="793" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r45" ulx="1211" uly="2152" lrx="1572" lry="2185" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r37" ulx="370" uly="1835" lrx="1318" lry="1869" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r21" ulx="1231" uly="1033" lrx="1408" lry="1064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r11" ulx="289" uly="689" lrx="377" lry="719" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r31" ulx="285" uly="1589" lrx="1577" lry="1628" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r25" ulx="372" uly="1266" lrx="1575" lry="1308" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r26" ulx="283" uly="1316" lrx="1579" lry="1355" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r47" ulx="366" uly="2268" lrx="1570" lry="2306" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r43" ulx="283" uly="2145" lrx="741" lry="2179" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r12" ulx="391" uly="691" lrx="1577" lry="729" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r3" ulx="977" uly="329" lrx="1312" lry="362" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r32" ulx="284" uly="1639" lrx="645" lry="1671" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r4" ulx="375" uly="408" lrx="1586" lry="446" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r16" ulx="557" uly="804" lrx="1579" lry="842" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r20" ulx="877" uly="1029" lrx="1225" lry="1062" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r35" ulx="286" uly="1689" lrx="402" lry="1719" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r14" ulx="1416" uly="764" lrx="1581" lry="796" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r5" ulx="291" uly="458" lrx="1560" lry="497" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r34" ulx="1037" uly="1645" lrx="1577" lry="1682" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r24" ulx="285" uly="1212" lrx="584" lry="1240" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r6" ulx="290" uly="504" lrx="517" lry="535" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r41" ulx="283" uly="2043" lrx="1575" lry="2085" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r46" ulx="282" uly="2193" lrx="812" lry="2227" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r27" ulx="285" uly="1370" lrx="356" lry="1393" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r9" ulx="379" uly="639" lrx="1416" lry="680" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r33" ulx="683" uly="1643" lrx="1029" lry="1677" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r40" ulx="285" uly="1997" lrx="1568" lry="2037" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r42" ulx="283" uly="2095" lrx="1575" lry="2133" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r15" ulx="286" uly="802" lrx="543" lry="832" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r38" ulx="363" uly="1900" lrx="1575" lry="1940" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r18" ulx="374" uly="916" lrx="608" lry="944" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r1" ulx="497" uly="243" lrx="1378" lry="282" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_57_r30" ulx="286" uly="1541" lrx="1577" lry="1580" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="56" facs="#facs_57"/>
+			<p>
+				<lb facs="#facs_57_r4"/>3. Interpellation Eduard Witta (FDP, Zürich), Hans Hart<lb break="no" facs="#facs_57_r5"/>mann (FDP, Zürich) und Robert Henauer (FDP, Thalwil) vom<lb facs="#facs_57_r6"/><date when="1979-07-02">2. Juli 1979</date> betreffend den Ausbau der Zürichberglinie (Beant<lb break="no" facs="#facs_57_r8"/>wortung).</p>
+			<p>
+				<lb facs="#facs_57_r9"/>4. Interpellation Paul Stopper (LdU, Uster) vom <date when="1979-07-02">2. Juli<lb facs="#facs_57_r11"/>1979</date> betreffend den Bau der Zürichberglinie (Beantwortung).</p>
+			<p>
+				<lb facs="#facs_57_r13"/>Regierungsrat Prof. H. Künzi beantwortet die am <date when="1979-09-24">24. Sep<lb break="no" facs="#facs_57_r15"/>tember 1979</date> begründeten Interpellationen namens des Regie<lb break="no" facs="#facs_57_r17"/>rungsrates.</p>
+			<p>
+				<lb facs="#facs_57_r18"/>Diskussion.</p>
+		</body></text></TEI>

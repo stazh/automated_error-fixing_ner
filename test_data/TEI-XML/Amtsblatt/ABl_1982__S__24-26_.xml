@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>2410 a Verhältnis zwischen Staat, Kirchen
+          und religiösen Gemeinschaften</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-01-08">08.01.1982</date><ident>StAZH ABl 1982 (S. 24-26)</ident><idno>24–26</idno><idno type="issue">1</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132547"/><note>Vorlagen-Nr. 2410a</note></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_25" uly="0" ulx="0" lry="2401" lrx="1612">
+			<graphic url="Abl_1982_1__S__0025.tif" width="1612px" height="2401px"/>
+			<zone xml:id="facs_25_r2" ulx="443" uly="270" lrx="1468" lry="300" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r0" ulx="298" uly="143" lrx="335" lry="167" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r24" ulx="301" uly="1525" lrx="1103" lry="1563" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r8" ulx="402" uly="571" lrx="1209" lry="601" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r9" ulx="300" uly="696" lrx="496" lry="722" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r7" ulx="440" uly="523" lrx="616" lry="546" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r6" ulx="381" uly="473" lrx="1481" lry="503" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r29" ulx="360" uly="1915" lrx="1481" lry="1941" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r4" ulx="383" uly="366" lrx="1286" lry="397" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r18" ulx="300" uly="1200" lrx="421" lry="1229" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r15" ulx="998" uly="883" lrx="1163" lry="907" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r16" ulx="302" uly="1115" lrx="738" lry="1141" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r14" ulx="996" uly="837" lrx="1451" lry="864" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r28" ulx="302" uly="1800" lrx="648" lry="1828" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r3" ulx="437" uly="310" lrx="727" lry="339" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r33" ulx="310" uly="2057" lrx="1479" lry="2082" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r11" ulx="677" uly="783" lrx="1167" lry="813" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r25" ulx="308" uly="1581" lrx="1413" lry="1616" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r27" ulx="303" uly="1754" lrx="1477" lry="1785" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r34" ulx="308" uly="2092" lrx="1318" lry="2119" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r19" ulx="304" uly="1263" lrx="1284" lry="1299" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r23" ulx="301" uly="1475" lrx="1353" lry="1510" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r1" ulx="442" uly="227" lrx="1476" lry="255" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r12" ulx="679" uly="839" lrx="921" lry="863" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r10" ulx="506" uly="694" lrx="802" lry="722" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r31" ulx="304" uly="1988" lrx="1482" lry="2012" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r26" ulx="303" uly="1671" lrx="1114" lry="1705" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r20" ulx="1503" uly="1277" lrx="1530" lry="1290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r17" ulx="754" uly="1115" lrx="1044" lry="1140" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r21" ulx="302" uly="1321" lrx="625" lry="1350" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r22" ulx="302" uly="1425" lrx="738" lry="1456" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r13" ulx="676" uly="881" lrx="827" lry="908" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r32" ulx="306" uly="2023" lrx="1476" lry="2047" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r5" ulx="383" uly="423" lrx="1026" lry="451" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_25_r30" ulx="304" uly="1952" lrx="1480" lry="1978" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_26" uly="0" ulx="0" lry="2399" lrx="1605">
+			<graphic url="Abl_1982_1__S__0026.tif" width="1605px" height="2399px"/>
+			<zone xml:id="facs_26_r2" ulx="133" uly="283" lrx="1173" lry="314" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r5" ulx="131" uly="498" lrx="229" lry="521" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r12" ulx="187" uly="746" lrx="1302" lry="779" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r40" ulx="122" uly="2038" lrx="1161" lry="2070" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r30" ulx="185" uly="1538" lrx="1296" lry="1564" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r38" ulx="77" uly="1952" lrx="1293" lry="1992" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r33" ulx="81" uly="1702" lrx="97" lry="1708" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r7" ulx="1148" uly="575" lrx="1302" lry="605" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r31" ulx="122" uly="1579" lrx="1302" lry="1609" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r32" ulx="122" uly="1625" lrx="200" lry="1650" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r21" ulx="127" uly="1152" lrx="1298" lry="1181" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r20" ulx="129" uly="1108" lrx="1298" lry="1136" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r35" ulx="125" uly="1829" lrx="943" lry="1857" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r37" ulx="177" uly="1909" lrx="1300" lry="1937" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r17" ulx="125" uly="975" lrx="1300" lry="1004" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r29" ulx="77" uly="1534" lrx="97" lry="1545" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r6" ulx="185" uly="575" lrx="1125" lry="605" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r26" ulx="125" uly="1365" lrx="1300" lry="1395" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r1" ulx="133" uly="237" lrx="1296" lry="268" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r14" ulx="183" uly="879" lrx="762" lry="906" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r11" ulx="187" uly="700" lrx="647" lry="728" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r15" ulx="77" uly="925" lrx="100" lry="935" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r24" ulx="79" uly="1325" lrx="95" lry="1332" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r9" ulx="212" uly="621" lrx="616" lry="650" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r34" ulx="181" uly="1707" lrx="519" lry="1733" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r25" ulx="183" uly="1323" lrx="1298" lry="1352" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r19" ulx="129" uly="1062" lrx="1298" lry="1093" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r13" ulx="125" uly="798" lrx="531" lry="824" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r39" ulx="127" uly="1996" lrx="1296" lry="2026" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r22" ulx="129" uly="1196" lrx="1296" lry="1224" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r16" ulx="183" uly="929" lrx="1298" lry="958" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r0" ulx="1258" uly="156" lrx="1296" lry="180" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r36" ulx="77" uly="1905" lrx="95" lry="1913" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r10" ulx="75" uly="702" lrx="97" lry="712" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r4" ulx="472" uly="375" lrx="502" lry="400" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r23" ulx="126" uly="1238" lrx="1042" lry="1270" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r27" ulx="129" uly="1413" lrx="1298" lry="1439" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r3" ulx="132" uly="373" lrx="203" lry="399" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r18" ulx="127" uly="1019" lrx="1298" lry="1048" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r28" ulx="122" uly="1456" lrx="815" lry="1484" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_26_r8" ulx="129" uly="616" lrx="202" lry="644" rendition="Line" subtype="paragraph"/>
+		</surface>
+		<surface xml:id="facs_27" uly="0" ulx="0" lry="2399" lrx="1611">
+			<graphic url="Abl_1982_1__S__0027.tif" width="1611px" height="2399px"/>
+			<zone xml:id="facs_27_r11" ulx="283" uly="1108" lrx="358" lry="1134" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r13" ulx="1177" uly="1233" lrx="1463" lry="1264" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r24" ulx="771" uly="1840" lrx="940" lry="1864" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r20" ulx="282" uly="1648" lrx="479" lry="1678" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r14" ulx="283" uly="1277" lrx="1463" lry="1307" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r23" ulx="769" uly="1794" lrx="1014" lry="1819" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r26" ulx="1233" uly="1840" lrx="1377" lry="1862" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r0" ulx="285" uly="158" lrx="323" lry="182" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r1" ulx="343" uly="241" lrx="1463" lry="271" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r25" ulx="1231" uly="1792" lrx="1459" lry="1819" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r6" ulx="339" uly="612" lrx="1460" lry="643" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r9" ulx="282" uly="977" lrx="1140" lry="1015" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r15" ulx="283" uly="1321" lrx="423" lry="1349" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r10" ulx="283" uly="1033" lrx="606" lry="1064" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r8" ulx="287" uly="927" lrx="498" lry="958" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r19" ulx="285" uly="1519" lrx="1148" lry="1550" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r5" ulx="285" uly="535" lrx="400" lry="560" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r22" ulx="764" uly="1738" lrx="1227" lry="1766" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r4" ulx="341" uly="410" lrx="656" lry="437" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r12" ulx="339" uly="1231" lrx="1154" lry="1262" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r18" ulx="285" uly="1473" lrx="1465" lry="1504" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r17" ulx="283" uly="1431" lrx="1463" lry="1459" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r7" ulx="287" uly="658" lrx="1248" lry="689" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r16" ulx="341" uly="1386" lrx="1463" lry="1415" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r2" ulx="282" uly="285" lrx="1460" lry="314" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r3" ulx="283" uly="329" lrx="751" lry="358" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_27_r21" ulx="487" uly="1652" lrx="819" lry="1679" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="24" facs="#facs_25"/>
+			<div type="subtitle" n="1">
+				<head type="subtitle" n="1">
+					<lb facs="#facs_25_r22"/>A. Verfassungsgesetz<lb facs="#facs_25_r23"/>über die Änderung
+            des Verhältnisses zwischen Staat,<lb facs="#facs_25_r24"/>Kirchen und religiösen
+              Gemeinschaften<lb facs="#facs_25_r25"/>(Änderung von Art. 16 und 64 der
+            Kantonsverfassung)</head>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_25_r26"/>Minderheitsantrag Dr. U. Hedinger und P. Roth:</head>
+					<p>
+						<lb facs="#facs_25_r27"/>Verhältnis zwischen Staat, Kirchen sowie religiösen und
+                weltanschauli<lb break="no" facs="#facs_25_r28"/>chen Gemeinschaften</p>
+					<note>
+						<lb facs="#facs_25_r29"/>* Die Kommission besteht aus folgenden Mitgliedern: A.
+              Schück, Rüschli<lb break="no" facs="#facs_25_r30"/>kon (Präsident); Dr. Th. Geiges,
+              Herrliberg; K. Gmünder, Zürich; H. Greuter,<lb facs="#facs_25_r31"/>Wallisellen; Dr.
+              U. Hedinger, Zürich; R. Henauer, Thalwil; Prof. Dr. R. Hux,<lb facs="#facs_25_r32"/>Schlatt; F. Jauch, Dübendorf; E. Jucker, Wila; H. Lattmann, Zürich; Dr. M.<lb facs="#facs_25_r33"/>Haas, Winterthur; W. Nägeli, Winterthur; A. Petermann, Zürich;
+              H.R. Riet<lb break="no" facs="#facs_25_r34"/>schi, Zürich; P. Roth, Zürich; Sekretär:
+              H. Kuhn, Illnau-Effretikon.</note>
+					<pb n="25" facs="#facs_26"/>
+					<p>
+						<lb facs="#facs_26_r1"/>Verfassungsgesetz über die Änderung des Verhältnisses zwischen
+                Staat,<lb facs="#facs_26_r2"/>Kirchen sowie religiösen und weltanschaulichen
+              Gemeinschaften</p>
+					<p>
+						<lb facs="#facs_26_r3"/>(vom ...)</p>
+					<p>
+						<lb facs="#facs_26_r5"/>Art. I</p>
+					<p>
+						<lb facs="#facs_26_r6"/>Die Verfassung des eidgenössischen Standes Zürich vom <date when="1869-04-18">18. April<lb facs="#facs_26_r8"/>1869</date> wird wie folgt
+              geändert:</p>
+					<p>
+						<lb facs="#facs_26_r11"/>Art. 16 Abs. 1 unverändert<lb facs="#facs_26_r12"/>Abs. 2.
+              Die besonderen Vorschriften für kirchliche Angelegenhei<lb break="no" facs="#facs_26_r13"/>ten bleiben vorbehalten.</p>
+					<p>
+						<lb facs="#facs_26_r14"/>Art. 64 Abs. 1 und 2 unverändert.</p>
+					<p>
+						<lb facs="#facs_26_r16"/>Abs. 3. Sie ordnen ihre innerkirchlichen Angelegenheiten
+                selb<lb break="no" facs="#facs_26_r17"/>ständig, unterstehen im übrigen aber der
+              Oberaufsicht des Staates. Ihre<lb facs="#facs_26_r18"/>Organisation sowie ihr
+              Verhältnis zum Staat werden durch die Gesetzge<lb break="no" facs="#facs_26_r19"/>bung
+              geregelt, die auch die staatlichen Leistungen für das Kirchenwesen<lb facs="#facs_26_r20"/>ordnet. Die auf historischen Rechtstiteln beruhenden
+                Verpflichtungen<lb facs="#facs_26_r21"/>des Staates bleiben gewahrt. Die von den
+              Stimmberechtigten zu wählen<lb break="no" facs="#facs_26_r22"/>den Pfarrer unterliegen
+              alle sechs Jahre einer Bestätigungswahl. Das<lb facs="#facs_26_r23"/>Wahlverfahren
+              wird durch die Gesetzgebung bestimmt.</p>
+					<p>
+						<lb facs="#facs_26_r25"/>Abs. 4. Andere Kirchen und religiöse Gemeinschaften können<lb facs="#facs_26_r26"/>ebenfalls staatlich anerkannt werden. Sie erhalten die
+                Rechtsstellung<lb facs="#facs_26_r27"/>von öffentlich-rechtlichen Körperschaften
+              oder können andere Rechte<lb facs="#facs_26_r28"/>erwerben. Das Nähere regelt das
+              Gesetz.</p>
+					<p>
+						<lb facs="#facs_26_r30"/>Abs. 5. Die staatlich anerkannten Kirchen und religiösen
+                Gemein<lb break="no" facs="#facs_26_r31"/>schaften bestimmen selbst, welche ihrer
+              Mitglieder stimmberechtigt<lb facs="#facs_26_r32"/>sind.</p>
+					<p>
+					</p>
+					<p>
+						<lb facs="#facs_26_r34"/>Abs. 5 wird Abs. 6.</p>
+				</div>
+				<div type="subtitle" n="2">
+					<head type="subtitle" n="2">
+						<lb facs="#facs_26_r35"/>Minderheitsantrag Dr. U. Hedinger und P. Roth:</head>
+					<p>
+						<lb facs="#facs_26_r37"/>Abs. 4. Andere Kirchen sowie religiöse und
+                weltanschauliche<lb facs="#facs_26_r38"/>Gemeinschaften können ebenfalls staatlich
+              anerkannt werden. Sie erhal--</p>
+					<p>
+						<lb facs="#facs_26_r39"/>ten die Rechtsstellung von öffentlich-rechtlichen
+              Körperschaften oder<lb facs="#facs_26_r40"/>können andere Rechte erwerben. Das Nähere
+              regelt das Gesetz.</p>
+					<pb n="26" facs="#facs_27"/>
+					<p>
+						<lb facs="#facs_27_r1"/>Abs. 5. Die staatlich anerkannten Kirchen sowie die religiösen
+                und<lb facs="#facs_27_r2"/>weltanschaulichen Gemeinschaften bestimmen selbst, welche
+              ihrer Mit<lb break="no" facs="#facs_27_r3"/>glieder stimmberechtigt sind.</p>
+					<p>
+						<lb facs="#facs_27_r4"/>Abs. 5 wird Abs. 6</p>
+					<p>
+						<lb facs="#facs_27_r5"/>Art. II</p>
+					<p>
+						<lb facs="#facs_27_r6"/>Dieses Verfassungsgesetz untersteht der Volksabstimmung.
+                Der<lb facs="#facs_27_r7"/>Regierungsrat bestimmt den Zeitpunkt des
+              Inkrafttretens.</p>
+				</div>
+			</div>
+		</body></text></TEI>

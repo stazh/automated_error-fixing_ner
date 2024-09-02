@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-05-08">08.05.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Gesetz über den Bau und den Unterhalt der
+          öffentlichen Strassen (Strassengesetz) (Teilweise Inkraftsetzung)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1982-10-15">15.10.1982</date><ident>StAZH ABl 1982 (S. 1140)</ident><idno>1140</idno><idno type="issue">41</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132819"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_452" uly="0" ulx="0" lry="2401" lrx="1593">
+			<graphic url="Abl_1982_2__S__0452.tif" width="1593px" height="2401px"/>
+			<zone xml:id="facs_452_r32" ulx="984" uly="2090" lrx="1471" lry="2119" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r10" ulx="302" uly="708" lrx="567" lry="737" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r9" ulx="1255" uly="666" lrx="1480" lry="694" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r28" ulx="302" uly="1842" lrx="1271" lry="1872" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r20" ulx="306" uly="1373" lrx="738" lry="1398" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r14" ulx="504" uly="923" lrx="775" lry="950" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r16" ulx="638" uly="1064" lrx="952" lry="1092" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r25" ulx="302" uly="1642" lrx="375" lry="1670" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r13" ulx="300" uly="921" lrx="496" lry="950" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r24" ulx="306" uly="1561" lrx="1218" lry="1595" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r27" ulx="304" uly="1767" lrx="568" lry="1789" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r7" ulx="300" uly="664" lrx="890" lry="695" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r5" ulx="306" uly="537" lrx="792" lry="569" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r12" ulx="375" uly="791" lrx="1474" lry="818" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r31" ulx="894" uly="2092" lrx="973" lry="2120" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r15" ulx="631" uly="1010" lrx="1159" lry="1039" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r19" ulx="1061" uly="1112" lrx="1182" lry="1136" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r1" ulx="297" uly="241" lrx="437" lry="270" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r17" ulx="638" uly="1112" lrx="736" lry="1136" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r23" ulx="304" uly="1508" lrx="1194" lry="1542" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r26" ulx="396" uly="1640" lrx="700" lry="1669" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r22" ulx="303" uly="1454" lrx="861" lry="1486" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r0" ulx="297" uly="154" lrx="370" lry="176" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r18" ulx="1063" uly="1062" lrx="1482" lry="1091" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r21" ulx="744" uly="1371" lrx="1034" lry="1396" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r3" ulx="298" uly="350" lrx="619" lry="380" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r2" ulx="296" uly="293" lrx="1440" lry="324" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r8" ulx="913" uly="666" lrx="1246" lry="695" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r6" ulx="389" uly="621" lrx="1476" lry="648" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r11" ulx="575" uly="708" lrx="1005" lry="739" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r30" ulx="304" uly="2044" lrx="1484" lry="2104" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r4" ulx="300" uly="398" lrx="831" lry="434" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_452_r29" ulx="306" uly="1925" lrx="481" lry="1949" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1140" facs="#facs_452"/>
+			<p>
+				<lb facs="#facs_452_r5"/>Der Regierungsrat beschliesst:</p>
+			<p>
+				<lb facs="#facs_452_r6"/>I. § 8 des Gesetzes über den Bau und den Unterhalt der
+            öffentli<lb break="no" facs="#facs_452_r7"/>chen Strassen (Strassengesetz) vom <date when="1981-09-27">27. September 1981</date> wird auf den<lb facs="#facs_452_r10"/><date when="1982-10-01">1. Oktober 1982</date> vorzeitig in Kraft gesetzt.</p>
+			<p>
+				<lb facs="#facs_452_r12"/>II. Veröffentlichung im Amtsblatt und in der
+          Gesetzessammlung.</p>
+			<p>
+				<lb facs="#facs_452_r13"/>Zürich, den <date when="1982-10-06">6. Oktober 1982</date></p>
+			<p>
+				<lb facs="#facs_452_r15"/>Im Namen des Regierungsrates</p>
+			<p>
+				<lb facs="#facs_452_r16"/>Der Vizepräsident:<lb facs="#facs_452_r17"/>Gisler</p>
+			<p>
+				<lb facs="#facs_452_r18"/>Der Staatsschreiber i. V .:<lb facs="#facs_452_r19"/>Hirschi</p>
+			<p>
+				<lb facs="#facs_452_r20"/>Ablauf der Referendumsfrist: <date when="1982-11-29">29.
+            November 1982</date></p>
+		</body></text></TEI>

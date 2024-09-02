@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-18">18.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>2391 a Beschluss des Kantonsrates über die Bewilligung eines Kredites für den Ausbau der Bergstrasse I. Kl. Nr. 3, Bellenrank bis Hügsam, Richterswil (vom ...)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1980-12-12">12.12.1980</date><ident>StAZH ABl 1980 (S. 1348)</ident><idno>1348</idno><idno type="issue">89</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132085"/><note>Vorlagen-Nr. 2391a</note></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_612" uly="0" ulx="0" lry="2598" lrx="1748">
+			<graphic url="Abl_1980_2__S__0612.tif" width="1748px" height="2598px"/>
+			<zone xml:id="facs_612_r20" ulx="420" uly="1347" lrx="920" lry="1378" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r3" ulx="318" uly="485" lrx="1610" lry="528" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r4" ulx="816" uly="552" lrx="1104" lry="587" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r23" ulx="397" uly="1550" lrx="1295" lry="1585" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r29" ulx="920" uly="1975" lrx="1166" lry="2003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r19" ulx="312" uly="1350" lrx="416" lry="1378" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r11" ulx="785" uly="964" lrx="1133" lry="991" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r21" ulx="395" uly="1425" lrx="1602" lry="1458" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r31" ulx="1347" uly="1975" lrx="1552" lry="2003" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r24" ulx="400" uly="1627" lrx="1392" lry="1664" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r12" ulx="397" uly="1025" lrx="1604" lry="1061" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r28" ulx="895" uly="1914" lrx="1204" lry="1944" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r2" ulx="318" uly="418" lrx="1604" lry="460" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r17" ulx="312" uly="1297" lrx="1350" lry="1333" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r8" ulx="1175" uly="266" lrx="1231" lry="290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r6" ulx="725" uly="825" lrx="1193" lry="853" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r34" ulx="311" uly="2145" lrx="1600" lry="2173" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r30" ulx="1310" uly="1916" lrx="1600" lry="1944" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r15" ulx="395" uly="1200" lrx="1604" lry="1237" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r5" ulx="707" uly="662" lrx="793" lry="687" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r14" ulx="312" uly="1122" lrx="1053" lry="1156" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r33" ulx="307" uly="2108" lrx="1597" lry="2135" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r32" ulx="312" uly="2070" lrx="1602" lry="2097" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r16" ulx="313" uly="1247" lrx="1604" lry="1284" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r27" ulx="947" uly="1845" lrx="1500" lry="1878" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r0" ulx="317" uly="164" lrx="404" lry="191" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r7" ulx="1137" uly="212" lrx="1610" lry="243" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r25" ulx="397" uly="1735" lrx="627" lry="1767" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r38" ulx="308" uly="2302" lrx="795" lry="2328" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r18" ulx="1381" uly="1304" lrx="1602" lry="1335" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r10" ulx="357" uly="887" lrx="1560" lry="925" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r37" ulx="310" uly="2262" lrx="1600" lry="2290" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r13" ulx="311" uly="1075" lrx="1608" lry="1110" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r35" ulx="308" uly="2187" lrx="1602" lry="2214" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r9" ulx="1258" uly="266" lrx="1581" lry="291" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r36" ulx="310" uly="2225" lrx="1600" lry="2251" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r26" ulx="641" uly="1737" lrx="1020" lry="1771" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r1" ulx="627" uly="245" lrx="1289" lry="359" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_612_r22" ulx="308" uly="1479" lrx="477" lry="1505" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="1348" facs="#facs_612"/>
+			<p>
+				<add place="above" type="remark">
+					<lb facs="#facs_612_r7"/>Antrag der Kommission *)<lb facs="#facs_612_r8"/>vom <date when="1980-11-25">25. November 1980</date></add>
+			</p>
+			<p>
+				<lb facs="#facs_612_r10"/>Der Kantonsrat, nach Einsichtnahme in einen Antrag des Regeirungsrates,</p>
+			<p>
+				<lb facs="#facs_612_r11"/>beschliesst:</p>
+			<p>
+				<lb facs="#facs_612_r12"/>I. Für den Ausbau der Bergstrasse I. Kl. Nr. 3, vom Bel<lb break="no" facs="#facs_612_r13"/>lenrank bis Hügsam, Gemeinde Richterswil, wird ein Kredit<lb facs="#facs_612_r14"/>von 7,5 Millionen Franken bewilligt.</p>
+			<p>
+				<lb facs="#facs_612_r15"/>II. Die Kreditsumme erhöht oder ermässigt sich entspre<lb break="no" facs="#facs_612_r16"/>chend der Bauverteuerung oder -verbilligung zwischen der<lb facs="#facs_612_r17"/>Aufstellung des Kostenvoranschlages (Preisstand <date when="1980-10-01">1. Oktober<lb facs="#facs_612_r19"/>1980)</date> und der Bauausführung.</p>
+			<p>
+				<lb facs="#facs_612_r21"/>III. . Dieser Beschluss unterliegt dem fakultativen Refe<lb break="no" facs="#facs_612_r22"/>rendum.</p>
+			<p>
+				<lb facs="#facs_612_r23"/>IV. Veröffentlichung im Amtsblatt, Textteil.</p>
+			<p>
+				<lb facs="#facs_612_r24"/>V. Mitteilung an den Regierungsrat zum Vollzug.</p>
+			<p>
+				<lb facs="#facs_612_r25"/>Zürich, den <date when="1980-11-25">25. November 1980</date></p>
+			<p>
+				<lb facs="#facs_612_r27"/>Im Namen der Kommission</p>
+			<p>
+				<lb facs="#facs_612_r28"/>Der Präsident:<lb facs="#facs_612_r29"/>H. Heller</p>
+			<p>
+				<lb facs="#facs_612_r30"/>Der Sekretär:<lb facs="#facs_612_r31"/>H. Kuhn</p>
+			<note>
+				<lb facs="#facs_612_r32"/>*) Die Kommission besteht aus folgenden Mitgliedern: H. Heller, Hom<lb break="no" facs="#facs_612_r33"/>brechtikon (Präsident), P. Brawand, Winterthur, B. Haering, Zürich, W.<lb facs="#facs_612_r34"/>Hitz, Schönenberg, E. Lang, Zürich, T. Rota, Wädenswil, Prof. K. Schel<lb break="no" facs="#facs_612_r35"/>lenberg, Wetzikon, R. Seleger, Adliswil, C. Signer, Wädenswil, V. Spoerry,<lb facs="#facs_612_r36"/>Horgen, H. Suter, Horgen, E. Toscano, Illnau-Effretikon, W. Volkart, Zü<lb break="no" facs="#facs_612_r37"/>rich, Dr. Th. Wildbolz, Wädenswil, W. Zurbuchen, Richterswil; Sekretär:<lb facs="#facs_612_r38"/>H. Kuhn, Illnau-Effretikon.</note>
+		</body></text></TEI>

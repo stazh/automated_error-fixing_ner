@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-03-15">15.03.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Aus dem Protokoll des Kantonsrates] 90. Sitzung. Montag, 8. Dezember
+                1980, 8.15 Uhr</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1981-04-03">03.04.1981</date><ident>StAZH ABl 1981 (S. 544)</ident><idno>544</idno><idno type="issue">14</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132253"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_545" uly="0" ulx="0" lry="2369" lrx="1599">
+			<graphic url="Abl_1981_1__S__0545.tif" width="1599px" height="2369px"/>
+			<zone xml:id="facs_545_r11" ulx="489" uly="556" lrx="735" lry="583" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r14" ulx="1003" uly="733" lrx="1318" lry="764" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r20" ulx="1132" uly="1108" lrx="1340" lry="1136" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r4" ulx="969" uly="289" lrx="1213" lry="319" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r34" ulx="288" uly="1702" lrx="366" lry="1724" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r3" ulx="356" uly="287" lrx="944" lry="318" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r25" ulx="1152" uly="1264" lrx="1470" lry="1292" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r31" ulx="291" uly="1552" lrx="429" lry="1574" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r32" ulx="289" uly="1602" lrx="627" lry="1627" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r19" ulx="285" uly="1106" lrx="1115" lry="1135" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r37" ulx="290" uly="1841" lrx="483" lry="1865" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r35" ulx="292" uly="1752" lrx="498" lry="1777" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r2" ulx="349" uly="243" lrx="1465" lry="274" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r40" ulx="1144" uly="1958" lrx="1302" lry="1986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r13" ulx="1002" uly="689" lrx="1233" lry="716" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r29" ulx="287" uly="1460" lrx="1471" lry="1488" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r0" ulx="287" uly="164" lrx="339" lry="184" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r5" ulx="1221" uly="291" lrx="1463" lry="319" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r1" ulx="285" uly="245" lrx="341" lry="272" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r21" ulx="1346" uly="1106" lrx="1461" lry="1134" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r44" ulx="291" uly="2185" lrx="944" lry="2216" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r26" ulx="289" uly="1308" lrx="1456" lry="1338" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r43" ulx="288" uly="2141" lrx="1461" lry="2172" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r30" ulx="289" uly="1502" lrx="1465" lry="1533" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r7" ulx="283" uly="402" lrx="346" lry="427" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r15" ulx="460" uly="931" lrx="1286" lry="967" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r9" ulx="355" uly="447" lrx="1148" lry="476" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r39" ulx="806" uly="1956" lrx="1136" lry="1987" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r10" ulx="287" uly="554" lrx="481" lry="582" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r27" ulx="289" uly="1354" lrx="700" lry="1379" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r12" ulx="1000" uly="645" lrx="1465" lry="674" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r8" ulx="351" uly="400" lrx="1469" lry="432" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r33" ulx="289" uly="1654" lrx="1470" lry="1685" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r36" ulx="289" uly="1793" lrx="1465" lry="1824" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r6" ulx="355" uly="331" lrx="1361" lry="363" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r42" ulx="289" uly="2098" lrx="833" lry="2129" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r38" ulx="452" uly="1954" lrx="798" lry="1986" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r18" ulx="1138" uly="1031" lrx="1296" lry="1060" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r24" ulx="288" uly="1262" lrx="1121" lry="1293" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r28" ulx="287" uly="1408" lrx="489" lry="1433" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r16" ulx="450" uly="1029" lrx="800" lry="1060" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r41" ulx="291" uly="2046" lrx="552" lry="2074" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r17" ulx="808" uly="1029" lrx="1132" lry="1060" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r23" ulx="288" uly="1195" lrx="863" lry="1225" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_545_r22" ulx="285" uly="1152" lrx="1467" lry="1181" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="544" facs="#facs_545"/>
+			<p>
+				<lb facs="#facs_545_r19"/>5. Postulat Ernst Wohlwend (SP, Winterthur) vom <date when="1980-06-30">30. Juni 1980</date> betref<lb break="no" facs="#facs_545_r22"/>fend den Ausbau von Kabelnetzen für die Übermittlung von Ton und<lb facs="#facs_545_r23"/>Bild (Fortsetzung der Beratungen)</p>
+			<p>
+				<lb facs="#facs_545_r24"/>5a. Postulat Peter Felix (LdU, Küsnacht) vom <date when="1980-11-03">3. November 1980</date><lb facs="#facs_545_r26"/>betreffend ein
+              Mitspracherecht von Kanton und Gemeinden beim<lb facs="#facs_545_r27"/>Betrieb von
+              Kabelnetzen</p>
+			<p>
+				<lb facs="#facs_545_r28"/>Begründung</p>
+			<p>
+				<lb facs="#facs_545_r29"/>Regierungsrat Dr. A. Gilgen erklärt sich namens des
+                Regierungsrates<lb facs="#facs_545_r30"/>bereit, das Postulat von P. Felix,
+              Küsnacht, zur Prüfung entgegenzu<lb break="no" facs="#facs_545_r31"/>nehmen.</p>
+			<p>
+				<lb facs="#facs_545_r32"/>Es wird überwiesen.</p>
+			<p>
+				<lb facs="#facs_545_r33"/>Fortsetzung der Beratungen über das Postulat E. Wohlwend,
+                Winter<lb break="no" facs="#facs_545_r34"/>thur.</p>
+			<p>
+				<lb facs="#facs_545_r35"/>Abstimmung</p>
+			<p>
+				<lb facs="#facs_545_r36"/>Der Rat beschliesst mit 67:58 Stimmen, das Postulat Wohlwend
+              nicht zu<lb facs="#facs_545_r37"/>überweisen.</p>
+		</body></text></TEI>

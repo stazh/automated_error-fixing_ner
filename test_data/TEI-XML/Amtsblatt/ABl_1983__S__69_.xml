@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Amtsblatt des Kantons Zürich</title>
+				<respStmt>
+					<resp key="transcript" ref="#OCR">Transkript: OCR <date when="2024-07-12">12.07.2024</date></resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date> 2024</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Amtsblatt des Kantons Zürich seit 1834 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Verfügung der Direktion des Innern über die Anordnung einer Ersatzwahl im Bezirk Andelfingen (vom 10. Januar 1983)</title><edition>Amtsblatt des Kantons Zürich seit 1834 online</edition>
+					<date when="1983-01-14">14.01.1983</date><ident>StAZH ABl 1983 (S. 69)</ident><idno>69</idno><idno type="issue">2</idno><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5132929"/></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile><surface xml:id="facs_70" uly="0" ulx="0" lry="2385" lrx="1597">
+			<graphic url="Abl_1983_1__S__0070.tif" width="1597px" height="2385px"/>
+			<zone xml:id="facs_70_r17" ulx="1057" uly="965" lrx="1142" lry="990" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r14" ulx="214" uly="919" lrx="1296" lry="948" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r3" ulx="128" uly="337" lrx="375" lry="371" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r22" ulx="122" uly="1255" lrx="1294" lry="1284" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r9" ulx="533" uly="627" lrx="866" lry="656" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r30" ulx="952" uly="1738" lrx="1121" lry="1761" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r11" ulx="123" uly="669" lrx="1296" lry="699" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r13" ulx="125" uly="840" lrx="675" lry="869" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r8" ulx="123" uly="625" lrx="511" lry="654" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r7" ulx="124" uly="581" lrx="1300" lry="612" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r28" ulx="325" uly="1603" lrx="592" lry="1629" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r20" ulx="118" uly="1134" lrx="462" lry="1159" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r16" ulx="769" uly="965" lrx="1049" lry="993" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r26" ulx="127" uly="1467" lrx="1004" lry="1497" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r1" ulx="129" uly="231" lrx="863" lry="264" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r12" ulx="125" uly="715" lrx="1159" lry="745" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r10" ulx="873" uly="627" lrx="1297" lry="655" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r27" ulx="120" uly="1603" lrx="314" lry="1631" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r2" ulx="125" uly="281" lrx="1075" lry="317" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r21" ulx="179" uly="1211" lrx="1294" lry="1240" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r24" ulx="181" uly="1380" lrx="1296" lry="1410" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r29" ulx="952" uly="1690" lrx="1292" lry="1718" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r4" ulx="127" uly="412" lrx="204" lry="444" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r5" ulx="220" uly="414" lrx="501" lry="445" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r0" ulx="1252" uly="141" lrx="1292" lry="164" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r6" ulx="181" uly="537" lrx="1296" lry="568" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r25" ulx="120" uly="1423" lrx="1296" lry="1454" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r19" ulx="123" uly="1086" lrx="1293" lry="1116" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r15" ulx="120" uly="965" lrx="750" lry="993" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r23" ulx="122" uly="1298" lrx="214" lry="1325" rendition="Line" subtype="paragraph"/>
+			<zone xml:id="facs_70_r18" ulx="198" uly="1042" lrx="1298" lry="1073" rendition="Line" subtype="paragraph"/>
+		</surface>
+	</facsimile><text><body><pb n="69" facs="#facs_70"/>
+			<p>
+				<lb facs="#facs_70_r6"/>Im Bezirk Andelfingen ist die Ersatzwahl für den verstorbenen<lb facs="#facs_70_r7"/>Bezirksrichter Alfred Wiesmann, Flurlingen, vorzunehmen. Weil auf<lb facs="#facs_70_r8"/>die Ausschreibung vom <date when="1982-11-26">26. November 1982</date> im kantonalen Amtsblatt<lb facs="#facs_70_r11"/>hin der Direktion des Innern zwei Wahlvorschläge eingereicht wurden,<lb facs="#facs_70_r12"/>findet eine Urnenwahl statt (§§ 71a und 64 des Wahlgesetzes).</p>
+			<p>
+				<lb facs="#facs_70_r13"/>Die Direktion des Innern verfügt:</p>
+			<p>
+				<lb facs="#facs_70_r14"/>I. Der erste Wahlgang für die Ersatzwahl eines Mitglieds des<lb facs="#facs_70_r15"/>Bezirksgerichts Andelfingen findet am <date when="1983-02-27">27. Februar 1983</date> statt.</p>
+			<p>
+				<lb facs="#facs_70_r18"/>II. Die Gemeinderäte erlassen die Veröffentlichungen gemäss<lb facs="#facs_70_r19"/>§ 14 der Vollziehungsverordnung zum Wahlgesetz innerhalb der vorge<lb break="no" facs="#facs_70_r20"/>schriebenen Fristen.</p>
+			<p>
+				<lb facs="#facs_70_r21"/>III. Die Wahlbüros melden die Wahlergebnisse unverzüglich tele<lb break="no" facs="#facs_70_r22"/>fonisch der Direktion des Innern (Telefon 01 259 11 11; 10.30 bis 16<lb facs="#facs_70_r23"/>Uhr).</p>
+			<p>
+				<lb facs="#facs_70_r24"/>IV. Veröffentlichung im Amtsblatt, Textteil, und Mitteilung in<lb facs="#facs_70_r25"/>besonderen Abzügen an die Präsidenten der Gemeinderäte des Bezirks<lb facs="#facs_70_r26"/>Andelfingen (für sich und zuhanden der Wahlbüros).</p>
+			<p>
+				<lb facs="#facs_70_r27"/>Zürich, den <date when="1983-01-10">10. Januar 1983</date></p>
+			<p>
+				<lb facs="#facs_70_r29"/>Direktion des Innern<lb facs="#facs_70_r30"/>Bachmann</p>
+		</body></text></TEI>
