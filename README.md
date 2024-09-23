@@ -65,3 +65,7 @@ pip install lxml
 5. **Install the required packages**: Install the required packages as described above.
 
 6. **Run the Notebook**: Follow the instructions in the notebook to execute the cells.
+
+## Authors
+- [Roman Siegenthaler](https://github.com/sigiro)
+- [Rebekka Plüss](https://github.com/rebplu) (code auditor)
