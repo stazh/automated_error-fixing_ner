@@ -18,8 +18,8 @@ An example of an unintended modification that this script corrects is:
 
 ## How it Works
 - The NER process checks the documents and detects errors. Documents with errors are saved in an /error folder. 
-- The script takes this NER-processed files (referred to as the "edited files") and the corresponding original files.
-- It extracts all TEI entities from the edited files (e.g., <placeName>, <persName>, <orgName>) and their surrounding context.
+- The script takes these NER-processed files (referred to as the "edited files") and the corresponding original files.
+- It extracts all TEI entities from the edited files (\<placeName>, \<persName>, \<orgName>) and their surrounding context.
 - It then merges these entities into the original files (the files prior to NER processing) using a context-aware search-and-replace method. This ensures that the corrections are made in the correct context, preserving the integrity of the original document.
 
 ## Input Format
