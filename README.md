@@ -39,11 +39,10 @@ To run this notebook, you need to have the following Python packages installed:
 
 ## Installation Instructions
 
-To install the required packages, run the following commands in your command line:
+To install the required packages, run the following command in your command line:
 
 ```bash
-pip install beautifulsoup4
-pip install lxml
+pip install beautifulsoup4 lxml
 ```
 
 ## How to Start the Jupyter Notebook
