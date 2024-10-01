@@ -30,6 +30,17 @@ The notebook accepts XML files with a `.xml` extension as input.
 
 The corrected XML files are saved in a specified output directory.
 
+## Validation
+Checks are:
+- **Content integrity**: Is the content of the postprocessed file the same as the original file?
+  - It can detect: Missing/too much text and words, missing whitespaces
+  - It can not detect: Too much whitespaces
+  - Possible Values: Yes/No
+  - If Yes: All errors (unintendend modifications by the NER) have been corrected and the content of the document has not been changed compared to the original document
+  
+
+Validation results are presented in the statistics.csv.
+
 ## Requirements
 
 To run this notebook, you need to have the following Python packages installed:
