@@ -33,7 +33,7 @@ def save_statistics_to_csv():
     fieldnames = ['Filename'] + list(set(key for stats in statistics.values() for key in stats.keys()))
 
     with open(output_csv, mode='w', newline='', encoding='utf-8') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';')
 
         writer.writeheader()  # Write header
 
