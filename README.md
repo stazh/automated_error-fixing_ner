@@ -21,6 +21,8 @@ An example of an unintended modification that this script corrects is:
 - The script takes these NER-processed files (referred to as the "edited files") and the corresponding original files.
 - It extracts all TEI entities from the edited files (\<placeName>, \<persName>, \<orgName>) and their surrounding context.
 - It then merges these entities into the original files (the files prior to NER processing) using a context-aware search-and-replace method. This ensures that the corrections are made in the correct context, preserving the integrity of the original document.
+- After processing, the script validates the output files by comparing them to the original and NER-processed documents. It checks for content integrity, ensuring that all unintended modifications made by the NER tool have been corrected and that the content remains consistent with the original files. Validation results, including any discrepancies found, are logged and presented in the statistics.csv file.
+- Additionally, the script generates diff files that highlight the differences between the NER-processed and postprocessed files. This allows users to review the specific changes made during the postprocessing, facilitating a more transparent review of the corrections applied.
 
 ## Input Format
 
@@ -31,14 +33,27 @@ The notebook accepts XML files with a `.xml` extension as input.
 The corrected XML files are saved in a specified output directory.
 
 ## Validation
-Checks are:
+This script is designed to process a large number of documents, making automated validation essential, as manual checks on such a scale would be impractical. 
+The following checks are implemented:
 - **Content integrity**: Is the content of the postprocessed file the same as the original file?
   - It can detect: Missing/too much text and words, missing whitespaces
   - It can not detect: Too much whitespaces
   - Possible Values: Yes/No
   - If Yes: All errors (unintendend modifications by the NER) have been corrected and the content of the document has not been changed compared to the original document
+- **Missing entities**:
+  - This check compares the number of identified entities (<placeName>, <persName>, <orgName>) in the postprocessed file against the NER-processed file (before postprocessing).
+  - It can detect: A reduction in the number of marked entities, indicating losses during the postprocessing.
+  - It cannot detect: Entities that are present but incorrectly placed.
+  - Possible Values: >= 0 (Number of missing entities)
+  - If >0 : Not all entities could be retained from the NER-processed file.
+- **XML Validation**: Does the postprocessed XML conform to the TEI schema?
+  - It can detect: Structure errors, missing required elements, and incorrect nesting of tags.
+  - It cannot detect: Logical errors related to content semantics.
+  - Possible Values: Valid/Invalid.
+  - If Valid: The postprocessed XML file adheres to the TEI standards and is structurally sound.
+- **Generation of Diff Files**: This process creates comparison files that highlight the differences between the postprocessed file and the NER-processed (before postprocessing) file to facilitate manual review.
+  - The diff files are stored by default in the "diffs" folder.
   
-
 Validation results are presented in the statistics.csv.
 
 ## Requirements
