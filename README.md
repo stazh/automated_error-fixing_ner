@@ -1,6 +1,6 @@
 # Named Entity Recognition (NER) postprocessing
 
-This script is designed to correct unintended text modifications that occur during the Named Entity Recognition (NER) process following the TEI (Text Encoding Initiative) standard. It primarily addresses issues like unintended text duplications introduced by the NER tool.
+This script is designed to correct unintended text modifications that occur during the Named Entity Recognition (NER) process using [TEI Publisher](https://github.com/eeditiones/tei-publisher-app) in the project [«Named Entity Recognition für die Zentralen Serien des Staatsarchivs Kanton Zürich»](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv). It primarily addresses issues like unintended text duplications introduced by the NER tool.
 
 ## Problem Example
 
@@ -63,14 +63,6 @@ To run this notebook, you need to have the following Python packages installed:
 - `lxml`
 - `xmlschema`
 
-## Installation Instructions
-
-To install the required packages, run the following command in your command line:
-
-```bash
-pip install beautifulsoup4 lxml xmlschema
-```
-
 ## How to Start the Jupyter Notebook
 
 1. **Install Jupyter Notebook**: If you haven't already installed Jupyter Notebook, you can do so by running:
@@ -87,7 +79,10 @@ pip install beautifulsoup4 lxml xmlschema
 
 4. **Adjust the Configurations**: Modify the configuration parameters in the script to align with your specific setup. Please refer to the "Configuration Options" section below for detailed information on how to customize these settings.
 
-5. **Install the required packages**: Install the required packages as described above.
+5. **Install the required packages**: To install the required packages, run the following command in your command line:
+    ```bash
+    pip install beautifulsoup4 lxml xmlschema
+    ```
 
 6. **Run the Notebook**: Follow the instructions in the notebook to execute the cells.
 
