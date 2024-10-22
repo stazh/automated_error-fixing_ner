@@ -1,4 +1,4 @@
-# Automated Error Fixing Named Entity Recognition (NER)
+# Automated Error Fixing After Named Entity Recognition (NER)
 
 This script is designed to correct unintended text modifications that occur during the Named Entity Recognition (NER) process using [TEI Publisher](https://github.com/eeditiones/tei-publisher-app) in the project [«Named Entity Recognition für die Zentralen Serien des Staatsarchivs Kanton Zürich»](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv). It primarily addresses issues like unintended text duplications introduced by the NER tool.
 
